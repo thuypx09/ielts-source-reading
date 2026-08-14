@@ -1,0 +1,79 @@
+{
+  "exercise_set": "82",
+  "excercise_set": "82",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "82 Passage 1 - Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-7</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   China&#x27;s one-child policy is believed to have kept population growth in the country at</p>\n<p>sustainable levels.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   The negative environmental impact of population growth in China is less because of</p>\n<p>the one-child policy.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   The number of cases of infanticide of female babies decreased in China during the</p>\n<p>1980s.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   In India eﬀective population control is becoming an increasingly important concern</p>\n<p>for the government.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Estimates suggest that there are 60 million more men than women living in China.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Long-term pollution output of a child born in the U.S. is roughly the same as for a</p>\n<p>child born in Bangladesh.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   The original one-child legislation in China was designed to apply to one generation</p>\n<p>only.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong>Question 8-12 </strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>8-12</strong></em><em> on your answer sheet </em></p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   According to the passage, there is a criticism of the one-child policy, particularly from</p>\n<p><strong>A</strong>   other countries.</p>\n<p><strong>B</strong>   family planning organisations.</p>\n<p><strong>C</strong>   Chinese citizens.</p>\n<p><strong>D</strong>   human rights activists.</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   One other important concern raised by infanticide of female babies is</p>\n<p><strong>A</strong>   housing prices.</p>\n<p><strong>B</strong>   gender inequality.</p>\n<p><strong>C</strong>   the wellbeing of mothers.</p>\n<p><strong>D</strong>   the loneliness of children in China.</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   Laws passed in 2005 banned</p>\n<p><strong>A</strong>   parents having three children.</p>\n<p><strong>B</strong>   sex-selective abortions.</p>\n<p><strong>C</strong>   all abortion in China.</p>\n<p><strong>D</strong>   same-sex marriage.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   The author suggests that increasing numbers of westerners are choosing not to</p>\n<p>have children</p>\n<p><strong>A</strong>   before the age of 30.</p>\n<p><strong>B</strong>   before marriage.</p>\n<p><strong>C</strong>   for environmental reasons.</p>\n<p><strong>D</strong>   because it is too expensive.</p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   The passage suggests that there is a link between a rapidly developing economy and</p>\n<p>a higher</p>\n<p><strong>A</strong>   average carbon output per person.</p>\n<p><strong>B</strong>   demand for electronic goods.</p>\n<p><strong>C</strong>   desire for couples to have more children.</p>\n<p><strong>D</strong>   level of crime in urban areas.</p>\n<p><strong>Question 13 </strong></p>\n<p>Choose the correct letter: <strong>A</strong>, <strong>B</strong>, <strong>C</strong>, <strong>D</strong> or <strong>E</strong>.</p>\n<p><em>Write your answer in box </em><em><strong>13</strong></em><em> on your answer sheet. </em></p>\n<p>Which of the following is the most likely title for the passage?</p>\n<p><strong>A</strong>   The Environmental Impact of Big Families</p>\n<p><strong>B</strong>   China Reinstates the One-Child Policy</p>\n<p><strong>C</strong>   A Brief History of Family Management</p>\n<p><strong>D</strong>   The End of China&#x27;s One-Child Policy</p>\n<p><strong>E</strong>   The Story of the Chinese Power</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "82 Passage 2 - The Eﬀects of Deforestation Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>The reading passage below has eight paragraphs, <strong>A-H</strong>.</p>\n<p>Choose the correct heading for each paragraph from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-xi</strong></em><em>, in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>\n<p><strong>i</strong></p>\n<p>Atmospheric impacts</p>\n<p><strong>ii</strong></p>\n<p>Ideal forestry management example</p>\n<p><strong>iii</strong></p>\n<p>No trees, less people</p>\n<p><strong>iv</strong></p>\n<p>Good uses for wood</p>\n<p><strong>v</strong></p>\n<p>Looking after the forests</p>\n<p><strong>vi</strong></p>\n<p>Numbers of lost trees</p>\n<p><strong>vii</strong></p>\n<p>Wasted water</p>\n<p><strong>viii</strong></p>\n<p>Replanting forests</p>\n<p><strong>ix</strong></p>\n<p>Happy trees</p>\n<p><strong>x</strong></p>\n<p>Flood risks</p>\n<p><strong>xi</strong></p>\n<p>Poorer nations at higher risk</p>\n<p>Example</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

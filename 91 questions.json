@@ -1,0 +1,188 @@
+{
+  "exercise_set": "91",
+  "excercise_set": "91",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "91 Passage 1 - Radiocarbon Dating - The Profile of Nancy Athfield Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-7</strong></em><em> on you answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>    Nancy Athfield first discovered the ancient remains in Cambodia.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>    The remains found in the Cambodia was in good condition.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>    Nancy took some time off from her regular work to do research in Cambodia.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>    The Cambodia government asked Nancy to radiocarbon the remains.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>    The filmmakers aimed to find out how the Angkor was rebuilt.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>    Nancy initially doubted whether the royal family was hidden in Cambodia.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>    Nancy disproved the possibility that the remains belonged to the Angkor royal</p>\n<p>family.</p>\n<p>3</p>\n<p><strong>Passage 1  </strong></p>\n<p><strong> Radiocarbon Dating - The Profile of Nancy Athfield </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 8-13",
+          "group_instruction_html": "<p>Complete the flow-chart below.</p>\n<p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>8-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong>The Career of Nancy Athfield </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>During her mid-teens, Nancy wasn’t expected to attend <strong>8</strong><input type=\"text\" />..</p>\n<p><strong>↓ </strong></p>\n<p>Willard Billy later helped Nancy to find that she was interested in science.</p>\n<p><strong>↓ </strong></p>\n<p>Her PhD degree was researching when a kind of <strong>9</strong><input type=\"text\" />., first went into New</p>\n<p>Zealand.</p>\n<p><strong>↓ </strong></p>\n<p>Her research showed that the subject’s <strong>10</strong><input type=\"text\" />  accounted for the fault in</p>\n<p>the earlier research.</p>\n<p><strong>↓ </strong></p>\n<p>She was a professional <strong>11</strong><input type=\"text\" />..  before she went back to Cambodia in 2003.</p>\n<p><strong>↓ </strong></p>\n<p>When she returned Cambodia, the lack of <strong>12</strong><input type=\"text\" />..  was a barrier for her</p>\n<p>research.</p>\n<p><strong>↓ </strong></p>\n<p>Then she compiled the <strong>13</strong><input type=\"text\" /> of the Cambodia radiocarbon dating of the</p>\n<p>ancients.</p>\n<p><strong>↓ </strong></p>\n<p>After that, the lack of a detailed map of the geology of Cambodia became a hindrance of</p>\n<p>her research.</p>\n<p>4</p>\n<p><strong>Passage 1  </strong></p>\n<p><strong> Radiocarbon Dating - The Profile of Nancy Athfield </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "91 Passage 2 - Stress of Workplace Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>14-18</strong>) and the list of people below.</p>\n<p>Match each statement with the correct person, <strong>A-D</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-D</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>\n<p><strong>List of People </strong></p>\n<p><strong>A</strong></p>\n<p>Jan Eisner</p>\n<p><strong>B</strong></p>\n<p>Vanessa Stoykov</p>\n<p><strong>C</strong></p>\n<p>Gal Zauberman</p>\n<p><strong>D</strong></p>\n<p>Neil Plumridge</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>    Work stress usually happens in the high level of a business.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>    More people involved would be beneficial for stress relief.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>    Temporary holiday sometimes doesn’t mean less work.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>    Stress leads to a wrong direction when trying to satisfy customers.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>    It is commonly accepted that stress at present is more severe than in the future.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-21",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>19-21</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Which of the following workplace stress is NOT mentioned according to Plumridge</p>\n<p>in the following options?</p>\n<p><strong>A</strong>   not enough time spent on family</p>\n<p><strong>B</strong>   unable to concentrate on work</p>\n<p><strong>C</strong>   inadequate time of sleep</p>\n<p><strong>D</strong>   alteration of appointment</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Stress of Workplace </strong></p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   Which of the following solution is NOT mentioned in helping reduce the work</p>\n<p>pressure according to Plumridge?</p>\n<p><strong>A</strong>   allocate more personnels</p>\n<p><strong>B</strong>   increase more time</p>\n<p><strong>C </strong>  lower expectation</p>\n<p><strong>D</strong>   do sports and massage</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   What is the point of view of Jan Eisner towards work stress?</p>\n<p><strong>A</strong>   Medical test can only reveal part of the data needed to cope with stress</p>\n<p><strong>B</strong>   Index of body samples plays determined role.</p>\n<p><strong>C</strong>   Emotional affection is superior to physical one.</p>\n<p><strong>D</strong>   One well designed solution can release all stress.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 22-26",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>22-26</strong></em><em> on your answer sheet. </em></p>\n<p>Statistics from National worker’s compensation indicate stress plays the most important</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>role in <strong>22</strong><input type=\"text\" />... Staffs take about <strong>23</strong><input type=\"text\" />.. for absence from work</p>\n<p>caused by stress. Not just time is our main concern but great expenses generated</p>\n<p>consequently. An official insurer wrote sometime that about <strong>24</strong><input type=\"text\" />.. of all</p>\n<p>claims were mental issues whereas nearly 27% costs in all claims. Sports such as</p>\n<p><strong>25</strong><input type=\"text\" />.., as well as <strong>26</strong><input type=\"text\" />.. could be a treatment to release stress;</p>\n<p>However, specialists recommended another practical way out, analyse workloads once</p>\n<p>again.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Stress of Workplace </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "91 Passage 3 - Robert Louis Stevenson Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C </strong>or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>27-31</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Stevenson’s biographers KF and CP</p>\n<p><strong>A</strong>   underestimated the role of family played in Stevenson’s life.</p>\n<p><strong>B</strong>   overestimated the writer’s works in the literature history.</p>\n<p><strong>C</strong>   exaggerated Stevenson’s religious belief in his works.</p>\n<p><strong>D </strong>  elevated Stevenson’s role as a writer.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   The main point of the second paragraph is</p>\n<p><strong>A</strong>   the public give a more fair criticism to Stevenson’s works.</p>\n<p><strong>B</strong>   recent criticism has been justified.</p>\n<p><strong>C </strong>  the style of Stevenson’s works overweigh his faults in his life.</p>\n<p><strong>D </strong>  Stevenson’s works’ drawback is lack of ethical nature.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   According to the author, adventure stories</p>\n<p><strong>A</strong>   do not provide plot twists well.</p>\n<p><strong>B </strong>  cannot be used by writers to show moral values.</p>\n<p><strong>C</strong>   are more fashionable art form.</p>\n<p><strong>D</strong>   can be found in other’s works but not in Stevenson’s.</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   What does the author say about Stevenson’s works?</p>\n<p><strong>A</strong>   They describe the life of people in Scotland.</p>\n<p><strong>B</strong>   They are commonly regarded as real literature.</p>\n<p><strong>C </strong>  They were popular during Stevenson’s life.</p>\n<p><strong>D</strong>   They transcend the local culture and stories.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Robert Louis Stevenson </strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31 </strong>  The lifestyle of Stevenson</p>\n<p><strong>A</strong>   made his family envy him so much.</p>\n<p><strong>B </strong>  should be responsible for his death.</p>\n<p><strong>C </strong>  gained more attention from the public than his works.</p>\n<p><strong>D </strong>  didn’t well prepare his life in Samoa.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-35",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-35</strong></em><em> on you answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32 </strong>   Although Oscar Wilde admired Robert Louis Stevenson very much, he believed</p>\n<p>Stevenson could have written greater works.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33 </strong>   Robert Louis Stevenson encouraged Oscar Wilde to start writing at first.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>    Galsworthy thought Hardy is greater writer than Stevenson is.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>    Critics only paid attention to Robert Louis Stevenson’s writing topics.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Robert Louis Stevenson </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Complete the notes using the list of words, <strong>A-I</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-I</strong></em><em>, in boxes </em><em><strong>36-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong>Sir Walter Scott and Robert Louis Stevenson </strong></p>\n<p>A lot of people believe that Sir Walter Scott and Robert Louis Stevenson are the most</p>\n<p>influential writer in the history of Scotland, but Sir Walter Scott is more proficient in</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>36</strong><input type=\"text\" />., while Stevenson has better <strong>37</strong><input type=\"text\" />.. Scott’s books illustrate</p>\n<p><strong>38</strong><input type=\"text\" />. especially in terms of tragedy, but a lot of readers prefer Stevenson’s</p>\n<p><strong>39</strong><input type=\"text\" />... What’s more, Stevenson’s understanding of <strong>40</strong><input type=\"text\" />. made</p>\n<p>his works have the most unique expression of Scottish people.</p>\n<p><strong>A</strong></p>\n<p>natural ability</p>\n<p><strong>B</strong></p>\n<p>romance</p>\n<p><strong>C</strong></p>\n<p>colorful language</p>\n<p><strong>D</strong></p>\n<p>critical acclaim</p>\n<p><strong>E</strong></p>\n<p>humor</p>\n<p><strong>F</strong></p>\n<p>technical control</p>\n<p><strong>G</strong></p>\n<p>storytelling</p>\n<p><strong>H</strong></p>\n<p>depth</p>\n<p>I</p>\n<p>human nature</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Robert Louis Stevenson </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

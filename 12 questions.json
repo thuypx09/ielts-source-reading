@@ -1,0 +1,137 @@
+{
+  "exercise_set": "12",
+  "excercise_set": "12",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "12 Passage 1 - Food for thought 2 Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>The reading passage has seven paragraphs, <strong>A-G</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-G</strong> from the list below.</p>\n<p><em>Write the correct number, </em><em><strong>i-xi</strong></em><em>, in boxes </em><em><strong>1-7</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>Why better food helps students’ learning</p>\n<p><strong>ii</strong></p>\n<p>A song for getting porridge</p>\n<p><strong>iii</strong></p>\n<p>Surprising use of school premises</p>\n<p><strong>iv</strong></p>\n<p>Global perspective</p>\n<p><strong>v </strong></p>\n<p>Brains can be starved</p>\n<p><strong>vi</strong></p>\n<p>Surprising academics outcome</p>\n<p><strong>vii</strong></p>\n<p>Girls are specially treated in the program</p>\n<p><strong>viii</strong></p>\n<p>How food program is operated</p>\n<p><strong>ix </strong></p>\n<p>How food program affects school attendance</p>\n<p><strong>x </strong></p>\n<p>None of the usual reasons</p>\n<p><strong>xi</strong></p>\n<p>How to maintain academic standard</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1 </strong>  Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Paragraph <strong>E </strong></p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Paragraph <strong>F </strong></p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7 </strong>  Paragraph <strong>G</strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 8-11",
+          "group_instruction_html": "<p>Complete the sentences below using <strong>NO MORE THAN TWO WORDS AND/OR A </strong></p>\n<p><strong>NUMBER</strong> from the passage?</p>\n<p><em>Write your answers in boxes </em><em><strong>8-11</strong></em><em> on your answer sheet </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>8</strong>   <input type=\"text\" />.. are exclusively offered to girls in the feeding programme.</p>\n<p><strong>9</strong>   Instead of going to school, many children in poverty are sent to collect <input type=\"text\" />.</p>\n<p>in the fields.</p>\n<p><strong>10</strong>   The pass rate as Msekeni has risen to <input type=\"text\" />.. with the help of the feeding</p>\n<p>programme.</p>\n<p><strong>11</strong>   Since the industrial revolution, the size of the modern human has grown by</p>\n<p><input type=\"text\" />.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 12-13",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-F</strong></p>\n<p>Write your answers in boxes <strong>12</strong> and <strong>13</strong> on your answer sheet.</p>\n<p>Which <strong>TWO</strong> of the following statements are true?</p>\n<p><strong>A</strong>   Some children are taught in the open air.</p>\n<p><strong>B</strong>   Malawi have trouble to feed its large population.</p>\n<p><strong>C</strong>   No new staffs were recruited when attendance rose.</p>\n<p><strong>D</strong>   Girls enjoy a higher status than boys in the family</p>\n<p><strong>E</strong>   Boys and girls experience the same improvement in the pass rate.</p>\n<p><strong>F</strong>   WHO has cooperated with WFP to provide grain to the school at Msekeni.</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "12 Passage 2 - Biodiversity Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p>In boxes <strong>14-20</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   The term “biodiversity” consists of living creatures and environment that they live</p>\n<p>in.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   There are species that have not been researched because it’s unnecessary to study</p>\n<p>all creatures.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   It is not necessary to investigate all creatures in a certain place.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   The press more often than not focuses on animals well-known.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   There is a successful case that cactus moth plays a positive role in the US.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>    Usage of hardwoods is forbidden in some European countries.</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   Agriculture experts advise farmers to plant single crops in the field in terms of</p>\n<p>sustainable farming.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-26",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>21-26</strong></em><em> on your answer sheet. </em></p>\n<p>Because of the ignorance brought by media, people tend to neglect significant creatures</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>called <strong>21</strong><input type=\"text\" />. Every creature has diet connections with others, such as</p>\n<p><strong>22</strong><input type=\"text\" />., which provide a majority of foods for other species. In some states</p>\n<p>of America, decline in number of sea otters leads to the boom of <strong>23</strong><input type=\"text\" />. An</p>\n<p>impressing case is that imported <strong>24</strong> <input type=\"text\" />. successfully tackles the plant cacti</p>\n<p>in <strong>25</strong> <input type=\"text\" /> However, the operation is needed for the government to</p>\n<p>increase their financial support in <strong>26</strong><input type=\"text\" />..</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Biodiversity </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "12 Passage 3 - Soviet’s New Working Week Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-34",
+          "group_instruction_html": "<p>Reading Passage 3 has nine paragraphs <strong>A-I</strong></p>\n<p>Choose the correct heading for each paragraph from the list of headings below.</p>\n<p>Write the correct number, <strong>i-xii</strong>, in boxes <strong>27-34</strong> on your answer sheet</p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i </strong></p>\n<p>Benefits of the new scheme and its resistance</p>\n<p><strong>ii </strong></p>\n<p>Making use of the once wasted weekends</p>\n<p><strong>iii </strong></p>\n<p>Cutting work hours for better efficiency</p>\n<p><strong>iv</strong></p>\n<p>Optimism of the great future</p>\n<p><strong>v</strong></p>\n<p>Negative effects on production itself</p>\n<p><strong>vi </strong></p>\n<p>Soviet Union’s five year plan</p>\n<p><strong>vii</strong></p>\n<p>The abolishment of the new work-week scheme</p>\n<p><strong>viii </strong></p>\n<p>The Ford model</p>\n<p><strong>ix</strong></p>\n<p>Reaction from factory workers and their families</p>\n<p><strong>x</strong></p>\n<p>The color-coding scheme</p>\n<p><strong>xi</strong></p>\n<p>Establishing a three-shift system</p>\n<p><strong>xii</strong></p>\n<p>Foreign inspiration</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Paragraph <strong>B</strong></p>\n<p><em> Example   </em></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

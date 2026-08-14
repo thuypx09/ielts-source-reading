@@ -1,0 +1,167 @@
+{
+  "exercise_set": "54",
+  "excercise_set": "54",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "54 Passage 1 - ALTERNATIVE ENERGY SOURCES Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-2",
+          "group_instruction_html": "<p>The writer mentions a number of facts relating to alternative power sources.</p>\n<p>Which <strong>TWO</strong> of the following facts are mentioned?</p>\n<p><strong>A</strong>     International co-operation has yet to result in the largescale implementation</p>\n<p>and effective use of alternative power sources.</p>\n<p><strong>B</strong>     One alternative energy source, in particular, will have a great impact in the</p>\n<p>years to come.</p>\n<p><strong>C</strong>     A side-effect of one of these forms of energy is the production of chemical</p>\n<p>waste.</p>\n<p><strong>D</strong>     Expense is the main factor that is an obstacle to developing one of these</p>\n<p>forms of energy.</p>\n<p><strong>E</strong>     Approximately one in five US homes will be using one of these forms of</p>\n<p>energy within twenty years.</p>\n<p><strong>F</strong>     One attraction of these forms of energy, in general, is the relatively low</p>\n<p>production costs.</p>\n<p><strong>Questions 3 and 4 </strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Geothermal energy is produced by</p>\n<p><strong>A </strong>  heating the air below the surface of the ground.</p>\n<p><strong>B</strong>   employing the force of falling water.</p>\n<p><strong>C</strong>   extracting water or steam from beneath the earth’s surface.</p>\n<p><strong>D</strong>   using the earth’s natural electricity.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Which form of alternative energy does not involve the use of turbines?</p>\n<p><strong>A</strong>   wind energy</p>\n<p><strong>B</strong>   geothermal energy</p>\n<p><strong>C</strong>   tidal energy</p>\n<p><strong>D</strong>   fuel cell energy</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>ALTERNATIVE ENERGY SOURCES </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-8",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>5-8</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Wind power is the most efficient form of alternative energy.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Wave energy can be derived from a number of sources.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Alternative energy sources serve several purposes.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Fossil fuels are needed in at least one of these alternative energy sources.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Complete the sentences.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><strong> </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>9</strong>   By using alternative energy sources, we can cut the <input type=\"text\" />.. that are</p>\n<p>produced by current power sources.</p>\n<p><strong>10</strong>   In addition to fossil fuels and atom-splitting, we presently use <input type=\"text\" /> as</p>\n<p>part of our power source.</p>\n<p><strong>11</strong>   Renewable energy called biomass is produced from <input type=\"text\" /></p>\n<p><strong>12</strong>   The renewable energy that comes from within the earth is called</p>\n<p><input type=\"text\" />.</p>\n<p><strong>13</strong>   One of the reasons that fuel cells are not widely used is the <input type=\"text\" />... of</p>\n<p>manufacturing.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>ALTERNATIVE ENERGY SOURCES </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "54 Passage 2 - Colour Blindness Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending <strong>A-K</strong> from the box below.</p>\n<p><em>Write the correct letter </em><em><strong>A-K</strong></em><em> in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>14</strong>   Colour blindness can be caused by a birth defect, or <input type=\"text\" />..</p>\n<p><strong>15</strong>   Surprisingly, some people who are colour blind <input type=\"text\" /></p>\n<p><strong>16</strong>   People with hereditary colour blindness <input type=\"text\" />.</p>\n<p><strong>17</strong>   Because of our genetic make-up, colour blindness <input type=\"text\" />.</p>\n<p><strong>18</strong>   Red-green genetic photoreceptor disorders mean that people <input type=\"text\" /></p>\n<p><strong>19</strong>   People with monochromacy <input type=\"text\" /></p>\n<p><strong>20   </strong>The inability to see certain lights <input type=\"text\" />.</p>\n<p><strong>A</strong>     can see better at night than during the day.</p>\n<p><strong>B </strong>    cannot be treated by surgery.</p>\n<p><strong>C</strong>     can affect men much more easily than women.</p>\n<p><strong>D</strong>     can affect their sensitivity to bright lights.</p>\n<p><strong>E </strong>    can see no colour at all, other than shades of black, grey and white.</p>\n<p><strong>F</strong>     can see things that people with normal vision cannot.</p>\n<p><strong>G</strong>     can have very dangerous consequences for colour-blind people.</p>\n<p><strong>H</strong>     can be acquired or inherited.</p>\n<p><strong>I  </strong>    can mean having to wear contact lenses.</p>\n<p><strong>J</strong>      cannot distinguish certain colours if they stand alone.</p>\n<p><strong>K</strong>     can match all colours of the spectrum.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Colour Blindness </strong></p>\n<p><strong>Question 21-23 </strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C </strong>or <strong>D</strong>.</p>\n<p><strong>21</strong>   What causes colour blindness?</p>\n<p><strong>A</strong>   the absence of rod cells</p>\n<p><strong>B</strong>   the malfunction of rod cells</p>\n<p><strong>C</strong>   the malfunction of cone cells</p>\n<p><strong>D</strong>   the retina’s inability to detect light</p>\n<p><strong> </strong></p>\n<p><strong>22</strong>   Which group of people are the least common?</p>\n<p><strong>A</strong>   people who cannot detect blues from yellows</p>\n<p><strong>B</strong>   anomalous trichromats</p>\n<p><strong>C</strong>   people with dichromacy</p>\n<p><strong>D</strong>   people with achromatopsia</p>\n<p><strong> </strong></p>\n<p><strong>23</strong>   What would colour-blind people consider an everyday nuisance?</p>\n<p><strong>A</strong>   not being able to identify the colour of warning lights</p>\n<p><strong>B</strong>   not being able to tell an apple from a tomato</p>\n<p><strong>C</strong>   not being able to cook</p>\n<p><strong>D</strong>   not being able to buy matching clothes</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Colour Blindness </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 24-26",
+          "group_instruction_html": "<p>Complete the diagram below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "54 Passage 3 - Population growth sentencing millions to hydrological poverty Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-32",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>27-32</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the writer’s claims</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the writer’s claims</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Vegetarians drink less water than meat-eaters.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28 </strong>  A typical Indian diet requires less grain than a typical USA diet.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Growing grain uses more water than raising beef.</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   People that move from the country to the city may increase their water</p>\n<p>consumption considerably.</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Future conflicts will be fought as much over food as they will over oil.</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32  </strong> Egypt and Japan also import 7 million tons of oil annually.</p>\n<p>4</p>\n<p><strong>Passage 3                                                       Population growth sentencing millions to hydrological poverty </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-36",
+          "group_instruction_html": "<p>Reading Passage 3 has 13 paragraphs <strong>A-M</strong>.</p>\n<p>Which paragraph contains information about the following threats to water supplies?</p>\n<p><em>Write the correct letter </em><em><strong>A-M</strong></em><em> in boxes </em><em><strong>33-36</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   The volume of water is needed for irrigation in grain production.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Over-pumping our underground water supplies.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Population growth will be responsible for a new type of water-related poverty.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Industrialisation demands greater water supplies.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Our water supply is running low because</p>\n<p><strong>A</strong>   grain is now exported globally.</p>\n<p><strong>B</strong>   the world’s population is increasing rapidly.</p>\n<p><strong>C </strong>  more people are moving to cities.</p>\n<p><strong>D  </strong> people waste water foolishly.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   People who have a high-meat diet cause more water to be used because</p>\n<p><strong>A</strong>   it takes more grain to feed livestock than it does a human.</p>\n<p><strong>B</strong>   the industrial processes to produce meat require a lot of water.</p>\n<p><strong>C </strong>  livestock drink a lot of water.</p>\n<p><strong>D  </strong> packaging of meat products goes through an intensive washing process.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3                                                       Population growth sentencing millions to hydrological poverty </strong></p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   What would reduce the use of water without adversely affecting the food supply?</p>\n<p><strong>A</strong>   growing fewer crops</p>\n<p><strong>B</strong>   increasing water subsidies</p>\n<p><strong>C </strong>  diverting water from irrigation</p>\n<p><strong>D  </strong> falling population levels</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   If there is a water war, who will win?</p>\n<p><strong>A</strong>   the driest countries</p>\n<p><strong>B</strong>   the richest countries</p>\n<p><strong>C </strong>  the countries that are more forceful</p>\n<p><strong>D  </strong> the countries that have the biggest population.</p>\n<p>6</p>\n<p><strong>Passage 3                                                       Population growth sentencing millions to hydrological poverty </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

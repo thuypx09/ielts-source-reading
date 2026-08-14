@@ -1,0 +1,179 @@
+{
+  "exercise_set": "50",
+  "excercise_set": "50",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "50 Passage 1 - Density and Crowding Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs, <strong>A-G</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-G</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-x</strong></em><em>, in boxes </em><em><strong>1-7</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of headings </strong></p>\n<p><strong>i</strong></p>\n<p>Other experiments following Calhoun’s experiment offering a clearer</p>\n<p>indication</p>\n<p><strong>ii</strong></p>\n<p>The effects of crowding on people in the social scope</p>\n<p><strong>iii</strong></p>\n<p>Psychological reaction to crowding</p>\n<p><strong>iv</strong></p>\n<p>Problems that result in crowding</p>\n<p><strong>v</strong></p>\n<p>Responsibility does not work</p>\n<p><strong>vi</strong></p>\n<p>What causes the upset feel of crowding</p>\n<p><strong>vii</strong></p>\n<p>Definitions of crowding and density</p>\n<p><strong>viii</strong></p>\n<p>Advice for the crowded work environment</p>\n<p><strong>ix</strong></p>\n<p>Difference between male and females’ attractiveness in a crowd</p>\n<p><strong>x</strong></p>\n<p>Nature and results of Calhoun’s experiment</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Density and Crowding </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Paragraph <strong>A </strong></p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Paragraph <strong>B </strong></p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Paragraph <strong>C </strong></p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Paragraph <strong>D </strong></p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Paragraph <strong>E </strong></p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Paragraph <strong>F </strong></p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Paragraph <strong>G </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 8-13",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>8-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>8</strong>   Being disturbed repeatedly, the harried mother feels frustrated for the lack</p>\n<p>of<input type=\"text\" />..</p>\n<p><strong>9</strong>   Inmates in high-density settings were more aggressive in<input type=\"text\" />..</p>\n<p><strong>10</strong>   The different result between male and female is associated with the varying need</p>\n<p>of<input type=\"text\" />.</p>\n<p><strong>11</strong>   Especially for male, Baum and Greenberg found that <input type=\"text\" />. declined with</p>\n<p>high density.</p>\n<p><strong>12 </strong>  The idea of responsibility diffusion may explain a person’s reluctant to</p>\n<p><input type=\"text\" /></p>\n<p><strong>13</strong>   Schmidt and Keating suggest that if more<input type=\"text\" />. was present there would be</p>\n<p>a reduction in crowding stress.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Density and Crowding </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "50 Passage 2 - Intelligence and Giftedness Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-17",
+          "group_instruction_html": "<p>The Reading Passage has seven paragraphs <strong>A-G</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-17</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   IQ is just one single factor of human characteristics.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Discussion of the methodology behind Professor Stern’s test.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   Inadequacy of IQ test from Binet.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   The definition of IQ was created by a professor.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 18-21",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>18-21</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>18   </strong>Professor Binet devises the test to <input type=\"text\" /></p>\n<p><strong>A   </strong>find those who do not perform satisfied</p>\n<p><strong>B   </strong>choose the best one</p>\n<p><strong>C   </strong>measure the intelligence</p>\n<p><strong>D   </strong>establish the standard of intelligence</p>\n<p><strong>19   </strong>The test is designed according to <input type=\"text\" /></p>\n<p><strong>A   </strong>math</p>\n<p><strong>B   </strong>age</p>\n<p><strong>C   </strong>reading skill</p>\n<p><strong>D   </strong>gender</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Intelligence and Giftedness </strong></p>\n<p><strong>20   </strong>U.S. Army used Intelligence tests to select<input type=\"text\" /></p>\n<p><strong>A   </strong>Officers</p>\n<p><strong>B   </strong>Normal Soldiers</p>\n<p><strong>C   </strong>Examiners</p>\n<p><strong>D   </strong>Submarine drivers.</p>\n<p><strong> </strong></p>\n<p><strong>21   </strong>the purpose of the text is to<input type=\"text\" /></p>\n<p><strong>A   </strong>Give credit to the contribution of Binet in IQ test</p>\n<p><strong>B   </strong>prove someone’s theory is feasible.</p>\n<p><strong>C   </strong>discuss the validity and limitation of the test</p>\n<p><strong>D   </strong>outline the history of the test</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 22-26",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>22-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22   </strong>Part the intension in designing the test by professor Binet has been misunderstood.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Age as a factor is completely overlooked in the simplified tests by Wilhelm Stern</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Einstein was a counter-example of IQ test conclusion.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   IQ test may probably lead to racial discrimination as a negative effect.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   The author regards measuring intelligent test as a goal hardly meaningful.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Intelligence and Giftedness </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "50 Passage 3 - Making of Olympic Torch Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-29",
+          "group_instruction_html": "<p>Complete the summary below using <strong>NO MORE THAN THREE WORDS</strong> from the passage</p>\n<p><em>Write your answers in boxes </em><em><strong>27-29</strong></em><em> on your answer sheet. </em></p>\n<p>The Olympic torch, as Olympic Committee requested, is carefully designed which takes</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>years to design and build so that it is capable of withstanding all kinds of <strong>27</strong><input type=\"text\" />..</p>\n<p>and staying lit through widely differing weather conditions. The torch used in the</p>\n<p>modern Olympics which is to hold the <strong>28</strong><input type=\"text\" /> And the torch must then be</p>\n<p>copied and thousands are built as demanded by the thousands of runners who carry</p>\n<p>them through. Each runner has the opportunity to <strong>29</strong><input type=\"text\" /> his torch at the</p>\n<p>completion of his journey of the relay for memorial and as for souvenirs.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 30-35",
+          "group_instruction_html": "<p>Match the following statements as applying to different Olympic flames <strong>A-H</strong>.</p>\n<p><strong>NB</strong>  <em>There are more choices than questions. You may not need all the choices.</em></p>\n<p><strong>A</strong>   ancient Greek Olympic flames</p>\n<p><strong>B</strong>   Berlin Games torch (1936)</p>\n<p><strong>C</strong>   1952 Winter Games flame</p>\n<p><strong>D</strong>   1956 Games torch</p>\n<p><strong>E</strong>   Munich Games torch (1972)</p>\n<p><strong>F</strong>   1996 torch (Atlanta)</p>\n<p><strong>G</strong>   2000 torch (Sydney)</p>\n<p><strong>H</strong>   2002 torch (Salt lake city)</p>\n<p><em>Write your answers in boxes </em><em><strong>30-35</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   first liquid fuel torch</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   not environmentally friendly</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   began to record the runners’ name</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   potential risky as it burnt runner’s arms</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Making of Olympic Torch </strong></p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34 </strong>  special for a theme</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   flame not lit in Greek</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Diagram filling</p>\n<p>The chart below shows the structure of the <strong>1996 Olympic torch</strong>.</p>\n<p>Complete the chart using <strong>NO MORE THAN THREE WORDS</strong> from the passage for each</p>\n<p>blank.</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

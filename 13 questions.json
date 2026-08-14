@@ -1,0 +1,219 @@
+{
+  "exercise_set": "13",
+  "excercise_set": "13",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "13 Passage 1 - Learning By Examples Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs <strong>A-G</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-G</strong></em><em> in boxes </em><em><strong>1-4</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   A comparison between rats’ learning and human learning</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   A reference to the earliest study in animal learning</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   The discovery of who stripped the pine cone</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   A description of a cost-effectiveness experiment.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-8",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1.</p>\n<p><em>In boxes </em><em><strong>5-8</strong></em><em> on your answer sheet write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement if false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5 </strong>  The field tip to Israel was to investigate how black rats learn to trip pine cones.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6 </strong>  The pine cones were stripped from bottom to top by black rats.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7 </strong>  It can be learned from other relevant experiences to use a photocopier.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Stripping the pine cones is an instinct of the black rats.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Learning By Examples </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Complete the summary below using words from the box.</p>\n<p><em>Write your answers in boxes </em><em><strong>9-13</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>While the Nutcracker is more able to cache seed, the Jay relies <strong>9</strong><input type=\"text\" />.. on</p>\n<p>caching food and is thus less specialized in this ability, but more <strong>10</strong><input type=\"text\" />. To</p>\n<p>study their behavior of caching and finding their caches, an experiment was designed</p>\n<p>and carried out to test these two birds for their ability to remember where they hid the</p>\n<p>seeds.</p>\n<p>In the experiment, the cacher bird hid seeds in the ground while the other</p>\n<p><strong>11</strong><input type=\"text\" />.. As a result, the Nutcracker and the Mexican Jay showed different</p>\n<p>performance in the role of <strong>12</strong><input type=\"text\" />. At finding the seeds--- the observing</p>\n<p><strong>13</strong><input type=\"text\" />. didn&#x27;t do as well as its counterpart.</p>\n<p><strong>A </strong> less</p>\n<p><strong>B</strong>  more</p>\n<p><strong>C</strong>  solitary</p>\n<p><strong>D</strong>  social</p>\n<p>E  cacher</p>\n<p><strong>F </strong> observer</p>\n<p><strong>G </strong> remembered</p>\n<p><strong>H </strong> watched <strong>I </strong> Jay</p>\n<p><strong>J</strong>  Nutcracker</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Learning By Examples </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "13 Passage 2 - Tasmanian Tiger Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-17",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> form the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>14-17</strong></em><em> on your answer sheet. </em></p>\n<p>The Tasmanian tiger, also called thylacine, resembles the look of a dog and has</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>14</strong><input type=\"text\" /> on its fur coat. Many fossils have been found, showing that thylacines</p>\n<p>had existed as early as <strong>15</strong><input type=\"text\" />. years ago. They lived throughout</p>\n<p><strong>16</strong><input type=\"text\" />. before disappearing from the mainland. And soon after the</p>\n<p><strong>17</strong><input type=\"text\" /> settlers arrived the size of thylacine population in Tasmania shrunk at a</p>\n<p>higher speed.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Tasmanian Tiger </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 18-23",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>18-23</strong>) and the list of people below.</p>\n<p>Match each statement with the correct person <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter </em><em><strong>A</strong></em><em>, </em><em><strong>B</strong></em><em>, </em><em><strong>C</strong></em><em> or </em><em><strong>D</strong></em><em> in boxes </em><em><strong>18-23</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   His report of seeing a live thylacine in the wild attracted international interest.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Many eye-witnesses’ reports are not trustworthy.</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   It doesn’t require a certain number of animals to ensure the survival of a species.</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   There is no hope of finding a surviving Tasmanian tiger.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   Do not disturb them if there are any Tasmanian tigers still living today.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   The interpretation of evidence can be affected by people’s beliefs.</p>\n<p><strong>List of People </strong></p>\n<p><strong>A</strong>   Hans Naarding</p>\n<p><strong>B</strong>   Randolph Rose</p>\n<p><strong>C</strong>   David Pemberton</p>\n<p><strong>D</strong>   Nick Mooney</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Tasmanian Tiger </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 24-26",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A,</strong> <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Hans Naarding’s sighting has resulted in</p>\n<p><strong>A</strong>   government and organisations’ cooperative efforts to protect thylacine</p>\n<p><strong>B</strong>   extensive interests to find a living thylacine.</p>\n<p><strong>C </strong>  increase of the number of reports of thylacine worldwide.</p>\n<p><strong>D</strong>   growth of popularity of thylacine in literature.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   The example of coelacanth is to illustrate</p>\n<p><strong>A</strong>   it lived in the same period with dinosaurs.</p>\n<p><strong>B</strong>   hos dinosaurs evolved legs.</p>\n<p><strong>C</strong>   some animals are difficult to catch in the wild.</p>\n<p><strong>D</strong>   extinction of certain species can be mistaken.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Mooney believes that all sighting reports should be</p>\n<p><strong>A</strong>   given some credit as they claim even if they are untrue.</p>\n<p><strong>B</strong>   acted upon immediately.</p>\n<p><strong>C</strong>   viewed as equally untrustworthy.</p>\n<p><strong>D</strong>   questioned and carefully investigated.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Tasmanian Tiger </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "13 Passage 3 - Music Language We All Speak Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Reading Passage 3 has five paragraphs <strong>A-E</strong></p>\n<p>Choose the correct heading for each section from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-viii</strong></em><em>, in boxes </em><em><strong>27-31</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i </strong></p>\n<p>Animal sometimes make music.</p>\n<p><strong>ii</strong></p>\n<p>Recent research on music</p>\n<p><strong>iii</strong></p>\n<p>Culture embedded in music</p>\n<p><strong>iv</strong></p>\n<p>Historical theories review</p>\n<p><strong>v </strong></p>\n<p>Communication in music with animals</p>\n<p><strong>vi </strong></p>\n<p>Contrast between music and language</p>\n<p><strong>vii</strong></p>\n<p>Questions on a biological link with human and music</p>\n<p><strong>viii</strong></p>\n<p>Music is good for babies.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Paragraph <strong>E</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Music: Language We All Speak </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-38",
+          "group_instruction_html": "<p>Look at the following people and list of statements below.</p>\n<p>Match each person with the correct statement.</p>\n<p><em>Write the correct letter </em><em><strong>A-G</strong></em><em> in boxes </em><em><strong>32-38</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Statements </strong></p>\n<p><strong>A</strong>   Music exists outside of the world in which it is created</p>\n<p><strong>B</strong>   Music has a common feature though cultural influences affect</p>\n<p><strong>C</strong>   Humans need music.</p>\n<p><strong>D</strong>   Music priority connects to the disordered sound around.</p>\n<p><strong>E</strong>   Discovery of mathematical musical foundation.</p>\n<p><strong>F</strong>   Music is not treated equally well compared with language</p>\n<p><strong>G</strong>   Humans and monkeys have similar traits in perceiving sound.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   Steven Pinker</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   Musicologists</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Greek philosopher Pythagoras</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Schwartz, Howe, and Purves</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Marc Hauser and Josh McDermott</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Charles Rosen</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Sandra Trehub</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Music: Language We All Speak </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 39-40",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong></p>\n<p><em>Write your answers in boxes </em><em><strong>39-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Why was the study of animal’s music uncertain?</p>\n<p><strong>A </strong>  Animals don’t have the same auditory system as humans.</p>\n<p><strong>B</strong>   Experiments on animal’s music are limited.</p>\n<p><strong>C</strong>   tunes are impossible for animal to make up.</p>\n<p><strong>D</strong>   Animals don’t have spontaneous ability for the tests.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   what is the main subject of this passage?</p>\n<p><strong>A</strong>   Language and psychology.</p>\n<p><strong>B</strong>   Music formation.</p>\n<p><strong>C</strong>   Role of music in human society.</p>\n<p><strong>D</strong>   Music experiments for animals.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Music: Language We All Speak </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

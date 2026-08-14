@@ -1,0 +1,235 @@
+{
+  "exercise_set": "36",
+  "excercise_set": "36",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "36 Passage 1 - Bovids Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-3",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>1-3</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   In which region is the biggest range of bovids to be found?</p>\n<p><strong>A</strong>   Africa</p>\n<p><strong>B</strong>   Eurasia</p>\n<p><strong>C</strong>   North America</p>\n<p><strong>D</strong>   South-east Asia</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Most bovids have a preference for living in</p>\n<p><strong>A</strong>   isolation</p>\n<p><strong>B</strong>   small groups</p>\n<p><strong>C</strong>   tropical forest</p>\n<p><strong>D</strong>   wide open spaces</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Which of the following features do all bovids have in common?</p>\n<p><strong>A</strong>   Their horns are shot</p>\n<p><strong>B</strong>   They have upper incisors</p>\n<p><strong>C</strong>   They store food in the body</p>\n<p><strong>D</strong>   Their hooves are undivided</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Bovids </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 4-8",
+          "group_instruction_html": "<p>Look at the following characteristics (Questions <strong>4-8</strong>) and the list of sub-families below.</p>\n<p>Match each characteristic with the correct sub-family, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A</strong></em><em>, </em><em><strong>B</strong></em><em>, </em><em><strong>C</strong></em><em> or </em><em><strong>D</strong></em><em>, in boxes </em><em><strong>4-8</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   can endure very harsh environments</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   includes the ox and the cow</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   may supplement its diet with meat</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   can usually move a speed</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8 </strong>  does not defend a particular area of land</p>\n<p><strong>List of sub-families </strong></p>\n<p><strong>A</strong></p>\n<p>Antelope</p>\n<p><strong>B</strong></p>\n<p>Bovinae</p>\n<p><strong>C</strong></p>\n<p>Caprinae</p>\n<p><strong>D</strong></p>\n<p>Cephalophinae</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write yours answers in boxes 9-13 on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   What is the smallest species of Bovid called?</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   Which species of Bovinae hos now died out?</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   What facilitates the movement of the sitatunga over wetland?</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   What sort of terrain do barbary sheep live in?</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   What is the only living member of the Antilocapridae sub-family?</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Bovids </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "36 Passage 2 - Art in Iron and Steel Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>The Reading Passage has eight paragraphs <strong>A-H</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   Art connected with architecture for the first time.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   small artistic object and constructions built are put together</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   the working condition were recorded by the artist as an exciting subject.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   mention of one engineers’ artistic work on an unfinished engineering project</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Two examples of famous bridges which became the iconic symbols of those cities</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-23",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed <strong>A-F</strong>) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-F</strong></em><em> in boxes </em><em><strong>19-23</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of people </strong></p>\n<p><strong>A</strong></p>\n<p>Charles Sheeler</p>\n<p><strong>B</strong></p>\n<p>Michael Rooker</p>\n<p><strong>C</strong></p>\n<p>Claude Monet</p>\n<p><strong>D</strong></p>\n<p>Christian Schussele</p>\n<p><strong>E</strong></p>\n<p>Joseph Pennell</p>\n<p><strong>F</strong></p>\n<p>Lewis Hine</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19 </strong>  who made a comment that concrete constructions have a beauty just as artistic</p>\n<p>processes created by engineers the architects</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   who made a romantic depiction of an old bridge in one painting</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   who produced art pieces demonstrating the courage of workers in the site</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   who produced portraits involving subjects in engineers and inventions and historical</p>\n<p>human heroes.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Art in Iron and Steel </strong></p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   who produced a painting of factories and named them ambitiously</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 24-27",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>24-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>\n<p><strong>Iron bridge Coalbrookdale, England </strong></p>\n<p>In the late eighteenth century, as artists began to capture the artistic attractiveness</p>\n<p>incorporated into architecture via engineering and technology were captured in</p>\n<p>numerous serene landscape paintings. One good example, the engineer called</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>24</strong><input type=\"text\" />. had designed the first iron bridge in the world and changed to using</p>\n<p>irons yet earlier bridges in the countryside were constructed using materials such as</p>\n<p><strong>25</strong><input type=\"text\" />. and wood. This first Iron bridge which across the <strong>26</strong><input type=\"text\" /> was</p>\n<p>much significant in the industrial revolution period and it functioned for centuries.</p>\n<p>Numerous spectacular paintings and sculpture of Iron Bridge are collected and exhibited</p>\n<p>locally in <strong>27</strong><input type=\"text\" />.., showing the iron structure as a theme on the landscape.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Art in Iron and Steel </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "36 Passage 3 - Psychology Of New Product Adoption Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-31",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed <strong>A-C</strong>) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-C</strong></em><em> in boxes </em><em><strong>28-31</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong></p>\n<p>Richard Thaler</p>\n<p><strong>B</strong></p>\n<p>Everett Rogers</p>\n<p><strong>C</strong></p>\n<p>Kahneman and Tversky</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   stated a theory which bears potential fault in the application</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   decided the consumers’ several behavior features when they face other options</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   generalised that customers value more of their possession they are going to</p>\n<p>abandon for a purpose than alternative they are going to swap in</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   answered the reason why people don’t replace existing products</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Psychology Of New Product Adoption </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-36",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-36</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   The products of innovations which beat existing alternatives can guarantee a</p>\n<p>successful market share.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   The fact that most companies recognised the benefits of switching to new products</p>\n<p>guarantees a successful innovation</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Gender affects the loss and gain outcome in the real market place.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Endowment-effect experiment showed there was a huge gap between the seller’s</p>\n<p>anticipation and the chooser’s offer.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Customers accept the fact peacefully when they are revealed the status quo bias.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>37-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   What does <em>paragraph A</em> illustrated in the business creative venture?</p>\n<p><strong>A</strong>   above 70% of products stored in the warehouse</p>\n<p><strong>B</strong>   only US packaged goods industry affected</p>\n<p><strong>C</strong>   roughly half of new product business failed</p>\n<p><strong>D</strong>   new products have a long life span.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Psychology Of New Product Adoption </strong></p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   What do specialists and freshers tend to think how a product sold well:</p>\n<p><strong>A</strong>   as more products stored on a shelf</p>\n<p><strong>B</strong>   being creative and innovative enough</p>\n<p><strong>C</strong>   having more chain stores</p>\n<p><strong>D</strong>   learning from a famous company like Webvan</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   According to this passage, a number of products fail because of the following</p>\n<p>reason:</p>\n<p><strong>A</strong>   they ignore the fact that people tend to overvalue the product they own.</p>\n<p><strong>B</strong>   they are not confident with their products</p>\n<p><strong>C</strong>   they are familiar with people’s psychology state</p>\n<p><strong>D</strong>   they forget to mention the advantages of products</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   What does the experiment of “<em>status quo bias</em>” suggest which conducted by Nobel</p>\n<p>prize winner Kahneman and Tversky:</p>\n<p><strong>A</strong>   about half of them are willing to change</p>\n<p><strong>B</strong>   student is always to welcome new items</p>\n<p><strong>C</strong>   90% of both owners in a neutral position</p>\n<p><strong>D</strong>   only 10% of chocolate bar owner is willing to swap</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Psychology Of New Product Adoption </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "exercise_set": "78",
+  "excercise_set": "78",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "78 Passage 1 - What Makes Us Happy Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-3",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>1-3</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   The main topic discussed in the text is:</p>\n<p><strong>A</strong>   the danger of worrying about things beyond our control</p>\n<p><strong>B</strong>   the diﬀicult task of identifying what makes us happy</p>\n<p><strong>C</strong>   key indicators of depression</p>\n<p><strong>D</strong>   activities which can make us happy</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   A study of different types of twins suggests</p>\n<p><strong>A</strong>   happiness is mostly a genetic trait.</p>\n<p><strong>B</strong>   &#x27;happiness&#x27; and &#x27;personality&#x27; are not related.</p>\n<p><strong>C</strong>   identical twins are more emotional than non-identical twins.</p>\n<p><strong>D</strong>   scientists are not happy people.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   According to the text, a steady rise in income</p>\n<p><strong>A</strong>   increases anyone&#x27;s level of happiness.</p>\n<p><strong>B</strong>   creates a steady decline in happiness.</p>\n<p><strong>C</strong>   happens frequently in Western cultures.</p>\n<p><strong>D</strong>   does not necessarily lead to greater happiness.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 4-6",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN TO WORDS</strong> from the passage for each answer</p>\n<p><em>Write your answers in boxes </em><em><strong>4-6</strong></em><em> on your answer sheet. </em></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Makes Us Happy? </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>4</strong>   Observation of lottery winners suggests that there is no relationship between</p>\n<p>happiness and<input type=\"text\" />..</p>\n<p><strong>5</strong>   When we compare ourselves to others we discover that the concept of &#x27;wealth&#x27;</p>\n<p>is<input type=\"text\" />..</p>\n<p><strong>6</strong>   The types of purchases which are most likely to provide us with happiness are those</p>\n<p>purchased for<input type=\"text\" /></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 7-9",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>7-9</strong></em><em> on your answer sheet write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the claims of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the claims of the writer</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   We are all unwilling participants in events beyond our control.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   A crucial determiner of happiness is starting each day by writing a &#x27;to-do&#x27; list.</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   &#x27;Happiness&#x27; has a strong relationship with our actions and attitudes.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 10-13",
+          "group_instruction_html": "<p>Complete the summary using the list of words, <strong>A-I</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-I</strong></em><em>, in boxes </em><em><strong>10-13</strong></em><em> on your answer sheet </em></p>\n<p><strong>A</strong>   lifestyle</p>\n<p><strong>B</strong>   important</p>\n<p><strong>C</strong>   by-product</p>\n<p><strong>D</strong>   related</p>\n<p><strong>E</strong>   independent</p>\n<p><strong>F</strong>   relevant</p>\n<p><strong>G</strong>   scientific <strong>H</strong>   selfish</p>\n<p><strong>I</strong>     exclusive</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>In this article, the author gives us a discussion of &#x27;happiness&#x27; from a <strong>10</strong> <input type=\"text\" /><input type=\"text\" /></p>\n<p>perspective. The investigation into the influence of money on happiness suggests that</p>\n<p>the two are not <strong>11</strong><input type=\"text\" /> We should be able to say &#x27;no&#x27; to other people, but this</p>\n<p>doesn&#x27;t require us to be <strong>12</strong><input type=\"text\" /><input type=\"text\" /> The author concludes that happiness is the</p>\n<p><strong>13</strong><input type=\"text\" /> of activity focused on making others happy.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Makes Us Happy? </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "78 Passage 2 - The Business of Space Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>Choose <strong>FIVE</strong> letter, <strong>A-I</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order</em></p>\n<p>Below are listed some popular beliefs about commercial space travel.</p>\n<p>Which <strong>FIVE</strong> of these are reported by the writer of the text?</p>\n<p><strong>A</strong>     Space travel today is no different than space travel in the 1960s.</p>\n<p><strong>B</strong>     To date, the amount of space travel undertaken by private individuals could</p>\n<p>not sustain a business.</p>\n<p><strong>C</strong>     Richard Branson&#x27;s plans for commercial space travel may be described as</p>\n<p>&#x27;daring.&#x27;</p>\n<p><strong>D</strong>     It is not surprising that Branson&#x27;s company is not the only company</p>\n<p>interested in commercial space travel.</p>\n<p><strong>E</strong>     Virgin Galactic&#x27;s proposed fares will be highly aﬀordable to many.</p>\n<p><strong>F</strong>     Individuals who want to fly into space are gamblers.</p>\n<p><strong>G</strong>     Parallels can be drawn between space travel and the Hollywood movie</p>\n<p>industry.</p>\n<p><strong>H</strong>     The rise of companies like Virgin Galactic is unconditionally positive.</p>\n<p><strong>I</strong>       Laws governing space travel will be diﬀicult to enforce.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Business of Space </strong></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 19-26",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>19-26</strong></em><em> on your answer sheet write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Space travel today remains under the control of the Russian and American</p>\n<p>governments.</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   The first commercial space passenger was Richard Branson.</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   The Virgin Group was established by Richard Branson in 1970.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   Space vehicles are presently capable of being used more than once.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   $20 billion is the amount that millennials currently spend on space travel.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   The film &#x27;Avatar&#x27; cost about $400 million to make.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   It is unlikely that recycling will become common practice on the moon.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Children today have a better chance of realizing their dreams of space travel than</p>\n<p>children in the 1960&#x27;s did.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Business of Space </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "78 Passage 3 - Using Mathematics to Secure Our Money Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-32",
+          "group_instruction_html": "<p>Reading Passage 3 has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Choose the correct heading for paragraphs <strong>B-G</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-x</strong></em><em>, in boxes </em><em><strong>27-32</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>The prevalence of numerical &#x27;codes&#x27; in modern life</p>\n<p><strong>ii</strong></p>\n<p>How RSA works</p>\n<p><strong>iii</strong></p>\n<p>A brief history of keeping things safe</p>\n<p><strong>iv</strong></p>\n<p>&#x27;New math&#x27; vs &#x27;medieval math&#x27;</p>\n<p><strong>v</strong></p>\n<p>Proof that RSA is eﬀective</p>\n<p><strong>vi</strong></p>\n<p>The illusion of security</p>\n<p><strong>vii</strong></p>\n<p>Cryptography: the modern key for the lock</p>\n<p><strong>viii</strong></p>\n<p>Why RSA is eﬀective</p>\n<p><strong>ix</strong></p>\n<p>In defence of medieval security systems</p>\n<p><strong>x</strong></p>\n<p>A new approach to system security</p>\n<p>Example</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

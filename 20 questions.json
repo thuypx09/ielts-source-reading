@@ -1,0 +1,247 @@
+{
+  "exercise_set": "20",
+  "excercise_set": "20",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "20 Passage 1 - SOSUS Listening to the Ocean Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-4</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   In the past, difficulties of research carried out on Moon were much easier than that</p>\n<p>of ocean.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   The same light technology used on investigation of moon can be employed in the</p>\n<p>field of ocean.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Research on the depth of ocean by method of sound wave is more time-consuming.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Hydrophones technology is able to detect the category of precipitation.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-8",
+          "group_instruction_html": "<p>The Reading Passage has seven paragraphs <strong>A-H</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>5-8</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Elements affect sound transmission in the ocean.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Relationship between global climate and ocean temperature</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Examples of how sound technology help people research ocean and creatures in it</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Sound transmission under water is similar to that of light in any condition.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SOSUS: Listening to the Ocean </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>9-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   Who of the followings is dedicated to the research of rate of sound?</p>\n<p><strong>A</strong>   Leonardo da Vinci</p>\n<p><strong>B</strong>   Isaac Newton</p>\n<p><strong>C</strong>   John William Strutt</p>\n<p><strong>D</strong>   Charles Sturm</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   Who explained that the theory of light or <em><strong>sound wavelength </strong></em>is significant in water?</p>\n<p><strong>A</strong>   Lord Rayleigh</p>\n<p><strong>B</strong>   John William Strutt</p>\n<p><strong>C</strong>   Charles Sturm</p>\n<p><strong>D</strong>   Christopher Clark</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   According to Fox and colleagues, in what pattern does the change of <em><strong>finback whale </strong></em></p>\n<p>calls happen</p>\n<p><strong>A</strong>   Change in various seasons</p>\n<p><strong>B</strong>   Change in various days</p>\n<p><strong>C</strong>   Change in different months</p>\n<p><strong>D</strong>   Change in different years</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SOSUS: Listening to the Ocean </strong></p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   In which way does the SOSUS technology inspect whales?</p>\n<p><strong>A</strong>   Track all kinds of whales in the ocean</p>\n<p><strong>B</strong>   Track bunches of whales at the same time</p>\n<p><strong>C </strong>  Track only finback whale in the ocean</p>\n<p><strong>D</strong>   Track whales by using multiple appliances or devices</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   What could scientists inspect via monitoring along a repeated route?</p>\n<p><strong>A</strong>   Temperature of the surface passed</p>\n<p><strong>B</strong>   Temperature of the deepest ocean floor</p>\n<p><strong>C</strong>   Variation of temperature</p>\n<p><strong>D</strong>   Fixed data of temperature</p>\n<p>7</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SOSUS: Listening to the Ocean </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "20 Passage 2 - Left-handed or Right-handed Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>The Reading Passage has seven paragraphs <strong>A-G</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   Phenomenon of using one side of their body for animals.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Statistics on rate of one-handedness born.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   The age when the preference of using one hand is fixed.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   great talents of occupations in left-handed population.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Earliest record of researching hemisphere’s function</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-22",
+          "group_instruction_html": "<p>Look at the following researchers (Questions <strong>19-22</strong>) and the list of findings below.</p>\n<p>March each researcher with the correct finding</p>\n<p><strong>A</strong></p>\n<p>Brenda Milner</p>\n<p><strong>B</strong></p>\n<p>Marian Annett</p>\n<p><strong>C</strong></p>\n<p>Peter Hepper</p>\n<p><strong>D</strong></p>\n<p>Michale Corballis</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19 </strong>  Ancient language evolution is connected to body gesture and therefore influences</p>\n<p>handedness.</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   A child handedness is not determined by just biological factors.</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Language process is generally undergoing in the left-hemisphere of the brain.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Left-handed or Right-handed </strong></p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   The rate of development of one side of the body has influence on hemisphere</p>\n<p>preference in fetus.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 23-26",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>23-26</strong></em><em> on your answer sheet write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   The study of twins shows that genetic determination is not the only factor for left</p>\n<p>Handedness.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   The number of men with left-handedness is more than that of women.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Marc Dax’s report was widely recognized in his time.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26 </strong>  Juhn Wada based his findings on his research of people with language problems.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Left-handed or Right-handed </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "20 Passage 3 - The Power of Nothing Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-32",
+          "group_instruction_html": "<p>Use the information in the passage to match the deed (listed <strong>A-H</strong>) with people below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-H</strong></em><em> in boxes </em><em><strong>27-32</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once </em></p>\n<p><strong>A</strong></p>\n<p>Should easily be understood</p>\n<p><strong>B</strong></p>\n<p>Should improve by itself</p>\n<p><strong>C</strong></p>\n<p>Should not involve any mysticism</p>\n<p><strong>D</strong></p>\n<p>Ought to last a minimum length of time.</p>\n<p><strong>E</strong></p>\n<p>Needs to be treated at the right time.</p>\n<p><strong>F</strong></p>\n<p>Should give more recognition.</p>\n<p><strong>G</strong></p>\n<p>Can earn valuable money.</p>\n<p><strong>H</strong></p>\n<p>Do not rely on any specific treatment</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Appointments with alternative practitioner</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   An alternative practitioner’s description of treatment</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   An alternative practitioner who has faith in what he does</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   the illness of patients convinced of alternative practice</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Improvements of patients receiving alternative practice</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   Conventional medical doctors (who is aware of placebo)</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Power of Nothing </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-35",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>33-45</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   In the fifth paragraph, the writer uses the example of <em><strong>anger and sadness </strong></em>to</p>\n<p>illustrate that:</p>\n<p><strong>A</strong>   People’s feeling could affect their physical behaviour</p>\n<p><strong>B</strong>   Scientists don’t understand how the mind influences the body.</p>\n<p><strong>C</strong>   Research on the placebo effect is very limited</p>\n<p><strong>D</strong>   How placebo achieves its effect is yet to be understood.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Research on pain control attracts most of the attention because</p>\n<p><strong>A</strong>   Scientists have discovered that endorphins can help to reduce pain.</p>\n<p><strong>B</strong>   Only a limited number of researchers gain relevant experience</p>\n<p><strong>C</strong>   Pain reducing agents might also be involved in placebo effect.</p>\n<p><strong>D</strong>   Patients often experience pain and like to complain about it</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   <em>Fabrizio Benedetti</em>’s research on endorphins indicates that</p>\n<p><strong>A</strong>   They are widely used to regulate pain.</p>\n<p><strong>B</strong>   They can be produced by willful thoughts</p>\n<p><strong>C</strong>   They can be neutralized by introducing naloxone.</p>\n<p><strong>D</strong>   Their pain-relieving effects do not last long enough.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Power of Nothing </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>36-40</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   There is enough information for scientists to fully understand the placebo effect.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   A London based researcher discovered that red pills should be taken off the market.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   People’s preference on brands would also have effect on their healing.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Medical doctors have a range of views of the newly introduced drug of</p>\n<p><em><strong>chlorpromazine. </strong></em></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Alternative practitioners are seldom known for applying placebo effect.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Power of Nothing </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

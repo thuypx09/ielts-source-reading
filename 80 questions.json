@@ -1,0 +1,191 @@
+{
+  "exercise_set": "80",
+  "excercise_set": "80",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "80 Passage 1 - Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs, labelled <strong>A-G</strong>.</p>\n<p>Choose the correct heading for paragraphs A-G from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-ix</strong></em><em>, in boxes </em><em><strong>1-7</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>Teens are increasingly urged to conform</p>\n<p><strong>ii</strong></p>\n<p>The dystopian model scrutinised</p>\n<p><strong>iii</strong></p>\n<p>Dystopian novels now focus on climate change</p>\n<p><strong>iv</strong></p>\n<p>The original dystopias</p>\n<p><strong>v</strong></p>\n<p>Dystopian literature&#x27;s accomplishments will outlive it</p>\n<p><strong>vi</strong></p>\n<p>A score of dystopian novels has taken over YA shelves</p>\n<p><strong>vii</strong></p>\n<p>The roots of dystopia can be found in teenage experiences</p>\n<p><strong>viii</strong></p>\n<p>Dystopia is already dead</p>\n<p><strong>ix</strong></p>\n<p>Dystopias promote ethical thinking</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Paragraph <strong>E</strong></p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Paragraph <strong>F</strong></p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Paragraph <strong>G</strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 8-12",
+          "group_instruction_html": "<p>Answer the questions below with words taken from Reading Passage 1.</p>\n<p>Use <strong>NO MORE THAN THREE WORDS</strong> for each answer.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   According to the writer, what was the first dystopian novel?</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   According to the writer, which author initiated the YA dystopian genre?</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   How does Dave Astor describe dystopian novels?</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   According to Naomi Klein, which element is present in all dystopian novels?</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   According to Claudia Gray, things like increased standardised testing and homework</p>\n<p>levels are a threat to what?</p>\n<p><strong>Question 13 </strong></p>\n<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p>Which is the best title for Reading Passage 1?</p>\n<p><strong>A</strong>   A history of YA dystopian literature</p>\n<p><strong>B</strong>   The wane of the dystopian phenomenon</p>\n<p><strong>C</strong>   How dystopian fiction has shaped the world</p>\n<p><strong>D</strong>   The draw of YA dystopian fiction</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "80 Passage 2 - Plant Wars Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from Reading Passage 2 for each answer</p>\n<p><em>Write your answers in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>14</strong>   Plants are very similar to <input type=\"text\" /> as they also struggle to stay alive every</p>\n<p>day.</p>\n<p><strong>15</strong>   The height of a tree or plant can affect how much <input type=\"text\" /> it receives.</p>\n<p><strong>16</strong>   Chemical warfare in plants also goes by the name of <input type=\"text\" /></p>\n<p><strong>17</strong>   Water and nutrients are both taken from the soil, and the latter is later turned into</p>\n<p><strong>18</strong>   Secondary metabolites are an <input type=\"text\" /> that functions as a defence</p>\n<p>mechanism for plants.</p>\n<p><strong>19</strong>   DIBOA and DIMBOA are two types of secondary metabolites that can <input type=\"text\" /></p>\n<p>once absorbed by a plant.</p>\n<p><strong>20</strong>   The 2015 study by Sascha Venturelli and colleagues examined the <input type=\"text\" /> of</p>\n<p>chemical warfare in plants.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-25",
+          "group_instruction_html": "<p>Complete the diagram below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from Reading Passage 2 for each answer.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Plant Wars </strong></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 26-27",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>26-27</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true according to the passage</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false according to the passage</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Allelochemicals are secondary metabolites.</p>"
+            },
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Plant biologists and medical researchers are currently cooperating to assess the</p>\n<p>efficacy of plant toxins in preventing the growth of cancer cells.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Plant Wars </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "80 Passage 3 - Deafhood Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-34",
+          "group_instruction_html": "<p>The reading passage has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>28-33</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Examples of other groups treated the same way as deaf people</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Why the word &#x27;deafness&#x27; is no longer appropriate</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   The definition of the word &#x27;dear</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Why deaf people might sometimes think negatively of themselves</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   How one can attain deafhood</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   Where the word &#x27;deafhood&#x27; came from</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Why deafhood is currently imperilled</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Deafhood </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 35-37",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>35-37</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   According to Dr Paddy Ladd, Deafhood</p>\n<p><strong>A</strong>   is a more appropriate term than &#x27;hard of hearing&#x27;.</p>\n<p><strong>B</strong>   doesn&#x27;t colonise SLPs as much as &#x27;deafness&#x27; does.</p>\n<p><strong>C</strong>   strives to get rid of the effects of colonisation.</p>\n<p><strong>D</strong>   contributes positively to the life and culture of deaf people.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Oralism suggests that</p>\n<p><strong>A</strong>   SLPs have no use for sign language.</p>\n<p><strong>B</strong>   SLPs don&#x27;t belong in the hearing world.</p>\n<p><strong>C</strong>   hearing people are superior to SLPs.</p>\n<p><strong>D</strong>   SLPs are unable to acquire speech.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Aborigines in Australia are similar to deaf people because</p>\n<p><strong>A</strong>   eugenicists also tried to eradicate them.</p>\n<p><strong>B</strong>   they were also considered inferior by their oppressors.</p>\n<p><strong>C</strong>   their languages were also disrespected.</p>\n<p><strong>D</strong>   their languages were also colonised.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 38-40",
+          "group_instruction_html": "<p>Answer the questions below with words taken from Reading Passage 3.</p>\n<p>Use <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   What should deaf people use to communicate with each other, according to</p>\n<p>deafhood?</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Who has used oralism and audism to attack the deaf community?</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   What does the deaf community strive to achieve for sign language worldwide?</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Deafhood </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

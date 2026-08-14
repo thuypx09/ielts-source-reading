@@ -1,0 +1,184 @@
+{
+  "exercise_set": "10",
+  "excercise_set": "10",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "10 Passage 1 - Copy your neighbour Q1-13.pdf",
+      "answers": [
+        {
+          "question_number": 1,
+          "answer": "E"
+        },
+        {
+          "question_number": 2,
+          "answer": "B"
+        },
+        {
+          "question_number": 3,
+          "answer": "G"
+        },
+        {
+          "question_number": 4,
+          "answer": "F"
+        },
+        {
+          "question_number": 5,
+          "answer": "D"
+        },
+        {
+          "question_number": 6,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 7,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 8,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 9,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 10,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 11,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 12,
+          "answer": "D"
+        },
+        {
+          "question_number": 13,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "10 Passage 2 - European Heat Wave Q14-27.pdf",
+      "answers": [
+        {
+          "question_number": 14,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 15,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 16,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 17,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 18,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 19,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 20,
+          "answer": "1976 and 1995"
+        },
+        {
+          "question_number": 21,
+          "answer": "2000 floods"
+        },
+        {
+          "question_number": 22,
+          "answer": "France"
+        },
+        {
+          "question_number": 23,
+          "answer": "1856"
+        },
+        {
+          "question_number": 24,
+          "answer": "1998 and 2002"
+        },
+        {
+          "question_number": 25,
+          "answer": "1990"
+        },
+        {
+          "question_number": 26,
+          "answer": "500"
+        },
+        {
+          "question_number": 27,
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "10 Passage 3 - E-training Q28-40.pdf",
+      "answers": [
+        {
+          "question_number": 28,
+          "answer": "i"
+        },
+        {
+          "question_number": 29,
+          "answer": "ix"
+        },
+        {
+          "question_number": 30,
+          "answer": "iv"
+        },
+        {
+          "question_number": 31,
+          "answer": "vii"
+        },
+        {
+          "question_number": 32,
+          "answer": "v"
+        },
+        {
+          "question_number": 33,
+          "answer": "iii"
+        },
+        {
+          "question_number": 34,
+          "answer": "A"
+        },
+        {
+          "question_number": 35,
+          "answer": "B"
+        },
+        {
+          "question_number": 36,
+          "answer": "F"
+        },
+        {
+          "question_number": 37,
+          "answer": "D"
+        },
+        {
+          "question_number": 38,
+          "answer": "B"
+        },
+        {
+          "question_number": 39,
+          "answer": "C"
+        },
+        {
+          "question_number": 40,
+          "answer": "E"
+        }
+      ]
+    }
+  ]
+}

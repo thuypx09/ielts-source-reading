@@ -1,0 +1,222 @@
+{
+  "exercise_set": "62",
+  "excercise_set": "62",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "62 Passage 1 - Amazon Rainforest of Peru Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-3",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters, <strong>A-F</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>1-3</strong></em><em> on your answer sheet. </em></p>\n<p>The list below gives some features of shihuahuaco.</p>\n<p>Which <strong>THREE</strong> ways are mentioned by the writer of the text?</p>\n<p><strong>A</strong>     a field to grow varied sustainable food crops</p>\n<p><strong>B</strong>     a habitat for parrots and macaws</p>\n<p><strong>C</strong>     a shelter for natives against a natural disaster</p>\n<p><strong>D</strong>     a village of palm-thatch houses</p>\n<p><strong>E</strong>     a road to help local people in finding economic alternatives</p>\n<p><strong>F   </strong>  an ecologist named it a keystone tree</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 4-6",
+          "group_instruction_html": "<p>Answer the questions below, using <strong>NO MORE THAN TWO WORDS</strong> from the passage for</p>\n<p>each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>4-6</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   What is the name given to the old forest of the Amazon?</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   What is the international trade name of shihuahuaco?</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   What is the typical farmland area that is used as a temporary logging camp?</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Amazon Rainforest of Peru </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 7-13",
+          "group_instruction_html": "<p>Reading Passage 1 has six paragraphs labeled <strong>A-F</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-F</strong></em><em> in boxes </em><em><strong>7-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7 </strong>  the self-rescue measures there to cover essentials</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   the dimensions of timber</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   the road sponsored by the United States’ fund to aid relief work schemes</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   an anecdote for the writer</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   a short camping trip of the writer</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   practical sides of shihuahuaco</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   the export of timber</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Amazon Rainforest of Peru </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "62 Passage 2 - A shot for public health Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Do the following statements reflect the claims of the writer in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>14-20</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   About 3,600 people are dying from the flu every winter in the US.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Although flu itself is seldom a disease that causes death, it can make people age</p>\n<p>quicker.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   Lots of rich countries have successfully carried out a high-quality vaccination</p>\n<p>programme.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   Flu shots should be useful for prescription but it may be immoral to hold back</p>\n<p>vaccination.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   From meta-analysis, those who get the flu shot are fifty per cent less likely to die</p>\n<p>than their unvaccinated peers.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Lone Simonsen indicated how many people died from flu among the young.</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   The time for the highest level of efficacy of the flu shot turned out within the weeks</p>\n<p>previous to the flu season.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A shot for public health </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-25",
+          "group_instruction_html": "<p>Classify the following statements as being</p>\n<p><strong>A</strong>     US Centre for Disease Control and Prevention (CDC)</p>\n<p><strong>B</strong>     George Washington University in Washington DC</p>\n<p><strong>C</strong>     Centre for Health Statistics in Seattle</p>\n<p><strong>D</strong>     University of Minnesota in Minneapolis</p>\n<p><em>Write the appropriate letters </em><em><strong>A-D</strong></em><em> in boxes </em><em><strong>21-25</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Vaccination extent has maximised.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   Seattle medical database was analysed using a statistical method.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Around 83 per cent of flu-related fatalities is in the over-65 age group.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Vaccination was able to prevent about fifty per cent of all winter deaths.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   The flu deaths account for five per cent of annual winter deaths in the age group of</p>"
+            },
+            {
+              "question_number": 65,
+              "question_content_html": "<p>65 or over.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 26-27",
+          "group_instruction_html": "<p>Answer the questions below with words taken from Reading Passage 2.</p>\n<p>Use <strong>ONE</strong> or <strong>TWO WORDS</strong> for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>26</strong></em><em> and </em><em><strong>27</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26 </strong>  What is ONE of several diseases recorded as a cause of death if the elderly have the</p>\n<p>flu?</p>"
+            },
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27 </strong>  What percentage of the vaccination coverage is recently maximised by the research</p>\n<p>of Lone Simonsen?</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A shot for public health </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "62 Passage 3 - High-tech Switzerland Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-30",
+          "group_instruction_html": "<p>Choose the appropriate letters <strong>A-D</strong> and write them in boxes <strong>28-30</strong> on your answer</p>\n<p>sheet.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Ruschlikon lab located in Zurich attracts</p>\n<p><strong>A</strong>   almost 80 per cent of research staff from overseas.</p>\n<p><strong>B</strong>   80 per cent of research staff domestically.</p>\n<p><strong>C</strong>   at least 80 per cent of engineers from abroad.</p>\n<p><strong>D</strong>   80 per cent of staff with a PhD from overseas.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   The lab has a plan to complete in 2014</p>\n<p><strong>A</strong>   founding a top-class Ruschlikon lab.</p>\n<p><strong>B</strong>   making a world-famous chocolate industry.</p>\n<p><strong>C</strong>   founding the best nanotechnology research centre.</p>\n<p><strong>D</strong>   researching digital storage marketing.</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   According to information in the text, the main purpose of the writer is</p>\n<p><strong>A</strong>   to survey various high-tech research in Switzerland.</p>\n<p><strong>B</strong>   to introduce attractive research centres in Switzerland.</p>\n<p><strong>C</strong>   to recruit a variety of human resources in Switzerland.</p>\n<p><strong>D</strong>   to understand the world-famous chocolate in Switzerland.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>High-tech Switzerland </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 31-35",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from Reading Passage 3 for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>31-35</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>\n<p><strong>Raising the chocolate bar </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Switzerland is familiar with <strong>31</strong><input type=\"text\" />.., attracted scientists in quality</p>\n<p>management, research and development. Those working in R&amp;D aid to improve new</p>\n<p>versions of recipes, products and design and build <strong>32</strong><input type=\"text\" />.. Foreign staff</p>\n<p>should fluently speak one of <strong>33</strong><input type=\"text\" />. official tongues in the least. Especially,</p>\n<p>a number of workplaces need to have an advanced level of <strong>34</strong><input type=\"text\" />. With</p>\n<p>over 250 research groups and 10,000 students and faculties, it emphasizes</p>\n<p><strong>35</strong><input type=\"text\" />. Scientific research.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Do the following statements reflect the claims of the writer in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>36-40</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Switzerland has a reputation for the history of making precise clockwork.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Coffee in Switzerland is world-famous.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Four-fifths of the staff at the Ruschlikon in Zurich are from overseas.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   The Ruschlikon lab is a trailblazer in only the field of semiconductors in digital</p>\n<p>storage technology.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Most study fields need a high level of English.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>High-tech Switzerland </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

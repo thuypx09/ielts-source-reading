@@ -1,0 +1,174 @@
+{
+  "exercise_set": "81",
+  "excercise_set": "81",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "81 Passage 1 - A Brief History of London Underground Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-6",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-6</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true according to the passage</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false according to the passage</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   More than a billion commuters use London Underground every day.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   London Underground would not be considered a unique concept were it to be</p>\n<p>build today.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   In the 19th century, railway companies were not allowed to build stations within</p>\n<p>central London.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Charles Pearson&#x27;s London Underground plan was a precursor of his Fleet Valley</p>\n<p>rail tunnel idea.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   The first section of the Metropolitan District Railway, opened in 1868, took five</p>\n<p>years to complete.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   The British government promised great financial returns to private investors to</p>\n<p>convince them to fund London Underground.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A Brief History of London Underground </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 7-10",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>7-10</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   During the first year of its operation, the Metropolitan Railway</p>\n<p><strong>A</strong>   encouraged passengers to grow beards to block the smell.</p>\n<p><strong>B</strong>   was not particularly successful.</p>\n<p><strong>C</strong>   had more than 11 million passengers.</p>\n<p><strong>D</strong>   was as bad as it is nowadays during the summer months.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   At the end of the 19th century,</p>\n<p><strong>A</strong>   London Underground stopped using shallow tunnels.</p>\n<p><strong>B</strong>   a new London Underground line was completed.</p>\n<p><strong>C</strong>   a new method of moving trains with electricity was invented.</p>\n<p><strong>D</strong>   the City and South London Railway was established.</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   The Victoria Line</p>\n<p><strong>A</strong>   was originally named the Viking Line.</p>\n<p><strong>B</strong>   was the first London Underground line to use electric traction.</p>\n<p><strong>C</strong>   was the fourth London Underground line to be built.</p>\n<p><strong>D</strong>   was built more than 70 years after its predecessor.</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   The London Passenger Transport Board</p>\n<p><strong>A</strong>   replaced the private companies that previously owned London Underground.</p>\n<p><strong>B</strong>   released the first diagram of the Underground map in 1933.</p>\n<p><strong>C</strong>   was established by private developers.</p>\n<p><strong>D</strong>   controlled most of London&#x27;s transport services.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A Brief History of London Underground </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 11-13",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from Reading Passage 2 for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>11-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>11</strong>   Since 2003, London commuters have been able to listen to <strong>11</strong> <input type=\"text\" /> in and</p>\n<p>outside London Underground stations.</p>\n<p><strong>12</strong>   London Underground not only attracted a lot of business to London but also</p>\n<p>helped it to become a <strong>12</strong> <input type=\"text\" /></p>\n<p><strong>13</strong>   London Underground does have its <strong>13</strong> <input type=\"text\" /> but it&#x27;s still a unique and</p>\n<p>important cultural phenomenon.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A Brief History of London Underground </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "81 Passage 2 - The Pioneer Anomaly Q14-28.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>The reading passage has seven sections, <strong>A-G</strong>.</p>\n<p>Which section contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   The contemporary context of John Anderson&#x27;s study</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   How Turyshev&#x27;s study was conducted</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   A description of the journey of the Pioneer aircraft</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   How data was normally cached at the time of the Pioneer launch</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Why Turyshev&#x27;s study couldn&#x27;t rely on new information</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   The name of a scientific publication</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   The original theories for the Pioneer anomaly</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pioneer Anomaly </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-25",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending <strong>A-H</strong> below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>21-25</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong>   played a pivotal role in Turyshev&#x27;s study.</p>\n<p><strong>B</strong>   coincided with another scientific breakthrough in its field.</p>\n<p><strong>C</strong>   leftover propellant had been expected to cause issues.</p>\n<p><strong>D</strong>   contradicted contemporary theories about the Pioneer spacecraft.</p>\n<p><strong>E</strong>   ceased communication later than its predecessor.</p>\n<p><strong>F</strong>   was inspected by former TRW engineers to confirm its authenticity.</p>\n<p><strong>G</strong>   exceeded all expectations in terms of quantity.</p>\n<p><strong>H</strong>   external factors had been taken into account in the planning stage.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   NASA&#x27;s Pioneer 10 spacecraft</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   The Planetary Society</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Some of the spacecraft&#x27;s deceleration was not a surprise because</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   John Anderson&#x27;s study</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   The data Turyshev used in his study</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pioneer Anomaly </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 26-28",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-H</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>26-28</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order.</em></p>\n<p>Which <strong>THREE</strong> of the following statements are true of Turshev&#x27;s study?</p>\n<p><strong>A</strong>   Former Pioneer team members were recruited to help to understand the</p>\n<p>data.</p>\n<p><strong>B</strong>   It was an initiative by the Planetary Society that instigated it.</p>\n<p><strong>C</strong>   It provided us with the first proof of extra dimensions.</p>\n<p><strong>D</strong>   It identified calefaction caused by the Pioneer design as the culprit behind the</p>\n<p>anomaly.</p>\n<p><strong>E</strong>   Parts of the Pioneer spacecraft were recreated to help with the study.</p>\n<p><strong>F</strong>   The analysis stage of the study was particularly time-consuming.</p>\n<p><strong>G</strong>   It proved that spacecraft with a design similar to the Pioneer 10 and 11 faced</p>\n<p>similar issues.</p>\n<p><strong>H</strong>   Turyshev was unhappy with the result of his investigation.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pioneer Anomaly </strong></p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "81 Passage 3 - The Future of Food Q29-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 29-33",
+          "group_instruction_html": "<p>Complete the summary.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>29-33</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>There are several not particularly <strong>29</strong> <input type=\"text\" /> theories as to what food might look</p>\n<p>like</p>\n<p>in the future, according to several organisations and food futurologists around the</p>\n<p>world. Morgaine Gaye, a prominent food futurologist, believes that meat is set to all but</p>\n<p>disappear from our daily diets again due to <strong>30</strong> <input type=\"text\" /> Professor Harpaz offers</p>\n<p>the same</p>\n<p>opinion, contending that <strong>31</strong> <input type=\"text\" /> will continue to become costlier and</p>\n<p>costlier. To</p>\n<p>fill the gap left by meat, he says, we will have no choice but to turn to <strong>32</strong></p>\n<p><input type=\"text\" />, with</p>\n<p>&quot;functional foods&quot; that will be aimed at each demographic. The only step we&#x27;ll need to</p>\n<p>take to get there is to manage to decode the <strong>33</strong> <input type=\"text\" /></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Future of Food </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 34-40",
+          "group_instruction_html": "<p>Complete the table.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer</p>\n<p><em>Write your answers in boxes </em><em><strong>34-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "exercise_set": "13",
+  "excercise_set": "13",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "13 Passage 1 - Learning By Examples Q1-13.pdf",
+      "answers": [
+        {
+          "question_number": 1,
+          "answer": "D"
+        },
+        {
+          "question_number": 2,
+          "answer": "A"
+        },
+        {
+          "question_number": 3,
+          "answer": "C"
+        },
+        {
+          "question_number": 4,
+          "answer": "E"
+        },
+        {
+          "question_number": 5,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 6,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 7,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 8,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 9,
+          "answer": "less"
+        },
+        {
+          "question_number": 10,
+          "answer": "social"
+        },
+        {
+          "question_number": 11,
+          "answer": "watched"
+        },
+        {
+          "question_number": 12,
+          "answer": "observer"
+        },
+        {
+          "question_number": 13,
+          "answer": "Nutcracker"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "13 Passage 2 - Tasmanian Tiger Q14-26.pdf",
+      "answers": [
+        {
+          "question_number": 14,
+          "answer": "black stripes"
+        },
+        {
+          "question_number": 15,
+          "answer": "12 million"
+        },
+        {
+          "question_number": 16,
+          "answer": "Australia"
+        },
+        {
+          "question_number": 17,
+          "answer": "European"
+        },
+        {
+          "question_number": 18,
+          "answer": "A"
+        },
+        {
+          "question_number": 19,
+          "answer": "D"
+        },
+        {
+          "question_number": 20,
+          "answer": "C"
+        },
+        {
+          "question_number": 21,
+          "answer": "B"
+        },
+        {
+          "question_number": 22,
+          "answer": "A"
+        },
+        {
+          "question_number": 23,
+          "answer": "D"
+        },
+        {
+          "question_number": 24,
+          "answer": "B"
+        },
+        {
+          "question_number": 25,
+          "answer": "D"
+        },
+        {
+          "question_number": 26,
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "13 Passage 3 - Music Language We All Speak Q27-40.pdf",
+      "answers": [
+        {
+          "question_number": 27,
+          "answer": "vi"
+        },
+        {
+          "question_number": 28,
+          "answer": "iv"
+        },
+        {
+          "question_number": 29,
+          "answer": "ii"
+        },
+        {
+          "question_number": 30,
+          "answer": "v"
+        },
+        {
+          "question_number": 31,
+          "answer": "vii"
+        },
+        {
+          "question_number": 32,
+          "answer": "F"
+        },
+        {
+          "question_number": 33,
+          "answer": "B"
+        },
+        {
+          "question_number": 34,
+          "answer": "E"
+        },
+        {
+          "question_number": 35,
+          "answer": "D"
+        },
+        {
+          "question_number": 36,
+          "answer": "G"
+        },
+        {
+          "question_number": 37,
+          "answer": "A"
+        },
+        {
+          "question_number": 38,
+          "answer": "C"
+        },
+        {
+          "question_number": 39,
+          "answer": "B"
+        },
+        {
+          "question_number": 40,
+          "answer": "C"
+        }
+      ]
+    }
+  ]
+}

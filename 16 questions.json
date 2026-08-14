@@ -1,0 +1,212 @@
+{
+  "exercise_set": "16",
+  "excercise_set": "16",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "16 Passage 1 - Grey Workers Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>1-4</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong>  if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Insurance company Sun Life of Canada made decision that it would hire more</p>\n<p>Canadian employees rather than British ones in order to get fresh staffs.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2 </strong>  Unlike other places, employees in Japan get paid according to the years they are</p>\n<p>employed</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Elder workers are laid off by some German companies which are refreshing corporate</p>\n<p>culture</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   according to Peter Hicks, companies pay older people more regardless of the</p>\n<p>contribution of they make.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-6",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A,</strong> <strong>B</strong>, <strong>C</strong>, <strong>D</strong>, <strong>E</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>5-6</strong></em><em> on your answer sheet. </em></p>\n<p>According to the passage there are several advantages to hire elder people, please</p>\n<p>choose <strong>TWO</strong> from below:</p>\n<p><strong>A</strong>   their productivity are more superior than the young.</p>\n<p><strong>B</strong>   paid less compared with younger ones.</p>\n<p><strong>C</strong>   run fast when there is a meeting</p>\n<p><strong>D </strong> have better inter-person relationship</p>\n<p><strong>E</strong>   identify problems in an advanced time</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Grey Workers </strong></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 7-8",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong>, <strong>D</strong>, <strong>E</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>7-8</strong></em><em> on your answer sheet. </em></p>\n<p>According to Mr. Peterson, Compared with elder employee, young graduates have</p>\n<p>several weaknesses in workplace, please choose <strong>TWO</strong> of them below:</p>\n<p><strong>A</strong>   they are not worth training.</p>\n<p><strong>B</strong>   their productivity is lower than counterparts.</p>\n<p><strong>C</strong>   they change work more often</p>\n<p><strong>D</strong>   their academic criteria is someway behind elders’.</p>\n<p><strong>E</strong>   they are normally high school graduates.</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>9-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   According to <em><strong>paragraph F</strong></em>, the firms and workers still hold the opinion that:</p>\n<p><strong>A</strong>   Older workers are more likely to attract other staff</p>\n<p><strong>B</strong>   people are not happy if pay gets lower in retiring age.</p>\n<p><strong>C</strong>   Older people have more retaining motivation than young people</p>\n<p><strong>D</strong>   young people often earn less for their piece-rates salary.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Grey Workers </strong></p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   SkillTeam that has been founded by IBM conducted which of following movement:</p>\n<p><strong>A</strong>   Ask all the old worker to continue their job on former working hours basis</p>\n<p><strong>B</strong>   Carry on the action of cutting off the elder’s proportion of employment</p>\n<p><strong>C</strong>   Ask employees to work more hours in order to get extra pay</p>\n<p><strong>D</strong>   Re-hire old employees and kept the salary a bit lower</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   Which of the followings is correct according to research of Mr Quinn:</p>\n<p><strong>A</strong>   About 50% of all employees in America switched into ‘bridge’ jobs.</p>\n<p><strong>B</strong>   Only the worst-paid continue to work.</p>\n<p><strong>C</strong>   More men than women fell into the category of ‘bridge’ work.</p>\n<p><strong>D</strong>   Some old people keep working for their motive rather than economic</p>\n<p>incentive.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   Which of the followings is correct according to David Storey:</p>\n<p><strong>A</strong>   70% business are successful if hire more older people.</p>\n<p><strong>B</strong>   Average success of self-employed business is getting lower.</p>\n<p><strong>C</strong>   Self-employed elder people are more likely to survive.</p>\n<p><strong>D</strong>   Older people’s working hours are more flexible.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   What is the main purpose of the author in writing this passage?</p>\n<p><strong>A</strong>   there must be a successful retiring program for the old</p>\n<p><strong>B</strong>   order people should be correctly valued in employment</p>\n<p><strong>C</strong>   old people should offer more helping young employees grow.</p>\n<p><strong>D</strong>   There are more jobs in the world that only employ older people</p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Grey Workers </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "16 Passage 2 - Computer Provides More Questions Than Answers Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>The Reading Passage has ten paragraphs <strong>A-J</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-J</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   Content inside the wreck ship</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Ancient astronomers and craftsman might involve</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   The location of Antikythera Mechanism</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   Details of how it was found</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Appearance and structure of the mechanism</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-22",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage, using <strong>NO MORE </strong></p>\n<p><strong>THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>19-22</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>An ancient huge sunk <strong>19</strong><input type=\"text\" />.. was found accidentally by sponges searcher.</p>\n<p>The ship loaded with <strong>20</strong><input type=\"text\" />.. such as bronze and sculptures. However, an</p>\n<p>archaeologist found a junk similar to a <strong>21</strong><input type=\"text\" />.. which has Greek script on it.</p>\n<p>This inspiring and elaborated device was found to be the first <strong>22</strong><input type=\"text\" /> in the</p>\n<p>world</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> Computer Provides More Questions Than Answers </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 23-26",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed <strong>A-C</strong>) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-F</strong></em><em> in boxes </em><em><strong>23-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once </em></p>\n<p><strong>A</strong></p>\n<p>Yanis Bitsakis</p>\n<p><strong>B</strong></p>\n<p>Mike Edmunds</p>\n<p><strong>C</strong></p>\n<p>François Charette</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   More complicated than previous device</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Anticipate to find more Antikythera Mechanism in the future</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Antikythera Mechanism was found related to moon</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Mechanism assisted ancient people to calculate movement of stars.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> Computer Provides More Questions Than Answers </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "16 Passage 3 - Mystery in Easter Island Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-30",
+          "group_instruction_html": "<p>The reading passage has seven paragraphs, <strong>A-G</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-G</strong> from the list below.</p>\n<p><em>Write the correct number, </em><em><strong>i-xi</strong></em><em>, in boxes </em><em><strong>27-30</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>There are more headings than paragraphs</em></p>\n<p><strong>List of headings </strong></p>\n<p><strong>i </strong></p>\n<p>The famous moai</p>\n<p><strong>ii</strong></p>\n<p>The status represented symbols of combined purposes</p>\n<p><strong>iii</strong></p>\n<p>The ancient spots which indicates scientific application</p>\n<p><strong>iv</strong></p>\n<p>The story of the name</p>\n<p><strong>v</strong></p>\n<p>Early immigrants, rise and prosperity</p>\n<p><strong>vi</strong></p>\n<p>The geology of Easter Island</p>\n<p><strong>vii </strong></p>\n<p>The begin of Thor Heyerdahl’s discovery</p>\n<p><strong>viii</strong></p>\n<p>The countering explaination to the misconceptions politaically</p>\n<p>manipulated</p>\n<p><strong>ix</strong></p>\n<p>Symbols of authority and power</p>\n<p><strong>x</strong></p>\n<p>The Navel of the World</p>\n<p><strong>xi</strong></p>\n<p>The norweigian Invaders’ legacy</p>\n<p><strong> </strong></p>\n<p><em>Example: Paragraph A </em></p>\n<p><em>iv</em><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Paragraph <strong>B </strong></p>\n<p><strong> </strong></p>\n<p><em>Example: Paragraph C </em></p>\n<p><em> </em></p>\n<p><em>i</em><strong> </strong></p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Paragraph <strong>D</strong><em> </em></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Paragraph <strong>E</strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Paragraph <strong>G</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mystery in Easter Island! </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 31-36",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>31-36</strong></em><em> on your answer sheet write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   The first inhabitants of Easter Island are Polynesian, from the Marquesas or Society</p>\n<p>islands.</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   Construction of some moai statues on the island was not finished.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   The Moai can be found not only on Easter Island but also elsewhere in Polynesia.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Most archeologists recognised the religious and astronomical functions for an</p>\n<p>ancient society.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   The structures of Easter Island work as an astronomical outpost for extraterrestrial</p>\n<p>visitors.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   the theory that depleted natural resources leading to the fail of Easter Island actual</p>\n<p>has a distorted perspective</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>37-40</strong></em><em> on your answer sheet. </em></p>\n<p>Many theories speculated that Easter Island’s fall around the era of the initial European</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>contact. Some say the resources are depleted by a <strong>37</strong><input type=\"text\" />..; The erroneous</p>\n<p>theories began with a root of the <strong>38</strong><input type=\"text\" />.. advanced by some scholars. Early</p>\n<p>writers did not have adequate <strong>39</strong><input type=\"text\" /> understandings to comprehend the</p>\n<p>true nature of events on the island. The social devastation was in fact a direct result of</p>\n<p><strong>40</strong> <input type=\"text\" /> of the first European settlers.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mystery in Easter Island! </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

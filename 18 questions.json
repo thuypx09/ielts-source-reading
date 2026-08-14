@@ -1,0 +1,215 @@
+{
+  "exercise_set": "18",
+  "excercise_set": "18",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "18 Passage 1 - California’s age of Megafires Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-6",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>1-6</strong></em><em> on your answer sheet. </em></p>\n<p>Experts point out that blazes in California are having more heat, faster speed and they</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>1</strong><input type=\"text\" />. more unpredictably compared with former ones. One explanation is</p>\n<p>that California’s summer is dry, <strong>2</strong><input type=\"text\" /> is below the average point. Another</p>\n<p>long term explanation is that hotter and longer potential days occur due to</p>\n<p><strong>3</strong><input type=\"text\" />.. Nowadays, Megafires burn <strong>4</strong><input type=\"text\" /> the size of forest area</p>\n<p>caused by an ordinary fire of 20 years ago. The serious trend is mainly caused by well-</p>\n<p>grown underbrush, which provides <strong>5</strong><input type=\"text\" />.. for the siege fires. Other</p>\n<p>contributors are climate change and extended <strong>6</strong><input type=\"text\" /></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 7-9",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>7-9</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   What is expert’s attitude towards California’s performance after 2003 megafire?</p>\n<p><strong>A</strong>   They could have done better</p>\n<p><strong>B</strong>   Blamed them on casualties</p>\n<p><strong>C</strong>   Improvement made on preparation</p>\n<p><strong>D</strong>   Serious criticism</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>California’s age of Megafires </strong></p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   According to Governor Schwarzenegger, which one is <strong>CORRECT</strong> about his effort for</p>\n<p>firefighting?</p>\n<p><strong>A</strong>   Schwarzenegger requested successfully for military weapons</p>\n<p><strong>B</strong>   Schwarzenegger led many prison management staff to work together with</p>\n<p>local fire fighters</p>\n<p><strong>C</strong>   Schwarzenegger acted negatively in recent megafire in California</p>\n<p><strong>D</strong>   Schwarzenegger ordered 1,500 office clerk to join firefighting scene.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   What happened to Ross Simmon on the day of megafire break out?</p>\n<p><strong>A</strong>   He was sleeping till morning</p>\n<p><strong>B</strong>   He was doing business at Hampton Inn</p>\n<p><strong>C</strong>   He suffered employee death on that morning</p>\n<p><strong>D</strong>   He was alarmed by machine calls</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 10-13",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p>In boxes <strong>10-13</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   The area of open space in California has declined during the past decade.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   Fire squad wants to recruit more firefighters this year.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   Firefighters union declared that firefighters have had more improved and</p>\n<p>supportive facility by the local government.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   Before the year of 2004, well coordination and communication between California</p>\n<p>and other states already existed in fire siege.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>California’s age of Megafires </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "18 Passage 2 - Ancient Storytelling Q 14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>The Reading Passage has eight paragraphs <strong>A-H</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   A misunderstanding of a modern way for telling stories</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   The typical forms mentioned for telling stories</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   The fundamental aim of storytelling</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   A description of reciting stories without any assistance</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   How to make story characters attractive</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-22",
+          "group_instruction_html": "<p>Classify the following information as referring to</p>\n<p><strong>A</strong>   adopted the writing system from another country</p>\n<p><strong>B</strong>   used organic materials to record stories</p>\n<p><strong>C</strong>   used tools to help to tell stories</p>\n<p><em>Write the correct letter, </em><em><strong>A</strong></em><em>, </em><em><strong>B</strong></em><em> or </em><em><strong>C</strong></em><em> in boxes </em><em><strong>19-22</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Egyptians</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   Ojibway</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Polynesians</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   Greek</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient Storytelling </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 23-26",
+          "group_instruction_html": "<p>Complete the sentences below with <strong>ONE WORD ONLY</strong> from the passage.</p>\n<p><em>Write your answer in boxes </em><em><strong>23-26</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Aristotle wrote a book on the art of storytelling called</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Aristotle believed the most powerful type of story to move listeners is</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Aristotle viewed Homers works as</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Aristotle believed attractive heroes should have some</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient Storytelling </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "18 Passage 3 - Paper of Computer Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-32",
+          "group_instruction_html": "<p>The reading passage has seven paragraphs, <strong>A-F</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-F</strong> from the list below.</p>\n<p><em>Write the correct number, </em><em><strong>i-x</strong></em><em>, in boxes </em><em><strong>27-32</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of headings </strong></p>\n<p><strong>i </strong></p>\n<p>paper continued as a sharing or managing must</p>\n<p><strong>ii</strong></p>\n<p>piles can be more inspiring rather than disorgnising</p>\n<p><strong>iii</strong></p>\n<p>Favorable situation that economists used paper pages</p>\n<p><strong>iv</strong></p>\n<p>overview of an unexpected situation: paper survived</p>\n<p><strong>v</strong></p>\n<p>comparison between efficiencies for using paper and using computer</p>\n<p><strong>vi</strong></p>\n<p>IMF’s paperless office seemed to be a waste of papers</p>\n<p><strong>vii </strong></p>\n<p>example of failure for avoidance of paper record</p>\n<p><strong>viii</strong></p>\n<p>There are advantages of using a paper in offices</p>\n<p><strong>ix</strong></p>\n<p>piles reflect certain characteristics in people’s thought</p>\n<p><strong>x</strong></p>\n<p>joy of having the paper square in front of computer</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Paragraph <strong>E</strong></p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   Paragraph <strong>F</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Paper of Computer? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-36",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>33-36</strong></em><em> on your answer sheet. </em></p>\n<p>Compared with digital documents, paper has several advantages. First it allows clerks to</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>work in a <strong>33</strong><input type=\"text\" /> way among colleagues. Next, paper is not like virtual</p>\n<p>digital version, it’s <strong>34</strong><input type=\"text\" />.. Finally, because it is <strong>35</strong><input type=\"text\" />., note</p>\n<p>or comments can be effortlessly added as related information. However, shortcoming</p>\n<p>comes at the absence of convenience on task which is for a <strong>36</strong><input type=\"text\" />.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>37-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37   </strong>What do the <em><strong>economists </strong></em>from <em><strong>IMF </strong></em>say that their way of writing documents?</p>\n<p><strong>A</strong>   they note down their comments for freedom on the drafts</p>\n<p><strong>B</strong>   they finish all writing individually</p>\n<p><strong>C </strong>  they share ideas on before electronic version was made</p>\n<p><strong>D</strong>   they use electronic version fully</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   What is the implication of the <em><strong>“Piles” </strong></em>mentioned in the passage?</p>\n<p><strong>A</strong>   they have underlying orders</p>\n<p><strong>B</strong>   they are necessarily a mess</p>\n<p><strong>C</strong>   they are in time sequence order</p>\n<p><strong>D</strong>   they are in alphabetic order</p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Paper of Computer? </strong></p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   What does the <em><strong>manager </strong></em>believe in sophisticated economy?</p>\n<p><strong>A</strong>   recorded paper can be as management tool</p>\n<p><strong>B</strong>   carbon paper should be compulsory</p>\n<p><strong>C</strong>   Teamwork is the most important</p>\n<p><strong>D</strong>   monthly report is the best way</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   According to the end of this passage, what is the reason <em><strong>why paper is not replaced </strong></em></p>\n<p>by electronic vision?</p>\n<p><strong>A </strong>  paper is inexpensive to buy</p>\n<p><strong>B</strong>   it contributed to management theories in western countries</p>\n<p><strong>C</strong>   people need time for changing their old habit</p>\n<p><strong>D</strong>   it is collaborative and functional for tasks implement and management</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Paper of Computer? </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

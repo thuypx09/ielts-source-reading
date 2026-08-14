@@ -1,0 +1,200 @@
+{
+  "exercise_set": "97",
+  "excercise_set": "97",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "97 Passage 1 - Timekeeper Invention of Marine Chronometer Q1-14.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1 </strong>  a description of Harrison’s background</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2 </strong>  problems caused by poor ocean navigation</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   the person who gave financial support to Harrison</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4 </strong>  an analysis of the long-term importance of sea clock invention</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   the practical usage of longitude</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 6-8",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p>In boxes <strong>6-8</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   In theory, sailors can easily calculate their longitude position at sea.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   To determine longitude, the measurement of the distance from the Moon to the</p>\n<p>given star is a must.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Greenwich Mean Time was set up by the English navigators.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Timekeeper: Invention of Marine Chronometer </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-14",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>9-14</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>9 </strong>  Sailors were able to use the position of the Sun to calculate <input type=\"text\" /></p>\n<p><strong>10</strong>   An invention that could win the competition would lose no more than</p>\n<p><input type=\"text\" />. every day.</p>\n<p><strong>11</strong>   John and James Harrison’s clock worked accurately without <input type=\"text\" />.</p>\n<p><strong>12</strong>   Harrison’s main competitor’s invention was known as <input type=\"text\" />.</p>\n<p><strong>13</strong>   Hadley’s instrument can use <input type=\"text\" />. to make a calculation of location of</p>\n<p>ships or planes.</p>\n<p><strong>14</strong>   The modem version of Harrison’s invention is called <input type=\"text\" /></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Timekeeper: Invention of Marine Chronometer </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "97 Passage 2 - The Evolutionary Mystery Crocodile Survives Q15-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 15-21",
+          "group_instruction_html": "<p>Reading Passage 2 has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Choose the correct heading for each paragraph from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-xi</strong></em><em>, in boxes </em><em><strong>15-21</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>The favourable feature in the impact of a drought</p>\n<p><strong>ii</strong></p>\n<p>A unique finding that was recently achieved</p>\n<p><strong>iii</strong></p>\n<p>Slow metabolism which makes crocodile a unique reptile</p>\n<p><strong>iv</strong></p>\n<p>The perfectly designed body for a great land roamer</p>\n<p><strong>v</strong></p>\n<p>Shifting eating habits and food intake</p>\n<p><strong>vi</strong></p>\n<p>A project on a special mechanism</p>\n<p><strong>vii</strong></p>\n<p>Regulating body temperature by the surrounding environment</p>\n<p><strong>viii</strong></p>\n<p>Underwater aid in body structure offered to a successful predator</p>\n<p><strong>ix</strong></p>\n<p>A historical story for the supreme survivors</p>\n<p><strong>x</strong></p>\n<p>What makes the crocodile the fastest running animal on land</p>\n<p><strong>xi</strong></p>\n<p>The competition between the crocodiles and other animals</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Paragraph <strong>E</strong></p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20 </strong>  Paragraph <strong>F</strong></p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Paragraph <strong>G</strong></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Evolutionary Mystery: Crocodile Survives </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 22-27",
+          "group_instruction_html": "<p>Complete the summary below,</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>22-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong>Aestivation </strong></p>\n<p>In many places inhabited by crocodilians, most types of crocodiles have evolved a</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>successful scheme to survive in the drought brought by a <strong>22 </strong><input type=\"text\" />. According</p>\n<p>to Kennett and Christian’s six-year study of Australian freshwater crocodiles’ aestivation,</p>\n<p>they found estivating crocodiles spent around <strong>23</strong> <input type=\"text\" /> of the year and had</p>\n<p>no access to <strong>24</strong> <input type=\"text\" /> The amount of water in the body declined proportionately</p>\n<p>with <strong>25</strong><input type=\"text\" />; thus there is no sign of <strong>26</strong> <input type=\"text\" />... and other health-</p>\n<p>damaging impact on the crocodiles even after an aestivation period. This super capacity</p>\n<p>helps crocodiles endure the tough drought without slowing their speed of</p>\n<p><strong>27</strong><input type=\"text\" />.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Evolutionary Mystery: Crocodile Survives </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "97 Passage 3 - Company Innovation Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-33",
+          "group_instruction_html": "<p>Reading Passage 3 has nine paragraphs, <strong>A-I</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p>Write the correct letter, <strong>A-I</strong>, in boxes <strong>28-33</strong> on your answer sheet.</p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   an approach to retain the best employees</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   safeguarding expenses on innovative ideas</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   a certain counter-effect produced by integrating outside firms</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   an example of three famous American companies’ innovation</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   an example of one company changing its focus</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   an example of a company resolving financial difficulties itself</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 34-37",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>34-37</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Company Innovation </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Umagic is the most successful innovative company in this new field.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Amazon and Wal-Mart exchanged their innovation experience.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   New ideas’ holders had already been known to take it to small companies in the</p>\n<p>past.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   IBM failed to understand Umagic’s proposal of a new idea.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 38-40",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>38-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   What is the author’s opinion on innovation in paragraph C?</p>\n<p><strong>A</strong>   It only works for big companies.</p>\n<p><strong>B</strong>   <em>Fortune</em> magazine has a globally huge influence.</p>\n<p><strong>C</strong>   It is becoming increasingly important.</p>\n<p><strong>D</strong>   Its effects on American companies are more evident.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   What is Peter Chernin’s point of view on innovation?</p>\n<p><strong>A </strong>  Small companies are more innovative than big ones.</p>\n<p><strong>B </strong>  Film industry needs more innovation than other industries.</p>\n<p><strong>C </strong>  We need to cut the cost when risks occur.</p>\n<p><strong>D</strong>   New ideas are more likely going to big companies.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   What is the author’s opinion on innovation at the end of this passage?</p>\n<p><strong>A</strong>   Umagic success lies on the accidental ‘virtual expert’.</p>\n<p><strong>B</strong>   Innovation is easy and straightforward.</p>\n<p><strong>C  </strong> IBM sets a good example on innovation.</p>\n<p><strong>D</strong>   The author’s attitude is uncertain on innovation.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Company Innovation </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

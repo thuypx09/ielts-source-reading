@@ -1,0 +1,267 @@
+{
+  "exercise_set": "41",
+  "excercise_set": "41",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "41 Passage 1 - Man or Machine Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-6",
+          "group_instruction_html": "<p>Reading passage 1 has six paragraphs, <strong>A-F</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em>, in boxes </em><em><strong>1-6</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   different ways of using robots</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   a robot whose body has the same proportion as that of an adult</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   the fact that human can be copied and replaced by robots</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   a comparison between ASIMO for Honda and other robots</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   the pros and cons of creating robots</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   a robot that has eyebrows</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 7-13",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage 1.</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>7-13</strong></em><em> on your answer sheet. </em></p>\n<p>In 2003, Massachusetts displayed a robot named ASIMO which was invented by Honda,</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>after a period of <strong>7</strong><input type=\"text\" /> in the making. The operating information is stored in</p>\n<p>the computer in its <strong>8</strong><input type=\"text\" /> so that scientists can control <em><strong>ASIMO’s</strong></em> movement.</p>\n<p>While Japan is making great progress, MIT is developing robots that are human-like and</p>\n<p>can <strong>9</strong><input type=\"text\" />. Humans. What is special about Kismet is that it has different</p>\n<p><strong>10</strong><input type=\"text\" /> which can be read by human interlocutors. <strong>11</strong><input type=\"text\" /> is</p>\n<p>another robot from MIT, whose body’s proportion is the same as an adult. By</p>\n<p>responding to the surroundings through <strong>12</strong><input type=\"text\" />., it could develop its</p>\n<p><strong>13</strong><input type=\"text\" /></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Man or Machine </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 1",
+      "file_name": "41 Passage 1 - Rural transport plan of Practical action Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-4</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   A slow-developing economy often can not afford some road networks, especially for</p>\n<p>those used regardless of weather conditions.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Rural communities’ officials know how to improve alternative transport technically.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   The primary aim for Practical Action to improve rural transport infrastructures is</p>\n<p>meant to increase the trade among villages.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   <em>Lanka Organic Agriculture Movement</em> provided service that Practical Action highly</p>\n<p>involved in.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-8",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5 </strong>  What is the first duty for many rural communities to reach unrestricted</p>\n<p>development?</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   What was one of the new ideas to help poor people carry their goods, such as</p>\n<p>vegetables and charcoal, to markets for sale?</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   What service has put an end to rural people’s social isolation in Sri Lanka?</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   What solution had been applied for people who live in remote mountainous areas</p>\n<p>getting food to market?</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Rural transport plan of “Practical action” </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage.</p>\n<p>Using <strong>NO MORE THAN TWO WORD</strong>S from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>9-13</strong></em><em> on your answer sheet. </em></p>\n<p>Besides normal transport task, changes are also implemented to the trailers in these</p>\n<p>workshops at the request of the buyers when it was used on a medical emergency or a</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>moveable <strong>9</strong><input type=\"text\" />; ‘Ambulance’ is made from metal, with rubber wheels and</p>\n<p>drive-by another bicycle. When put with <strong>10</strong><input type=\"text\" /> in the two-wheeled</p>\n<p>‘ambulance’, the patient can stay comfortable and which another <strong>11</strong><input type=\"text\" />. can</p>\n<p>sit on caring for the patient in transport journey. In order to dismantle or attach other</p>\n<p>equipment, an assembling <strong>12</strong><input type=\"text\" /> is designed. Later, as users suggest,</p>\n<p><strong>13</strong><input type=\"text\" />.. has also been added to give protection to the patient.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Rural transport plan of “Practical action” </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "41 Passage 2 - Malaria Combat in Italy Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-17",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage 2</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>14-17</strong></em><em> on your answer sheet. </em></p>\n<p>Theories for malaria origin have always been the issue of research for medical</p>\n<p>practitioners from ancient time. Although the link between malaria and mosquito was</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>established lately, it has been recorded in words that <strong>14</strong><input type=\"text\" />.., including</p>\n<p>mosquito, may play the major culprits. In the 19th century, most experts rejected the</p>\n<p>idea of the miasma theory which related malaria to <strong>15</strong><input type=\"text\" />.. Even another</p>\n<p>widespread theory arose that southern Italians were blamed, to whom malaria was</p>\n<p><strong>16</strong><input type=\"text\" />. In southern Italy, the situation became so severe that near half the</p>\n<p>Italians population was thought to be “permanently at risk”. In malarial areas the</p>\n<p><strong>17</strong><input type=\"text\" />. Of rural workers was surprisingly shorter. In the 1880s, such theories</p>\n<p>began to withdraw as the mosquito was identified as the true cause.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 18-21",
+          "group_instruction_html": "<p>Do the following statements agree with the claims of the writer in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>18-21</strong></em><em> on your answer sheet write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the claims of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the claims of the writer</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   The volunteers in Grassi experiments were from all parts over Italy.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Healthy people could remain safe in malaria – infectious zone if they did not have</p>\n<p>mosquito bites.</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   Quinine is an effective drug which had long been used to combat malaria.</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Eradicating malaria was a goal combined both medical and political significance.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Malaria Combat in Italy </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 22-27",
+          "group_instruction_html": "<p>Reading Passage 2 has 8 paragraphs, <strong>A-H</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em> in boxes </em><em><strong>22-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   A breakthrough was found that mosquito was the carrier of malaria</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   A scientist intentionally failed to restrict the epidemic area.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   This successful story still holds true for today’s readers worldwide.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   One of the final cases reported dying of malaria in Italy</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   the negative symptoms of the highly effective drug</p>"
+            },
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   A list of the speculative hypothesis was cited.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Malaria Combat in Italy </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "41 Passage 3 - Video Games Unexpected Benefits to Human Brain Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-31",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>28-31</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   What is the main purpose of paragraph <em><strong>ONE</strong></em>?</p>\n<p><strong>A</strong>   Introduction of professor James Paul Gee.</p>\n<p><strong>B</strong>   Introduction of the video game: Pajamas Sam.</p>\n<p><strong>C</strong>   Introduction of types of video games.</p>\n<p><strong>D</strong>   Introduction of the background of this passage.</p>\n<p>3</p>\n<p><strong>Passage 3                                                                           Video Games’ Unexpected Benefits to Human Brain </strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   What does the author want to express in the <em><strong>second</strong></em> paragraph?</p>\n<p><strong>A</strong>   Video games are widely considered harmful for children’s brain.</p>\n<p><strong>B</strong>   Most violent video games are a direct reason for juvenile delinquency.</p>\n<p><strong>C</strong>   Even there is a certain proportion of violence in most video games; scientists</p>\n<p>and psychologists see its benefits of children’s intellectual abilities.</p>\n<p><strong>D</strong>   Many parents regard video games as time-wasters, which rot children’s brain.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   What is correctly mentioned in paragraph <em><strong>four</strong></em>?</p>\n<p><strong>A</strong>   Some schools use video games to teach students abstract and high-level</p>\n<p>thinking.</p>\n<p><strong>B</strong>   Video games improve brain ability in various aspects.</p>\n<p><strong>C</strong>   some surgeons have better skills because they play more video games.</p>\n<p><strong>D</strong>   Skillful fighter pilots in this generation love to play video games.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   What is the expectation of the experiment the three researchers did?</p>\n<p><strong>A</strong>   Gamers have to make the best use of the limited resource.</p>\n<p><strong>B</strong>   Gamers with better math skills will win in the end.</p>\n<p><strong>C</strong>   Strategy game players have a better ability to make quick decisions.</p>\n<p><strong>D</strong>   Video games help increase the speed of the players’ reaction effectively.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-35",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-35</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p>4</p>\n<p><strong>Passage 3                                                                           Video Games’ Unexpected Benefits to Human Brain </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32   </strong>Most video games are popular because of their violent content.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   The action game players minimized the percentage of making mistakes in the</p>\n<p>experiment.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   It would be a good idea for schools to apply video games in their classrooms.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Those people who are addicted to video games have lots of dopamine in their</p>\n<p>brains.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed <strong>A-F</strong>) with opinion or</p>\n<p>deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-F</strong></em><em> in boxes </em><em><strong>36-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong>   The writer’s opinion</p>\n<p><strong>B</strong>   James Paul Gee</p>\n<p><strong>C</strong>   Shawn Green</p>\n<p><strong>D</strong>   Daphne Bavelier</p>\n<p><strong>E</strong>   Steven Johnson</p>\n<p><strong>F</strong>   Jacob Benjamin</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Video games as other daily life skills alter the brain’s physical structure.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   The brain is ready to make decisions without hesitation when players are immersed</p>\n<p>in playing stressful games.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   The purpose-motivated experience that video games offer plays an essential role in</p>\n<p>studying.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Players are good at tackling prompt issues with future intentions.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   It helps children broaden their horizon in many aspects and gain self-confidence.</p>\n<p>5</p>\n<p><strong>Passage 3                                                                           Video Games’ Unexpected Benefits to Human Brain </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

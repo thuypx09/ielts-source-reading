@@ -1,0 +1,146 @@
+{
+  "exercise_set": "47",
+  "excercise_set": "47",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "47 Passage 1 - T-Rex Hunter Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p>In boxes <strong>1-7</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1   </strong>Jack Horner knew exactly the bone belonged to a certain dinosaur when he was in</p>\n<p>father’s ranch at the age of 8.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Jack Horner achieved a distinctive degree in university when he graduated.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Jack Horner is the first man that discovered T-Rex’s bone in the world.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Jack Horner believes that the number of prey should be more than that of the</p>\n<p>predator.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   T-rex’s number is equivalent to the number of vulture in the Serengeti.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   The hypothesis that T-rex is top predator conflicts with the fact of the predator-prey</p>\n<p>ratio which Jack found.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7 </strong>  He refused to accept any other viewpoints about T-rex’s category.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 8-13",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage.</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>8-13</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Jack Horner found that T-rex’s <strong>8</strong><input type=\"text\" />. is shorter than the thigh bone, which</p>\n<p>demonstrated that it was actually a <strong>9</strong><input type=\"text\" />., unlike other swift animals such</p>\n<p>as ostrich or <strong>10</strong><input type=\"text\" />... that was built to <strong>11</strong><input type=\"text\" />.. Another explanation</p>\n<p>supports his idea is that T-rex’s teeth were rather <strong>12</strong><input type=\"text\" />.., which only</p>\n<p>allowed T-rex to <strong>13</strong><input type=\"text\" />.. hard bones instead of tearing flesh like <em><strong>Velociraptor</strong></em>.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>T-Rex Hunter </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "47 Passage 2 - Detection of a meteorite Lake Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>23-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   With the investigation of the lake, the scientist may predict the climate changes in</p>\n<p>the future.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   The crater resulted from a meteorite impact is the largest and most preserved one</p>\n<p>in the world.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   The water stored in lake Bosumtwi was gone only by seeping through the lake</p>\n<p>sediments.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   Historical climate changes can be detected by the analysis of the sediment in the</p>\n<p>lake.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   The greatest obstacle to the research of scientists had been the interference by the</p>\n<p>locals due to their indigenous believes.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Detection of a meteorite Lake </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-22",
+          "group_instruction_html": "<p>There are three steps of collecting data from the lake as followings, please fill the blanks</p>\n<p>in the Flow Chart below:</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 23-27",
+          "group_instruction_html": "<p>Complete the following summary of the paragraph of Reading Passage.</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>23-27</strong></em><em> on your answer sheet. </em></p>\n<p>The boat-double R/V Kilindi crossed the lake was dismantled and stored in a</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>23</strong><input type=\"text\" />. The technology they used called <strong>24</strong><input type=\"text\" />; They created</p>\n<p>sound energy into 1000-2000 metres into the bottom of the lake and used separate</p>\n<p>equipment to collect the returned waves. Then the data had been analyzed and</p>\n<p>processed in the <strong>25</strong><input type=\"text\" /> Scholz also added that they were now building</p>\n<p><strong>26</strong><input type=\"text\" />. View of the sediment or sub-image in the bottom of the lake. The</p>\n<p>whole set of equipment works well yet the ship should avoid physical barrier including</p>\n<p>tree stumps or <strong>27</strong><input type=\"text\" />. Floating on the surface of the lake.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Detection of a meteorite Lake </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "47 Passage 3 - Elephant communication Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-31",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>28-31</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 32-38",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage.</p>\n<p>Using <strong>NO MORE THREE WORDS OR A NUMBER</strong> from the Reading Passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>32-38</strong></em><em> on your answer sheet. </em></p>\n<p>How the elephants sense these sound vibrations is still unknown, but O’Connell-</p>\n<p>Rodwell, a fresh graduate in entomology at the University of Hawaii, proposes that the</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>elephants are “listening” with their <strong>32</strong><input type=\"text\" />.., by two kinds of nerve endings –</p>\n<p>that responds to vibrations with both <strong>33</strong><input type=\"text\" />.. frequency and slightly higher</p>\n<p>frequencies. O’Connell-Rodwell work is at the combination of geophysics,</p>\n<p>neurophysiology and <strong>34</strong><input type=\"text\" />.,” and it also was the first to indicate that a large</p>\n<p>land animal also is sending and receiving <strong>35</strong><input type=\"text\" />., O’Connell-Rodwell noticed</p>\n<p>the freezing behavior by putting a male planthopper communicative approach other</p>\n<p>than <strong>36</strong><input type=\"text\" />.”</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Elephant communication </strong></p>\n<p>Scientists have determined that an elephant’s ability to communicate over long</p>\n<p>distances is essential, especially, when elephant herds are finding a <strong>37</strong><input type=\"text\" />.., or</p>\n<p>are warning of predators. Finally, the results of our 2002 study showed us that</p>\n<p>elephants can detect warning calls played through the <strong>38</strong><input type=\"text\" />..”</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 39-40",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>39-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   According to the passage, it is determined that an elephant need to communicate</p>\n<p>over long distances for its survival</p>\n<p><strong>A</strong>   When a threatening predator appears.</p>\n<p><strong>B</strong>   When young elephants meet humans.</p>\n<p><strong>C</strong>   When older members of the herd want to flee from the group.</p>\n<p><strong>D</strong>   When a male elephant is in estrus.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   What is the author’s attitude toward the experiment by using three different</p>\n<p>recordings in the paragraph:</p>\n<p><strong>A</strong>   the outcome is definitely out of the original expectation</p>\n<p><strong>B</strong>   the data can not be very clearly obtained</p>\n<p><strong>C</strong>   the result can be somewhat undecided or inaccurate</p>\n<p><strong>D </strong>  the result can be unfamiliar to the public</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Elephant communication </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

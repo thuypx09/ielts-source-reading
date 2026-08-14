@@ -1,0 +1,129 @@
+{
+  "exercise_set": "66",
+  "excercise_set": "66",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "66 Passage 1 - The Mysteries of Water Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Reading Passage 1 has six sections, <strong>A-F</strong>.</p>\n<p>Choose the correct heading for sections <strong>B-F</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-viii</strong></em><em>, in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>a significant role to creatures</p>\n<p><strong>ii</strong></p>\n<p>spectrum’s previous models</p>\n<p><strong>iii</strong></p>\n<p>a distinction of hydrogen bonds</p>\n<p><strong>iv</strong></p>\n<p>nature’s mysteries in the small place</p>\n<p><strong>v</strong></p>\n<p>the effect of the spectrum on liquid water</p>\n<p><strong>vi</strong></p>\n<p>molecular composition of water</p>\n<p><strong>vii</strong></p>\n<p>water based on infrared light</p>\n<p><strong>viii</strong></p>\n<p>on-body structure of water</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Mysteries of Water </strong></p>\n<p>Example</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "66 Passage 2 - Vehicle Safety Systems Q14-28.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>\n<p>2</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Vehicle Safety Systems </strong></p>\n<p>Every month there are about 3,400 people hit by a car in the US and a similar number of</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>casualties in <strong>14</strong><input type=\"text\" /> Actually, around 30% of them are a result of</p>\n<p><strong>15</strong><input type=\"text\" /> or its frame. To decrease road traffic accidents, a European-wide</p>\n<p>collaboration devised automatic lifting rear of <strong>16</strong><input type=\"text\" />., and a</p>\n<p><strong>17</strong><input type=\"text\" />. Ahead of the windscreen working at the same time.</p>\n<p>Hardy’s team has researched a system to cushion impacts with the outline of</p>\n<p><strong>18</strong><input type=\"text\" />.. It includes an easily bent and <strong>19</strong><input type=\"text\" />.. metal frame with</p>\n<p>the windscreen and frame separated. But he said: According to law, although having</p>\n<p>safety devices for protection against a crash, now any manufacture companies to</p>\n<p>harness these devises could not have <strong>20</strong><input type=\"text\" /></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-25",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending, <strong>A-G</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>21-25</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   A European-wide collaboration</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   European Union-funded Integrated Project</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   APROSYS collaboration</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Euro NCAP</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Poor Euro NCAP</p>\n<p><strong>A</strong>     be part of schemes to decrease hazardous situations for pedestrians.</p>\n<p><strong>B</strong>     help judge less safe vehicle models between buyers and companies.</p>\n<p><strong>C</strong>     improve testing under the condition that a crash decreased.</p>\n<p><strong>D</strong>     make a solution within the frequency of tests for safe pedestrians.</p>\n<p><strong>E</strong>     study how replacing a lorry’s front side protects pedestrians.</p>\n<p><strong>F</strong>     be persuasive as a selling point.</p>\n<p><strong>G</strong>    improve a pedestrian’s chances.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Vehicle Safety Systems </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 26-28",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>26-28</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Which one of the following is found in the passage?</p>\n<p><strong>A</strong>   the number of traffic accidents and rubbish on the road</p>\n<p><strong>B </strong>  the amount of petrol gas misused and recycled</p>\n<p><strong>C</strong>   the number of casualties in traffic accidents on the road</p>\n<p><strong>D </strong>  the cases of car insurance in a court</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   What are the main technical devices made by Roger Hardy?</p>\n<p><strong>A</strong>   brake system</p>\n<p><strong>B </strong>  automatic both bonnet and airbag system</p>\n<p><strong>C</strong>   instant front door and trunk open</p>\n<p><strong>D </strong>  anti-slip tires during heavy rain and snow</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   The writer believed that the “Hardy’s team” on the system could</p>\n<p><strong>A</strong>   decrease in the Head Impact Criterion (HIC) score until over half per cent.</p>\n<p><strong>B </strong>  be almost as safe as computer simulation tests.</p>\n<p><strong>C</strong>   be causing significant damage to half per cent of the Head Impact Criterion</p>\n<p>(HIC).</p>\n<p><strong>D </strong>  reduce converting the windscreen airbag.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Vehicle Safety Systems </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "66 Passage 3 - The Harmony of Food and Drink Q29-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 29-34",
+          "group_instruction_html": "<p>Reading Passage 3 has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>29-34</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   cooked food relative to human evolution and structure of teeth</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   a change of food taste and the importance of preparation</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   problems of population crash caused by overfishing</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   the earlier hunting of humans</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   overweight influenced by genes and overeating</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   indifference to genetic modification of crop plants</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 35-40",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>35-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>35</strong>   Food is one of the human sustainable materials of<input type=\"text\" />.</p>\n<p><strong>36</strong>   <input type=\"text\" /> might be the first creature to be tamed for farming.</p>\n<p><strong>37</strong>   The population has increased over the last 200 years, accelerating with technology</p>\n<p>triggered<input type=\"text\" />..</p>\n<p><strong>38</strong>   <input type=\"text\" />. is yielded with less environmental damage and non-fertilisers.</p>\n<p><strong>39</strong>   From overeating fats and sugars, modern people are suffering from<input type=\"text\" /></p>\n<p><strong>40</strong>   Health problems have been linked to <input type=\"text\" />. Which makes fat cells</p>\n<p>increase.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Harmony of Food and Drink </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

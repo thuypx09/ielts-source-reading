@@ -1,0 +1,171 @@
+{
+  "exercise_set": "55",
+  "excercise_set": "55",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "55 Passage 1 - CONTROLLING DEATHWATCH BEETLES Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending <strong>A-H</strong> below.</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em> in boxes </em><em><strong>1-4</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>1</strong>   One species of the beetle population may spread <input type=\"text\" /></p>\n<p><strong>2 </strong>  You can detect the presence of beetles <input type=\"text\" />..</p>\n<p><strong>3</strong>   You may kill household spiders <input type=\"text\" />..</p>\n<p><strong>4</strong>   Beetles will disappear at a faster rate</p>\n<p><strong>A</strong>     if the building is kept in good condition.</p>\n<p><strong>B</strong>     if you clog the suspected holes with furniture polish, paper or card.</p>\n<p><strong>C</strong>     if the temperature rises to above about 17° C during the emergence season.</p>\n<p><strong>D</strong>     if you use a contact insecticide.</p>\n<p><strong>E</strong>     if it was installed a few decades earlier.</p>\n<p><strong>F </strong>    if changes in weather patterns continue.</p>\n<p><strong>G</strong>     if the use of surface treatments is avoided.</p>\n<p><strong>H</strong>     if the wood has a low sapwood concentration.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-9",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>5-9</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the writer’s claims</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the writer’s claims</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Infestation by beetles deep within modified heartwood can be identified by the type</p>\n<p>of hole visible.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Clogging a hole with furniture polish or paper will trap the beetle inside permanently.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Paste insecticides are less effective than any other kind.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>CONTROLLING DEATHWATCH BEETLES </strong></p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Surface spray treatments are sometimes effective for the House Longhorn Beetle.</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   Heat treatments tend to cause less damage than other treatments.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 10-13",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10 </strong>  The point the writer makes about deathwatch beetles is that</p>\n<p><strong>A</strong>   they must be eliminated quickly.</p>\n<p><strong>B</strong>   only natural predation will keep them under control.</p>\n<p><strong>C</strong>   with good maintenance it may be possible to eliminate them.</p>\n<p><strong>D</strong>   they are here to stay and do great damage.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11 </strong>  one way to trap deathwatch beetles is to attract them to</p>\n<p><strong>A</strong>   daylight.</p>\n<p><strong>B</strong>   a totally dark environment.</p>\n<p><strong>C</strong>   a constantly warm environment.</p>\n<p><strong>D</strong>   a light trap in a dark place.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12 </strong>  Surface spray treatments are not effective because</p>\n<p><strong>A</strong>   the beetles are immune to them.</p>\n<p><strong>B</strong>   they do not reach the beetles.</p>\n<p><strong>C</strong>   they react poorly to wooden surfaces.</p>\n<p><strong>D</strong>   they attract other harmful creatures.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13 </strong>  Damage by the House Longhorn Beetle is sometimes found further afield than</p>\n<p>London because</p>\n<p><strong>A</strong>   temperatures have increased.</p>\n<p><strong>B</strong>   the timber was not local timber.</p>\n<p><strong>C</strong>   there was no effective treatment previously.</p>\n<p><strong>D</strong>   the type of timber has changed.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>CONTROLLING DEATHWATCH BEETLES </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "55 Passage 2 - Therapeutic Jurisprudence Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Complete the notes below.</p>\n<p>Choose <strong>NO MORE THAN ONE WORD</strong> from the passage for each answer.</p>\n<p><strong>NOTES: Therapeutic Jurisprudence </strong></p>\n<p><strong>Therapeutic Jurisprudence: </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>study of the law as a therapeutic <strong>14</strong><input type=\"text\" />.. and the therapeutic and</p>\n<p><strong>15</strong><input type=\"text\" /> consequences of the law.</p>\n<p><strong> </strong></p>\n<p><strong>Goal: </strong></p>\n<p>the <strong>16</strong> <input type=\"text\" />. of the law, but NOT at the expense of <strong>17</strong><input type=\"text\" /></p>\n<p>and due process.</p>\n<p><strong> </strong></p>\n<p><strong>Applicable to: </strong></p>\n<p>especially applicable to the role of legal <strong>18</strong> <input type=\"text\" /> such as judges and</p>\n<p>lawyers</p>\n<p><strong> </strong></p>\n<p><strong>Therapeutic jurisprudence = new attitude </strong></p>\n<p>1.   It asks people to seek out <strong>19</strong><input type=\"text\" />. developments, not problems.</p>\n<p>2.   It urges people to think <strong>20</strong> <input type=\"text\" /> and borrow from other fields.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Therapeutic Jurisprudence </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-23",
+          "group_instruction_html": "<p>Complete the sentences.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>21</strong>   One aspect of cognitive behavioural treatment includes the preparation of</p>\n<p><input type=\"text\" />. By offenders.</p>\n<p><strong>22</strong>   The treatment requires offenders to consider the <input type=\"text\" />. that lead to a</p>\n<p>crime being committed.</p>\n<p><strong>23 </strong>  Treatment programmes encourage offenders to recognise <input type=\"text\" /></p>\n<p>before they happen, and know what to do in case they do happen.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 24-26",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>24-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong></p>\n<p>if there is no information on this</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   The use of rehabilitative programmes has been proved to greatly reduce the chance</p>\n<p>of a criminal re-offending.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Therapeutic jurisprudence aims to make cognitive behavioural treatment a part of</p>\n<p>the legal process itself.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Offenders might be encouraged by judges to take part in deciding what their</p>\n<p>punishment should be.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Therapeutic Jurisprudence </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "55 Passage 3 - SLEEP - WHY WE SLEEP Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-30",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Among other functions, sleep serves to</p>\n<p><strong>A</strong>   help the adult body develop physically.</p>\n<p><strong>B</strong>   push daily problems from our minds.</p>\n<p><strong>C</strong>   accelerate the learning process significantly.</p>\n<p><strong>D</strong>   re-energise parts of the brain.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   ‘Torpor’ can be described as</p>\n<p><strong>A</strong>   a very deep sleep.</p>\n<p><strong>B</strong>   a long state of hibernation.</p>\n<p><strong>C</strong>   the sleep all non-human mammals experience.</p>\n<p><strong>D</strong>   a light sleep</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Unlike small mammals, humans</p>\n<p><strong>A</strong>   don’t sleep to conserve energy.</p>\n<p><strong>B</strong>   don’t sleep properly.</p>\n<p><strong>C</strong>   save only a small amount of energy by sleeping.</p>\n<p><strong>D</strong>   show no decrease in their metabolic rate when they sleep.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SLEEP - WHY WE SLEEP </strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   In stage 3 deep sleep</p>\n<p><strong>A</strong>   the eyes move slowly and there’s little muscle activity.</p>\n<p><strong>B</strong>   there is an alternation of delta waves and small fast waves.</p>\n<p><strong>C</strong>   there is an occasional burst of rapid brain waves.</p>\n<p><strong>D</strong>   there are no small fast waves.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 31-35",
+          "group_instruction_html": "<p>Complete the flow-chart below.</p>\n<p>Write <strong>NO MORE THAN THREE WORDS</strong> for each answer.</p>\n<p><strong>The Stages of Sleep </strong></p>\n<p>The individual drifts in and out of consciousness and can be woken up easily as they are</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>only in a <strong>31</strong><input type=\"text\" />. Eye movement is slow and there is reduced muscle activity.</p>\n<p><strong>↓ </strong></p>\n<p>The speed of <strong>32</strong><input type=\"text\" />. activity slows and all movement of the eyes tends to</p>\n<p>stop.</p>\n<p><strong>↓ </strong></p>\n<p>Brain activity is dominated by delta waves, with a scattering of <strong>33</strong><input type=\"text\" />.. also</p>\n<p>in evidence.</p>\n<p><strong>↓ </strong></p>\n<p>In a state of <strong>34</strong> <input type=\"text\" />., the brain emits delta waves almost exclusively. It is</p>\n<p>hard to wake the individual.</p>\n<p><strong>↓ </strong></p>\n<p>A period of rapid eye movement follows, during which <strong>35</strong><input type=\"text\" /> patterns are</p>\n<p>not consistent and limb muscles enter a temporary state of paralysis.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SLEEP - WHY WE SLEEP </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Complete the summary.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p>Sleep is so essential to a person that he can actually go longer without food than</p>\n<p>without sleep. During sleep, the brain has the chance to close down and do some repair</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>work on neuronal connections which could otherwise <strong>36</strong><input type=\"text\" />.. in a state of</p>\n<p>inactivity. Sleep also gives the brain the opportunity to organise data, especially newly-</p>\n<p>learned information.</p>\n<p>During this rest period, the <strong>37</strong><input type=\"text\" />. Drops and energy consumption goes</p>\n<p>down. At the same time, the cardiovascular system has a much-needed rest. While they</p>\n<p>go into a deep sleep, humans don’t fall into <strong>38</strong><input type=\"text\" />., unlike some small</p>\n<p>animals such as rodents. A <strong>39</strong><input type=\"text\" />. of 24 hours is described as a person’s</p>\n<p><strong>40</strong><input type=\"text\" />., and this greatly influences a person’s amount of sleep, and the</p>\n<p>type of sleep he gets.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SLEEP - WHY WE SLEEP </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

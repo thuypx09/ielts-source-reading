@@ -1,0 +1,194 @@
+{
+  "exercise_set": "04",
+  "excercise_set": "04",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "04 Passage 1 - Voyage of Going beyond the blue line 2 Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-7</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Captain cook once expected the Hawaii might speak another language of people from</p>\n<p>other pacific islands.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Captain cook depicted number of cultural aspects of Polynesians in his journal.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Professor Spriggs and his research team went to the Efate to try to find the site of</p>\n<p>ancient cemetery.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   The Lapita completed a journey of around 2,000 miles in a period less than a</p>\n<p>centenary.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   The Lapita were the first inhabitants in many pacific islands.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   The unknown pots discovered in Efate had once been used for cooking.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   The um buried in Efate site was plain as it was without any decoration.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Voyage of Going: beyond the blue line 2 </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 8-10",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>8-10</strong></em><em> on your answer sheet. </em></p>\n<p><strong>Scientific Evident found in Efate site </strong></p>\n<p>Tests show the human remains and the charcoal found in the buried um are from the</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>start of the Lapita period. Yet The <strong>8</strong> <input type=\"text\" /> covering many of the Efate site did</p>\n<p>not come from that area. Then examinations carried out on the <strong>9</strong> <input type=\"text\" /></p>\n<p>discovered at Efate site reveal that not everyone buried there was a native living in the</p>\n<p>area. In fact, DNA could identify the Lapita’s nearest <strong>10</strong> <input type=\"text\" /> present-days.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 11-13",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   What did the Lapita travel in when they crossed the oceans?</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   In Irwins’s view, what would the Lapita have relied on to bring them fast back to the</p>\n<p>base?</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   Which sea creatures would have been an indication to the Lapita of where to find</p>\n<p>land?</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Voyage of Going: beyond the blue line 2 </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "04 Passage 2 - Memory and Age Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-17",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>14-17</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   What does the experiment of typist show in the passage?</p>\n<p><strong>A</strong>   Old people reading ability is superior</p>\n<p><strong>B</strong>   Losses of age is irreversible</p>\n<p><strong>C</strong>   Seasoned tactics made elders more efficient</p>\n<p><strong>D</strong>   Old people performed poorly in driving test</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Which is correct about rat experiment?</p>\n<p><strong>A</strong>   Different toys have different effect for rats</p>\n<p><strong>B</strong>   Rat’s brain weight increased in both cages.</p>\n<p><strong>C</strong>   Isolated rat’s brain grows new connections</p>\n<p><strong>D</strong>   Boring and complicated surroundings affect brain development</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Memory and Age </strong></p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   What can be concluded in <strong>chess game</strong> of children group?</p>\n<p><strong>A</strong>   They won game with adults.</p>\n<p><strong>B</strong>   Their organization of chess knowledge is better</p>\n<p><strong>C</strong>   Their image memory is better than adults</p>\n<p><strong>D</strong>   They used different part of brain when playing chess</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   What is author’s purpose of using “vocabulary study” at the end of passage?</p>\n<p><strong>A</strong>   Certain people are sensitive to vocabularies while others aren’t</p>\n<p><strong>B</strong>   Teachers and professionals won by their experience</p>\n<p><strong>C</strong>   Vocabulary memory as a crystallized intelligence is hard to decline</p>\n<p><strong>D</strong>   Old people use their special zone of brain when study</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 18-23",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>18-23</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>It’s long been known that as one significant mental function, <strong>18</strong> <input type=\"text\" />.</p>\n<p>deteriorates with age. Charles A. Dana foundation invested millions of dollars to test</p>\n<p>memory decline. They used advanced technology, neurochemical experiments and ran</p>\n<p>several cognitive and <strong>19</strong><input type=\"text\" /> experiments. Bahrick called one form</p>\n<p>“<strong>20</strong><input type=\"text\" />..”, which describes factual knowledge. Another one called</p>\n<p>“<strong>21</strong><input type=\"text\" />” contains events in time and space format. He conducted two</p>\n<p>experiments toward to knowledge memory’s longevity, he asked 1000 candidates some</p>\n<p>knowledge of <strong>22</strong> <input type=\"text\" />., some could even remember it decades ago. Second</p>\n<p>research of Spanish course found that multiple courses participants could remember</p>\n<p>more than half of <strong>23</strong> <input type=\"text\" />. They learned after decades, whereas single course</p>\n<p>taker only remembered as short as 3 years.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Memory and Age </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 24-27",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed <strong>A-F</strong>) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-F</strong></em><em> in boxes </em><em><strong>24-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong>   Harry P. Bahrick</p>\n<p><strong>B</strong>   Arnold B. Scheibel</p>\n<p><strong>C</strong>   Marion Diamond</p>\n<p><strong>D</strong>   Timothy Salthouse</p>\n<p><strong>E</strong>   Stanley Rapport</p>\n<p><strong>F </strong>  Robert Kail</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Examined both young and old’s blood circulation of brain while testing.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Aging is a significant link between physical and mental activity.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Some semantic memory of a event would not fade away after repetition.</p>"
+            },
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Rat’s brain developed when put in a diverse environment.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Memory and Age </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "04 Passage 3 - Facial expression 1 Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-32",
+          "group_instruction_html": "<p>Complete the Summary paragraph below.</p>\n<p>In boxes <strong>28-32</strong> on your answer sheet, write the correct answer with <strong>NO MORE THAN </strong></p>\n<p><strong>TWO WORDS</strong></p>\n<p>The result of Ekman’s study demonstrates that fear and surprise are persistently</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>28</strong><input type=\"text\" /> and made a conclusion that some facial expressions have something to</p>\n<p>do with certain <strong>29</strong><input type=\"text\" />. Which is impossible covered, despite of <strong>30</strong><input type=\"text\" />..</p>\n<p>and whether the culture has been <strong>31</strong><input type=\"text\" /> or <strong>32</strong><input type=\"text\" />. To the</p>\n<p>mainstream.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-38",
+          "group_instruction_html": "<p>The reading Passage has seven paragraphs <strong>A-H</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>33-38</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   the difficulty identifying the actual meaning of facial expressions</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   the importance of culture on facial expressions is initially described</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Facial expression 1 </strong></p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   collected data for the research on the relation between blink and the success in</p>\n<p>elections</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   the features on sociality of several facial expressions</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   an indicator to reflect one’s extent of nervousness</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   the relation between emotion and facial expressions</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 39-40",
+          "group_instruction_html": "<p>Choose two letters from the <strong>A-E</strong></p>\n<p><em>Write your answers in boxes </em><em><strong>39-40</strong></em><em> on your answer sheet </em></p>\n<p><strong>Which Two of the following statements are true according to Ekman’s theory? </strong></p>\n<p><strong>A</strong>   No evidence shows animals have their own facial expressions.</p>\n<p><strong>B</strong>   The potential relationship between facial expression and state of mind exists</p>\n<p><strong>C</strong>   Facial expressions are concerning different cultures.</p>\n<p><strong>D</strong>   Different areas on face convey certain state of mind.</p>\n<p><strong>E</strong>   Mind controls men’s facial expressions more obvious than women’s</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Facial expression 1 </strong></p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

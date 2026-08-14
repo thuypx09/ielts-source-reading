@@ -1,0 +1,228 @@
+{
+  "exercise_set": "07",
+  "excercise_set": "07",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "07 Passage 1 - New Agriculture in Oregon US Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-8",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed <strong>A-G</strong>) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-G</strong></em><em> in boxes </em><em><strong>1-8</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em></p>\n<p><strong>A </strong>  Tony Brown</p>\n<p><strong>E</strong>   Art Pimms</p>\n<p><strong>B</strong>   Patrick Leahy</p>\n<p><strong>F</strong>   Steve Black</p>\n<p><strong>C</strong>   Bill Bowler</p>\n<p><strong>G</strong>   Rick Hilton</p>\n<p><strong>D  </strong> Paul Jepson</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   There is a double-advantage to the new techniques.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   The work on developing these alternative techniques is not finished.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3 </strong>  Eating food that has had chemicals used in its production is dangerous to our health.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Changing current farming methods into a new one is not a cheap process.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Results have exceeded the anticipated goal.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   The research done could be translated into practical projects.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   The U.S. produces the best food in the world nowadays.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Expectations of end users of agricultural products affect the products.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>New Agriculture in Oregon, US </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>9-13</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   Integrated Pest Management has generally been regarded as a success in the across</p>\n<p>the US.</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>    Oregon farmers of apples and pears have been promoted as successful examples of</p>\n<p>Integrated Pest Management.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   The IPPC uses scientists from different organisations globally</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   Straw mulch experiments produced unplanned benefits.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13 </strong>  The apple industry is now facing a lot of competition from abroad.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>New Agriculture in Oregon, US </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "07 Passage 2 - WHAT COOKBOOKS REALLY TEACH US Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-16",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>14-16</strong></em><em> on your answer sheet. </em></p>\n<p><strong>Why are there so many cookery books? </strong></p>\n<p>There are a great number more cookery books published than is really necessary and it</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>is their <strong>14</strong><input type=\"text\" />.. which makes them differ from each other. There are such large</p>\n<p>numbers because they offer people an escape from their <strong>15</strong><input type=\"text\" /> and some</p>\n<p>give the user the chance to inform themselves about other <strong>16</strong><input type=\"text\" /></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 17-21",
+          "group_instruction_html": "<p>Reading Passage has nine paragraphs, <strong>A-I</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-I</strong></em><em>, in boxes </em><em><strong>17-21</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use letter more than once</em>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   cookery books providing a sense of stability during periods of unrest</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   details in recipes being altered as they were passed on</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   knowledge which was in danger of disappearing</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   the negative effect on cookery books of a new development</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   a period when there was no need for cookery books to be precise</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>WHAT COOKBOOKS REALLY TEACH US </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 22-26",
+          "group_instruction_html": "<p>Look at the following statements (<strong>Questions</strong> <strong>22-26</strong>) and list of books (<strong>A-E</strong>) below.</p>\n<p>Match each statement with the correct book.</p>\n<p><em>Write the correct letter, </em><em><strong>A-E</strong></em><em>, in boxes </em><em><strong>22-26</strong></em><em> on your answer sheet </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   Its recipes were easy to follow despite the writer’s attention to detail.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Its writer may have deliberately avoided passing on details.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   It appealed to ambitious ideas people have about cooking.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Its writer used ideas from other books but added additional related information.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   It put into print ideas which are still respected today.</p>\n<p><strong>List of cookery books </strong></p>\n<p><strong>A </strong>  De re coquinara</p>\n<p><strong>B </strong>  The Book of Household Management</p>\n<p><strong>C</strong>   Le Guide Culinaire</p>\n<p><strong>D</strong>   The Boston Cooking-School Cook Book</p>\n<p><strong>E</strong>   Mediterranean Food</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>WHAT COOKBOOKS REALLY TEACH US </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "07 Passage 3 - Learning lessons from the past Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-29",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   When the writer describes the impact of monumental ruins today, he emphasizes</p>\n<p><strong>A</strong>   the income they generate from tourism.</p>\n<p><strong>B</strong>   the area of land they occupy.</p>\n<p><strong>C</strong>   their archaeological value.</p>\n<p><strong>D</strong>   their romantic appeal.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Recent findings concerning vanished civilisations</p>\n<p><strong>A</strong>   have overturned long-held beliefs.</p>\n<p><strong>B</strong>   caused controversy amongst scientists.</p>\n<p><strong>C</strong>   come from a variety of disciplines.</p>\n<p><strong>D</strong>   identified one main cause of environmental damage.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   What does the writer say about ways in which former societies collapsed?</p>\n<p><strong>A</strong>   The pace of decline was usually similar.</p>\n<p><strong>B</strong>   The likelihood of collapse would have been foreseeable.</p>\n<p><strong>C</strong>   Deterioration invariably led to total collapse.</p>\n<p><strong>D</strong>   Individual citizens could sometimes influence the course of events.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Learning lessons from the past </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 30-34",
+          "group_instruction_html": "<p>Do the following statements agree with the views of the writer in Reading Passage?</p>\n<p>Write</p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the claims of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the claims of the writer</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   It is widely believed that environmental problems represent the main danger faced</p>\n<p>by the modern world.</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   The accumulation of poisonous substances is a relatively modern problem.</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   There is general agreement that the threats posed by environmental problems are</p>\n<p>very serious.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   Some past societies resembled present-day societies more closely than others.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   We should be careful when drawing comparisons between past and present.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Learning lessons from the past </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 35-39",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending, <strong>A-F</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em> </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Evidence of the greatness of some former civilisations</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   The parallel between an individual’s life and the life of a society</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   The number of environmental problems that societies face</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   The power of technology</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   A consideration of historical events and trends</p>\n<p><strong>A</strong>   is not necessarily valid.</p>\n<p><strong>B </strong>  provides grounds for an optimistic outlook.</p>\n<p><strong>C</strong>   exists in the form of physical structures.</p>\n<p><strong>D</strong>   is potentially both positive and negative.</p>\n<p><strong>E</strong>   will not provide direct solutions for present problems.</p>\n<p><strong>F</strong>   is greater now than in the past.</p>\n<p><strong>Question 40 </strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D.</strong></p>\n<p>What is the main argument of Reading Passage 3?</p>\n<p><strong>A</strong>   There are differences as well as similarities between past and present</p>\n<p>societies.</p>\n<p><strong>B</strong>   More should be done to preserve the physical remains of earlies civilisations.</p>\n<p><strong>C</strong>   Some historical accounts of great civilisations are inaccurate.</p>\n<p><strong>D</strong>   Modern societies are dependent on each other for their continuing survival.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Learning lessons from the past </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

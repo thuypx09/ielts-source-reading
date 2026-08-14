@@ -1,0 +1,219 @@
+{
+  "exercise_set": "90",
+  "excercise_set": "90",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "90 Passage 1 - The Extraordinary Watkin Tench Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-6",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-6</strong></em><em> on you answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>    There was a great deal of information available about the life of Tench before he</p>\n<p>arrived in Australia.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2  </strong>  Tench drew pictures to illustrate different places during the voyage.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>    Other military personnel in New South Wales did not treated convicts in the same</p>\n<p>way as Tench did.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4 </strong>   Tench’s view towards the Aboriginals remained unchanged during his time in</p>\n<p>Australia.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5 </strong>   An Aboriginal gave him gifts of food at the first time they met.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6 </strong>   The convicts had a good knowledge of Australian geography.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Extraordinary Watkin Tench </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 7-13",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>7-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   What could be a concrete proof of Tench’s good education?</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   How many years did Tench sign the contract to the First Fleet?</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   What was used to control convicts during the voyage?</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   Who gave the order to punish the Aboriginals?</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   When did the name of Hawkesbury River come into being?</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   Where did the escaped convicts plan to go?</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   In which place did Tench feel unaccustomed?</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Extraordinary Watkin Tench </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "90 Passage 2 - Are Artists Liars Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-19",
+          "group_instruction_html": "<p>Reading Passage 2 has six paragraphs, <strong>A-F</strong>.</p>\n<p>Choose the correct heading for each paragraph from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-viii</strong></em><em>, in boxes </em><em><strong>14-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>Unsuccessful deceit</p>\n<p><strong>ii</strong></p>\n<p>Biological basis between liars and artists</p>\n<p><strong>iii</strong></p>\n<p>How to lie in an artistic way</p>\n<p><strong>iv</strong></p>\n<p>Confabulations and the exemplifiers</p>\n<p><strong>v</strong></p>\n<p>The distinction between artists and common liars</p>\n<p><strong>vi</strong></p>\n<p>The fine line between liars and artists</p>\n<p><strong>vii</strong></p>\n<p>The definition of confabulation</p>\n<p><strong>viii</strong></p>\n<p>Creativity when people lie</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14 </strong>   Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>    Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16 </strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>    Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>    Paragraph <strong>E </strong></p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>    Paragraph <strong>F</strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 20-21",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p>Write the correct letters in boxes <strong>20-21</strong> on your answer sheet.</p>\n<p>Which <strong>TWO</strong> of the following statements about people suffering from confabulation are</p>\n<p>true?</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Are Artists Liars? </strong></p>\n<p><strong>A</strong>   They have lost cognitive abilities.</p>\n<p><strong>B</strong>   They do not deliberately tell a lie.</p>\n<p><strong>C </strong>  They are normally aware of their condition</p>\n<p><strong>D </strong>  They do not have the impetus to explain what they do not understand.</p>\n<p><strong>E </strong>  They try to make up stories.</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 22-23",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p>Write the correct letters in boxes <strong>22-23</strong> on your answer sheet.</p>\n<p>Which <strong>TWO</strong> of the following statements about playwrights and novelists are true?</p>\n<p><strong>A </strong>  They give more meaning to the stories.</p>\n<p><strong>B</strong>   They tell lies for the benefit of themselves.</p>\n<p><strong>C</strong>   They have nothing to do with the truth out there.</p>\n<p><strong>D</strong>   We can be misled by them if not careful.</p>\n<p><strong>E </strong>  We know there are lies in the content.</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 24-26",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>A <strong>24</strong><input type=\"text\" />. accused Jonathan Aitken, a former cabinet minister, who was selling</p>\n<p>and buying with <strong>25</strong><input type=\"text\" />... Aitken’s case collapsed in June 1997, when the</p>\n<p>defence finally found indisputable evidence about his Paris trip. He was deemed to have</p>\n<p>his <strong>26</strong><input type=\"text\" />. They revealed that not only was Aitken’s daughter not with him</p>\n<p>that day, but also that the minister had simply got into his car and drove off, with no</p>\n<p>vehicle in pursuit.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Are Artists Liars? </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "90 Passage 3 - Theory or Practice Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-29",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C </strong>or <strong>D</strong>.</p>\n<p>Write the correct letter in boxes <strong>27-29</strong> on your answer sheet.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   In the second paragraph, the recommendation given by AACSB is</p>\n<p><strong>A </strong>  to focus on listing research paper’s citation only.</p>\n<p><strong>B</strong>   to consider the quantity of academic publications.</p>\n<p><strong>C</strong>   to evaluate how the paper influences the field.</p>\n<p><strong>D</strong>   to maintain the traditional modes of academia.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Why does AACSB put forward the recommendation?</p>\n<p><strong>A </strong>  to give full play to the faculties’ advantage.</p>\n<p><strong>B</strong>   to reinforce the play to the pyramid structure of universities.</p>\n<p><strong>C</strong>   to push professors to publish competitive papers.</p>\n<p><strong>D</strong>   to reduce costs of research in universities.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Theory or Practice? </strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29  </strong> Why does the author mention the Journal Strategy &amp; Leadership?</p>\n<p><strong>A </strong>  to characterize research as irrelevant to company performance</p>\n<p><strong>B </strong>  to suggest that managers don’t read research papers.</p>\n<p><strong>C</strong>   to describe students’ expectation for universities.</p>\n<p><strong>D</strong>   to exemplify high-quality research papers.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 30-31",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p><em>Write the correct letters in boxes </em><em><strong>30-31</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>TWO</strong> choices are in line with Jeffrey Pfeffer and Christina Fong’s idea?</p>\n<p><strong>A</strong>   Students should pay less to attend universities.</p>\n<p><strong>B</strong>   Business education is not doing their job well.</p>\n<p><strong>C  </strong> Professors should not focus on writing papers.</p>\n<p><strong>D</strong>   Students are ill-prepared for their career from universities.</p>\n<p><strong>E</strong>   Recognized accrediting agency can evaluate research well.</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 32-36",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-36</strong></em><em> on you answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32 </strong>   The debate about the usefulness of academic research for business practices is a</p>\n<p>recent one.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   AACSB’s draft report was not reviewed externally.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>    Business schools in the US spend more than 320 million dollars yearly on research.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Theory or Practice? </strong></p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>    Many universities pursue professional outputs.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>    Greater publications benefit professors and students as well.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending, <strong>A-E</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-E</strong></em><em>, in boxes </em><em><strong>37-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong></p>\n<p>it progresses as we learn innovative ways of doing things.</p>\n<p><strong>B</strong></p>\n<p>the trends and standards are changing.</p>\n<p><strong>C</strong></p>\n<p>their jobs depend on it.</p>\n<p><strong>D</strong></p>\n<p>they care about their school rankings and government funds.</p>\n<p><strong>E</strong></p>\n<p>it helps students to go into top business firms.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>    Most professors support academic research because</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>    Schools support academic research because</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>    Our society needs academic research because</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>    Universities resisting the AACSB should change because</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Theory or Practice? </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

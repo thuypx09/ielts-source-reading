@@ -1,0 +1,161 @@
+{
+  "exercise_set": "42",
+  "excercise_set": "42",
+  "passages": [
+    {
+      "passage_id": "Passage 2",
+      "file_name": "42 Passage 2 - Photovoltaics on the rooftop Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-19",
+          "group_instruction_html": "<p>The Reading Passage 2 has nine paragraphs <strong>A-H</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>14-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14   </strong>examples of countries where electricity use is greater during the day than at night</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   a detailed description of an experiment that led to photovoltaics being promoted</p>\n<p>throughout the country</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   the negative effects of using conventional means of generating electricity</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   an explanation of the photovoltaic system.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   the long-term benefits of using photovoltaics</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   a reference to wealthy countries being prepared to help less wealthy countries have</p>\n<p>access to photovoltaics</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 20-26",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>20-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20   </strong>Photovoltaics are used to store electricity.</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Since the 1970s, the US government has provided continuous support for the use of</p>\n<p>photovoltaics on homes.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   The solar-powered house on Rokko Island is uninhabited.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Photovoltaics on the rooftop </strong></p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   In 1994, the Japanese government was providing half the money required for</p>\n<p>installing photovoltaics on homes.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Germany, Italy, the Netherlands and Australia all have strict goals with regard to</p>\n<p>greenhouse gas emissions.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Residential electricity use is the major source of greenhouse gas emission.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Energy-saving measures must now be included in the design of all new homes and</p>\n<p>improvements to buildings.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Photovoltaics on the rooftop </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "42 Passage 3 - What Are Dreams Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Reading Passage 3 has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct number, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>27-31</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Reference of an artist’s dreams who has versatile talents</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   The dream actually happens to many animals</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Dreams are related to benefit and happiness</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   advanced scientific technology applied in the investigation of the REM stage.</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   questioning concern raised about the usefulness of investigation on dreams</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Are Dreams? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-34",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>33-45</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   What were dreams regarded as by ancient people?</p>\n<p><strong>A</strong>   superstitious and unreliable</p>\n<p><strong>B</strong>   communication with gods and chance to predict the future</p>\n<p><strong>C</strong>   medical relief for children with an ill desire</p>\n<p><strong>D</strong>   rules to follow as they fell asleep in a temple</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   According to Paragraph D, which part of the brain controls reasoning?</p>\n<p><strong>A</strong>   anterior cingulate cortex</p>\n<p><strong>B</strong>   internal cortex</p>\n<p><strong>C</strong>   limbic system</p>\n<p><strong>D</strong>   prefrontal cortex</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   What can we conclude when the author cited a reference for dreams in animals?</p>\n<p><strong>A</strong>   Brain temperature rises when REM pattern happens.</p>\n<p><strong>B</strong>   The reason why mammals are warm-blooded</p>\n<p><strong>C</strong>   mammals are bound to appear with more frequent REM.</p>\n<p><strong>D</strong>   REM makes people want to drink beer with more foam.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Are Dreams? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 35-40",
+          "group_instruction_html": "<p>Look at the following people and the list of statements below.</p>\n<p>Match each statement with the correct person, <strong>A-G</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>35-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of people </strong></p>\n<p><strong>A</strong></p>\n<p>Sigmund Freud</p>\n<p><strong>B</strong></p>\n<p>Allan Hobson (Harvard)</p>\n<p><strong>C</strong></p>\n<p>Robert McCarley</p>\n<p><strong>D</strong></p>\n<p>Eric Nofzinger</p>\n<p><strong>E</strong></p>\n<p>Jerry Siegel</p>\n<p><strong>F</strong></p>\n<p>Clara Hill</p>\n<p><strong>G</strong></p>\n<p>Rosalind Cartwright</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Dreams sometimes come along with REM as no more than a trivial attachment</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Exploring patients’ dreams would be beneficial for treatment as it reveals the</p>\n<p>unconscious thinking</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Dreams help people cope with the difficulties they meet in the daytime</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Decoding dreams would provide a reminder to human desire in the early days</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Dreams are a body function to control strong emotion</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Dreams seem to be as randomly occurring and have limited research significance.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Are Dreams? </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "exercise_set": "09",
+  "excercise_set": "09",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "09 Passage 1 - Natural Pesticide in India Q1-14.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-4</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Cotton in Andhra Pradesh state could really bring more income to the local farmers</p>\n<p>that traditional farming.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   The majority of farmers had used the agricultural pesticides before 30 years ago.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   The yield of cotton is relatively lower than that of other agricultural crops.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   The farmers didn’t realize the spread of the pests was so fast.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-11",
+          "group_instruction_html": "<p>Complete the summary below</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer</p>\n<p><em>Write your answers in boxes </em><em><strong>5-11</strong></em><em> on your answer sheet. </em></p>\n<p><strong>The Making of pesticide protecting crops against insects </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>The broad-leaved neem tree was chosen. It is a fast-growing and <strong>5</strong> <input type=\"text\" />. tree</p>\n<p>and produces amount of <strong>6 </strong><input type=\"text\" /> for itself that can be effective like insects</p>\n<p>repellent. Firstly, neem seeds need to be crushed into <strong>7</strong> <input type=\"text\" />.. form, which is</p>\n<p>left behind <strong>8</strong> <input type=\"text\" />.. in water. Then we need to spray the solution onto the crop. A</p>\n<p>special <strong>9</strong> <input type=\"text\" />. is used when mix with soil in order to eliminate bugs and</p>\n<p>bacteria, and its effect <strong>10</strong> <input type=\"text\" /> when it adds the level of <strong>11</strong><input type=\"text\" /></p>\n<p>in this organic fertilizer meanwhile.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Natural Pesticide in India </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 12-14",
+          "group_instruction_html": "<p>Answer the questions below</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>12-14</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   In which year did all the farmers use NPM for their crops in Punukala?</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   What gave the women of Punukula a business opportunity to NPMs?</p>"
+            },
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   Name one project that the citizens of Punukula decide to develop in the NPM.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Natural Pesticide in India </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "09 Passage 2 - Is Graffiti Art or Crime Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-19",
+          "group_instruction_html": "<p>Reading passage 2 has six paragraphs, <strong>A-G</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   why chemically cleaning graffiti may cause damage</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   the benefit of a precautionary strategy on the gentle removal</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   the damaging and accumulative impact of graffiti to the community</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   the need for different preventive measures being taken to cope with graffiti</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   a legal proposal made to the owner of building against graffiti</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   the reasons of removing graffiti as soon as possible.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Is Graffiti Art or Crime? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 20-21",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong></p>\n<p><em>Write your answers in boxes </em><em><strong>20-21</strong></em><em> on your answer sheet. </em></p>\n<p><strong>Which two statements are true concerning the removal of graffiti </strong></p>\n<p><strong>A</strong>   cocktail removal can be safer than water treatment</p>\n<p><strong>B</strong>   small patch trial before applying large scale of removing</p>\n<p><strong>C</strong>   Chemical treatments are the most expensive way of removing</p>\n<p><strong>D</strong>   there are risks for both Chemical and medication method</p>\n<p><strong>E </strong>  mechanical removals are much more applicable than Chemical treatments</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 22-23",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>22-23</strong></em><em> on your answer sheet. </em></p>\n<p><strong>Which TWO of the following preventive measures against graffiti are mentioned </strong></p>\n<p><strong>effective in the passage? </strong></p>\n<p><strong>A</strong>   organise more anti graffiti movement in the city communities</p>\n<p><strong>B</strong>   increase the police patrols on the street</p>\n<p><strong>C </strong>  Build a new building with material repelling to water</p>\n<p><strong>D</strong>   installing more visible security cameras</p>\n<p><strong>E</strong>   Provide a whole new surface with chemical coat</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Is Graffiti Art or Crime? </strong></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 24-27",
+          "group_instruction_html": "<p>Complete the Summary of the paragraphs of Reading Passage 2.</p>\n<p>Use <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>24-27</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Ancient graffiti is of significance and records the <strong>24</strong><input type=\"text\" /> of details life for that</p>\n<p>period.</p>\n<p>The police can recognize newly committed incidents of graffiti by the signature which is</p>\n<p>called <strong>25</strong><input type=\"text\" />.. that they are familiar with</p>\n<p>Operatives ought to comply with relevant rules during the operation, and put on the</p>\n<p>suitable <strong>26</strong> <input type=\"text\" />..</p>\n<p>Removal of graffiti from a new type of coating surface can be much convenient of using</p>\n<p><strong>27</strong> <input type=\"text\" />..</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Is Graffiti Art or Crime? </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "09 Passage 3 - The concept of childhood in the western countries Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-34",
+          "group_instruction_html": "<p>Do the following statement agree with the information given in Reading Passage 3?</p>\n<p><em>Write your answers in boxes </em><em><strong>28-34</strong></em><em> on your answer sheet. </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Aries pointed out that children did different types of works as adults during the</p>\n<p>Middle Age.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   during the Middle Age, going to work necessarily means children were unloved</p>\n<p>indicated Aries.</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Scientists think that overworked labour damages the health of young children</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   the rise of trade union majorly contributed to the protection children from</p>\n<p>exploitation in 19th century.</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   By the aid of half-time schools, most children went to school in the mid of 19</p>\n<p>century.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   In 20 century almost all children need to go to school in full time schedule.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Nowadays, children’s needs were much differentiated and categorised based on</p>\n<p>how old they are</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> The concept of childhood in the western countries </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 35-40",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>35-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   what is the controversial topic arises with the French historian Philippe Ariès’s</p>\n<p>concept.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   what image for children did Aries believed to be like in Western Europe during the</p>\n<p>Middle Ages.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   what historical event generated the need for great amount child labour to work</p>\n<p>long time in 18 and 19 century</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   what legal format initiated the protection of children from exploitation in 19th</p>\n<p>centenary</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   what the activities were more and more regarded as being preferable for almost all</p>\n<p>children time in 19th centenary</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   where has been the central area for children to spend largely of their day as</p>\n<p>people’s expectation in modern society</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> The concept of childhood in the western countries </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

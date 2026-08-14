@@ -1,0 +1,149 @@
+{
+  "exercise_set": "98",
+  "excercise_set": "98",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "98 Passage 1 - Education Philosophy Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Reading Passage 1 has six paragraphs, <strong>A-F.</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A</strong> and <strong>C-E</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-vii</strong></em><em>, in boxes </em><em><strong>1-4</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>The inheritance and development of educational concepts of different</p>\n<p>thinkers</p>\n<p><strong>ii</strong></p>\n<p>Why children had to work to alleviate the burden on family</p>\n<p><strong>iii</strong></p>\n<p>Why children are not highly valued</p>\n<p><strong>iv</strong></p>\n<p>The explanation for children dying in hospital at their early age</p>\n<p><strong>v</strong></p>\n<p>The first appearance of modem educational philosophy</p>\n<p><strong>vi</strong></p>\n<p>The application of a creative learning method on a wild kid</p>\n<p><strong>vii</strong></p>\n<p>The emergence and spread of the notion of kindergarten</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Paragraph <strong>A</strong></p>\n<p><em>Example     </em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "98 Passage 2 - How deserts are formed Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Reading Passage 2 has eight paragraphs, <strong>A-H</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   a reference to the irregular movement of particles</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   mention of a productive land turning into a desert in the 20th century</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   types of deserts</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   mention of technical methods used to tackle the problems of deserts</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   the influence of migration on desertification</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   lack of agreement among the scientists about the causes of desertification</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   a description of the fatal effects of farming practice</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>How deserts are formed? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-26",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p>In boxes <strong>21-26</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   It is difficult to ascertain where the deserts end in some areas.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   Media is uninterested in the problems of desertification.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   The most common cause of desertification is the lack of rainfall.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   Farming animals in semi-arid areas will increase soil erosion.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   People in Asian countries no longer use firewood as the chief fuel.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Technology studying the relationship of people, livestock and desertification has not</p>\n<p>yet been invented.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>How deserts are formed? </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "98 Passage 3 - The Olympic Torch Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-29",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>27-29</strong></em><em> on your answer sheet. </em></p>\n<p>The Olympic torch, as requested by the Olympic Committee, will be carefully designed</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>so that it is capable of withstanding all kinds of <strong>27</strong> <input type=\"text\" />.. Generally, the design of</p>\n<p>the modern Olympic torch enjoys the <strong>28 </strong><input type=\"text\" />.. value. The torch must be</p>\n<p>copied, and thousands of torches are constructed to accommodate thousands of</p>\n<p>runners who will carry them through each leg of the Olympic relay. Each runner has an</p>\n<p>opportunity to purchase the torch as a(n) <strong>29</strong><input type=\"text\" /> at the end of his or her leg</p>\n<p>of the relay.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 30-35",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>30-35</strong>) and the list of Olympic torches</p>\n<p>below.</p>\n<p>Match each statement with the correct Olympic torch, <strong>A-H</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>30-35</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Olympic Torches </strong></p>\n<p><strong>A</strong></p>\n<p>ancient Greek Olympic flames</p>\n<p><strong>B</strong></p>\n<p>Berlin Games torch (1936)</p>\n<p><strong>C</strong></p>\n<p>1952 Winter Games flame</p>\n<p><strong>D</strong></p>\n<p>1956 Games torch</p>\n<p><strong>E</strong></p>\n<p>Munich Games torch (1972)</p>\n<p><strong>F</strong></p>\n<p>1996 torch (Atlanta)</p>\n<p><strong>G</strong></p>\n<p>2000 torch (Sydney)</p>\n<p><strong>H</strong></p>\n<p>2002 torch (Salt Lake City)</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Olympic Torch </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   first liquid fuel</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   not environmentally friendly</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   beginning to record the runners’ name</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   potentially risky as it burnt the runner’s arms</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   special for a theme of ‘Light’</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   not lit in Greek</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Label the diagram below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>36-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

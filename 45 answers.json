@@ -1,0 +1,184 @@
+{
+  "exercise_set": "45",
+  "excercise_set": "45",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "45 Passage 1 - Magnetic Therapy Q1-13.pdf",
+      "answers": [
+        {
+          "question_number": 1,
+          "answer": "ii"
+        },
+        {
+          "question_number": 2,
+          "answer": "v"
+        },
+        {
+          "question_number": 3,
+          "answer": "iv"
+        },
+        {
+          "question_number": 4,
+          "answer": "ix"
+        },
+        {
+          "question_number": 5,
+          "answer": "vii"
+        },
+        {
+          "question_number": 6,
+          "answer": "viii"
+        },
+        {
+          "question_number": 7,
+          "answer": "C"
+        },
+        {
+          "question_number": 8,
+          "answer": "D"
+        },
+        {
+          "question_number": 9,
+          "answer": "B"
+        },
+        {
+          "question_number": 10,
+          "answer": "E"
+        },
+        {
+          "question_number": 11,
+          "answer": "F"
+        },
+        {
+          "question_number": 12,
+          "answer": "A"
+        },
+        {
+          "question_number": 13,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "45 Passage 2 - When the Tulip Bubble Burst Q14-27.pdf",
+      "answers": [
+        {
+          "question_number": 14,
+          "answer": "I"
+        },
+        {
+          "question_number": 15,
+          "answer": "D"
+        },
+        {
+          "question_number": 16,
+          "answer": "B"
+        },
+        {
+          "question_number": 17,
+          "answer": "G"
+        },
+        {
+          "question_number": 18,
+          "answer": "F"
+        },
+        {
+          "question_number": 19,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 20,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 21,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 22,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 23,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 24,
+          "answer": "Fighting"
+        },
+        {
+          "question_number": 25,
+          "answer": "commerce"
+        },
+        {
+          "question_number": 26,
+          "answer": "estates"
+        },
+        {
+          "question_number": 27,
+          "answer": "flower lovers"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "45 Passage 3 - Does An IQ Test Prove Creativity Q28-40.pdf",
+      "answers": [
+        {
+          "question_number": 28,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 29,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 30,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 31,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 32,
+          "answer": "A"
+        },
+        {
+          "question_number": 33,
+          "answer": "E"
+        },
+        {
+          "question_number": 34,
+          "answer": "F"
+        },
+        {
+          "question_number": 35,
+          "answer": "C"
+        },
+        {
+          "question_number": 36,
+          "answer": "D"
+        },
+        {
+          "question_number": 37,
+          "answer": "scalpel electrodes"
+        },
+        {
+          "question_number": 38,
+          "answer": "inspiration and elaboration"
+        },
+        {
+          "question_number": 39,
+          "answer": "alpha wave activity/ alpha waves"
+        },
+        {
+          "question_number": 40,
+          "answer": "difference/ differences"
+        }
+      ]
+    }
+  ]
+}

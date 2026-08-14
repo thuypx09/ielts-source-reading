@@ -1,0 +1,220 @@
+{
+  "exercise_set": "94",
+  "excercise_set": "94",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "94 Passage 1 - Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Look at the following descriptions or deeds (Questions <strong>1-4</strong>) and the list of catego-ries</p>\n<p>below.</p>\n<p>Match each description or deed with the correct category, <strong>A-D</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-D</strong></em><em>, in boxes </em><em><strong>1-4</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong></p>\n<p>“maximizers”</p>\n<p><strong>B</strong></p>\n<p>“satisficers”</p>\n<p><strong>C</strong></p>\n<p>neither “maximizers” nor “satisficers”</p>\n<p><strong>D</strong></p>\n<p>both “maximizers” and “satisficers”</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   rated to the Maximization Scale of making choice</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   don’t take much time before making a decision</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   are likely to regret about the choice in the future</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   choose the highest price in the range of purchase</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-8",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>5-8</strong></em><em> on you answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5 </strong>  In today’s world, since the society is becoming wealthier, people are happier.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   In society, there are more maximisers than satisficers.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   People tend to react more to loses than gains.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Females and males acted differently in the study of choice making.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>9-13</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   The Maximization Scale is aimed to</p>\n<p><strong>A</strong>   know the happiness when they have more choices.</p>\n<p><strong>B </strong>  measure how people are likely to feel after making choices.</p>\n<p><strong>C</strong>   help people make better choices.</p>\n<p><strong>D</strong>   reduce the time of purchasing.</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   According to the text, what is the result of more choices?</p>\n<p><strong>A</strong>   People can make choices more easily</p>\n<p><strong>B</strong>   Maximizers are happier to make choices.</p>\n<p><strong>C </strong>  Satisficers are quicker to make wise choices.</p>\n<p><strong>D</strong>   People have more tendency to experience regret.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11 </strong>  The example of theatre ticket is to suggest that</p>\n<p><strong>A</strong>   they prefer to use more money when buying tickets.</p>\n<p><strong>B</strong>   they don’t like to spend more money on theatre.</p>\n<p><strong>C</strong>   higher-priced things would induce more regret if not used properly</p>\n<p><strong>D</strong>   full-price payers are real theatre lovers.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   How to increase the happiness when making a better choice?</p>\n<p><strong>A </strong>  use less time</p>\n<p><strong>B</strong>   make more comparisons</p>\n<p><strong>C</strong>   buy more expensive products</p>\n<p><strong>D </strong>  limit the number of choices in certain situations</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13  </strong> What is the best title for Reading Passage 1?</p>\n<p><strong>A</strong>   Reasoning of Worse Choice Making</p>\n<p><strong>B</strong>   Making Choices in Today’s World</p>\n<p><strong>C</strong>   The Influence of More Choices</p>\n<p><strong>D</strong>   Complexity in Choice Making</p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "94 Passage 2 - Implication of False Belief Experiments Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>14-20</strong>) and the list of researchers below.</p>\n<p>Match each statement with the correct researcher, <strong>A-G</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Researchers </strong></p>\n<p><strong>A</strong></p>\n<p>Baron-Cohen</p>\n<p><strong>B</strong></p>\n<p>Meins</p>\n<p><strong>C</strong></p>\n<p>Wimmer and Pemer</p>\n<p><strong>D</strong></p>\n<p>Lewis E Dunn F Schatz G Harris</p>\n<p><strong>E</strong></p>\n<p>Dunn</p>\n<p><strong>F</strong></p>\n<p>Schatz</p>\n<p><strong>G</strong></p>\n<p>Harris</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   gave an alternative explanation that children may not be understanding other’s</p>\n<p>belief</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   found that children under certain age can tell difference between reality and</p>\n<p>mentality</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   conducted a well-known experiment and drew conclusion that young children were</p>\n<p>unable to comprehend the real state of the world</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17 </strong>  found that children who get along with adults often comparatively got through the</p>\n<p>test more easily</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18 </strong>  revised an easier experiment to rule out the possibility that children might be</p>\n<p>influenced by sophisticated reasoning</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   related social factor such as mother-child communication to capability act in TOM</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20  </strong> explained children are less likely to tell something interactive to their mother than</p>\n<p>to their friends</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Implication of False Belief Experiments </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-26",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>21-26</strong></em><em> on your answer sheet. </em></p>\n<p>In 1980s, research studies were designed to test the subject called Theory of Mind that</p>\n<p>if children have the ability to represent the reality. First experiments were carried out</p>\n<p>on this subject on a boy. And questions had been made on where the boy can find the</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>location of the <strong>21</strong> <input type=\"text\" />. But it was accused that it had excessive</p>\n<p><strong>22</strong><input type=\"text\" />. So second modified experiment was can- ducted involving two dolls,</p>\n<p>and most children passed the test at the age of <strong>23</strong><input type=\"text\" />. Then Lewis and Dunn</p>\n<p>researched <strong>24</strong> <input type=\"text\" />. children in a certain place, and found children who have</p>\n<p>more interaction such as more con-versation with <strong>25</strong><input type=\"text\" />. have better</p>\n<p>performance in the test, and peer interaction is 26<input type=\"text\" />. because of consisting</p>\n<p>pretending elements.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Implication of False Belief Experiments </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "94 Passage 3 - What is Meaning —Why do we respond to words and symbols in the waves we do Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>27-31</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   What point is made in the first paragraph?</p>\n<p><strong>A</strong>   The aim of education is to teach people to read</p>\n<p><strong>B</strong>   Everybody has a different pattern of reactions.</p>\n<p><strong>C</strong>   Print only carries meaning to those who have received appropriate ways to</p>\n<p>respond.</p>\n<p><strong>D</strong>   The writers should make sure their works satisfy a variety of readers.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   According to the second paragraph, people are judged by</p>\n<p><strong>A</strong>   the level of education.</p>\n<p><strong>B</strong>   the variety of experience.</p>\n<p><strong>C </strong>  how conventional their responses are.</p>\n<p><strong>D</strong>   complex situations.</p>\n<p>3</p>\n<p><strong>Passage 3                 What is Meaning —Why do we respond to words and symbols in the waves we do? </strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   What point is made in the third paragraph?</p>\n<p><strong>A</strong>   Standard ways are incapable of defining words precisely.</p>\n<p><strong>B</strong>   A dictionary is most scientific in defining words.</p>\n<p><strong>C</strong>   A dictionary should define words in as few words as possible.</p>\n<p><strong>D</strong>   Mathematicians could define words accurately.</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   What does the writer suggest by referring to Louis Armstrong?</p>\n<p><strong>A</strong>   He is an expert of language.</p>\n<p><strong>B </strong>  Music and language are similar.</p>\n<p><strong>C </strong>  He provides insights to how words are defined.</p>\n<p><strong>D</strong>   Playing trumpet is easier than defining words.</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   What does the writer intend to show about the example of “personnel manager”?</p>\n<p><strong>A </strong>  Harvard men are not necessarily competitive in the job market.</p>\n<p><strong>B</strong>   Meaning cannot always be shared by others.</p>\n<p><strong>C</strong>   The idea of operationalism does not make much sense outside the physical</p>\n<p>science.</p>\n<p>D   Job applicants should take care when filling out application forms.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-35",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-35</strong></em><em> on you answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   Some statements are incapable of being proved or disproved.</p>\n<p>4</p>\n<p><strong>Passage 3                 What is Meaning —Why do we respond to words and symbols in the waves we do? </strong></p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   Meaning that is personal to individuals is less worthy to study than shared</p>\n<p>meanings.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Flags and words are eliciting responses of the same reason.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35 </strong>  A story can be entertaining without being understood.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending, <strong>A-H</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>36-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   A comic strip</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   A dictionary</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Bridgman</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39 </strong>  A story in a language the audience cannot understand</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40 </strong>  A dollar bill</p>\n<p><strong>A</strong></p>\n<p>is meaningless.</p>\n<p><strong>B</strong></p>\n<p>has lasting effects on human behaviors.</p>\n<p><strong>C</strong></p>\n<p>is a symbol that has lost its meaning.</p>\n<p><strong>D</strong></p>\n<p>can be understood only in its social context.</p>\n<p><strong>E</strong></p>\n<p>can provide inadequate explanation of meaning.</p>\n<p><strong>F</strong></p>\n<p>reflects the variability of human behaviors.</p>\n<p><strong>G</strong></p>\n<p>emphasizes the importance of analyzing how words were used.</p>\n<p><strong>H</strong></p>\n<p>suggests that certain types of behaviors carry more meanings than others.</p>\n<p>5</p>\n<p><strong>Passage 3                 What is Meaning —Why do we respond to words and symbols in the waves we do? </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

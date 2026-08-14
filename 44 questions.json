@@ -1,0 +1,184 @@
+{
+  "exercise_set": "44",
+  "excercise_set": "44",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "44 Passage 1 - Plain English Campaign Q1-14.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-6",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p>In boxes <strong>1-6</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1   </strong>In marketing area, the spread of Plain English can generate economic benefit.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Because doctors tend to use jargon when they talk with patients, thereafter many</p>\n<p>patients usually get confused with medicine dose.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   After successive election over U.S president Jimmy Carter, the effect of Plain English</p>\n<p>Campaign is less distinctive than that of the previous one.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   The Plain English campaigner has a problem of talking with the officials.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Work check is made regularly by the judge in the court scenario.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Compared with the situation of the past, consumers are now facing less intensity of</p>\n<p>label reading pressure in a supermarket in America.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 7-14",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage.</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>7-14</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Campaigners experienced a council renting document full of strange <strong>7</strong><input type=\"text\" /> of</p>\n<p>housing in terms of an Act. They are anxious in some other field, for instance, when</p>\n<p>reading a label of medicine, there was an obvious <strong>8</strong><input type=\"text\" /> for patients.</p>\n<p>Another notable field was on <strong>9</strong><input type=\"text\" /> products, it not only additionally cost</p>\n<p>buyers but caused <strong>10</strong><input type=\"text\" />, thus writer should regard himself as a</p>\n<p><strong>11</strong><input type=\"text\" />.. However, oppositions against the Plain English Campaign under</p>\n<p>certain circumstances, e.g. <strong>12</strong><input type=\"text\" />... language had been embellished as an</p>\n<p>accurate language used in the <strong>13</strong><input type=\"text\" /> The author suggested that nowadays</p>\n<p>new compelling force is needed from <strong>14</strong><input type=\"text\" />.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Plain English Campaign </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "44 Passage 2 - Aqua product New Zealand’s Algae Biodiesel Q15-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 15-19",
+          "group_instruction_html": "<p>Reading Passage 2 contains seven paragraphs <strong>A-G.</strong></p>\n<p>Which paragraph stales the following information?</p>\n<p><em>Write the appropriate letter </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>15-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15   </strong>It is unnecessary to modify vehicles driven by bio-diesel.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   Some algae are considered edible plants.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   Algae could be part of a sustainable and recycled source.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Algae biodiesel is superior to other bio-fuels in a lot of ways.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   overgrown algae also can be a potential threat to the environment</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Aqua product: New Zealand’s Algae Biodiesel </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 20-24",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage.</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>20-24</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Bio-diesel based on algae could become a substitute for <strong>20</strong><input type=\"text\" />. in New</p>\n<p>Zealand. It could be used to <strong>21</strong><input type=\"text\" />.. vehicles such as cars and boats. As a</p>\n<p>result, billions of litres of bio-diesel are required worldwide each year. Algae can be</p>\n<p>obtained from <strong>22</strong><input type=\"text\" /> with nutrient materials. With the technology</p>\n<p>breakthrough, algae are extracted and the <strong>23</strong><input type=\"text\" />.. is removed from the</p>\n<p>settling ponds. Dairy farmers and many food processors can adopt such</p>\n<p><strong>24</strong><input type=\"text\" />.. technology.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 25-27",
+          "group_instruction_html": "<p>Choose words from the passage to answer the questions <strong>25-27</strong>.</p>\n<p>Write <strong>NO MORE THAN THREE WORDS</strong> for each answer.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   What environmental standard would bio-diesel vehicles are to meet?</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   What is to do like the immediate plan for coming years for Aquaflow?</p>"
+            },
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Through what kind of process do algae obtain and store energy?</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Aqua product: New Zealand’s Algae Biodiesel </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "44 Passage 3 - Designed to Last Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-32",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>28-32</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   What does ‘conscience time’ imply in paragraph 2?</p>\n<p><strong>A</strong>   People feel guilty when they throw things away easily.</p>\n<p><strong>B</strong>   The shelf in the garage needs cleaning.</p>\n<p><strong>C</strong>   The consumers are unaware of the waste problem.</p>\n<p><strong>D</strong>   The power tool should be placed in the right place after being used.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Prior to mass production, people own things to show</p>\n<p><strong>A</strong>   their quality</p>\n<p><strong>B</strong>   their status</p>\n<p><strong>C</strong>   their character</p>\n<p><strong>D</strong>   their history</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   The word ‘narrative’ in paragraph 3 refers to</p>\n<p><strong>A</strong>   the novelty culture pursued by the customers</p>\n<p><strong>B</strong>   the motivation of buying new products</p>\n<p><strong>C</strong>   object stories that relate personally and meaningfully to the owners</p>\n<p><strong>D</strong>   the image created by the manufacturers</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Without a personal connection, people buy new stuff for</p>\n<p><strong>A</strong>   sharing</p>\n<p><strong>B</strong>   freshness</p>\n<p><strong>C</strong>   collection</p>\n<p><strong>D</strong>   family members</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Designed to Last </strong></p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   The writer quotes the old jeans and teddy bear to illustrate that</p>\n<p><strong>A</strong>   the products are used for simple utility.</p>\n<p><strong>B</strong>   producers should create more special stuff to attract consumers.</p>\n<p><strong>C</strong>   Chapman led a poor childhood life.</p>\n<p><strong>D</strong>   the emotional connections make us to keep the objects for longer.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-36",
+          "group_instruction_html": "<p>Complete the summary using the list of words, <strong>A-H</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>33-26</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Tim Cooper claims that although sustainable design proceeds <strong>33</strong><input type=\"text\" />, the</p>\n<p>coming problems are pushing the move. In accordance with Tim Cooper, <em><strong>Thackara</strong></em></p>\n<p>believes that the origins of the looming environmental crises are weight and</p>\n<p><strong>34</strong><input type=\"text\" />. The technology which was assumed to have a positive effect on our</p>\n<p>society actually accelerates the world’s <strong>35</strong><input type=\"text\" />... To cure this, <em><strong>Manzini</strong></em> proposes</p>\n<p>a ‘multi-local society’ which means every resource should be located and redeployed</p>\n<p><strong>36</strong><input type=\"text\" />..</p>\n<p><strong> </strong></p>\n<p><strong>A</strong>     properly</p>\n<p><strong>B</strong>     energy</p>\n<p><strong>C</strong>     locally</p>\n<p><strong>D</strong>     economy</p>\n<p><strong>E</strong>     slowly</p>\n<p><strong>F</strong>     speed</p>\n<p><strong>G</strong>     quickly</p>\n<p><strong>H</strong>     metabolism</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Designed to Last </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Do the following statements agree with the claims of the writer in Reading Passage 3?</p>\n<p>In boxes <strong>37-40</strong> on your answer sheet, write</p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   People often buy things that are seldom used and throw them away.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   In a post-throwaway society, we will pay extra money after disposing of electronic</p>\n<p>goods.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Some businesses have jumped on the sustainability bandwagon.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Company will spend less on repairs in the future.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Designed to Last </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

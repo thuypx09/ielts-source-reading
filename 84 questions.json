@@ -1,0 +1,229 @@
+{
+  "exercise_set": "84",
+  "excercise_set": "84",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "84 Passage 1 - Mungo Man Q1-14.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-8",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed <strong>A-F</strong>) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-F</strong></em><em> in boxes </em><em><strong>1-8</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>\n<p><strong>A</strong>     Jim Bowler</p>\n<p><strong>B</strong>     Alan Thorne</p>\n<p><strong>C</strong>     Pddbo</p>\n<p><strong>D</strong>     Tim Flannery</p>\n<p><strong>E</strong>     Chris Stringer</p>\n<p><strong>F</strong>     Rainer Grün</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   He was searching for ancient lakes and came across the charred remains of Mungo</p>\n<p>Lady, who had been cremated.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Professor who hold a skeptical attitude towards reliability for DNA analysis on some</p>\n<p>fossils.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Professor whose determination of the age of Mungo Man to be much younger than</p>\n<p>the former result which is older than the 62,000 years.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   determining the age of Mungo Man has little to do with controversy for the origins of</p>\n<p>Australians.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   research group who recovered a biological proof of the first Neanderthal found in</p>\n<p>Europe.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   a supporter of the idea that Australia’s megafauna was extinct due to the hunting by</p>\n<p>the ancient human beings.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Instead of keep arguing a single source origin, multi-regional explanation has been</p>\n<p>raised.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Climate change rather than prehistoric human activities resulted in megafauna’s</p>\n<p>extinction.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mungo Man </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-14",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>9-14</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   The Lake Mungo remains offer the archeologists the evidence of graphic illustration</p>\n<p>of human activities around.</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   In Lake Mungo remains, weapons were found used by the Mungo.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   Mungo Man is one of the oldest known archeological evidence in the world of</p>\n<p>cultural sophistication such as a burying ritual.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   Mungo Man and woman’s skeletons were uncovered in the same year.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   There is controversy among scientists about the origin of the oldest Homo sapiens.</p>"
+            },
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   Out of Africa supporters have criticised Australian professors for using an outmoded</p>\n<p>research method</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mungo Man </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "84 Passage 2 - Motor car Q15-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 15-19",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>15-19</strong>) and the list of auto companies for</p>\n<p>car types in the box belong:</p>\n<p>Match each statement with the correct person <strong>A-H</strong></p>\n<p><em>Write the appropriate letter </em><em><strong>A-H</strong></em><em> in boxes </em><em><strong>15-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   The company which began the first manufacture of automobiles</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   The company that produces the industrialised cars that consumers can afford</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   The example of auto which improved the space room efficiency</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   The type of auto with greatest upgraded overall performance in Post-was era</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   They type of autos still keeping an advanced sale even during a seemingly</p>\n<p>unproductive period</p>\n<p><strong>A</strong>     The Ford (American, Henry Ford)</p>\n<p><strong>F</strong>     Jeep</p>\n<p><strong>B</strong>     The BMC’s Mini</p>\n<p><strong>G</strong>     NSU’s “Wankel engine” car</p>\n<p><strong>C</strong>     Cadillac and Lincoln (American)</p>\n<p><strong>H</strong>     Maserati, Ferrari, and Lancia</p>\n<p><strong>D</strong>     Mercedes-Benz (German)</p>\n<p><strong>E</strong>     Mazda</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 20-26",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>20-26</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   What is a common feature of modern cars’ engine type since the late 19th century</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   In the past, what did the rich take owing a car as?</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   How long did Ford’s assembly line take to produce a car?</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   What do people call the Mazda car designed under the Wankel engine?</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   What is the major <strong>historical</strong> <strong>event</strong> that led American cars to suffer when competing</p>\n<p>with Japanese imported cars?</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   What has greatly increased with computerised engine management systems?</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   What factor is blamed for contributing to pollution, climate change and global</p>\n<p>warming?</p>\n<p><strong>Question 27 </strong></p>\n<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>27</strong></em><em> on your answer sheet. </em></p>\n<p>What is the main idea of this passage?</p>\n<p><strong>A</strong>   The historical contribution of Ford’s mass production assembly line</p>\n<p><strong>B</strong>   The historical development and innovation in car designs</p>\n<p><strong>C</strong>   the beginning of the modern designed gasoline engines</p>\n<p><strong>D</strong>   the history of human and the Auto industry</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "84 Passage 3 - Decision making and Happiness Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-31",
+          "group_instruction_html": "<p>Use the information in the passage to match the category (listed <strong>A-D</strong>) with descriptions</p>\n<p>or deeds below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-D</strong></em><em> in boxes </em><em><strong>28-31</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong>     Maximiser</p>\n<p><strong>B</strong>     Satisficer</p>\n<p><strong>C</strong>     Both</p>\n<p><strong>D</strong>     Neither of them</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   finish transaction when the items match their expectation</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   buy the most expensive things when shopping</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   consider repeatedly until they make a final decision</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   participate in the questionnaire of the author</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision making and Happiness </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-36",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-36</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   With society’s advancement, more chances make our lives better and happier.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   There is a difference of findings by different gender classification.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   The feeling of loss is greater than that of acquisition.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   ‘Good enough’ plays a more significant role in pursuing ‘best’ standards of the</p>\n<p>maximizer.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   There are certain correlations between the “regret” people and the maximisers.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>37-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   What is the subject of this passage?</p>\n<p><strong>A</strong>   regret makes people less happy</p>\n<p><strong>B</strong>   choices and Well-being</p>\n<p><strong>C</strong>   an interesting phenomenon</p>\n<p><strong>D</strong>   advices on shopping</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision making and Happiness </strong></p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   According to the conclusion of questionnaires, which of the following statement is</p>\n<p>correct?</p>\n<p><strong>A</strong>   maximisers are less happy</p>\n<p><strong>B</strong>   state of being optimistic is important</p>\n<p><strong>C</strong>   uncertain results are found.</p>\n<p><strong>D</strong>   maximisers tend to cross the bottom line</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   The experimental on theater tickets suggested:</p>\n<p><strong>A</strong>   sales are different according to each season</p>\n<p><strong>B</strong>   people like to spend on the most expensive items</p>\n<p><strong>C</strong>   people feel depressed if they spend their vouchers</p>\n<p><strong>D</strong>   people will feel regret more when they fail to use a higher-priced purchase</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   What is the author’s suggestion on how to increase happiness:</p>\n<p><strong>A</strong>   focus on the final decision</p>\n<p><strong>B</strong>   be sensitive and smart</p>\n<p><strong>C</strong>   reduce the choice or option</p>\n<p><strong>D</strong>   read the label carefully</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision making and Happiness </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

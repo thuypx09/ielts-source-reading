@@ -1,0 +1,179 @@
+{
+  "exercise_set": "14",
+  "excercise_set": "14",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "14 Passage 1 - Dirty river but clean water Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Do the following statements agree with the information give in Reading Passage 1?</p>\n<p>In boxes <strong>1-7</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Damage caused by fire is worse than that caused by flood.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   The flood peaks at almost 1500 cubic meters every eight years.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Contribution of sediments delivered by tributaries has little impact.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Decreasing number of chubs is always caused by introducing of trout since mid 20th</p>\n<p>century.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   It seemed that the artificial flood in 1996 had achieved success partly at the very</p>\n<p>beginning.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   In fact, the yield of artificial flood water is smaller than an average natural flood at</p>\n<p>present.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Mighty floods drove fast moving flows with clean and high quality water.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Dirty river but clean water </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 8-13",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>8-13</strong></em><em> on your answer sheet. </em></p>\n<p><strong>The eco-impact of the Canyon Dam </strong></p>\n<p>Floods are people’s nightmare. In the past, canyon was raged by flood every year. The</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>snow from far Wyoming would melt in the season of <strong>8</strong> <input type=\"text\" />.. and caused a</p>\n<p>flood flow peak in Colorado river. In the four decades after people built the Glen Canyon</p>\n<p>dam, it only could gather <strong>9</strong> <input type=\"text\" /> together from tiny, undammed tributaries.</p>\n<p>humpback chub population reduced, why?</p>\n<p>Then several species disappeared including Colorado pike-minnow, <strong>10</strong> <input type=\"text\" /></p>\n<p>and the round-tail chub. Meanwhile, some moved in such as fathead minnows, channel</p>\n<p>catfish and <strong>11</strong><input type=\"text\" />.. The non-stopped flow leaded to the washing away of the</p>\n<p>sediment out of the canyon, which poses great threat to the chubs because it has poor</p>\n<p><strong>12</strong><input type=\"text\" />.. away from predators. In addition, the volume of <strong>13</strong><input type=\"text\" /></p>\n<p>available behind the dam was too low to rebuild the bars and flooding became more</p>\n<p>serious.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Dirty river but clean water </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "14 Passage 2 - Seed Hunting Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-19",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>14-19</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   The purpose of collecting seeds now is different from the past.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   The millennium seed bank is the earliest seed bank.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   One of major threats for plant species extinction is farmland expansion into</p>\n<p>wildness.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   The approach that scientists apply to store seeds is similar to that used by farmers.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   technological development is the only hope to save plant species.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   The works of seed conservation are often limited by financial problems.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 20-24",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage 2,</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>20-24</strong></em><em> on your answer sheet. </em></p>\n<p>Some people collect seeds for the purpose of protecting certain species from</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>20</strong><input type=\"text\" />; others collect seeds for their ability to produce <strong>21</strong> <input type=\"text\" />..</p>\n<p>They are called seed hunters. The <strong>22</strong><input type=\"text\" />. Of them included both gardeners</p>\n<p>and botanists, such as <strong>23</strong><input type=\"text\" />.., who financially supported collectors out of his</p>\n<p>own pocket. The seeds collected are usually stored in seed banks, one of which is the</p>\n<p>famous millennium seed bank, where seeds are all stored in the <strong>24</strong> <input type=\"text\" /> at a</p>\n<p>low temperature.</p>\n<p>4</p>\n<p><strong>Passage 2  </strong></p>\n<p><strong> </strong></p>\n<p><strong>Seed Hunting </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 25-26",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A-E</strong>.</p>\n<p>Write your answers in boxes <strong>25</strong>, <strong>26</strong> on your answer sheet.</p>\n<p>Which <strong>TWO</strong> of the following are provided by plants to the human?</p>\n<p><strong>A</strong>   food</p>\n<p><strong>B</strong>   fuels</p>\n<p><strong>C</strong>   clothes</p>\n<p><strong>D</strong>   energy</p>\n<p><strong>E</strong>   commercial products</p>\n<p>5</p>\n<p><strong>Passage 2  </strong></p>\n<p><strong> </strong></p>\n<p><strong>Seed Hunting </strong></p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "14 Passage 3 - The significant role of mother tongue language in education Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-30",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>27-30</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   What point the writer making in the second paragraph?</p>\n<p><strong>A</strong>   Some present studies on children’s mother tongues are misleading</p>\n<p><strong>B</strong>   A culturally rich education programme benefits some children more than</p>\n<p>others.</p>\n<p><strong>C </strong>  bilingual children can make a valuable contribution to the wealth of a country</p>\n<p><strong>D</strong>   The law on mother tongue use at school should be strengthened.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Why does the writer refer to something that Goethe said?</p>\n<p><strong>A </strong>  to lend weight his argument</p>\n<p><strong>B</strong>   to contradict some research</p>\n<p><strong>C</strong>   to introduce a new concept</p>\n<p><strong>D</strong>   to update current thinking</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   The writer believes that when young children have a firm grasp of their mother</p>\n<p>tongue</p>\n<p><strong>A</strong>   they can teach older family members what they learn at school</p>\n<p><strong>B </strong>  they go on to do much better throughout their time at school</p>\n<p><strong>C </strong>  they can read stories about their cultural background</p>\n<p><strong>D</strong>   they develop stronger relationships with their family than with their peers.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3                                                            The significant role of mother tongue language in education </strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Why are some people suspicious about mother tongue-based teaching</p>\n<p>programmes?</p>\n<p><strong>A</strong>   They worry that children will be slow to learn to read in either language</p>\n<p><strong>B</strong>   They think that children will confuse words in the two languages.</p>\n<p><strong>C </strong>  They believe that the programmes will make children less interested in their lessons</p>\n<p><strong>D</strong>   they fear that the programmes will use up valuable time in the school day.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 31-35",
+          "group_instruction_html": "<p>Complete the summary using the list of words <strong>A-J</strong> below</p>\n<p><em>Write the correct letter, </em><em><strong>A-J</strong></em><em>, in boxes </em><em><strong>31-35</strong></em><em> on your answer sheet. </em></p>\n<p><strong>Bilingual children </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>It was often recorded that Bilingual Children acquire the <strong>31</strong> <input type=\"text\" />. to converse</p>\n<p>in the majority language remarkable quickly. The fact that the mother tongue can</p>\n<p>disappear at a similar <strong>32</strong><input type=\"text\" />.. is less well understood. This phenomenon</p>\n<p>depends to a certain extent, on the proposition of people with the same linguistic</p>\n<p>background that have settled in a particular <strong>33</strong><input type=\"text\" />.; If this is limited,</p>\n<p>children are likely to lose the active use of their mother tongue. And thus no longer</p>\n<p>employ it even with <strong>34</strong> <input type=\"text\" />, although they may still understand it. It follows</p>\n<p>that teenager children in these circumstances experience a sense of <strong>35</strong> <input type=\"text\" />.</p>\n<p>in relation to all aspects of their lives.</p>\n<p><strong>A</strong>  Teachers</p>\n<p><strong>B</strong>  school</p>\n<p><strong>C</strong>  dislocation</p>\n<p><strong>D</strong>  rate</p>\n<p><strong>E</strong>  time</p>\n<p><strong>F</strong>  family</p>\n<p><strong>G</strong>  communication <strong>H</strong>  type</p>\n<p><strong>I</strong>   ability</p>\n<p><strong>J</strong>   area</p>\n<p>5</p>\n<p><strong>Passage 3                                                            The significant role of mother tongue language in education </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Do the following statement agree with the views of the writer in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>36-40</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the views of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts which the views of the writer</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Less than half the children who attend kindergarten in Toronto have English as their</p>\n<p>Mother tongue.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Research proves that learning the host country language at school can have an</p>\n<p>adverse effect on a child’s mother tongue.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   the foyer Program is to be accepted by the French education system.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Bilingual children are taught to tell the time earlier than monolingual children.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Bilingual children can eventually apply comprehension strategies acquired in one</p>\n<p>language when reading in the other.</p>\n<p>6</p>\n<p><strong>Passage 3                                                            The significant role of mother tongue language in education </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

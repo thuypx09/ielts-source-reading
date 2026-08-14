@@ -1,0 +1,169 @@
+{
+  "exercise_set": "75",
+  "excercise_set": "75",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "75 Passage 1 - THE PLIGHT OF RICE Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-5</strong></em><em> on your answer sheet, write: </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information.</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information.</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this.</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Rice is only grown at a low elevation.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Rice has been cultivated in Africa for 3,000 years.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Since 1984, rice yields have decreased due to infestations of pests.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Norman Borlaug believed Punjabi farmers should grow semi-dwarf rice.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   The Green Revolution increased rice yields by around 100%.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 6-11",
+          "group_instruction_html": "<p>Complete the notes below.</p>\n<p>Choose <strong>ONE WORD AND / OR A NUMBER</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>6-11</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 12-13",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong>, or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>12-13</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>12</strong>   States are more interested in<input type=\"text\" />than stimulating rice production.</p>\n<p><strong>A</strong>   increasing wheat production</p>\n<p><strong>B</strong>   reducing farm subsidies</p>\n<p><strong>C</strong>   confronting obesity</p>\n<p><strong>D</strong>   consolidating land holdings</p>\n<p><strong> </strong></p>\n<p><strong>13</strong> <input type=\"text\" />disappearing as urbanisation speeds up.</p>\n<p><strong>A</strong>   Intensive farming is</p>\n<p><strong>B</strong>   Fertile land is</p>\n<p><strong>C</strong>   Clean water is</p>\n<p><strong>D</strong>   Agricultural institutes are</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>THE PLIGHT OF RICE </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "75 Passage 2 - A New Perspective on Bacteria Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>Passage 2 has seven sections, <strong>A-G</strong>.</p>\n<p>Which section contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>:  <em>Any section can be chosen more than once</em>.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   examples of bacteria as a patented medicine</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   a description of bacteria</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   gene cluster detection and culture</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   humans are teeming with bacteria</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Fischbach&#x27;s hypothesis</p>\n<p><strong> </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-22",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong>, or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>19-22</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   What do almost all bacteria share?</p>\n<p><strong>A</strong>   Their simple configurations</p>\n<p><strong>B</strong>   Their cellular organisation</p>\n<p><strong>C</strong>   Their survival without oxygen</p>\n<p><strong>D</strong>   Their parasitic nature</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   From the suffix &#x27;-bacillus&#x27;, what shape would you expect the bacterium <em>Paenibacillus</em></p>\n<p>to be?</p>\n<p><strong>A</strong>   spherical</p>\n<p><strong>B</strong>   rod-like</p>\n<p><strong>C</strong>   spiral</p>\n<p><strong>D</strong>   amorphous</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A New Perspective on Bacteria </strong></p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Why were ancient bacteria invaluable to humans?</p>\n<p><strong>A</strong>   They contributed to higher levels of oxygen.</p>\n<p><strong>B</strong>   They reduced widespread industrial pollution.</p>\n<p><strong>C</strong>   They protected humans from intestinal ailments.</p>\n<p><strong>D</strong>   They provided scientists with antibiotics.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   How prevalent are microbes?</p>\n<p><strong>A</strong>   Not at all</p>\n<p><strong>B</strong>   Somewhat</p>\n<p><strong>C</strong>   Very</p>\n<p><strong>D</strong>   Extremely</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 23-26",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS OR A NUMBER</strong> from the passage for each</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "75 Passage 3 - Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Complete the notes below.</p>\n<p>Write <strong>NO MORE THAN TWO WORDS OR A NUMBER</strong> for each answer</p>\n<p>Write your answers in boxes <strong>27-31</strong> on your answer sheet.</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 32-39",
+          "group_instruction_html": "<p>Look at the following statements and the list of times and places below.</p>\n<p>Match each statement with the correct place or time: <strong>A-H</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>32-39</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   A geographer documents Viking culture as it happens.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   A philosopher classifies cultures hierarchically.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Historians assert that Viking history is based more on legends than facts.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Young people learn about Viking cultural and economic activities.</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   People see themselves as unrelated to Vikings.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   An historian claims Viking colonists to modem-day Canada came from his land.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Viking conquests are exaggerated to bolster the country&#x27;s ego after a territorial loss.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   DNA tests show locals are closely related to Swedes.</p>\n<p><strong> </strong></p>\n<p><strong>List of times</strong><strong> </strong><strong>&amp; places </strong></p>\n<p><strong>A</strong>     In the UK today</p>\n<p><strong>B</strong>     In 19th-century Norway</p>\n<p><strong>C</strong>     In 19th-century Sweden</p>\n<p><strong>D</strong>     In 19th-century England</p>\n<p><strong>E</strong>     In Denmark today</p>\n<p><strong>F</strong>     In 9th-century Persia</p>\n<p><strong>G</strong>     In mid-20th century Soviet Union</p>\n<p><strong>H</strong>     In Russia today</p>\n<p>4</p>\n<p><strong>Passage 3  </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong>Question 40 </strong></p>\n<p>Which might be a suitable title for passage 3?</p>\n<p>Choose the correct letter <strong>A-E</strong>.</p>\n<p><em>Write the correct letter in box </em><em><strong>40</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong>     A brief history of Vikings</p>\n<p><strong>B</strong>     Recent Viking discoveries</p>\n<p><strong>C</strong>     A modem fascination with Vikings</p>\n<p><strong>D</strong>     Interpretations of Viking history</p>\n<p><strong>E</strong>     Viking history and nationalism</p>\n<p>5</p>\n<p><strong>Passage 3  </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

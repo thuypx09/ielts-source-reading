@@ -1,0 +1,190 @@
+{
+  "exercise_set": "93",
+  "excercise_set": "93",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "93 Passage 1 - The Connection Between Culture and Thought Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Reading Passage 1 has eleven paragraphs, <strong>A-K</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-K</strong></em><em>, in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>    All people have the same reaction to a certain point of view.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>    Qualitative descriptions are valuable in exploring thought processing.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>    Different cultures will affect the description of the same scene.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4 </strong>   We thought of young people as widely different at different geographical locations.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5  </strong>  Eastern people are less likely to stick to their argument.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 6-9",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>6-9</strong>) and the list of researchers below.</p>\n<p>Match each statement with the correct researcher, <strong>A-C</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-C</strong></em><em>, in boxes </em><em><strong>6-9</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>\n<p><strong>List of Researchers </strong></p>\n<p><strong>A</strong></p>\n<p>Bessett &amp; Masuku</p>\n<p><strong>B</strong></p>\n<p>Bessett &amp; Choi</p>\n<p><strong>C</strong></p>\n<p>Bessett &amp; Ara</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6 </strong>   Geographical location affects people’s position on certain arguments.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7 </strong>   Animated images reveal different process strategies.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8  </strong>  Eastern people challenge a deduction because they knew it is not true.</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>    Eastern people find more difficulty when asked to identify the same object.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Connection Between Culture and Thought </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 10-13",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer</p>\n<p><em>Write your answers in boxes </em><em><strong>10-13</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>10</strong>   Researchers in the Soviet Union wanted to find out how <input type=\"text\" />. and</p>\n<p>nationality will control the way people think.</p>\n<p><strong>11</strong>   Bessett and Ara’s experiment shows, for Americans, so long as the logic deduction is</p>\n<p>based on a correct argument, the <input type=\"text\" />. should be right.</p>\n<p><strong>12</strong>   Fischer thinks Bessett’s research is quite valuable because it is conducted in a</p>\n<p><input type=\"text\" />.. way rather than in controlled environment.</p>\n<p><strong>13</strong>   Future researchers on culture’s effect on cognitive processing should start with a</p>\n<p><input type=\"text\" />.. of culture as a variable.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Connection Between Culture and Thought </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "93 Passage 2 - Eco-Resort Management Practices Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   The Stradbroke became two islands</p>\n<p><strong>A</strong>   by an intended destruction of the ship of the Cambus Wallace.</p>\n<p><strong>B</strong>   by an explosion of dynamite on a ship and following nature erosion.</p>\n<p><strong>C</strong>   by the movement sandhills on Stradbroke Island.</p>\n<p><strong>D </strong>  by the volcanic eruption on island.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Why are laundry activities for the resort carried out on the mainland?</p>\n<p><strong>A </strong>  to obtain its water supply via a bore system</p>\n<p><strong>B</strong>   to preserve the water and anti-pollution</p>\n<p><strong>C </strong>  to save the cost of installing onerous washing machines</p>\n<p><strong>D </strong>  to reduce the level of phosphates in water around</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   The major water supplier in South Stradbroke Island is by</p>\n<p><strong>A</strong>   desalining the sea water.</p>\n<p><strong>B </strong>  collecting the rainfall.</p>\n<p><strong>C</strong>   transporting from the mainland.</p>\n<p><strong>D</strong>   boring ground water.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   What is applied for heating water on Couran Cove Island Resort?</p>\n<p><strong>A </strong>  the LPG-power</p>\n<p><strong>B</strong>   a diesel-powered plant</p>\n<p><strong>C </strong>  the wind power</p>\n<p><strong>D</strong>   the solar-power</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Eco-Resort Management Practices </strong></p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   What does, as the managers of resorts believe, the prospective future focus on?</p>\n<p><strong>A </strong>  more awards for resort’s accommodation</p>\n<p><strong>B</strong>   sustainable administration and development in a long run</p>\n<p><strong>C </strong>  economic and environmental benefits for the tourism enterprise</p>\n<p><strong>D</strong>   successful implementation of the Resort Development Spectrum</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-23",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>19-23</strong></em><em> on your answer sheet. </em></p>\n<p>Being located away from the mainland, tourists can attain the resort only by</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>19</strong><input type=\"text\" />.  in a regular service provided by the resort itself. Within the resort,</p>\n<p>transports include trails for walking or tracks for both <strong>20</strong> <input type=\"text\" />. and the beach</p>\n<p>train. The on-island equipment is old-fashioned which is barely working such as the</p>\n<p><strong>21</strong><input type=\"text\" /> overhead. There is elevision, radio, an old <strong>22</strong> <input type=\"text\" />. and a small</p>\n<p>fridge. And you can buy the repellent for <strong>23</strong><input type=\"text\" />...  if you forget to bring some.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Eco-Resort Management Practices </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 24-26",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters, <strong>A-E</strong>.</p>\n<p><em>Write the correct letters in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>THREE</strong> of the following statements are true as to the contemporary situation of</p>\n<p>Couran Cove Island Resort in the last paragraph?</p>\n<p><strong>A</strong>   Couran Cove Island Resort goes for more eco-friendly practices.</p>\n<p><strong>B</strong>   The accommodation standard only conforms to the Resort Development</p>\n<p>Spectrum of Phase 3.</p>\n<p><strong>C</strong>   Couran Cove Island Resort should raise the accommodation standard and</p>\n<p>build more facilities.</p>\n<p><strong>D</strong>   The principal group visiting the resort is international tourists.</p>\n<p><strong>E </strong>  Its carrying capacity will restrict the future businesses’ expansion.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Eco-Resort Management Practices </strong></p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "93 Passage 3 - The future of the World_s Language Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Complete the summary using the list of words, <strong>A-J</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-J</strong></em><em>, in boxes </em><em><strong>27-31</strong></em><em> on your answer sheet. </em></p>\n<p>Of the world’s 6,500 living languages, about half of them are expected to be extinct.</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Most of the world’s languages are spoken by a <strong>27</strong><input type=\"text\" />. of people. However,</p>\n<p>Professor Turin set up a project WOLP to prevent <strong>28</strong><input type=\"text\" /> of the languages. The</p>\n<p>project provides the community with <strong>29</strong><input type=\"text\" />. to enable people to record their</p>\n<p>endangered languages. The oral tradition has great cultural <strong>30</strong><input type=\"text\" />.. An</p>\n<p>important <strong>31</strong><input type=\"text\" /> between languages spoken by few people and languages</p>\n<p>with celebrated written documents existed in many communities.</p>\n<p><strong>A</strong></p>\n<p>similarity</p>\n<p><strong>B</strong></p>\n<p>significance</p>\n<p><strong>C</strong></p>\n<p>funding</p>\n<p><strong>D</strong></p>\n<p>minority</p>\n<p><strong>E</strong></p>\n<p>education</p>\n<p><strong>F</strong></p>\n<p>difference</p>\n<p><strong>G</strong></p>\n<p>education</p>\n<p><strong>H</strong></p>\n<p>diversity</p>\n<p><strong>I</strong></p>\n<p>majority</p>\n<p><strong>J</strong></p>\n<p>disappearance</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-35",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-35</strong></em><em> on you answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32 </strong>   Turin argued that anthropologists and linguists usually think carefully before</p>\n<p>selecting an area to research.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>    Turin concluded that the Thangmi language had few similarities with other</p>\n<p>languages.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>    Turin has written that 1000-page document was inappropriate for Thangmi</p>\n<p>community;</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>    Some Nepalese schools lack resources to devote to language teaching.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>36-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Why does Turin say people do PhDs on the apostrophe in French?</p>\n<p><strong>A</strong>   He believes that researchers have limited role in the research of languages.</p>\n<p><strong>B</strong>   He compares the methods of research into languages.</p>\n<p><strong>C</strong>   He thinks research should result in a diverse cultural outlook.</p>\n<p><strong>D </strong>  He holds that research into French should focus on more general aspects.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37 </strong>  What is discussed in the ninth paragraph?</p>\n<p><strong>A </strong>  Forces driving people to believe endangered languages can survive.</p>\n<p><strong>B</strong>   The community where people distrust language revival.</p>\n<p><strong>C </strong>  The methods of research that have improved language restoration.</p>\n<p><strong>D</strong>   Initiatives the World Oral Literature Project is bringing to Israel.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   How is the WOLP’s prospect?</p>\n<p><strong>A </strong>  It would not raise enough funds to achieve its aims.</p>\n<p><strong>B</strong>   It will help keep languages alive.</p>\n<p><strong>C</strong>   It will be embraced by a large number of people.</p>\n<p><strong>D </strong>  It has chance to succeed to protect the engendered languages.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   What is Turin’s main point of globalisation?</p>\n<p><strong>A</strong>   Globalisation is the main reason for endangered language.</p>\n<p><strong>B</strong>   Globalisation has both advantages and disadvantages.</p>\n<p><strong>C</strong>   We should have a more critical view of globalisation.</p>\n<p><strong>D</strong>   We should foremost protect our identity in face of globalisation.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40 </strong>  What does Turin suggest that community people should do?</p>\n<p><strong>A</strong>   Learn other languages.</p>\n<p><strong>B</strong>   Only have a sense of identity.</p>\n<p><strong>C</strong>   Keep up with the modem society without losing their language.</p>\n<p>D   Join the race to protect as many languages as possible but be realistic.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

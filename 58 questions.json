@@ -1,0 +1,220 @@
+{
+  "exercise_set": "58",
+  "excercise_set": "58",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "58 Passage 1 - Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Reading Passage 1 has 5 paragraphs, <strong>A-E</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-E</strong></em><em> in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p>2</p>\n<p>Passage 1</p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   A natural phenomenon that could also affect climate change.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2 </strong>  Steps we can take to help reverse the situation.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   An explanation of what climate change is.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Organisations that want to help.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Possible effects of climate change.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 6-9",
+          "group_instruction_html": "<p>Look at the following people (Questions 6-9) and the list of statements below.</p>\n<p>Match each person with the correct statement, <strong>A-F</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em>, in boxes </em><em><strong>6-9</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Professor Max Leonard</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Dr Michael Crawley</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Professor Mark Halton</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   Dr Ray Ellis</p>\n<p><strong>A</strong>     We have the ability to change the situation.</p>\n<p><strong>B</strong>     Climate change is inevitable.</p>\n<p><strong>C</strong>     Humans have made the situation much worse.</p>\n<p><strong>D</strong>     Climate change might not be all bad.</p>\n<p><strong>E </strong>    Human activity and natural weather phenomena have combined with equal</p>\n<p>influence to shape climate change.</p>\n<p><strong>F</strong>     While we may not be too late to save our planet, there are bound to be some</p>\n<p>extreme side-effects of past human activity, one way or the other.</p>\n<p>3</p>\n<p>Passage 1</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 10-13",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>10-13</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   Man is not entirely responsible for global warming.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   Scientists have come up with new evidence about the negative effects of carbon-</p>\n<p>free sources of energy such as nuclear power.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   One of the purposes of Green Peace is to find out which companies and</p>\n<p>governments are doing things which don’t help the actions of environmentalists.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   Most people aren’t willing to start using renewable energy.</p>\n<p>4</p>\n<p>Passage 1</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "58 Passage 2 - PRIVATE SCHOOLS Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   The English educational system differs from other ones because</p>\n<p><strong>A</strong>   it tries to make state and private education equal.</p>\n<p><strong>B</strong>   more students are educated at private schools than state schools.</p>\n<p><strong>C</strong>   it contributes to creating a class system within society.</p>\n<p><strong>D</strong>   it is more expensive to run.</p>\n<p>2</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>PRIVATE SCHOOLS </strong></p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   There are more private school children who go to university because</p>\n<p><strong>A</strong>   the lessons and teachers at the private schools are much better.</p>\n<p><strong>B</strong>   their parents are very rich and can help them.</p>\n<p><strong>C</strong>   they have more teaching hours.</p>\n<p><strong>D</strong>   the schools create a successful environment.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   A lot of parents often send their children to private schools.</p>\n<p><strong>A</strong>   because they are not well-informed.</p>\n<p><strong>B</strong>   to show how much money they have to their friends.</p>\n<p><strong>C</strong>   to increase their chances of succeeding in the university exams.</p>\n<p><strong>D</strong>   because of the better sports facilities.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   It is suggested that some parents of children at private schools are</p>\n<p><strong>A</strong>   prejudiced and superficial.</p>\n<p><strong>B</strong>   more intelligent than those with children at state schools.</p>\n<p><strong>C</strong>   well-brought-up and cultivated.</p>\n<p><strong>D</strong>   overly protective.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Private schools</p>\n<p><strong>A</strong>   always have their own beaches.</p>\n<p><strong>B</strong>   teach sports that state schools do not.</p>\n<p><strong>C</strong>   spend more money per student than in state schools.</p>\n<p><strong>D</strong>   spend more money on hiring good teachers.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   The writer thinks that private-school buildings</p>\n<p><strong>A</strong>   are very attractive and luxurious.</p>\n<p><strong>B</strong>   generally do not look very nice.</p>\n<p><strong>C</strong>   are too big for the amount of students who attend the school.</p>\n<p><strong>D</strong>   are not built to suit student’s needs.</p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>PRIVATE SCHOOLS </strong></p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   In general, what do you think the writer’s opinion of private schools is?</p>\n<p><strong>A</strong>   It isn’t fair that those without money can’t attend them.</p>\n<p><strong>B</strong>   They divide social classes but they offer better facilities and a more creative</p>\n<p>environment.</p>\n<p><strong>C</strong>   There is little difference between private and state schools.</p>\n<p><strong>D</strong>   They have the best teachers.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-26",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>\n<p>The fact that there are so many private schools in England, in comparison to other</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>countries, makes the English educational system <strong>21</strong><input type=\"text\" />..</p>\n<p>Most students in these schools are from <strong>22</strong><input type=\"text\" /> families. These students</p>\n<p>seem to do better at exams although statistics can be <strong>23</strong><input type=\"text\" /></p>\n<p>One of the advantages of private schools is that they seem to provide students with a</p>\n<p>better, more positive environment that encourages them to <strong>24</strong><input type=\"text\" />..</p>\n<p>themselves to their school work with more enthusiasm.</p>\n<p>A lot of not very well-off parents make huge sacrifices for their children’s</p>\n<p><strong>25</strong><input type=\"text\" />. to help them go to respectable universities. Unfortunately, many state</p>\n<p>school buildings some times have the appearance of an industrial <strong>26</strong><input type=\"text\" />..</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>PRIVATE SCHOOLS </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "58 Passage 3 - Martin Luther King Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   From a young age Martin Luther King</p>\n<p><strong>A</strong>   wanted to protest for the rights of black people.</p>\n<p><strong>B</strong>   could not understand why black people were treated differently.</p>\n<p><strong>C</strong>   was not allowed to go to the cinema or to restaurants.</p>\n<p><strong>D</strong>   was aware that black people were being humiliated in many northern states.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   What initially made Martin Luther King famous?</p>\n<p><strong>A</strong>   the black boycott of the Montgomery bus system</p>\n<p><strong>B</strong>   becoming a pastor at a Baptist Church</p>\n<p><strong>C</strong>   when Rosa Parks refused to give up her seat on a bus</p>\n<p><strong>D</strong>   when he persuaded Rosa Parks not to give up her bus seat to a white man</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   What influenced Martin Luther King regarding non-violence?</p>\n<p><strong>A</strong>   India’s independence in 1947</p>\n<p><strong>B</strong>   Christianity</p>\n<p><strong>C</strong>   the Southern Leadership Christian Conference</p>\n<p><strong>D</strong>   the methods of Gandhi</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   What did Martin Luther King fight for in 1965?</p>\n<p><strong>A</strong>   the right of black people to vote</p>\n<p><strong>B</strong>   the actions of the US Congress</p>\n<p><strong>C</strong>   the right to win the Nobel Peace Prize</p>\n<p><strong>D</strong>   the right of black people to travel abroad</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Martin Luther King </strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   How did Martin Luther King feel about the civil rights movement?</p>\n<p><strong>A</strong>   It was helping the war in Vietnam.</p>\n<p><strong>B</strong>   It brought the younger generation together.</p>\n<p><strong>C</strong>   It has been exploited by politicians who wanted to get more votes.</p>\n<p><strong>D</strong>   The protesters sometimes behaved too violently.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-34",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-34</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   The black boycott of the Montgomery bus system was a success.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   In 1963 the white people in Alabama wanted desegregation.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Martin Luther King achieved a lot in his protest against the Vietnam War.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 35-40",
+          "group_instruction_html": "<p>Reading Passage 3 has 6 paragraphs.</p>\n<p>Choose the correct heading for each paragraph <strong>A-F</strong>, from the list of headings.</p>\n<p><em>Write the correct number, </em><em><strong>i-viii</strong></em><em>, in boxes </em><em><strong>35-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Paragraphs <strong>A</strong></p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Paragraphs <strong>B</strong></p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Paragraphs <strong>C</strong></p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Paragraphs <strong>D</strong></p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Paragraphs <strong>E</strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Paragraphs <strong>F </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Martin Luther King </strong></p>\n<p><strong>i </strong></p>\n<p>The memorable speech</p>\n<p><strong>ii</strong></p>\n<p>Unhappy about violence</p>\n<p><strong>iii</strong></p>\n<p>A tragic incident</p>\n<p><strong>iv</strong></p>\n<p>Protests and action</p>\n<p><strong>v</strong></p>\n<p>The background of an iconic man</p>\n<p><strong>vi</strong></p>\n<p>Making his mark internationally</p>\n<p><strong>vii</strong></p>\n<p>Difficult childhood</p>\n<p><strong>viii</strong></p>\n<p>Black street repairmen</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Martin Luther King </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

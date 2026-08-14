@@ -1,0 +1,269 @@
+{
+  "exercise_set": "83",
+  "excercise_set": "83",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "83 Passage 1 - Spider silk 2 Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Reading Passage 1 has nine paragraphs, <strong>A-I</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-I</strong></em><em>, in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   a comparison of the ways two materials are used to replace silk-producing glands</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   predictions regarding the availability of the synthetic silk</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   ongoing research into other synthetic materials</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   the research into the part of the spider that manufactures silk</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   the possible application of the silk in civil engineering</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Spider silk 2 </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 6-10",
+          "group_instruction_html": "<p>Complete the flow-chart below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>6-10</strong></em><em> on your answer sheet. </em></p>\n<p><em> </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Synthetic gene grown in <strong>6</strong> <input type=\"text\" /> or <strong>7</strong><input type=\"text\" />..</p>\n<p>↓</p>\n<p>globules of <strong>8 </strong><input type=\"text\" />.</p>\n<p>↓</p>\n<p>dissolved in <strong>9</strong> <input type=\"text\" />..</p>\n<p>↓</p>\n<p>passed through <strong>10</strong> <input type=\"text\" /></p>\n<p>↓</p>\n<p><strong>to produce a solid fibre </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 11-13",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>11-13</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   Biosilk has already replaced nylon in parachute manufacture.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   The spider produces silk of varying strengths.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   Lewis and Dorsch co-operated in the synthetic production of silk</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Spider silk 2 </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "83 Passage 2 - Novice and Expert - Becoming an Expert Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-18",
+          "group_instruction_html": "<p>Complete the flow chart.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes 14-18 on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 19-23",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>19-23</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   Novices and experts use the same system to classify objects.</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   A novice’s training is focused on memory skills.</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Experts have higher efficiency than novices when solving problems in their own</p>\n<p>field.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   When facing a problem, a novice always tries to solve it straight away.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Experts are better at recognizing their own mistakes and limits</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Novice and Expert - Becoming an Expert </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 24-26",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage 2.</p>\n<p>Using <strong>NO MORE THAN TWO WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>\n<p>Though experts are quite effective at solving problems in their own domains, their</p>\n<p>strengths can also be turned against them. Studies have shown that experts are less</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>24</strong><input type=\"text\" />.. at making predictions than statistical models. Some researchers</p>\n<p>theorise it is because experts can also be inconsistent like all others. Yet some believe it</p>\n<p>is due to <strong>25</strong><input type=\"text\" />., but there isn’t a great deal of <strong>26</strong><input type=\"text\" /> as to its cause and</p>\n<p>manifestation.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Novice and Expert - Becoming an Expert </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "83 Passage 3 - Film Noir Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-32",
+          "group_instruction_html": "<p>Do the following statements agree with the claims of the writer in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>27-32</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the claims of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the claims of the writer</p>\n<p><strong>NOT GIVEN </strong>if it is impossible to say what the writer thinks about this</p>\n<p><strong> </strong></p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   The First World War had a big influence on the types of films being made in</p>\n<p>Hollywood.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Film noir is an official genre.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   True film noir can be from any time and be about any kind of social issue.</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Filmmaker Paul Schrader believes that film noir is almost impossible to classify.</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Mixing light and shadow was mainly responsible for creating a unique mood and</p>\n<p>feeling of film noir.</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   During the 1950sflm noir was the most successful type of film at the box oﬀice.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-37",
+          "group_instruction_html": "<p>Complete the notes below.</p>\n<p>Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>33-37</strong></em><em> on your answer sheet. </em></p>\n<p><strong>THE FOUR TRADITIONS OF FILM NOIR </strong></p>\n<p><strong>War and post-war disillusionment: </strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>A delayed <strong>33</strong> <input type=\"text\" /> to the great economic depression.</p>\n<p>The Hollywood trend during the depression and war was to produce films aimed at</p>\n<p>keeping people&#x27;s spirits up.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Film Noir </strong></p>\n<p><strong>Post-war realism: </strong></p>\n<p>Part of the style was created by shooting the films in real locations instead of on sets.</p>\n<p>Similar to European film styles such as 34 <input type=\"text\" /> in Italy.</p>\n<p><strong>The German Influence: </strong></p>\n<p>Many directors from Germany, Austria and Poland <strong>35</strong> <input type=\"text\" /> to America during</p>\n<p>the 1920s and 1930s.</p>\n<p>The use of lighting styles developed by German Expressionist films was very influential</p>\n<p>on film noir.</p>\n<p>Combining chiaroscuro lighting with filming in real locations gave film noir its</p>\n<p><strong>36</strong><input type=\"text\" /></p>\n<p><strong>The hard-boiled tradition: </strong></p>\n<p>These films were heavily influenced by popular literature of the time by writers like</p>\n<p>Ernest Hemingway.</p>\n<p>The hard-boiled writing style influenced the depiction of <strong>37</strong> <input type=\"text\" />, stories and</p>\n<p>scripts in film noir.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 38-40",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending, <strong>A-F</strong></p>\n<p><em>Write your answers in boxes </em><em><strong>38-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   After the war, instead of the positive films that existed in Hollywood before</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   The honesty of post-war realism in film noir</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Double Indemnity, directed by Billy Wilder, is</p>\n<p><strong>A</strong>   suited the mood in America well.</p>\n<p><strong>B</strong>   one of Hollywood&#x27;s most notable films.</p>\n<p><strong>C</strong>   there were a lot more romantic comedies released in America.</p>\n<p><strong>D</strong>   was something most people were not ready for.</p>\n<p><strong>E</strong>   negativity had entered Hollywood films.</p>\n<p><strong>F</strong>   a film that very few people know about today.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Film Noir </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "83 Passage 3 - Inside the mind of a fan Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-32",
+          "group_instruction_html": "<p>Reading Passage 3 has six paragraphs, <strong>A-F</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em>, in boxes </em><em><strong>27-32</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  You may use any letter more than once.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   an explanation of why watching sport may be emotionally satisfying</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   an explanation of why beginners find sporting tasks difficult</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   a factor that needs to combine with mirroring to attain sporting excellence</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   a comparison of human and animal mirror neurons</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   the first discovery of brain activity related to mirror neurons</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   a claim linking observation to improvement in performance</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Inside the mind of a fan </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-35",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>33-35</strong></em><em> on your answer sheet.</em><strong> </strong></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   The writer uses the term ‘grammar of movement’ to mean</p>\n<p><strong>A</strong>   a level of sporting skill.</p>\n<p><strong>B</strong>   a system of words about movement.</p>\n<p><strong>C</strong>   a pattern of connected cells.</p>\n<p><strong>D</strong>   a type of golf swing.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   The writer states that expert players perform their actions</p>\n<p><strong>A</strong>   without conscious thought.</p>\n<p><strong>B</strong>   by planning each phase of movement.</p>\n<p><strong>C</strong>   without regular practice.</p>\n<p><strong>D</strong>   by thinking about the actions of others.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   The writer states that the most common motive for watching sport is to</p>\n<p><strong>A</strong>   improve personal performance.</p>\n<p><strong>B</strong>   feel linked with people of different nationalities.</p>\n<p><strong>C</strong>   experience strong positive emotions.</p>\n<p><strong>D</strong>   realize what skill consists of.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Inside the mind of a fan </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Do the following statements agree with the views of the writer in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>36-40</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Inexpert sports players are too aware of what they are doing.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Monkeys have a more complex mirror neuron system than humans.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Looking at a photograph can activate mirror neurons.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Gastaut and Bert were both researchers and sports players.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   The mu system is at rest when we are engaged in an activity.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Inside the mind of a fan </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "exercise_set": "25",
+  "excercise_set": "25",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "25 Passage 1 - Ancient SOCIEFIES Classification Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-7",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-7</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if there is no information on this</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   There’s little economic difference between members of a clan.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   The farmers of a tribe grow a wide range of plants.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   One settlement is more important than any other settlements in a tribe.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   A member’s status in a chiefdom is determined by how much land he owns.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   There are people who craft goods in chiefdoms.</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   The king keeps the order of a state by keeping a military.</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Bureaucratic officers receive higher salaries than other members.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-13",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes 8-13 on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   What are made at the clan work sites?</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   What is the other way of life tribes besides settled farming?</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   How are Catalhoyuk’s housing units arranged?</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   What does a chief give to his subjects as rewards besides crafted goods?</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   What is the largest possible population of a chiefdom?</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   Which group of people is at the bottom of an early state but higher than the</p>\n<p>farmers?</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient SOCIEFIES Classification </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "25 Passage 2 - The Development of Plastics Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Complete the table below</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 21-26",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>21-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   The chemical structure of plastic is very different from that of rubber.</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   John Wesley was a famous chemist.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Celluloid and Bakelite react to heat in the same way.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24 </strong>  The mix of different varieties of plastic can make them less recyclable.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Adding starch into plastic does not necessarily make plastic more durable.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Some plastic containers have to be preserved in special conditions.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Development of Plastics </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "25 Passage 3 - How should reading be taught Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Reading Passage 3 has six sections, <strong>A-F</strong>.</p>\n<p>Choose the correct heading for sections <strong>B-F</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-ix</strong></em><em>, in boxes </em><em><strong>27-31</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>Disagreement about the reading process</p>\n<p><strong>ii</strong></p>\n<p>The roots of the debate</p>\n<p><strong>iii</strong></p>\n<p>A combined approach</p>\n<p><strong>iv</strong></p>\n<p>Methods of teaching reading</p>\n<p><strong>v</strong></p>\n<p>A controversial approach</p>\n<p><strong>vi</strong></p>\n<p>Inconclusive research</p>\n<p><strong>vii</strong></p>\n<p>Research with learners</p>\n<p><strong>vii</strong></p>\n<p>Allowing teachers more control</p>\n<p><strong>ix</strong></p>\n<p>A debate amongst educators</p>\n<p><em>Example </em></p>\n<p>Section <strong>A</strong></p>\n<p><strong>ix </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   Section <strong>B</strong></p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Section <strong>C</strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Section <strong>D</strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Section <strong>E</strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Section <strong>F</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>How should reading be taught? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-36",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-36</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   The whole-language approach relates letters to sounds.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   Many educators believe the whole-language approach to be the most interesting</p>\n<p>way to teach children to read.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Research supports the theory that we read without linking words to sounds.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Research has shown that the whole-word approach is less effective than the whole-</p>\n<p>language approach.<em><strong> </strong></em></p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Research has shown that phonics is more successful than both the whole-word and</p>\n<p>whole-language approaches.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>How should reading be taught? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 37-40",
+          "group_instruction_html": "<p>Complete the summary of sections <strong>E</strong> and <strong>F</strong> using the list of words, <strong>A-G</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>37-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>In the teaching community, <strong>37</strong><input type=\"text\" /> question the usefulness of research</p>\n<p>into methods of teaching reading. These critics believe that <strong>38</strong><input type=\"text\" /> is</p>\n<p>incompatible with student-centred learning. In the future, teachers need to be aware of</p>\n<p><strong>39</strong><input type=\"text\" />.. so thay they understand the importance of phonics. They should</p>\n<p>not, however, ignore the ideas of <strong>40</strong><input type=\"text\" />.. which make reading enjoyable</p>\n<p>for learners.</p>\n<p><strong>A</strong></p>\n<p>the phonics method</p>\n<p><strong>B</strong></p>\n<p>the whole-word method</p>\n<p><strong>C</strong></p>\n<p>the whole-language method</p>\n<p><strong>D</strong></p>\n<p>traditionalists</p>\n<p><strong>E</strong></p>\n<p>progressives</p>\n<p><strong>F</strong></p>\n<p>linguistics</p>\n<p><strong>G</strong></p>\n<p>research studies</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>How should reading be taught? </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

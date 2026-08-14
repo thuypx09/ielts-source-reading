@@ -1,0 +1,220 @@
+{
+  "exercise_set": "57",
+  "excercise_set": "57",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "57 Passage 1 - The Final Frontier for Tourism Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Reading Passage 1 has five paragraphs <strong>A-E</strong>.</p>\n<p>Choose the correct heading for each paragraph <strong>A-E</strong> from the list of headings below.</p>\n<p><em>Write the correct number </em><em><strong>i-viii</strong></em><em> in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>Not worth the cost</p>\n<p><strong>ii</strong></p>\n<p>Space travel; past, present and future</p>\n<p><strong>iii</strong></p>\n<p>Russian innovations</p>\n<p><strong>iv</strong></p>\n<p>A profitable investment</p>\n<p><strong>v</strong></p>\n<p>The future of tourism</p>\n<p><strong>vi</strong></p>\n<p>Insatiable desire for adventure</p>\n<p><strong>vii</strong></p>\n<p>The first space tourists</p>\n<p><strong>viii</strong></p>\n<p>Moon hotels</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   Paragraph <strong>A</strong></p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   Paragraph <strong>E</strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Final Frontier for Tourism </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 6-9",
+          "group_instruction_html": "<p>Look at the following people (Questions <strong>6-9</strong>) and the list of statements below.</p>\n<p>Match each person with the correct statement, <strong>A-D</strong></p>\n<p><em>Write the correct letter, </em><em><strong>A-D</strong></em><em>, in box </em><em><strong>6-9</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   Denis Tito</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   Mark Shuttleworth</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   Eric Anderson</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   Gene Meyers</p>\n<p><strong>A</strong>     touched down on the moon in 1969</p>\n<p><strong>B</strong>     believes space tourism will be popular in the near future</p>\n<p><strong>C</strong>     spent ten days on the International Space Station</p>\n<p><strong>D</strong>     was the second tourist to travel into space</p>\n<p><strong>E</strong>     predicts space holidays will be more affordable by 2020</p>\n<p><strong>F </strong>    will build a hotel inspired by a film</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 10-13",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>10-13</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   Bigelow Aerospace’s spaceship will offer unique views of the Moon’s sunset.</p>"
+            },
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   The Hilton Hotel Group has ambitious plans to organise cheap space journeys.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   NASA plans to launch a mission to Mars, but first, it is hoping to return to the moon.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   At the moment, space tourism is too expensive for ordinary people, only the very</p>\n<p>rich can travel to space.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Final Frontier for Tourism </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "57 Passage 2 - Arctic Survivors Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Choose the correct answer <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   Animals that live in the Arctic</p>\n<p><strong>A</strong>   can withstand extremely difficult living conditions.</p>\n<p><strong>B</strong>   often freeze solid during winter.</p>\n<p><strong>C</strong>   are mainly reptilian.</p>\n<p><strong>D</strong>   are mostly frogs or toads.</p>\n<p><strong> </strong></p>\n<p>2</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Arctic Survivors </strong></p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   Where do lemmings live?</p>\n<p><strong>A</strong>   on the surface of the snow</p>\n<p><strong>B</strong>   in tunnels built under the frozen ocean</p>\n<p><strong>C</strong>   in wide tunnels deep underground</p>\n<p><strong>D</strong>   about 50cm below the surface of the snow.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   Fur is</p>\n<p><strong>A</strong>   thick layers of hair.</p>\n<p><strong>B</strong>   common to all animal classes.</p>\n<p><strong>C</strong>   unhelpful to Arctic animals.</p>\n<p><strong>D</strong>   the life preserver only for small Arctic mammals.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   Why is trapped air a good insulator?</p>\n<p><strong>A</strong>   It is a good conductor of heat.</p>\n<p><strong>B</strong>   Air helps us to breathe.</p>\n<p><strong>C</strong>   It is a bad conductor of heat.</p>\n<p><strong>D</strong>   It absorbs heat and cold very well.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   If the temperature at the tip of the fur of an arctic fox is minus ten degrees, the</p>\n<p>temperature at the surface of the skin will be closer to</p>\n<p><strong>A</strong>   forty degrees.</p>\n<p><strong>B</strong>   ten degrees.</p>\n<p><strong>C</strong>   thirty degrees.</p>\n<p><strong>D</strong>   thirty-five degrees.</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   What is an endotherm?</p>\n<p><strong>A</strong>   an animal that can generate heat inside its body</p>\n<p><strong>B</strong>   an animal that cannot generate heat inside its body</p>\n<p><strong>C</strong>   an animal that never gets cold</p>\n<p><strong>D</strong>   an animal that has special insulation</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Arctic Survivors </strong></p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   Thermoregulation and fur help Arctic mammals</p>\n<p><strong>A</strong>   cope with hot temperatures.</p>\n<p><strong>B</strong>   protect themselves from the elements.</p>\n<p><strong>C</strong>   regulate the temperature of their surroundings.</p>\n<p><strong>D</strong>   create a layer of trapped air within their fur.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-26",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>\n<p>The Arctic winter is something few animals can survive, but there are a select few that</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>show an amazing <strong>21</strong> <input type=\"text\" /> of the severe winter conditions. These animals have</p>\n<p>to use their food resources to keep their body temperature high so that the biochemical</p>\n<p><strong>22</strong> <input type=\"text\" />. inside them continue to run. One thing that helps them keep their</p>\n<p>bodies warm is their <strong>23</strong> <input type=\"text\" />. which consists of thick layers of hair that</p>\n<p>provide insulation for their bodies; it is their life <strong>24</strong> <input type=\"text\" />. The layer of</p>\n<p>trapped air that they also have provides very effective insulation from cold because it is</p>\n<p>not a good <strong>25</strong> <input type=\"text\" />.. of heat. In the case of an Arctic mammal getting cold, it</p>\n<p>deals with it by increasing its <strong>26</strong> <input type=\"text\" />. rate to generate more heat.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Arctic Survivors </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "57 Passage 3 - Bismarck A Master of Political and Diplomatic Juggling Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-31",
+          "group_instruction_html": "<p>Choose the correct answer <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   In little more than nine years as Prussian Chancellor Bismarck had</p>\n<p><strong>A</strong>   succeeded in reuniting Germany and defeating Austria and France.</p>\n<p><strong>B</strong>   divided his country and lost two wars.</p>\n<p><strong>C</strong>   succeeded in suppressing the Socialist party.</p>\n<p><strong>D</strong>   abolished the parliament.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   What happened after Bismarck enacted laws to weaken the Catholic church?</p>\n<p><strong>A</strong>   He changed his policy and made the church an ally.</p>\n<p><strong>B</strong>   The church’s influence weakened.</p>\n<p><strong>C</strong>   France declared war on Germany.</p>\n<p><strong>D</strong>   He didn’t succeed and his influence was severely weakened.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   What had happened to the Socialist party by 1890?</p>\n<p><strong>A</strong>   It had taken power from Bismarck.</p>\n<p><strong>B</strong>   It had lost its influence.</p>\n<p><strong>C</strong>   Its popularity had risen three-fold.</p>\n<p><strong>D</strong>   It became very powerful in parliament.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   After reuniting Germany what was Bismarck’s belief on foreign policy?</p>\n<p><strong>A</strong>   He needed to wage war with all countries that posed a military threat.</p>\n<p><strong>B</strong>   Preserving the peace and isolating France would benefit him.</p>\n<p><strong>C</strong>   Germany needed to befriend France to form a powerful alliance.</p>\n<p><strong>D</strong>   He wanted to form an alliance with Britain and France.</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   The article concludes that Bismarck</p>\n<p><strong>A</strong>   made few mistakes and left a positive legacy.</p>\n<p><strong>B</strong>   was not at all successful.</p>\n<p><strong>C</strong>   was always tolerant of those who had different opinions.</p>\n<p><strong>D</strong>   was not actually a master of political juggling.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-34",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-34</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   The Congress of Berlin was a great personal success for Bismarck.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   Bismarck refused to build alliances with Russia or Austria.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   Bismarck considered his reign as German chancellor a failure.</p>\n<p>4</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 35-40",
+          "group_instruction_html": "<p>Reading Passage 3 has six paragraphs, <strong>A-F</strong>.</p>\n<p>Choose the correct heading, <strong>i-ix</strong>, from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-ix</strong></em><em>, in boxes </em><em><strong>35-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Paragraph <strong>A </strong></p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Paragraph <strong>B</strong></p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Paragraph <strong>C</strong></p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Paragraph <strong>D</strong></p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Paragraph <strong>E</strong></p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Paragraph <strong>F </strong></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>A critical analysis</p>\n<p><strong>ii</strong></p>\n<p>Early career and rise to power</p>\n<p><strong>iii</strong></p>\n<p>Foreign policy</p>\n<p><strong>iv</strong></p>\n<p>Powerful friends</p>\n<p><strong>v</strong></p>\n<p>Separating church and state</p>\n<p><strong>vi</strong></p>\n<p>Socialist threat</p>\n<p><strong>vii</strong></p>\n<p>Political decline</p>\n<p><strong>viii</strong></p>\n<p>Creating a virtual dictatorship</p>\n<p><strong>ix</strong></p>\n<p>A change of mind</p>\n<p>5</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "exercise_set": "61",
+  "excercise_set": "61",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "61 Passage 1 - Growing of the Aging Society Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-6",
+          "group_instruction_html": "<p>Reading Passage 1 has twelve paragraphs, <strong>A-L</strong>.</p>\n<p>Choose the correct heading for paragraphs <strong>B-G</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-vii</strong></em><em>, in boxes </em><em><strong>1-6</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>Disorders strike much later in life.</p>\n<p><strong>ii</strong></p>\n<p>Drawbacks in public health.</p>\n<p><strong>iii</strong></p>\n<p>Longevity based on high education.</p>\n<p><strong>iv</strong></p>\n<p>The elderly people of today got better nutrition when they were children.</p>\n<p><strong>v</strong></p>\n<p>The elderly are becoming more well off.</p>\n<p><strong>vi</strong></p>\n<p>Most of independent people over 65 complete activities themselves.</p>\n<p><strong>vii</strong></p>\n<p>Diseases have decreased recently.</p>\n<p>Example</p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "61 Passage 2 - Space Flight Tourism Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-20",
+          "group_instruction_html": "<p>Complete the summary.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>14-20</strong></em><em> on your answer sheet. </em></p>\n<p>On 28 September the emerging space tourism industry was enormous. In Hawthorne,</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>California, a rocket was erected by <strong>14</strong><input type=\"text\" />.. Climate change was monitored by</p>\n<p><strong>15</strong><input type=\"text\" /> in US National Oceanic and Atmospheric Administration using its</p>\n<p>spacecraft. In Glasgow, at the International Aeronautical meeting, it is apparent that</p>\n<p>civilian space flight industry is growing, as it showed the <strong>16</strong><input type=\"text\" />. spacecraft</p>\n<p>which promised sub-orbital flights. Although developing confirmation, non-regulation is</p>\n<p>clear to guarantee <strong>17</strong><input type=\"text\" />. A method for space business is cooperating with a</p>\n<p><strong>18</strong><input type=\"text\" />. conveyable at 16 kilometres in the skies. From 16 kilometres to 100</p>\n<p>kilometres’ travelling may be available, but lawyers definitely cannot agree with</p>\n<p>whether it is a <strong>19</strong><input type=\"text\" />. or a rocket. <strong>20</strong><input type=\"text\" /> need to be revisited if</p>\n<p>civilian space flight proves successful.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Space Flight Tourism </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 21-26",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending <strong>A-I</strong> below.</p>\n<p><em>Write the correct letter </em><em><strong>A-I</strong></em><em> in boxes </em><em><strong>21-26</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   Civilian space flight companies</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   Laurent Gathier</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   VSH devised for a safety</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   AST chief George Nield</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   Insurance costs</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Critics</p>\n<p><strong>A </strong>    assisted some minimum safety standards may prevent that.</p>\n<p><strong>B</strong>     emphasised a civilian space flight must not be under a severe regulation for</p>\n<p>technical advancement.</p>\n<p><strong>C</strong>     hardly need a reminder of the danger when considering past experiences.</p>\n<p><strong>D</strong>     will protect a commercial space flight.</p>\n<p><strong>E</strong>     try to develop a module of safety regulations applied to civilian space flight.</p>\n<p><strong>F</strong>     made up for an ejector seat for tourists and the crew in case of a craft</p>\n<p>emergency in the skies.</p>\n<p><strong>G</strong>     indicated the main safety problems were with passengers’ proximity to the</p>\n<p>powerful engine.</p>\n<p><strong>H</strong>     believed that scuba-diving should be applied to civilian space flight.</p>\n<p><strong>I</strong>      kept costs stratospheric.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Space Flight Tourism </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "61 Passage 3 - Doctor’s Rights and Drinks Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-33",
+          "group_instruction_html": "<p>Do the following statements reflect the claims of the writer in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>27-33</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement reflects the opinion of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the opinion of the writer</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
+          "group_type": "YNNG",
+          "questions": [
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   John Davin has been ready for the election to Congress.</p>"
+            },
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   The Medical Rights League was made to support the right to prescribe beer by Davin</p>\n<p>and like-minded doctors.</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29 </strong>  It was illegal to sell or buy a beverage that contained over 0.5 per cent alcohol.</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30 </strong>  Congress only granted beer as medical alcohol.</p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   As beer might have some benefit for medicinal use, it was in a pharmacy.</p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32 </strong>  The American Medical Association (AMA) has funded a scientific basis.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   If children have diphtheria, alcohol may cure them.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 34-35",
+          "group_instruction_html": "<p>Choose the appropriate letters <strong>A-D</strong> and write them in boxes <strong>34-35</strong> on your answer</p>\n<p>sheet.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34 </strong>  In 1922, the reason John Davin began a campaign</p>\n<p><strong>A</strong>   was against beer and other malt liquors.</p>\n<p><strong>B</strong>   was to assert a doctor’s right to prescribe beer.</p>\n<p><strong>C</strong>   was for the Medical Rights League’s duty.</p>\n<p><strong>D   </strong>was to oppose strong-minded politicians.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Doctor’s Rights and Drinks </strong></p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   In 1917, the American Medical Association (AMA)</p>\n<p><strong>A</strong>   decided beer is a worthless remedy.</p>\n<p><strong>B</strong>   declared beer has an effect as a tonic.</p>\n<p><strong>C</strong>   decided beer won’t be any evidence of a medical basis.</p>\n<p><strong>D</strong>   assisted a patient with cancer.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-39",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>ONE</strong> word from Reading Passage 3 for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>36-39</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Once prohibition affected homes, doctors stimulated interests in <strong>36</strong><input type=\"text\" />.</p>\n<p>Besides, as doctors affirmed the effects of alcohol, beer was guaranteed to cure</p>\n<p><strong>37</strong><input type=\"text\" /> When children with <strong>38</strong><input type=\"text\" /> transferred dual-infections,</p>\n<p>alcohol could save them. According to <strong>39</strong><input type=\"text\" />, most physicians believed the</p>\n<p>effects of therapeutic usage of whisky in the treatment of a limited number of diseases</p>\n<p>to be remarkably impressive.</p>\n<p><strong>Question 40 </strong></p>\n<p>Choose the appropriate letter <strong>A-D</strong> and write it in box <strong>40</strong> on your answer sheet.</p>\n<p>This text is taken from</p>\n<p><strong>A </strong>    a medical textbook for a beginner.</p>\n<p><strong>B</strong>     a critical research of the scientific basis of a beverage.</p>\n<p><strong>C</strong>     a magazine article about alcohol issues.</p>\n<p><strong>D</strong>     a document against government prohibition.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Doctor’s Rights and Drinks </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "exercise_set": "55",
+  "excercise_set": "55",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "55 Passage 1 - CONTROLLING DEATHWATCH BEETLES Q1-13.pdf",
+      "answers": [
+        {
+          "question_number": 1,
+          "answer": "F"
+        },
+        {
+          "question_number": 2,
+          "answer": "B"
+        },
+        {
+          "question_number": 3,
+          "answer": "D"
+        },
+        {
+          "question_number": 4,
+          "answer": "A"
+        },
+        {
+          "question_number": 5,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 6,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 7,
+          "answer": "FALSE"
+        },
+        {
+          "question_number": 8,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 9,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 10,
+          "answer": "C"
+        },
+        {
+          "question_number": 11,
+          "answer": "D"
+        },
+        {
+          "question_number": 12,
+          "answer": "B"
+        },
+        {
+          "question_number": 13,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "55 Passage 2 - Therapeutic Jurisprudence Q14-26.pdf",
+      "answers": [
+        {
+          "question_number": 14,
+          "answer": "agent"
+        },
+        {
+          "question_number": 15,
+          "answer": "antitherapeutic"
+        },
+        {
+          "question_number": 16,
+          "answer": "humanising"
+        },
+        {
+          "question_number": 17,
+          "answer": "justice"
+        },
+        {
+          "question_number": 18,
+          "answer": "actors"
+        },
+        {
+          "question_number": 19,
+          "answer": "promising"
+        },
+        {
+          "question_number": 20,
+          "answer": "creatively"
+        },
+        {
+          "question_number": 21,
+          "answer": "relapse prevention plans"
+        },
+        {
+          "question_number": 22,
+          "answer": "chain of events"
+        },
+        {
+          "question_number": 23,
+          "answer": "high-risk situations"
+        },
+        {
+          "question_number": 24,
+          "answer": "NOT GIVEN"
+        },
+        {
+          "question_number": 25,
+          "answer": "TRUE"
+        },
+        {
+          "question_number": 26,
+          "answer": "FALSE"
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "55 Passage 3 - SLEEP - WHY WE SLEEP Q27-40.pdf",
+      "answers": [
+        {
+          "question_number": 27,
+          "answer": "D"
+        },
+        {
+          "question_number": 28,
+          "answer": "A"
+        },
+        {
+          "question_number": 29,
+          "answer": "C"
+        },
+        {
+          "question_number": 30,
+          "answer": "B"
+        },
+        {
+          "question_number": 31,
+          "answer": "light sleep"
+        },
+        {
+          "question_number": 32,
+          "answer": "brain"
+        },
+        {
+          "question_number": 33,
+          "answer": "smaller, faster waves"
+        },
+        {
+          "question_number": 34,
+          "answer": "deep sleep"
+        },
+        {
+          "question_number": 35,
+          "answer": "breathing"
+        },
+        {
+          "question_number": 36,
+          "answer": "deteriorate"
+        },
+        {
+          "question_number": 37,
+          "answer": "metabolic rate"
+        },
+        {
+          "question_number": 38,
+          "answer": "torpor"
+        },
+        {
+          "question_number": 39,
+          "answer": "day-night cycle"
+        },
+        {
+          "question_number": 40,
+          "answer": "circadian rhythm"
+        }
+      ]
+    }
+  ]
+}

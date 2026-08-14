@@ -1,0 +1,175 @@
+{
+  "exercise_set": "99",
+  "excercise_set": "99",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "99 Passage 1 - The Pearl Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>Reading Passage 1 has eight paragraphs, <strong>A-H</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>1-4</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   ancient stories around pearls and its customers</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   difficulties in cultivating process</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   factors which decide the value of natural pearls</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   a growth mechanism that distinguishes cultured pearls from natural ones</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-10",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>5-10</strong></em><em> on your answer sheet. </em></p>\n<p>In history, pearls have had great importance within the men of wealth and power, which</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>were treated as gems for women in <strong>5</strong> <input type=\"text\" />.. Also, pearls were even used as a</p>\n<p>medicine for people in <strong>6</strong> <input type=\"text\" />... There are essentially three types of pearls:</p>\n<p>natural, cultured and imitation. Most freshwater cultured pearls sold today come from</p>\n<p>China while <strong>7</strong><input type=\"text\" /> Island is famous for its imitation pearl industry. Good-quality</p>\n<p>natural pearls are exceedingly unusual. <strong>8</strong><input type=\"text\" />. often manufactures some of the</p>\n<p>glitteriest pearls while <strong>9</strong><input type=\"text\" /> produces larger size ones due to the favourable</p>\n<p>environment along the coastline. In the past, <strong>10</strong><input type=\"text\" /> in Persian Gulf produced</p>\n<p>the world’s best pearls. Nowadays, the major remaining suppliers of natural pearls</p>\n<p>belong to India.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pearl </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 11-13",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>11-13</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   Generally speaking, the centre of cultured pearl is significantly larger than that of a</p>\n<p>natural pearl.</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   Sometimes, fake pearls can be more expensive.</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   The size of the pearls produced in Japan is usually smaller than those in Australia.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pearl </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "99 Passage 2 - Q14-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-19",
+          "group_instruction_html": "<p>Look at the following descriptions (Questions 14-19) and the list of automobile brands</p>\n<p>below.</p>\n<p>Match each description with the correct automobile brand, <strong>A-G</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Automobile Brands </strong></p>\n<p><strong>A</strong></p>\n<p>Ford</p>\n<p><strong>B</strong></p>\n<p>the BMC Mini</p>\n<p><strong>C</strong></p>\n<p>Cadillac and Lincoln</p>\n<p><strong>D</strong></p>\n<p>Mercedes Benz</p>\n<p><strong>E</strong></p>\n<p>Mazda</p>\n<p><strong>F</strong></p>\n<p>Jeep</p>\n<p><strong>G</strong></p>\n<p>Maserati, Ferrari, and Lancia</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   began producing the first automobiles</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   produced the industrialised cars that common consumers could afford</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   improved the utilisation rate of automobile space</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   upgraded the overall performance of the car continuously</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   maintained leading growth even during an economic recession</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   installed its engine on the front wheel for the first time</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 20-26",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>20-26</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   What is the important feature owned by the modem engine since the 19th century?</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   What did a car symbolise to the rich at the very beginning of this century?</p>"
+            },
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   How long did Ford assembly line take to produce a car?</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   What is the major historical event that led American cars to suffer when competing</p>\n<p>with Japanese imported cars?</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24 </strong>  What do people call the Mazda car which was designed under the front-wheel</p>\n<p>engine?</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   What has greatly increased with the computerised engine management systems in</p>\n<p>modem society?</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26 </strong>  What factor is blamed for contributing to pollution, climate change and global</p>\n<p>warming?</p>\n<p><strong>Question 27 </strong></p>\n<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in box </em><em><strong>27</strong></em><em> on your answer sheet. </em></p>\n<p>What is the main idea of the passage?</p>\n<p><strong>A</strong>   The influence of the cars on the environment</p>\n<p><strong>B </strong>  The historical development and innovation in car designs</p>\n<p><strong>C</strong>   The beginning of the modem designed gasoline engines</p>\n<p><strong>D</strong>   The history of human and the Auto industry</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "99 Passage 3 - Elephant Communication Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-31",
+          "group_instruction_html": "<p>Label the diagram below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>28-31</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 32-38",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p>Write your answers in boxes <strong>32-38</strong> on your answer sheet.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Elephant Communication </strong></p>\n<p>How the elephants sense these sound vibrations is still unknown, but O’Connell-</p>\n<p>Rodwell, a postdoctoral researcher at Stanford University, proposes that elephants are</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>‘listening’ with their <strong>32</strong><input type=\"text\" />.. by two kinds of nerve endings that respond to</p>\n<p>vibrations with both <strong>33</strong><input type=\"text\" />.. frequency and slightly higher frequencies.</p>\n<p>O’Connell-Rodwell&#x27;s work is at the combination of geophysics, neurophysiology and</p>\n<p><strong>34</strong><input type=\"text\" />. It was known that seismic communication existed extensively within</p>\n<p>small animals, but O’Connell-Rodwell was the first person to indicate that a large land</p>\n<p>animal would send and receive <strong>35</strong><input type=\"text\" />. too. Also, he noticed the freezing</p>\n<p>behaviour by putting a male planthopper on a stem and play back a female call, which</p>\n<p>might prove the existence of other communicative approaches besides</p>\n<p><strong>36</strong><input type=\"text\" />... Scientists have determined that an elephant’s ability to communicate</p>\n<p>over long distances is essential, especially, when elephant herds are finding a</p>\n<p><strong>37</strong><input type=\"text\" />, or are warning of predators. Finally, the results of our 2002 study</p>\n<p>showed us that elephants could detect warning calls through the <strong>38</strong><input type=\"text\" /></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 39-40",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C </strong>or <strong>D</strong></p>\n<p><em>Write the correct letter in boxes </em><em><strong>39-40</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   According to the passage, it is determined that an elephant needs to communicate</p>\n<p>over long distances for its survival</p>\n<p><strong>A</strong>   when a threatening predator appears.</p>\n<p><strong>B</strong>   when young elephants meet humans.</p>\n<p><strong>C</strong>   when older members of the herd want to flee from the group.</p>\n<p><strong>D</strong>   when a male elephant is in estrus.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   What is the author’s attitude toward the experiment by using three different</p>\n<p>recordings in the last paragraph?</p>\n<p><strong>A</strong>   The outcome is definitely out of the original expectation.</p>\n<p><strong>B</strong>   The data cannot be very clearly obtained.</p>\n<p><strong>C</strong>   The result can be somewhat undecided or inaccurate.</p>\n<p><strong>D</strong>   The result can be unfamiliar to the public.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Elephant Communication </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

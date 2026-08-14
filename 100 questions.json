@@ -1,0 +1,227 @@
+{
+  "exercise_set": "100",
+  "excercise_set": "100",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "100 Passage 1 - History of Refrigeration Q1-14.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Look at the following events (Questions <strong>1-5</strong>) and the list of dates below.</p>\n<p>Match each event with the correct date, <strong>A-F</strong>.</p>\n<p><strong>List of Dates </strong></p>\n<p><strong>A</strong></p>\n<p>1550</p>\n<p><strong>B</strong></p>\n<p>1799</p>\n<p><strong>C</strong></p>\n<p>1803</p>\n<p><strong>D</strong></p>\n<p>1840</p>\n<p><strong>E</strong></p>\n<p>1949</p>\n<p><strong>F</strong></p>\n<p>1973</p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em>, in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1 </strong>  Vehicles with refrigerator were used to transport on the road.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   Ice was sold around the United States for the first time.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3 </strong>  Some kind of chemical refrigerant was found harmful to the atmosphere.</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4 </strong>  The term ‘refrigerator’ was firstly introduced.</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5  </strong> Some chemicals were added to refrigerate wine.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>History of Refrigeration </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 6-10",
+          "group_instruction_html": "<p>Look at the following opinions or deeds (Questions <strong>6-10</strong>) and the list of people below.</p>\n<p>Match each opinion or deed with the correct person, <strong>A-G</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>6-10</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of People </strong></p>\n<p><strong>A</strong></p>\n<p>Thomas Moore</p>\n<p><strong>B</strong></p>\n<p>Frederick Tudor</p>\n<p><strong>C</strong></p>\n<p>Carl Von Linde</p>\n<p><strong>D</strong></p>\n<p>Nathaniel Wyeth</p>\n<p><strong>E</strong></p>\n<p>J.B. Sutherland</p>\n<p><strong>F</strong></p>\n<p>Fred Jones</p>\n<p><strong>G</strong></p>\n<p>Parker Earle</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   patented the idea that refrigerating system can be installed on tramcars</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   invented an ice-cutting technical method that could save money and time</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   enabled the cold storage technology to be applied in fruit</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   invented a cooling device applied into the trucking industry</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   created a new technique to liquefy the air</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>History of Refrigeration </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 11-14",
+          "group_instruction_html": "<p>Complete each sentence with the correct ending, <strong>A-E</strong>, below.</p>\n<p><em>Write the correct letter, </em><em><strong>A-E</strong></em><em>, in boxes </em><em><strong>11-14</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 11,
+              "question_content_html": "<p><strong>11</strong>   A healthy dietary change between 1830 and the American Civil War was greatly</p>\n<p>associated with</p>"
+            },
+            {
+              "question_number": 12,
+              "question_content_html": "<p><strong>12</strong>   The development of urbanisation was likely to cause</p>"
+            },
+            {
+              "question_number": 13,
+              "question_content_html": "<p><strong>13</strong>   Problems due to water treatment contributed to</p>"
+            },
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   The risk of the environmental devastation from the refrigeration led to</p>\n<p><strong>A</strong></p>\n<p>new developments, such as the application of Hydrofluorocarbons.</p>\n<p><strong>B</strong></p>\n<p>consumers ’ demand for fresh food, especially for vegetables.</p>\n<p><strong>C</strong></p>\n<p>the discovery of chlorofluorocarbons (Freon).</p>\n<p><strong>D</strong></p>\n<p>regional transportation system for refrigeration for a long distance.</p>\n<p><strong>E</strong></p>\n<p>extensive spread of the refrigeration method.</p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>History of Refrigeration </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "100 Passage 2 - Ancient People in Sahara Q15-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 15-18",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>15-18</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   The pictures of rock engravings found in. Green Sahara is similar to those in other</p>\n<p>places.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   Tenere Desert was quite a fertile area in Sahara Desert.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   Hettwer found human remains in the desert by chance.</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   Sereno and Garcea have cooperated in some archaeological activities before</p>\n<p>studying ancient Sahara people.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 19-21",
+          "group_instruction_html": "<p>Answer the questions below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS AND/OR A NUMBER</strong> from the passage for each</p>\n<p>answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>19-21</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   What did Sereno and Garcea produce in the initial weeks before digging work?</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   What did Sereno send to the research centre?</p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   How old were the bigger tightly bundled burials having been identified estimated to</p>\n<p>be?</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient People in Sahara </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 22-27",
+          "group_instruction_html": "<p>Complete the notes below.</p>\n<p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>22-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A comparative study of two ancient cultures </strong></p>\n<p><strong>the Kiffian </strong></p>\n<p>—They seemed to be peaceful and industrious since the reseacher did not find</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p><strong>22</strong><input type=\"text\" /> on their heads and forearms.</p>\n<p>—Their lifestyle was <strong>23</strong><input type=\"text\" /></p>\n<p>—Through the observation on the huge leg muscles, it could be inferred that their diet</p>\n<p>had plenty of <strong>24</strong><input type=\"text\" /></p>\n<p><strong>the Tenerian </strong></p>\n<p>—Stojanowski presumed that the Tenerian preferred herding to <strong>25</strong><input type=\"text\" />..</p>\n<p>—But only the bones of individual animals such as <strong>26</strong><input type=\"text\" /> were found.</p>\n<p>—Sereno supposed the Tenerian in Gobero lived in a <strong>27</strong><input type=\"text\" />.. group at that</p>\n<p>time</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient People in Sahara </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "100 Passage 3 - Texting the Television Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-32",
+          "group_instruction_html": "<p>Reading Passage 3 has seven sections, <strong>A-G</strong>.</p>\n<p>Choose the correct heading for sections <strong>B-E</strong> and <strong>G</strong> from the list of headings below.</p>\n<p>Write the correct number, <strong>i-ix</strong>, inboxes <strong>28-32</strong> on your answer sheet.</p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>An application of short codes on the TV screen</p>\n<p><strong>ii</strong></p>\n<p>An overview of a fast-growing business</p>\n<p><strong>iii</strong></p>\n<p>The trend that profitable games are gaining more concerns</p>\n<p><strong>iv</strong></p>\n<p>Why Netherlands takes the leading role</p>\n<p><strong>v</strong></p>\n<p>A new perspective towards sharing the business opportunities</p>\n<p><strong>vi</strong></p>\n<p>Factors relevant to the rapid increase in interactive TV</p>\n<p><strong>vii</strong></p>\n<p>The revenue gains and bonus share</p>\n<p><strong>viii </strong></p>\n<p>The possibility of the complex technology replaced by the simpler ones</p>\n<p><strong>ix</strong></p>\n<p>The mind change of set-top box providers</p>\n<p><em>Example    Answer </em></p>\n<p><em>Section </em><em><strong>A </strong></em><em>   </em><em><strong>ii</strong></em><em> </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   Section <strong>B</strong></p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Section <strong>C</strong></p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Section <strong>D</strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Section <strong>E</strong></p>\n<p><em>Example    Answer </em></p>\n<p><em>Section </em><em><strong>F</strong></em><em>    </em><em><strong>ix</strong></em><em> </em></p>"
+            },
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   Section <strong>G</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Texting the Television </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 33-35",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>33-35</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   In Europe, a research hints that young audiences spend more money on</p>\n<p><strong>A</strong>   thumbing text messages.</p>\n<p><strong>B</strong>   writing e-mails.</p>\n<p><strong>C</strong>   watching TV programmes.</p>\n<p><strong>D</strong>   talking through mobile phones.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34  </strong> What would happen when reality TV shows invite the audience to vote?</p>\n<p><strong>A</strong>   Viewers would get attractive bonus.</p>\n<p><strong>B</strong>   They would be part of the competition.</p>\n<p><strong>C</strong>   Their questions would be replied.</p>\n<p><strong>D</strong>   Their participation could change the result.</p>\n<p><strong> </strong></p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Interactive TV will change from concentrating on set-top devices to</p>\n<p><strong>A</strong>   increasing their share in the market.</p>\n<p><strong>B </strong>  setting up a modified set-top box.</p>\n<p><strong>C</strong>   building an embedded message platform.</p>\n<p><strong>D </strong>  marching into the European market.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Texting the Television </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Look at the following descriptions (Questions <strong>36-40</strong>) and the list of companies below.</p>\n<p>Match each description with the correct company, <strong>A-F</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em>, in boxes </em><em><strong>36-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Companies </strong></p>\n<p><strong>A</strong></p>\n<p>Flytxt</p>\n<p><strong>B</strong></p>\n<p>Analysys</p>\n<p><strong>C</strong></p>\n<p>Endemol</p>\n<p><strong>D</strong></p>\n<p>CMG</p>\n<p><strong>E</strong></p>\n<p>Mm02</p>\n<p><strong>F</strong></p>\n<p>Gartner</p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   offered mobile phone message technology</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   earned considerable amount of money through a famous programme</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   expressed the view that short codes are convenient to remember when turning up</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   built their own mobile phone operating applications</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   indicated that it is easy for people to send message in an interactive TV</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Texting the Television </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

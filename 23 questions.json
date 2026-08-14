@@ -1,0 +1,149 @@
+{
+  "exercise_set": "23",
+  "excercise_set": "23",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "23 Passage 1 - Museum Blockbuster Q1-13.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-4",
+          "group_instruction_html": "<p>The Reading Passage has seven paragraphs <strong>A-H</strong></p>\n<p>Which paragraphs contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>1-4</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   A reason for changing the exhibition programs.</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   The time people have to wait in a queue in order to enjoy exhibitions.</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   Terms people used when referring to blockbuster</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   There was some controversy over confining target groups of blockbuster.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 5-8",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>5-8</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>Instead of being visitors, people turned out to be <strong>5</strong><input type=\"text\" />., who require the</p>\n<p>creation or hiring of blockbuster exhibitions as well as regular exhibition changes and</p>\n<p>innovations. Business nous and <strong>6</strong><input type=\"text\" />.. simply summarized in a magazine</p>\n<p>are not only important factors for directors, but also an ability to attract a crowd of</p>\n<p>audiences. <strong>7</strong><input type=\"text\" /> has contributed to the linking of museums, the heritage</p>\n<p>industry, tourism, profit-making and pleasure-giving. There occurs some controversy</p>\n<p>over whether it is proper to consider museums mainly as <strong>8</strong><input type=\"text\" />.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Museum Blockbuster </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 9-10",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters <strong>A-E</strong>.</p>\n<p><em>Write your answer in boxes </em><em><strong>9-10</strong></em><em> on your answer sheet. </em></p>\n<p>The list below gives some advantages of blockbuster.</p>\n<p>Which <strong>TWO</strong> advantages are mentioned by the writer of the text?</p>\n<p><strong>A</strong>   To offer sufficient money to repair architectures.</p>\n<p><strong>B</strong>   To maintain and increase visitor levels.</p>\n<p><strong>C</strong>   Presenting the mixture in the culture and commerce of art galleries and</p>\n<p>science centres worldwide.</p>\n<p><strong>D</strong>   Being beneficial for the development of local business.</p>\n<p><strong>E</strong>   Being beneficial for the directors.</p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 11-13",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-F</strong>.</p>\n<p><em>Write your answer in boxes </em><em><strong>11-13</strong></em><em> on your answer sheet. </em></p>\n<p>The list below gives some disadvantages of blockbuster.</p>\n<p>Which <strong>THREE</strong> disadvantages are mentioned by the writer of the text?</p>\n<p><strong>A</strong>   People left hesitated to choose exhibitions.</p>\n<p><strong>B</strong>   Workers has become tired of workloads.</p>\n<p><strong>C</strong>   The content has become more entertaining rather than cultural.</p>\n<p><strong>D</strong>   General labourers are required to perform additional tasks</p>\n<p><strong>E</strong>   Huge amounts of capital invested in specialists.</p>\n<p><strong>F</strong>   Exposing staff to the fantasies and pressures of the market place.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Museum Blockbuster </strong></p>",
+          "group_type": "default",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "23 Passage 2 - The Lost City Q14-26.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 14-17",
+          "group_instruction_html": "<p>The Reading Passage has seven paragraphs <strong>A-G</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-G</strong></em><em>, in boxes </em><em><strong>14-17</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 14,
+              "question_content_html": "<p><strong>14</strong>   The reason why various investigative methods are introduced.</p>"
+            },
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   An example of an unexpected discovery.</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   The methods to surveyed the surface of the site from above.</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   The reason why experts want to study the site.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 18-25",
+          "group_instruction_html": "<p>Complete the following summary of the paragraphs of Reading Passage</p>\n<p>Using <strong>NO MORE THAN THREE WORDS</strong> from the Reading Passage for each answer.</p>\n<p>Write your answers in boxes <strong>18-25</strong> on your answer sheet.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Lost City </strong></p>\n<p><strong>Exploring the Ancient City of Pteria </strong></p>\n<p>The relevant work was done ten years ago. To begin with, experts took photos of the</p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>site from the ground and then from a distance in a <strong>18</strong><input type=\"text\" /> To find out</p>\n<p>what lay below the surface, they used two leading techniques. One was magnetometer,</p>\n<p>which identifies changes in the magnetic field. These changes occur when the</p>\n<p><strong>19</strong><input type=\"text\" /> in buried structures have changed direction as a result of great</p>\n<p>heat. They match with the magnetic field, which is similar to a <strong>20</strong><input type=\"text\" />.</p>\n<p>The other one was resistivity, which uses a <strong>21</strong><input type=\"text\" />.. to fire electrical</p>\n<p>pulses into the earth. The principle is that building materials like <strong>22</strong><input type=\"text\" /> and</p>\n<p>stone do not conduct electricity well, while <strong>23</strong><input type=\"text\" />. does this much better.</p>\n<p>Archaeologists preferred to use this technique during the <strong>24</strong><input type=\"text\" />,</p>\n<p>when conditions are more favourable. Resistivity is mainly being used to</p>\n<p><strong>25</strong><input type=\"text\" />.. some images generated by the magnetometer.</p>\n<p><strong>Question 26 </strong></p>\n<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write the correct letter in box </em><em><strong>26</strong></em><em> on your answer sheet. </em></p>\n<p>How do modern remote-sensing techniques help at the site?</p>\n<p><strong>A</strong>   They avoid the need for experts to dig any part of the site.</p>\n<p><strong>B</strong>   They bring parts of the site into light so that key areas can be researched</p>\n<p>further.</p>\n<p><strong>C</strong>   They show minute buried objects for the archaeologists to dig up.</p>\n<p><strong>D</strong>   They make the investigation more flexible as they can be used at any time of</p>\n<p>year.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Lost City </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "23 Passage 3 - Knowledge in medicine Q27-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 27-32",
+          "group_instruction_html": "<p>Complete the table</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>27-32</strong></em><em> on your answer sheet </em></p>\n<p><em> </em></p>",
+          "group_type": "default",
+          "questions": []
+        },
+        {
+          "group_id": "Questions 33-40",
+          "group_instruction_html": "<p>The Reading Passage has nine paragraphs <strong>A-I</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-I</strong></em><em>, in boxes </em><em><strong>33-40</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   the contrast between the nature of personal judgment and the nature of doctor’s</p>\n<p>diagnosis</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   a reference of culture about pressure</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   sick leave will not be permitted without the professional diagnosis</p>"
+            },
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   how doctors’ opinions are regarded in the society</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   the illness of patients can become part of new knowledge</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   a description of knowledge drawn from non-specialized sources other than personal</p>\n<p>knowledge</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   an example of collective judgment from personal experience and professional</p>\n<p>doctor</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   a reference that some people do not realize they are ill</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Knowledge in medicine </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

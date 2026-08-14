@@ -1,0 +1,221 @@
+{
+  "exercise_set": "02",
+  "excercise_set": "02",
+  "passages": [
+    {
+      "passage_id": "Passage 1",
+      "file_name": "02 Passage 1 - The Cacao a Sweet History Q1-14.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 1-5",
+          "group_instruction_html": "<p>Reading passage 1 has 5 chapters.</p>\n<p>Which chapter contains the following information?</p>\n<p><em>Write your answers in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 1,
+              "question_content_html": "<p><strong>1</strong>   the part of cacao trees used to produce chocolate</p>"
+            },
+            {
+              "question_number": 2,
+              "question_content_html": "<p><strong>2</strong>   average chocolate consumption by people in the US per person per year</p>"
+            },
+            {
+              "question_number": 3,
+              "question_content_html": "<p><strong>3</strong>   risks faced by fanners in the cacao business</p>"
+            },
+            {
+              "question_number": 4,
+              "question_content_html": "<p><strong>4</strong>   where the first sweetened chocolate drink appeared</p>"
+            },
+            {
+              "question_number": 5,
+              "question_content_html": "<p><strong>5</strong>   how ancient American civilizations obtained cacao</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Cacao: a Sweet History </strong></p>\n<p>Question 6-10</p>\n<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>6-10</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>"
+            },
+            {
+              "question_number": 6,
+              "question_content_html": "<p><strong>6</strong>   use cacao and chocolate in ceremonies was restricted Maya royal families</p>"
+            },
+            {
+              "question_number": 7,
+              "question_content_html": "<p><strong>7</strong>   The Spanish explorer Hernando Cortes invested in chocolate and chocolate drinks.</p>"
+            },
+            {
+              "question_number": 8,
+              "question_content_html": "<p><strong>8</strong>   The forastero tree produces the best chocolate.</p>"
+            },
+            {
+              "question_number": 9,
+              "question_content_html": "<p><strong>9</strong>   some parts in cacao seed are get rid of during chocolate process</p>"
+            },
+            {
+              "question_number": 10,
+              "question_content_html": "<p><strong>10</strong>   Chocolate is welcomed more in some countries or continents than other parts</p>\n<p>around the world.</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 11-14",
+          "group_instruction_html": "<p>The flow chart below shows the steps in chocolate making.</p>\n<p>Complete the flow chart using <strong>NO MORE THAN THREE WORDS</strong> from the passage for</p>\n<p>each blank</p>\n<p><em>Write your answers in boxes </em><em><strong>11-14</strong></em><em> on your answer sheet. </em></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Cacao: a Sweet History </strong></p>\n<p>Cacao seeds</p>\n<p><strong>↓</strong></p>",
+          "group_type": "fill_in_blank",
+          "questions": [
+            {
+              "question_number": 0,
+              "question_content_html": "<p>sorting, cleaning and cooking ridding seeds of their <strong>11</strong> <input type=\"text\" />..</p>\n<p>Nibs</p>\n<p><strong>↓</strong></p>\n<p>crushing</p>\n<p><strong>12</strong> <input type=\"text\" />.</p>\n<p><strong>↓</strong></p>\n<p>Add sugar, milk and <strong>13</strong> <input type=\"text\" />..</p>\n<p>Crumb  mixture</p>\n<p>↓</p>\n<p>Crush finely then come into a shape in a <strong>14</strong> <input type=\"text\" />.</p>\n<p>chocolate</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Cacao: a Sweet History </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 2",
+      "file_name": "02 Passage 2 - Cosmetics in Ancient Past Q15-27.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 15-21",
+          "group_instruction_html": "<p>Reading Passage 2 has 7 paragraphs <strong>A-G</strong></p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write your answers in boxes </em><em><strong>15-21</strong></em><em> on your answer sheet. </em></p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 15,
+              "question_content_html": "<p><strong>15</strong>   recipes to conceal facial defects caused by aging</p>"
+            },
+            {
+              "question_number": 16,
+              "question_content_html": "<p><strong>16</strong>   perfumes were presented to conquerors in war</p>"
+            },
+            {
+              "question_number": 17,
+              "question_content_html": "<p><strong>17</strong>   long hair of girls had special meanings in marriage</p>"
+            },
+            {
+              "question_number": 18,
+              "question_content_html": "<p><strong>18</strong>   evidence exists in abundance showing cosmetics use in ancient times</p>"
+            },
+            {
+              "question_number": 19,
+              "question_content_html": "<p><strong>19</strong>   protecting eyes from fly-transmitted diseases</p>"
+            },
+            {
+              "question_number": 20,
+              "question_content_html": "<p><strong>20</strong>   from witchcraft to beautification</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Cosmetics in Ancient Past </strong></p>"
+            },
+            {
+              "question_number": 21,
+              "question_content_html": "<p><strong>21</strong>   more expensive than gold</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 22-27",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>22-27</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 22,
+              "question_content_html": "<p><strong>22</strong>   The written record for cosmetics and perfumes dates back to the third millennium</p>\n<p>BC.</p>"
+            },
+            {
+              "question_number": 23,
+              "question_content_html": "<p><strong>23</strong>   Since perfumes and spices were luxury products, their use was exclusive to the</p>\n<p>noble and the wealthy.</p>"
+            },
+            {
+              "question_number": 24,
+              "question_content_html": "<p><strong>24</strong>   In ancient Far East, fish fats were used as cream by woman from poor households.</p>"
+            },
+            {
+              "question_number": 25,
+              "question_content_html": "<p><strong>25</strong>   The teachings in the Bible were repeatedly against the use of kohl for painting the</p>\n<p>eyes.</p>"
+            },
+            {
+              "question_number": 26,
+              "question_content_html": "<p><strong>26</strong>   Long hair as a symbol of beauty was worn solely by women of ancient cultures</p>"
+            },
+            {
+              "question_number": 27,
+              "question_content_html": "<p><strong>27</strong>   The Egyptian Queen Hatsheput sent a royal expedition to Punt to establish a trade</p>\n<p>route for myrrh</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Cosmetics in Ancient Past </strong></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passage_id": "Passage 3",
+      "file_name": "02 Passage 3 - The Secrets of Persuasion Q28-40.pdf",
+      "question_groups": [
+        {
+          "group_id": "Questions 28-31",
+          "group_instruction_html": "<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 28,
+              "question_content_html": "<p><strong>28</strong>   The main purpose of <em>Cialdini’</em>s research of writing is to</p>\n<p><strong>A</strong>   explain the reason way researcher should investigate in person</p>\n<p><strong>B</strong>   explore the secret that why some people become the famous sales person</p>\n<p><strong>C</strong>   help people to sale products</p>\n<p><strong>D</strong>   prove maybe there is a science in the psychology of persuasion</p>"
+            },
+            {
+              "question_number": 29,
+              "question_content_html": "<p><strong>29</strong>   Which of statement is CORRECT according to <em>Cialdini’</em>s research methodology</p>\n<p><strong>A</strong>   he checked data in a lot of latest books</p>\n<p><strong>B</strong>   he conducted this experiment in laboratory</p>\n<p><strong>C</strong>   he interviewed and contract with many sales people</p>\n<p><strong>D</strong>   he made lot phone calls collecting what he wants to know</p>"
+            },
+            {
+              "question_number": 30,
+              "question_content_html": "<p><strong>30</strong>   Which of the following is CORRECT according to towel experiment in the passage?</p>\n<p><strong>A</strong>   Different hotel guests act in a different response</p>\n<p><strong>B</strong>   Most guests act by idea of environment preservation</p>\n<p><strong>C</strong>   more customers tend to cooperate as the message requires than simply act</p>\n<p>environmentally</p>\n<p><strong>D</strong>   people tend to follow the hotel’s original message more</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Secrets of Persuasion </strong></p>"
+            },
+            {
+              "question_number": 31,
+              "question_content_html": "<p><strong>31</strong>   Which of the following is CORRECT according to the candy shop experiment in the</p>\n<p>passage?</p>\n<p><strong>A</strong>   Presenting way affects diner’s tips</p>\n<p><strong>B</strong>   Regular customer gives tips more than irregulars</p>\n<p><strong>C</strong>   People give tips only when offered chocolate</p>\n<p><strong>D</strong>   Chocolate with bill got higher tips</p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 32-35",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>32-35</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong>  if the information is not given in the passage</p>",
+          "group_type": "TFNG",
+          "questions": [
+            {
+              "question_number": 32,
+              "question_content_html": "<p><strong>32</strong>   Robert Cialdini experienced “principles of influence” himself in realistic life.</p>"
+            },
+            {
+              "question_number": 33,
+              "question_content_html": "<p><strong>33</strong>   Principle of persuasion has different types in different countries.</p>"
+            },
+            {
+              "question_number": 34,
+              "question_content_html": "<p><strong>34</strong>   In New Zealand, people tend to give tips to attendants after being served a</p>\n<p>chocolate.</p>"
+            },
+            {
+              "question_number": 35,
+              "question_content_html": "<p><strong>35</strong>   Elder generation of New Zealand is easily attracted by extra service of restaurants</p>\n<p>by principle of reciprocity.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Secrets of Persuasion </strong></p>"
+            }
+          ]
+        },
+        {
+          "group_id": "Questions 36-40",
+          "group_instruction_html": "<p>Use the information in the passage to match the category (listed A-E) with correct</p>\n<p>description below.</p>\n<p><em>Write the appropriate letters </em><em><strong>A-E</strong></em><em> in boxes </em><em><strong>36-40</strong></em><em> on answer sheet. </em></p>\n<p><strong>NB</strong><em>  You may use any letter more than once. </em></p>\n<p><strong>A</strong>   Reciprocity of scarcity</p>\n<p><strong>B</strong>   Authority</p>\n<p><strong>C</strong>   previous comment</p>\n<p><strong>D</strong>   Linking</p>",
+          "group_type": "default",
+          "questions": [
+            {
+              "question_number": 36,
+              "question_content_html": "<p><strong>36</strong>   Some expert may reveal qualification in front of clients.</p>"
+            },
+            {
+              "question_number": 37,
+              "question_content_html": "<p><strong>37</strong>   Parents tend to say something that other kids are doing the same.</p>"
+            },
+            {
+              "question_number": 38,
+              "question_content_html": "<p><strong>38</strong>   Advertisers ruthlessly exploit the limitation of chances.</p>"
+            },
+            {
+              "question_number": 39,
+              "question_content_html": "<p><strong>39</strong>   Use a familiar name in a survey.</p>"
+            },
+            {
+              "question_number": 40,
+              "question_content_html": "<p><strong>40</strong>   Ask colleagues to offer a helping hand</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Secrets of Persuasion </strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
