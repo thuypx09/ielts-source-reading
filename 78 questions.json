@@ -27,7 +27,7 @@
         },
         {
           "group_id": "Questions 4-6",
-          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN TO WORDS</strong> from the passage for each answer</p>\n<p><em>Write your answers in boxes </em><em><strong>4-6</strong></em><em> on your answer sheet. </em></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Makes Us Happy? </strong></p>",
+          "group_instruction_html": "<p>Complete the sentences below.</p>\n<p>Choose <strong>NO MORE THAN TO WORDS</strong> from the passage for each answer</p>\n<p><em>Write your answers in boxes </em><em><strong>4-6</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
           "group_type": "fill_in_blank",
           "questions": [
             {
@@ -62,7 +62,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>In this article, the author gives us a discussion of &#x27;happiness&#x27; from a <strong>10</strong> <input type=\"text\" /><input type=\"text\" /></p>\n<p>perspective. The investigation into the influence of money on happiness suggests that</p>\n<p>the two are not <strong>11</strong><input type=\"text\" /> We should be able to say &#x27;no&#x27; to other people, but this</p>\n<p>doesn&#x27;t require us to be <strong>12</strong><input type=\"text\" /><input type=\"text\" /> The author concludes that happiness is the</p>\n<p><strong>13</strong><input type=\"text\" /> of activity focused on making others happy.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Makes Us Happy? </strong></p>"
+              "question_content_html": "<p>In this article, the author gives us a discussion of &#x27;happiness&#x27; from a <strong>10</strong> <input type=\"text\" /><input type=\"text\" /></p>\n<p>perspective. The investigation into the influence of money on happiness suggests that</p>\n<p>the two are not <strong>11</strong><input type=\"text\" /> We should be able to say &#x27;no&#x27; to other people, but this</p>\n<p>doesn&#x27;t require us to be <strong>12</strong><input type=\"text\" /><input type=\"text\" /> The author concludes that happiness is the</p>\n<p><strong>13</strong><input type=\"text\" /> of activity focused on making others happy.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -74,7 +74,7 @@
       "question_groups": [
         {
           "group_id": "Questions 14-18",
-          "group_instruction_html": "<p>Choose <strong>FIVE</strong> letter, <strong>A-I</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order</em></p>\n<p>Below are listed some popular beliefs about commercial space travel.</p>\n<p>Which <strong>FIVE</strong> of these are reported by the writer of the text?</p>\n<p><strong>A</strong>     Space travel today is no different than space travel in the 1960s.</p>\n<p><strong>B</strong>     To date, the amount of space travel undertaken by private individuals could</p>\n<p>not sustain a business.</p>\n<p><strong>C</strong>     Richard Branson&#x27;s plans for commercial space travel may be described as</p>\n<p>&#x27;daring.&#x27;</p>\n<p><strong>D</strong>     It is not surprising that Branson&#x27;s company is not the only company</p>\n<p>interested in commercial space travel.</p>\n<p><strong>E</strong>     Virgin Galactic&#x27;s proposed fares will be highly aﬀordable to many.</p>\n<p><strong>F</strong>     Individuals who want to fly into space are gamblers.</p>\n<p><strong>G</strong>     Parallels can be drawn between space travel and the Hollywood movie</p>\n<p>industry.</p>\n<p><strong>H</strong>     The rise of companies like Virgin Galactic is unconditionally positive.</p>\n<p><strong>I</strong>       Laws governing space travel will be diﬀicult to enforce.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Business of Space </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>FIVE</strong> letter, <strong>A-I</strong>.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order</em></p>\n<p>Below are listed some popular beliefs about commercial space travel.</p>\n<p>Which <strong>FIVE</strong> of these are reported by the writer of the text?</p>\n<p><strong>A</strong>     Space travel today is no different than space travel in the 1960s.</p>\n<p><strong>B</strong>     To date, the amount of space travel undertaken by private individuals could</p>\n<p>not sustain a business.</p>\n<p><strong>C</strong>     Richard Branson&#x27;s plans for commercial space travel may be described as</p>\n<p>&#x27;daring.&#x27;</p>\n<p><strong>D</strong>     It is not surprising that Branson&#x27;s company is not the only company</p>\n<p>interested in commercial space travel.</p>\n<p><strong>E</strong>     Virgin Galactic&#x27;s proposed fares will be highly aﬀordable to many.</p>\n<p><strong>F</strong>     Individuals who want to fly into space are gamblers.</p>\n<p><strong>G</strong>     Parallels can be drawn between space travel and the Hollywood movie</p>\n<p>industry.</p>\n<p><strong>H</strong>     The rise of companies like Virgin Galactic is unconditionally positive.</p>\n<p><strong>I</strong>       Laws governing space travel will be diﬀicult to enforce.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -113,7 +113,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Children today have a better chance of realizing their dreams of space travel than</p>\n<p>children in the 1960&#x27;s did.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Business of Space </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Children today have a better chance of realizing their dreams of space travel than</p>\n<p>children in the 1960&#x27;s did.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

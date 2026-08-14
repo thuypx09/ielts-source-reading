@@ -19,7 +19,7 @@
         },
         {
           "group_id": "Questions 6-9",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>6-9</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if there is no information an on this</p>\n<p>4</p>\n<p><strong>Passage 1                               Computer Games for Preschoolers: Nintendo’s Research and Design Process </strong></p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>6-9</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if there is no information an on this</p>\n<p><strong>Passage 1                               Computer Games for Preschoolers: Nintendo’s Research and Design Process </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -47,7 +47,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>Presentation of design requirements to a specialist <strong>10</strong><input type=\"text\" /></p>\n<p>↓</p>\n<p>Testing the mechanics of two new games in the <em>Nintendo </em>lab (assess <strong>11</strong><input type=\"text\" />..</p>\n<p>and interest)</p>\n<p>↓</p>\n<p>A field test in <strong>12</strong><input type=\"text\" /> trailed by twelve children</p>\n<p>↓</p>\n<p>Collection of <strong>13</strong><input type=\"text\" />.. from parents</p>\n<p>5</p>\n<p><strong>Passage 1                               Computer Games for Preschoolers: Nintendo’s Research and Design Process </strong></p>"
+              "question_content_html": "<p>Presentation of design requirements to a specialist <strong>10</strong><input type=\"text\" /></p>\n<p>↓</p>\n<p>Testing the mechanics of two new games in the <em>Nintendo </em>lab (assess <strong>11</strong><input type=\"text\" />..</p>\n<p>and interest)</p>\n<p>↓</p>\n<p>A field test in <strong>12</strong><input type=\"text\" /> trailed by twelve children</p>\n<p>↓</p>\n<p>Collection of <strong>13</strong><input type=\"text\" />.. from parents</p>\n<p><strong>Passage 1                               Computer Games for Preschoolers: Nintendo’s Research and Design Process </strong></p>"
             }
           ]
         }
@@ -111,13 +111,13 @@
             },
             {
               "question_number": 24,
-              "question_content_html": "<p><strong>24</strong>   Controlled both by computer and manual</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Going nowhere fast </strong></p>"
+              "question_content_html": "<p><strong>24</strong>   Controlled both by computer and manual</p>\n<p><strong> </strong></p>"
             }
           ]
         },
         {
           "group_id": "Questions 25-27",
-          "group_instruction_html": "<p>Choose <strong>THREE</strong> correct letters from followings that are advantages of developing a <strong>NEW </strong></p>\n<p><strong>TRANSPORT SYSTEM</strong>:</p>\n<p><em>Write your answers in boxes </em><em><strong>25-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong></p>\n<p>Stimulating economy</p>\n<p><strong>B</strong></p>\n<p>Successful application in Europe</p>\n<p><strong>C</strong></p>\n<p>Safety consideration</p>\n<p><strong>D</strong></p>\n<p>Less pollution to the environment</p>\n<p><strong>E</strong></p>\n<p>Economical budget</p>\n<p><strong>F</strong></p>\n<p>Public popularity</p>\n<p><strong>G</strong></p>\n<p>Fast speed</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Going nowhere fast </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> correct letters from followings that are advantages of developing a <strong>NEW </strong></p>\n<p><strong>TRANSPORT SYSTEM</strong>:</p>\n<p><em>Write your answers in boxes </em><em><strong>25-27</strong></em><em> on your answer sheet. </em></p>\n<p><strong>A</strong></p>\n<p>Stimulating economy</p>\n<p><strong>B</strong></p>\n<p>Successful application in Europe</p>\n<p><strong>C</strong></p>\n<p>Safety consideration</p>\n<p><strong>D</strong></p>\n<p>Less pollution to the environment</p>\n<p><strong>E</strong></p>\n<p>Economical budget</p>\n<p><strong>F</strong></p>\n<p>Public popularity</p>\n<p><strong>G</strong></p>\n<p>Fast speed</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }
@@ -158,7 +158,7 @@
             },
             {
               "question_number": 34,
-              "question_content_html": "<p><strong>34</strong>   The Company of (Ford)</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Internal and External Marketing </strong></p>"
+              "question_content_html": "<p><strong>34</strong>   The Company of (Ford)</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -187,7 +187,7 @@
         },
         {
           "group_id": "Questions 39-40",
-          "group_instruction_html": "<p>Choose <strong>TWO</strong> correct letters below</p>\n<p><em>Write your answers in boxes </em><em><strong>39-40</strong></em><em> on your answer sheet. </em></p>\n<p>Please choose <strong>TWO</strong> approaches in the passage mentioned that were employed as</p>\n<p>company strategy:</p>\n<p><strong>A</strong>   promoting the visual effect of their products’ advertisement</p>\n<p><strong>B</strong>   launching inspiring campaigns internally</p>\n<p><strong>C</strong>   introducing inner competition</p>\n<p><strong>D</strong>   learning how to sell stories among senior executives</p>\n<p><strong>E</strong>   applying an appropriate slogan</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Internal and External Marketing </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> correct letters below</p>\n<p><em>Write your answers in boxes </em><em><strong>39-40</strong></em><em> on your answer sheet. </em></p>\n<p>Please choose <strong>TWO</strong> approaches in the passage mentioned that were employed as</p>\n<p>company strategy:</p>\n<p><strong>A</strong>   promoting the visual effect of their products’ advertisement</p>\n<p><strong>B</strong>   launching inspiring campaigns internally</p>\n<p><strong>C</strong>   introducing inner competition</p>\n<p><strong>D</strong>   learning how to sell stories among senior executives</p>\n<p><strong>E</strong>   applying an appropriate slogan</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }

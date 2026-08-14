@@ -43,7 +43,7 @@
         },
         {
           "group_id": "Questions 8-11",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>8-11</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true according to the passage</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false according to the passage</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Synaesthesia </strong></p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>8-11</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true according to the passage</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false according to the passage</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
           "group_type": "TFNG",
           "questions": [
             {
@@ -71,7 +71,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>enhance <strong>12</strong> <input type=\"text\" /> and guard against the deterioration of cognitive</p>\n<p><strong>13</strong><input type=\"text\" />;</p>\n<p>unfortunately, it might be a while before we come up with a beneficial way to</p>\n<p><strong>14</strong> <input type=\"text\" /> it to the general population.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Synaesthesia </strong></p>"
+              "question_content_html": "<p>enhance <strong>12</strong> <input type=\"text\" /> and guard against the deterioration of cognitive</p>\n<p><strong>13</strong><input type=\"text\" />;</p>\n<p>unfortunately, it might be a while before we come up with a beneficial way to</p>\n<p><strong>14</strong> <input type=\"text\" /> it to the general population.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -107,7 +107,7 @@
             },
             {
               "question_number": 23,
-              "question_content_html": "<p><strong>23</strong>   The identity of the woman to whom the phone number belonged</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Taman Shud Case </strong></p>"
+              "question_content_html": "<p><strong>23</strong>   The identity of the woman to whom the phone number belonged</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 24,
@@ -134,7 +134,7 @@
             },
             {
               "question_number": 28,
-              "question_content_html": "<p><strong>28</strong>   Roma and Rachel Egan</p>\n<p><strong>A</strong>   are critical of attempts to exhume the Somerton man&#x27;s body.</p>\n<p><strong>B</strong>   disagree that Robin Thompson was the Somerton man&#x27;s son.</p>\n<p><strong>C</strong>   backed the request that was rejected in 2011 by Rau.</p>\n<p><strong>D</strong>   voiced their beliefs on the same programme as Kate Thompson.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Taman Shud Case </strong></p>"
+              "question_content_html": "<p><strong>28</strong>   Roma and Rachel Egan</p>\n<p><strong>A</strong>   are critical of attempts to exhume the Somerton man&#x27;s body.</p>\n<p><strong>B</strong>   disagree that Robin Thompson was the Somerton man&#x27;s son.</p>\n<p><strong>C</strong>   backed the request that was rejected in 2011 by Rau.</p>\n<p><strong>D</strong>   voiced their beliefs on the same programme as Kate Thompson.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -171,7 +171,7 @@
             },
             {
               "question_number": 34,
-              "question_content_html": "<p><strong>34</strong>   Paragraph <strong>F</strong></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Coinage in Ancient Greece </strong></p>"
+              "question_content_html": "<p><strong>34</strong>   Paragraph <strong>F</strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -209,7 +209,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Ancient Greek coins</p>\n<p><strong>A</strong>   are still a method of trade in Europe nowadays.</p>\n<p><strong>B</strong>   are remarkably different from modern coins.</p>\n<p><strong>C</strong>   are a fine example of ancient Greek art.</p>\n<p><strong>D</strong>   were a tribute to the goddess Athena, protector of Athens.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Coinage in Ancient Greece </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Ancient Greek coins</p>\n<p><strong>A</strong>   are still a method of trade in Europe nowadays.</p>\n<p><strong>B</strong>   are remarkably different from modern coins.</p>\n<p><strong>C</strong>   are a fine example of ancient Greek art.</p>\n<p><strong>D</strong>   were a tribute to the goddess Athena, protector of Athens.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

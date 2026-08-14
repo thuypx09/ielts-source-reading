@@ -33,7 +33,7 @@
             },
             {
               "question_number": 6,
-              "question_content_html": "<p><strong>6</strong>   The British government promised great financial returns to private investors to</p>\n<p>convince them to fund London Underground.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A Brief History of London Underground </strong></p>"
+              "question_content_html": "<p><strong>6</strong>   The British government promised great financial returns to private investors to</p>\n<p>convince them to fund London Underground.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "question_number": 10,
-              "question_content_html": "<p><strong>10</strong>   The London Passenger Transport Board</p>\n<p><strong>A</strong>   replaced the private companies that previously owned London Underground.</p>\n<p><strong>B</strong>   released the first diagram of the Underground map in 1933.</p>\n<p><strong>C</strong>   was established by private developers.</p>\n<p><strong>D</strong>   controlled most of London&#x27;s transport services.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A Brief History of London Underground </strong></p>"
+              "question_content_html": "<p><strong>10</strong>   The London Passenger Transport Board</p>\n<p><strong>A</strong>   replaced the private companies that previously owned London Underground.</p>\n<p><strong>B</strong>   released the first diagram of the Underground map in 1933.</p>\n<p><strong>C</strong>   was established by private developers.</p>\n<p><strong>D</strong>   controlled most of London&#x27;s transport services.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -67,7 +67,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>11</strong>   Since 2003, London commuters have been able to listen to <strong>11</strong> <input type=\"text\" /> in and</p>\n<p>outside London Underground stations.</p>\n<p><strong>12</strong>   London Underground not only attracted a lot of business to London but also</p>\n<p>helped it to become a <strong>12</strong> <input type=\"text\" /></p>\n<p><strong>13</strong>   London Underground does have its <strong>13</strong> <input type=\"text\" /> but it&#x27;s still a unique and</p>\n<p>important cultural phenomenon.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>A Brief History of London Underground </strong></p>"
+              "question_content_html": "<p><strong>11</strong>   Since 2003, London commuters have been able to listen to <strong>11</strong> <input type=\"text\" /> in and</p>\n<p>outside London Underground stations.</p>\n<p><strong>12</strong>   London Underground not only attracted a lot of business to London but also</p>\n<p>helped it to become a <strong>12</strong> <input type=\"text\" /></p>\n<p><strong>13</strong>   London Underground does have its <strong>13</strong> <input type=\"text\" /> but it&#x27;s still a unique and</p>\n<p>important cultural phenomenon.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -108,7 +108,7 @@
             },
             {
               "question_number": 20,
-              "question_content_html": "<p><strong>20</strong>   The original theories for the Pioneer anomaly</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pioneer Anomaly </strong></p>"
+              "question_content_html": "<p><strong>20</strong>   The original theories for the Pioneer anomaly</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -135,13 +135,13 @@
             },
             {
               "question_number": 25,
-              "question_content_html": "<p><strong>25</strong>   The data Turyshev used in his study</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pioneer Anomaly </strong></p>"
+              "question_content_html": "<p><strong>25</strong>   The data Turyshev used in his study</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
         {
           "group_id": "Questions 26-28",
-          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-H</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>26-28</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order.</em></p>\n<p>Which <strong>THREE</strong> of the following statements are true of Turshev&#x27;s study?</p>\n<p><strong>A</strong>   Former Pioneer team members were recruited to help to understand the</p>\n<p>data.</p>\n<p><strong>B</strong>   It was an initiative by the Planetary Society that instigated it.</p>\n<p><strong>C</strong>   It provided us with the first proof of extra dimensions.</p>\n<p><strong>D</strong>   It identified calefaction caused by the Pioneer design as the culprit behind the</p>\n<p>anomaly.</p>\n<p><strong>E</strong>   Parts of the Pioneer spacecraft were recreated to help with the study.</p>\n<p><strong>F</strong>   The analysis stage of the study was particularly time-consuming.</p>\n<p><strong>G</strong>   It proved that spacecraft with a design similar to the Pioneer 10 and 11 faced</p>\n<p>similar issues.</p>\n<p><strong>H</strong>   Turyshev was unhappy with the result of his investigation.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Pioneer Anomaly </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-H</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>26-28</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order.</em></p>\n<p>Which <strong>THREE</strong> of the following statements are true of Turshev&#x27;s study?</p>\n<p><strong>A</strong>   Former Pioneer team members were recruited to help to understand the</p>\n<p>data.</p>\n<p><strong>B</strong>   It was an initiative by the Planetary Society that instigated it.</p>\n<p><strong>C</strong>   It provided us with the first proof of extra dimensions.</p>\n<p><strong>D</strong>   It identified calefaction caused by the Pioneer design as the culprit behind the</p>\n<p>anomaly.</p>\n<p><strong>E</strong>   Parts of the Pioneer spacecraft were recreated to help with the study.</p>\n<p><strong>F</strong>   The analysis stage of the study was particularly time-consuming.</p>\n<p><strong>G</strong>   It proved that spacecraft with a design similar to the Pioneer 10 and 11 faced</p>\n<p>similar issues.</p>\n<p><strong>H</strong>   Turyshev was unhappy with the result of his investigation.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }
@@ -158,7 +158,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>There are several not particularly <strong>29</strong> <input type=\"text\" /> theories as to what food might look</p>\n<p>like</p>\n<p>in the future, according to several organisations and food futurologists around the</p>\n<p>world. Morgaine Gaye, a prominent food futurologist, believes that meat is set to all but</p>\n<p>disappear from our daily diets again due to <strong>30</strong> <input type=\"text\" /> Professor Harpaz offers</p>\n<p>the same</p>\n<p>opinion, contending that <strong>31</strong> <input type=\"text\" /> will continue to become costlier and</p>\n<p>costlier. To</p>\n<p>fill the gap left by meat, he says, we will have no choice but to turn to <strong>32</strong></p>\n<p><input type=\"text\" />, with</p>\n<p>&quot;functional foods&quot; that will be aimed at each demographic. The only step we&#x27;ll need to</p>\n<p>take to get there is to manage to decode the <strong>33</strong> <input type=\"text\" /></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Future of Food </strong></p>"
+              "question_content_html": "<p>There are several not particularly <strong>29</strong> <input type=\"text\" /> theories as to what food might look</p>\n<p>like</p>\n<p>in the future, according to several organisations and food futurologists around the</p>\n<p>world. Morgaine Gaye, a prominent food futurologist, believes that meat is set to all but</p>\n<p>disappear from our daily diets again due to <strong>30</strong> <input type=\"text\" /> Professor Harpaz offers</p>\n<p>the same</p>\n<p>opinion, contending that <strong>31</strong> <input type=\"text\" /> will continue to become costlier and</p>\n<p>costlier. To</p>\n<p>fill the gap left by meat, he says, we will have no choice but to turn to <strong>32</strong></p>\n<p><input type=\"text\" />, with</p>\n<p>&quot;functional foods&quot; that will be aimed at each demographic. The only step we&#x27;ll need to</p>\n<p>take to get there is to manage to decode the <strong>33</strong> <input type=\"text\" /></p>\n<p><strong> </strong></p>"
             }
           ]
         },

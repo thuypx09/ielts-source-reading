@@ -44,7 +44,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>7</strong><input type=\"text\" />.., while other scientists believe that animals have no this advanced</p>\n<p>ability of thinking, they would rather teach <strong>8</strong><input type=\"text\" />. Pepperberg clarified that</p>\n<p>she wanted to conduct a study concerning <strong>9</strong><input type=\"text\" />.. but not to teach him to</p>\n<p>talk. The store’s assistant picked out a bird at random for her for the sake of avoiding</p>\n<p>other scientists saying that the bird is <strong>10</strong><input type=\"text\" />. afterwards.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Animal minds: Parrot Alex </strong></p>"
+              "question_content_html": "<p><strong>7</strong><input type=\"text\" />.., while other scientists believe that animals have no this advanced</p>\n<p>ability of thinking, they would rather teach <strong>8</strong><input type=\"text\" />. Pepperberg clarified that</p>\n<p>she wanted to conduct a study concerning <strong>9</strong><input type=\"text\" />.. but not to teach him to</p>\n<p>talk. The store’s assistant picked out a bird at random for her for the sake of avoiding</p>\n<p>other scientists saying that the bird is <strong>10</strong><input type=\"text\" />. afterwards.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -63,7 +63,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   To some extent, through the way, he behaved what we can call him?</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Animal minds: Parrot Alex </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   To some extent, through the way, he behaved what we can call him?</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -81,7 +81,7 @@
         },
         {
           "group_id": "Questions 19-21",
-          "group_instruction_html": "<p>Look at the following people and the list of statements below.</p>\n<p>Match each person with the correct statement.</p>\n<p><em>Write the correct letter </em><em><strong>A-E</strong></em><em> in boxes </em><em><strong>19-21</strong></em><em> on your answer sheet </em></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>CHILDREN’S LITERATURE </strong></p>",
+          "group_instruction_html": "<p>Look at the following people and the list of statements below.</p>\n<p>Match each person with the correct statement.</p>\n<p><em>Write the correct letter </em><em><strong>A-E</strong></em><em> in boxes </em><em><strong>19-21</strong></em><em> on your answer sheet </em></p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -121,7 +121,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Today children’s book writers believe their works should appeal to both children</p>\n<p>and adults.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>CHILDREN’S LITERATURE </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Today children’s book writers believe their works should appeal to both children</p>\n<p>and adults.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -160,7 +160,7 @@
         },
         {
           "group_id": "Questions 32-36",
-          "group_instruction_html": "<p>Label the diagram below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>32-36</strong></em><em> on your answer sheet. </em></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Rainmaker design </strong></p>",
+          "group_instruction_html": "<p>Label the diagram below.</p>\n<p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>32-36</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -171,7 +171,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>there is no wind, <strong>37</strong><input type=\"text\" />.. help to retain the flow of air. Even in the future, we</p>\n<p>have an ideal plan to power the greenhouse from <strong>38</strong><input type=\"text\" />. However, there are</p>\n<p>still some critics who argue that <strong>39</strong><input type=\"text\" />. are not good economics.</p>\n<p>To justify himself, Paton presents favorable arguments against these critics and suggests</p>\n<p>that it is an <strong>40</strong><input type=\"text\" /> approach to provide air conditioning in a scale large</p>\n<p>sense.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Rainmaker design </strong></p>"
+              "question_content_html": "<p>there is no wind, <strong>37</strong><input type=\"text\" />.. help to retain the flow of air. Even in the future, we</p>\n<p>have an ideal plan to power the greenhouse from <strong>38</strong><input type=\"text\" />. However, there are</p>\n<p>still some critics who argue that <strong>39</strong><input type=\"text\" />. are not good economics.</p>\n<p>To justify himself, Paton presents favorable arguments against these critics and suggests</p>\n<p>that it is an <strong>40</strong><input type=\"text\" /> approach to provide air conditioning in a scale large</p>\n<p>sense.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

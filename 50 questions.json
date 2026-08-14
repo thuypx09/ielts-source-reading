@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-7",
-          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs, <strong>A-G</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-G</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-x</strong></em><em>, in boxes </em><em><strong>1-7</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of headings </strong></p>\n<p><strong>i</strong></p>\n<p>Other experiments following Calhoun’s experiment offering a clearer</p>\n<p>indication</p>\n<p><strong>ii</strong></p>\n<p>The effects of crowding on people in the social scope</p>\n<p><strong>iii</strong></p>\n<p>Psychological reaction to crowding</p>\n<p><strong>iv</strong></p>\n<p>Problems that result in crowding</p>\n<p><strong>v</strong></p>\n<p>Responsibility does not work</p>\n<p><strong>vi</strong></p>\n<p>What causes the upset feel of crowding</p>\n<p><strong>vii</strong></p>\n<p>Definitions of crowding and density</p>\n<p><strong>viii</strong></p>\n<p>Advice for the crowded work environment</p>\n<p><strong>ix</strong></p>\n<p>Difference between male and females’ attractiveness in a crowd</p>\n<p><strong>x</strong></p>\n<p>Nature and results of Calhoun’s experiment</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Density and Crowding </strong></p>",
+          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs, <strong>A-G</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-G</strong> from the list of headings below.</p>\n<p><em>Write the correct number, </em><em><strong>i-x</strong></em><em>, in boxes </em><em><strong>1-7</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of headings </strong></p>\n<p><strong>i</strong></p>\n<p>Other experiments following Calhoun’s experiment offering a clearer</p>\n<p>indication</p>\n<p><strong>ii</strong></p>\n<p>The effects of crowding on people in the social scope</p>\n<p><strong>iii</strong></p>\n<p>Psychological reaction to crowding</p>\n<p><strong>iv</strong></p>\n<p>Problems that result in crowding</p>\n<p><strong>v</strong></p>\n<p>Responsibility does not work</p>\n<p><strong>vi</strong></p>\n<p>What causes the upset feel of crowding</p>\n<p><strong>vii</strong></p>\n<p>Definitions of crowding and density</p>\n<p><strong>viii</strong></p>\n<p>Advice for the crowded work environment</p>\n<p><strong>ix</strong></p>\n<p>Difference between male and females’ attractiveness in a crowd</p>\n<p><strong>x</strong></p>\n<p>Nature and results of Calhoun’s experiment</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -48,7 +48,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>8</strong>   Being disturbed repeatedly, the harried mother feels frustrated for the lack</p>\n<p>of<input type=\"text\" />..</p>\n<p><strong>9</strong>   Inmates in high-density settings were more aggressive in<input type=\"text\" />..</p>\n<p><strong>10</strong>   The different result between male and female is associated with the varying need</p>\n<p>of<input type=\"text\" />.</p>\n<p><strong>11</strong>   Especially for male, Baum and Greenberg found that <input type=\"text\" />. declined with</p>\n<p>high density.</p>\n<p><strong>12 </strong>  The idea of responsibility diffusion may explain a person’s reluctant to</p>\n<p><input type=\"text\" /></p>\n<p><strong>13</strong>   Schmidt and Keating suggest that if more<input type=\"text\" />. was present there would be</p>\n<p>a reduction in crowding stress.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Density and Crowding </strong></p>"
+              "question_content_html": "<p><strong>8</strong>   Being disturbed repeatedly, the harried mother feels frustrated for the lack</p>\n<p>of<input type=\"text\" />..</p>\n<p><strong>9</strong>   Inmates in high-density settings were more aggressive in<input type=\"text\" />..</p>\n<p><strong>10</strong>   The different result between male and female is associated with the varying need</p>\n<p>of<input type=\"text\" />.</p>\n<p><strong>11</strong>   Especially for male, Baum and Greenberg found that <input type=\"text\" />. declined with</p>\n<p>high density.</p>\n<p><strong>12 </strong>  The idea of responsibility diffusion may explain a person’s reluctant to</p>\n<p><input type=\"text\" /></p>\n<p><strong>13</strong>   Schmidt and Keating suggest that if more<input type=\"text\" />. was present there would be</p>\n<p>a reduction in crowding stress.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -88,7 +88,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>18   </strong>Professor Binet devises the test to <input type=\"text\" /></p>\n<p><strong>A   </strong>find those who do not perform satisfied</p>\n<p><strong>B   </strong>choose the best one</p>\n<p><strong>C   </strong>measure the intelligence</p>\n<p><strong>D   </strong>establish the standard of intelligence</p>\n<p><strong>19   </strong>The test is designed according to <input type=\"text\" /></p>\n<p><strong>A   </strong>math</p>\n<p><strong>B   </strong>age</p>\n<p><strong>C   </strong>reading skill</p>\n<p><strong>D   </strong>gender</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Intelligence and Giftedness </strong></p>\n<p><strong>20   </strong>U.S. Army used Intelligence tests to select<input type=\"text\" /></p>\n<p><strong>A   </strong>Officers</p>\n<p><strong>B   </strong>Normal Soldiers</p>\n<p><strong>C   </strong>Examiners</p>\n<p><strong>D   </strong>Submarine drivers.</p>\n<p><strong> </strong></p>\n<p><strong>21   </strong>the purpose of the text is to<input type=\"text\" /></p>\n<p><strong>A   </strong>Give credit to the contribution of Binet in IQ test</p>\n<p><strong>B   </strong>prove someone’s theory is feasible.</p>\n<p><strong>C   </strong>discuss the validity and limitation of the test</p>\n<p><strong>D   </strong>outline the history of the test</p>"
+              "question_content_html": "<p><strong>18   </strong>Professor Binet devises the test to <input type=\"text\" /></p>\n<p><strong>A   </strong>find those who do not perform satisfied</p>\n<p><strong>B   </strong>choose the best one</p>\n<p><strong>C   </strong>measure the intelligence</p>\n<p><strong>D   </strong>establish the standard of intelligence</p>\n<p><strong>19   </strong>The test is designed according to <input type=\"text\" /></p>\n<p><strong>A   </strong>math</p>\n<p><strong>B   </strong>age</p>\n<p><strong>C   </strong>reading skill</p>\n<p><strong>D   </strong>gender</p>\n<p><strong> </strong></p>\n<p><strong>20   </strong>U.S. Army used Intelligence tests to select<input type=\"text\" /></p>\n<p><strong>A   </strong>Officers</p>\n<p><strong>B   </strong>Normal Soldiers</p>\n<p><strong>C   </strong>Examiners</p>\n<p><strong>D   </strong>Submarine drivers.</p>\n<p><strong> </strong></p>\n<p><strong>21   </strong>the purpose of the text is to<input type=\"text\" /></p>\n<p><strong>A   </strong>Give credit to the contribution of Binet in IQ test</p>\n<p><strong>B   </strong>prove someone’s theory is feasible.</p>\n<p><strong>C   </strong>discuss the validity and limitation of the test</p>\n<p><strong>D   </strong>outline the history of the test</p>"
             }
           ]
         },
@@ -115,7 +115,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   The author regards measuring intelligent test as a goal hardly meaningful.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Intelligence and Giftedness </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   The author regards measuring intelligent test as a goal hardly meaningful.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -155,7 +155,7 @@
             },
             {
               "question_number": 33,
-              "question_content_html": "<p><strong>33</strong>   potential risky as it burnt runner’s arms</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Making of Olympic Torch </strong></p>"
+              "question_content_html": "<p><strong>33</strong>   potential risky as it burnt runner’s arms</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 34,

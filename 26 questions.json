@@ -19,7 +19,7 @@
         },
         {
           "group_id": "Questions 4-10",
-          "group_instruction_html": "<p>Look at the following statements (Questions <strong>4-10</strong>) and the list of people below</p>\n<p>Match each statement with the correct person, <strong>A-I</strong>.</p>\n<p><em>Write the correct letter: </em><em><strong>A-I</strong></em><em>, in boxes </em><em><strong>4-10</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Going Bananas </strong></p>",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>4-10</strong>) and the list of people below</p>\n<p>Match each statement with the correct person, <strong>A-I</strong>.</p>\n<p><em>Write the correct letter: </em><em><strong>A-I</strong></em><em>, in boxes </em><em><strong>4-10</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once</em>.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -67,7 +67,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   Banana is a main food in some countries</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Going Bananas </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   Banana is a main food in some countries</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -106,7 +106,7 @@
         },
         {
           "group_id": "Questions 19-24",
-          "group_instruction_html": "<p>Do the following statements agree with the claims of the writer in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>19-24</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES </strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Can we call it “Art”? 2 </strong></p>",
+          "group_instruction_html": "<p>Do the following statements agree with the claims of the writer in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>19-24</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES </strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>",
           "group_type": "YNNG",
           "questions": [
             {
@@ -146,7 +146,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   According to the writer, the importance of any artistic object lies in</p>\n<p><strong>A</strong>   the artist’s intentions</p>\n<p><strong>B</strong>   the artist’s beliefs</p>\n<p><strong>C</strong>   the relevance it has to modern life</p>\n<p><strong>D</strong>   the way we respond to it</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Can we call it “Art”? 2 </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   According to the writer, the importance of any artistic object lies in</p>\n<p><strong>A</strong>   the artist’s intentions</p>\n<p><strong>B</strong>   the artist’s beliefs</p>\n<p><strong>C</strong>   the relevance it has to modern life</p>\n<p><strong>D</strong>   the way we respond to it</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -163,7 +163,7 @@
           "questions": [
             {
               "question_number": 27,
-              "question_content_html": "<p><strong>27</strong>   What is the main idea of the first paragraph?</p>\n<p><strong>A</strong>   The temperature in the polar region will increase less than that in New</p>\n<p>Zealand in the next century.</p>\n<p><strong>B</strong>   The weather and climate of New Zealand is very important to its people</p>\n<p>because of its close location to the polar region.</p>\n<p><strong>C</strong>   The air condition in New Zealand will maintain a high quality because of the</p>\n<p>ocean.</p>\n<p><strong>D</strong>   The temperature of New Zealand will increase less than that of other regions</p>\n<p>in the next 100 years because it is surrounded by sea.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Global Warming in New Zealand </strong></p>"
+              "question_content_html": "<p><strong>27</strong>   What is the main idea of the first paragraph?</p>\n<p><strong>A</strong>   The temperature in the polar region will increase less than that in New</p>\n<p>Zealand in the next century.</p>\n<p><strong>B</strong>   The weather and climate of New Zealand is very important to its people</p>\n<p>because of its close location to the polar region.</p>\n<p><strong>C</strong>   The air condition in New Zealand will maintain a high quality because of the</p>\n<p>ocean.</p>\n<p><strong>D</strong>   The temperature of New Zealand will increase less than that of other regions</p>\n<p>in the next 100 years because it is surrounded by sea.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 28,
@@ -175,7 +175,7 @@
             },
             {
               "question_number": 30,
-              "question_content_html": "<p><strong>30</strong>   What changes will happen to skiing industry due to the global warming</p>\n<p>phenomenon?</p>\n<p><strong>A</strong>   The skiing station may lower the altitude of skiing.</p>\n<p><strong>B</strong>   Part of the skiing station needs to move to the north.</p>\n<p><strong>C </strong>  The snowfall may increase in part of the skiing station.</p>\n<p><strong>D</strong>   The local skiing station may likely to make a profit because of the snowfall</p>\n<p>increase.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Global Warming in New Zealand </strong></p>"
+              "question_content_html": "<p><strong>30</strong>   What changes will happen to skiing industry due to the global warming</p>\n<p>phenomenon?</p>\n<p><strong>A</strong>   The skiing station may lower the altitude of skiing.</p>\n<p><strong>B</strong>   Part of the skiing station needs to move to the north.</p>\n<p><strong>C </strong>  The snowfall may increase in part of the skiing station.</p>\n<p><strong>D</strong>   The local skiing station may likely to make a profit because of the snowfall</p>\n<p>increase.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 31,
@@ -194,7 +194,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>major reason for the increase in sea level is connected with <strong>33</strong> <input type=\"text\" />. The</p>\n<p>increase in sea level is also said to have a threat to the underground water system, the</p>\n<p>destruction of which caused by rise of sea level will lead to a high probability of</p>\n<p>reduction in <strong>34</strong><input type=\"text\" /> In the long run, New Zealanders may have to improve</p>\n<p>the <strong>35</strong><input type=\"text\" />.. if they want to diminish the effect change in sea levels.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Global Warming in New Zealand </strong></p>"
+              "question_content_html": "<p>major reason for the increase in sea level is connected with <strong>33</strong> <input type=\"text\" />. The</p>\n<p>increase in sea level is also said to have a threat to the underground water system, the</p>\n<p>destruction of which caused by rise of sea level will lead to a high probability of</p>\n<p>reduction in <strong>34</strong><input type=\"text\" /> In the long run, New Zealanders may have to improve</p>\n<p>the <strong>35</strong><input type=\"text\" />.. if they want to diminish the effect change in sea levels.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -221,7 +221,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   New Zealand must cut carbon dioxide emission if they want to solve the problem of</p>\n<p>global warming.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Global Warming in New Zealand </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   New Zealand must cut carbon dioxide emission if they want to solve the problem of</p>\n<p>global warming.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

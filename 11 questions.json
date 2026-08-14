@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-5",
-          "group_instruction_html": "<p>Complete the summary below</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p>Nowadays it seems difficult for people to avoid the effects of living in a noisy world.</p>",
+          "group_instruction_html": "<p>Complete the summary below</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>\n<p>Nowadays it seems difficult for people to avoid the effects of living in a noisy world.</p>",
           "group_type": "fill_in_blank",
           "questions": [
             {
@@ -40,7 +40,7 @@
             },
             {
               "question_number": 10,
-              "question_content_html": "<p><strong>10</strong>   noise has seriously affected human being where they live worldwide</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>"
+              "question_content_html": "<p><strong>10</strong>   noise has seriously affected human being where they live worldwide</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -59,7 +59,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   What is the best title of paragraph 1?</p>\n<p><strong>A</strong>   How people cope with noise pollutions</p>\n<p><strong>B</strong>   the fight against the noise with the powerful technology</p>\n<p><strong>C</strong>   The Effects of Living in a Noisy World</p>\n<p><strong>D</strong>   The Effects of noise on children’s learning</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   What is the best title of paragraph 1?</p>\n<p><strong>A</strong>   How people cope with noise pollutions</p>\n<p><strong>B</strong>   the fight against the noise with the powerful technology</p>\n<p><strong>C</strong>   The Effects of Living in a Noisy World</p>\n<p><strong>D</strong>   The Effects of noise on children’s learning</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -92,7 +92,7 @@
             },
             {
               "question_number": 18,
-              "question_content_html": "<p><strong>18</strong>   Middle-class viewers are more likely to feel guilty about watching TV than the poor.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>TV Addiction 1 </strong></p>"
+              "question_content_html": "<p><strong>18</strong>   Middle-class viewers are more likely to feel guilty about watching TV than the poor.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -119,7 +119,7 @@
             },
             {
               "question_number": 23,
-              "question_content_html": "<p><strong>23</strong>   Charles Winick<strong> </strong></p>\n<p><strong>List of Statements </strong></p>\n<p><strong>A</strong>   Audiences would get hypnotized from viewing to much television.</p>\n<p><strong>B</strong>   People have been sensitive to the TV signals since a younger age.</p>\n<p><strong>C</strong>   People are less likely to accomplish their work with television.</p>\n<p><strong>D</strong>   A handful of studies have attempted to study other types of media addiction.</p>\n<p><strong>E</strong>   The addictive power of television could probably minimize the problems.</p>\n<p><strong>F</strong>   Various media formal characters stimulate people’s reaction on the screen.</p>\n<p><strong>G</strong>   People who believe themselves to be TV addicts are less likely to join in the</p>\n<p>group activities.</p>\n<p><strong>H</strong>   It is hard for people to accept the life without TV at the beginning.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>TV Addiction 1 </strong></p>"
+              "question_content_html": "<p><strong>23</strong>   Charles Winick<strong> </strong></p>\n<p><strong>List of Statements </strong></p>\n<p><strong>A</strong>   Audiences would get hypnotized from viewing to much television.</p>\n<p><strong>B</strong>   People have been sensitive to the TV signals since a younger age.</p>\n<p><strong>C</strong>   People are less likely to accomplish their work with television.</p>\n<p><strong>D</strong>   A handful of studies have attempted to study other types of media addiction.</p>\n<p><strong>E</strong>   The addictive power of television could probably minimize the problems.</p>\n<p><strong>F</strong>   Various media formal characters stimulate people’s reaction on the screen.</p>\n<p><strong>G</strong>   People who believe themselves to be TV addicts are less likely to join in the</p>\n<p>group activities.</p>\n<p><strong>H</strong>   It is hard for people to accept the life without TV at the beginning.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -138,7 +138,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Which of the following statements in true about the family experiment?</p>\n<p><strong>A</strong>   Not all subjects participate in the experiment for free.</p>\n<p><strong>B</strong>   There has been a complete gathered data.</p>\n<p><strong>C </strong>  People are prevented from other activities during the experiment.</p>\n<p><strong>D</strong>   People can not adapt to the situation until the end.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>TV Addiction 1 </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Which of the following statements in true about the family experiment?</p>\n<p><strong>A</strong>   Not all subjects participate in the experiment for free.</p>\n<p><strong>B</strong>   There has been a complete gathered data.</p>\n<p><strong>C </strong>  People are prevented from other activities during the experiment.</p>\n<p><strong>D</strong>   People can not adapt to the situation until the end.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -163,7 +163,7 @@
             },
             {
               "question_number": 29,
-              "question_content_html": "<p><strong>29</strong>   According to 3rd paragraph, the reference to the term and example of “theory of</p>\n<p>relativity” is to demonstrate</p>\n<p><strong>A </strong>  theory of relativity is about an invariant physical phenomenon</p>\n<p><strong>B</strong>   common people may be misled by the inaccurate choice of scientific phrase</p>\n<p><strong>C</strong>   the term “relativity,” is designed to be misleading public</p>\n<p><strong>D</strong>   everything is relative and there is no absolutes existence</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Communication in science </strong></p>"
+              "question_content_html": "<p><strong>29</strong>   According to 3rd paragraph, the reference to the term and example of “theory of</p>\n<p>relativity” is to demonstrate</p>\n<p><strong>A </strong>  theory of relativity is about an invariant physical phenomenon</p>\n<p><strong>B</strong>   common people may be misled by the inaccurate choice of scientific phrase</p>\n<p><strong>C</strong>   the term “relativity,” is designed to be misleading public</p>\n<p><strong>D</strong>   everything is relative and there is no absolutes existence</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 30,
@@ -194,7 +194,7 @@
             },
             {
               "question_number": 35,
-              "question_content_html": "<p><strong>35</strong>   Public understanding and acceptance of indirect scientific evidence in all cases</p>\n<p>would lead to confusion</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Communication in science </strong></p>"
+              "question_content_html": "<p><strong>35</strong>   Public understanding and acceptance of indirect scientific evidence in all cases</p>\n<p>would lead to confusion</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -205,7 +205,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>36</strong><input type=\"text\" /> are the source of some misunderstandings. Common people without</p>\n<p>proper training do not understand clearly of deeply a specific scientific meaning via the</p>\n<p><strong>37</strong> <input type=\"text\" />. scientists often employed. Besides, the measurements any</p>\n<p><strong>38</strong><input type=\"text\" /> makes can not be confined to describe in a(n) constant</p>\n<p><strong>39</strong><input type=\"text\" />.. yet the phenomenon can be. What’s more, even the word “theory”</p>\n<p>can be a problem. Theories aren’t necessarily shown to be correct or complete</p>\n<p>immediately since scientists often evolved better versions of specific theories, a good</p>\n<p>example can be the theory of <strong>40</strong> <input type=\"text\" />. Thus, most importantly people have to</p>\n<p>recognize that science can be complex.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Communication in science </strong></p>"
+              "question_content_html": "<p><strong>36</strong><input type=\"text\" /> are the source of some misunderstandings. Common people without</p>\n<p>proper training do not understand clearly of deeply a specific scientific meaning via the</p>\n<p><strong>37</strong> <input type=\"text\" />. scientists often employed. Besides, the measurements any</p>\n<p><strong>38</strong><input type=\"text\" /> makes can not be confined to describe in a(n) constant</p>\n<p><strong>39</strong><input type=\"text\" />.. yet the phenomenon can be. What’s more, even the word “theory”</p>\n<p>can be a problem. Theories aren’t necessarily shown to be correct or complete</p>\n<p>immediately since scientists often evolved better versions of specific theories, a good</p>\n<p>example can be the theory of <strong>40</strong> <input type=\"text\" />. Thus, most importantly people have to</p>\n<p>recognize that science can be complex.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

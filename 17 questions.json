@@ -25,7 +25,7 @@
             },
             {
               "question_number": 4,
-              "question_content_html": "<p><strong>4</strong>   Survived in hostile environment</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>LONGAEVE: Ancient Bristlecone Pine </strong></p>"
+              "question_content_html": "<p><strong>4</strong>   Survived in hostile environment</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "question_number": 7,
-              "question_content_html": "<p><strong>7</strong>   Why there are repeated patterns of wide and narrow rings?</p>\n<p><strong>A</strong>   Because sea level rises which affects tree ring</p>\n<p><strong>B</strong>   Because tree ring pattern is completely random</p>\n<p><strong>C</strong>   Because ancient organisms affect its growth</p>\n<p><strong>D</strong>   Because variation of climate change is different</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>LONGAEVE: Ancient Bristlecone Pine </strong></p>"
+              "question_content_html": "<p><strong>7</strong>   Why there are repeated patterns of wide and narrow rings?</p>\n<p><strong>A</strong>   Because sea level rises which affects tree ring</p>\n<p><strong>B</strong>   Because tree ring pattern is completely random</p>\n<p><strong>C</strong>   Because ancient organisms affect its growth</p>\n<p><strong>D</strong>   Because variation of climate change is different</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -55,7 +55,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>8</strong><input type=\"text\" />.. of leave replacement and providing sufficient chlorophyll. Probably</p>\n<p>because seeds do not rely on primary <strong>9</strong><input type=\"text\" />, Germination rate is high.</p>\n<p>Because of cambium dieback, only narrow <strong>10</strong><input type=\"text\" />.. remain complete. Due</p>\n<p>to multiple factors such as windy, cold climate and <strong>11</strong><input type=\"text\" />., bristlecones’</p>\n<p>rings have tight and solid structure full of resin. Moreover, bristlecone stands are safe</p>\n<p>from fire because of little <strong>12</strong><input type=\"text\" />. plants spread in this place. The summits</p>\n<p>of Owens Valley is higher than they emerge if you observe from a <strong>13</strong><input type=\"text\" />..</p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>LONGAEVE: Ancient Bristlecone Pine </strong></p>"
+              "question_content_html": "<p><strong>8</strong><input type=\"text\" />.. of leave replacement and providing sufficient chlorophyll. Probably</p>\n<p>because seeds do not rely on primary <strong>9</strong><input type=\"text\" />, Germination rate is high.</p>\n<p>Because of cambium dieback, only narrow <strong>10</strong><input type=\"text\" />.. remain complete. Due</p>\n<p>to multiple factors such as windy, cold climate and <strong>11</strong><input type=\"text\" />., bristlecones’</p>\n<p>rings have tight and solid structure full of resin. Moreover, bristlecone stands are safe</p>\n<p>from fire because of little <strong>12</strong><input type=\"text\" />. plants spread in this place. The summits</p>\n<p>of Owens Valley is higher than they emerge if you observe from a <strong>13</strong><input type=\"text\" />..</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -96,7 +96,7 @@
             },
             {
               "question_number": 20,
-              "question_content_html": "<p><strong>20</strong>   Paragraph <strong>G</strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Corporate Social Responsibility </strong></p>"
+              "question_content_html": "<p><strong>20</strong>   Paragraph <strong>G</strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -130,7 +130,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   ensuring the people have the latest information</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Corporate Social Responsibility </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   ensuring the people have the latest information</p>\n<p><strong> </strong></p>"
             }
           ]
         }

@@ -52,7 +52,7 @@
             },
             {
               "question_number": 9,
-              "question_content_html": "<p><strong>9</strong>    Eastern people find more difficulty when asked to identify the same object.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Connection Between Culture and Thought </strong></p>"
+              "question_content_html": "<p><strong>9</strong>    Eastern people find more difficulty when asked to identify the same object.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -63,7 +63,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>10</strong>   Researchers in the Soviet Union wanted to find out how <input type=\"text\" />. and</p>\n<p>nationality will control the way people think.</p>\n<p><strong>11</strong>   Bessett and Ara’s experiment shows, for Americans, so long as the logic deduction is</p>\n<p>based on a correct argument, the <input type=\"text\" />. should be right.</p>\n<p><strong>12</strong>   Fischer thinks Bessett’s research is quite valuable because it is conducted in a</p>\n<p><input type=\"text\" />.. way rather than in controlled environment.</p>\n<p><strong>13</strong>   Future researchers on culture’s effect on cognitive processing should start with a</p>\n<p><input type=\"text\" />.. of culture as a variable.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Connection Between Culture and Thought </strong></p>"
+              "question_content_html": "<p><strong>10</strong>   Researchers in the Soviet Union wanted to find out how <input type=\"text\" />. and</p>\n<p>nationality will control the way people think.</p>\n<p><strong>11</strong>   Bessett and Ara’s experiment shows, for Americans, so long as the logic deduction is</p>\n<p>based on a correct argument, the <input type=\"text\" />. should be right.</p>\n<p><strong>12</strong>   Fischer thinks Bessett’s research is quite valuable because it is conducted in a</p>\n<p><input type=\"text\" />.. way rather than in controlled environment.</p>\n<p><strong>13</strong>   Future researchers on culture’s effect on cognitive processing should start with a</p>\n<p><input type=\"text\" />.. of culture as a variable.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -92,7 +92,7 @@
             },
             {
               "question_number": 17,
-              "question_content_html": "<p><strong>17</strong>   What is applied for heating water on Couran Cove Island Resort?</p>\n<p><strong>A </strong>  the LPG-power</p>\n<p><strong>B</strong>   a diesel-powered plant</p>\n<p><strong>C </strong>  the wind power</p>\n<p><strong>D</strong>   the solar-power</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Eco-Resort Management Practices </strong></p>"
+              "question_content_html": "<p><strong>17</strong>   What is applied for heating water on Couran Cove Island Resort?</p>\n<p><strong>A </strong>  the LPG-power</p>\n<p><strong>B</strong>   a diesel-powered plant</p>\n<p><strong>C </strong>  the wind power</p>\n<p><strong>D</strong>   the solar-power</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 18,
@@ -107,13 +107,13 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>19</strong><input type=\"text\" />.  in a regular service provided by the resort itself. Within the resort,</p>\n<p>transports include trails for walking or tracks for both <strong>20</strong> <input type=\"text\" />. and the beach</p>\n<p>train. The on-island equipment is old-fashioned which is barely working such as the</p>\n<p><strong>21</strong><input type=\"text\" /> overhead. There is elevision, radio, an old <strong>22</strong> <input type=\"text\" />. and a small</p>\n<p>fridge. And you can buy the repellent for <strong>23</strong><input type=\"text\" />...  if you forget to bring some.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Eco-Resort Management Practices </strong></p>"
+              "question_content_html": "<p><strong>19</strong><input type=\"text\" />.  in a regular service provided by the resort itself. Within the resort,</p>\n<p>transports include trails for walking or tracks for both <strong>20</strong> <input type=\"text\" />. and the beach</p>\n<p>train. The on-island equipment is old-fashioned which is barely working such as the</p>\n<p><strong>21</strong><input type=\"text\" /> overhead. There is elevision, radio, an old <strong>22</strong> <input type=\"text\" />. and a small</p>\n<p>fridge. And you can buy the repellent for <strong>23</strong><input type=\"text\" />...  if you forget to bring some.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
         {
           "group_id": "Questions 24-26",
-          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters, <strong>A-E</strong>.</p>\n<p><em>Write the correct letters in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>THREE</strong> of the following statements are true as to the contemporary situation of</p>\n<p>Couran Cove Island Resort in the last paragraph?</p>\n<p><strong>A</strong>   Couran Cove Island Resort goes for more eco-friendly practices.</p>\n<p><strong>B</strong>   The accommodation standard only conforms to the Resort Development</p>\n<p>Spectrum of Phase 3.</p>\n<p><strong>C</strong>   Couran Cove Island Resort should raise the accommodation standard and</p>\n<p>build more facilities.</p>\n<p><strong>D</strong>   The principal group visiting the resort is international tourists.</p>\n<p><strong>E </strong>  Its carrying capacity will restrict the future businesses’ expansion.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Eco-Resort Management Practices </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters, <strong>A-E</strong>.</p>\n<p><em>Write the correct letters in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>THREE</strong> of the following statements are true as to the contemporary situation of</p>\n<p>Couran Cove Island Resort in the last paragraph?</p>\n<p><strong>A</strong>   Couran Cove Island Resort goes for more eco-friendly practices.</p>\n<p><strong>B</strong>   The accommodation standard only conforms to the Resort Development</p>\n<p>Spectrum of Phase 3.</p>\n<p><strong>C</strong>   Couran Cove Island Resort should raise the accommodation standard and</p>\n<p>build more facilities.</p>\n<p><strong>D</strong>   The principal group visiting the resort is international tourists.</p>\n<p><strong>E </strong>  Its carrying capacity will restrict the future businesses’ expansion.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }
@@ -130,7 +130,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>Most of the world’s languages are spoken by a <strong>27</strong><input type=\"text\" />. of people. However,</p>\n<p>Professor Turin set up a project WOLP to prevent <strong>28</strong><input type=\"text\" /> of the languages. The</p>\n<p>project provides the community with <strong>29</strong><input type=\"text\" />. to enable people to record their</p>\n<p>endangered languages. The oral tradition has great cultural <strong>30</strong><input type=\"text\" />.. An</p>\n<p>important <strong>31</strong><input type=\"text\" /> between languages spoken by few people and languages</p>\n<p>with celebrated written documents existed in many communities.</p>\n<p><strong>A</strong></p>\n<p>similarity</p>\n<p><strong>B</strong></p>\n<p>significance</p>\n<p><strong>C</strong></p>\n<p>funding</p>\n<p><strong>D</strong></p>\n<p>minority</p>\n<p><strong>E</strong></p>\n<p>education</p>\n<p><strong>F</strong></p>\n<p>difference</p>\n<p><strong>G</strong></p>\n<p>education</p>\n<p><strong>H</strong></p>\n<p>diversity</p>\n<p><strong>I</strong></p>\n<p>majority</p>\n<p><strong>J</strong></p>\n<p>disappearance</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
+              "question_content_html": "<p>Most of the world’s languages are spoken by a <strong>27</strong><input type=\"text\" />. of people. However,</p>\n<p>Professor Turin set up a project WOLP to prevent <strong>28</strong><input type=\"text\" /> of the languages. The</p>\n<p>project provides the community with <strong>29</strong><input type=\"text\" />. to enable people to record their</p>\n<p>endangered languages. The oral tradition has great cultural <strong>30</strong><input type=\"text\" />.. An</p>\n<p>important <strong>31</strong><input type=\"text\" /> between languages spoken by few people and languages</p>\n<p>with celebrated written documents existed in many communities.</p>\n<p><strong>A</strong></p>\n<p>similarity</p>\n<p><strong>B</strong></p>\n<p>significance</p>\n<p><strong>C</strong></p>\n<p>funding</p>\n<p><strong>D</strong></p>\n<p>minority</p>\n<p><strong>E</strong></p>\n<p>education</p>\n<p><strong>F</strong></p>\n<p>difference</p>\n<p><strong>G</strong></p>\n<p>education</p>\n<p><strong>H</strong></p>\n<p>diversity</p>\n<p><strong>I</strong></p>\n<p>majority</p>\n<p><strong>J</strong></p>\n<p>disappearance</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
             }
           ]
         },
@@ -168,7 +168,7 @@
             },
             {
               "question_number": 37,
-              "question_content_html": "<p><strong>37 </strong>  What is discussed in the ninth paragraph?</p>\n<p><strong>A </strong>  Forces driving people to believe endangered languages can survive.</p>\n<p><strong>B</strong>   The community where people distrust language revival.</p>\n<p><strong>C </strong>  The methods of research that have improved language restoration.</p>\n<p><strong>D</strong>   Initiatives the World Oral Literature Project is bringing to Israel.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
+              "question_content_html": "<p><strong>37 </strong>  What is discussed in the ninth paragraph?</p>\n<p><strong>A </strong>  Forces driving people to believe endangered languages can survive.</p>\n<p><strong>B</strong>   The community where people distrust language revival.</p>\n<p><strong>C </strong>  The methods of research that have improved language restoration.</p>\n<p><strong>D</strong>   Initiatives the World Oral Literature Project is bringing to Israel.</p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
             },
             {
               "question_number": 38,
@@ -180,7 +180,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40 </strong>  What does Turin suggest that community people should do?</p>\n<p><strong>A</strong>   Learn other languages.</p>\n<p><strong>B</strong>   Only have a sense of identity.</p>\n<p><strong>C</strong>   Keep up with the modem society without losing their language.</p>\n<p>D   Join the race to protect as many languages as possible but be realistic.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
+              "question_content_html": "<p><strong>40 </strong>  What does Turin suggest that community people should do?</p>\n<p><strong>A</strong>   Learn other languages.</p>\n<p><strong>B</strong>   Only have a sense of identity.</p>\n<p><strong>C</strong>   Keep up with the modem society without losing their language.</p>\n<p>D   Join the race to protect as many languages as possible but be realistic.</p>\n<p><strong> </strong></p>\n<p><strong>The future of the World&#x27;s Language </strong></p>"
             }
           ]
         }

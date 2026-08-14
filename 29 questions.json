@@ -21,7 +21,7 @@
             },
             {
               "question_number": 3,
-              "question_content_html": "<p><strong>3</strong>   Paragraph <strong>C</strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>William Gilbert and Magnetism </strong></p>"
+              "question_content_html": "<p><strong>3</strong>   Paragraph <strong>C</strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 4,
@@ -62,7 +62,7 @@
         },
         {
           "group_id": "Questions 11-13",
-          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-F</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>11-13</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>THREE</strong> of the following are parts of Gilbert’s discovery?</p>\n<p><strong>A</strong>   Metal can be transformed into another.</p>\n<p><strong>B</strong>   Garlic can remove magnetism.</p>\n<p><strong>C</strong>   Metals can be magnetized.</p>\n<p><strong>D</strong>   Stars are at different distances from the earth.</p>\n<p><strong>E</strong>   The earth wobbles on its axis.</p>\n<p><strong>F</strong>   There are two charges of electricity.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>William Gilbert and Magnetism </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-F</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>11-13</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>THREE</strong> of the following are parts of Gilbert’s discovery?</p>\n<p><strong>A</strong>   Metal can be transformed into another.</p>\n<p><strong>B</strong>   Garlic can remove magnetism.</p>\n<p><strong>C</strong>   Metals can be magnetized.</p>\n<p><strong>D</strong>   Stars are at different distances from the earth.</p>\n<p><strong>E</strong>   The earth wobbles on its axis.</p>\n<p><strong>F</strong>   There are two charges of electricity.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }
@@ -95,7 +95,7 @@
             },
             {
               "question_number": 18,
-              "question_content_html": "<p><strong>18</strong>   Reasons that make one study unconvincing</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Twin Study: Two of a kind </strong></p>"
+              "question_content_html": "<p><strong>18</strong>   Reasons that make one study unconvincing</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -112,13 +112,13 @@
         },
         {
           "group_id": "Questions 21-23",
-          "group_instruction_html": "<p>Choose the correct letters in following options:</p>\n<p><em>Write your answers in boxes </em><em><strong>21-23</strong></em><em> on your answer sheet. </em></p>\n<p>Please choose <strong>THREE</strong> research fields that had been carried out in <em><strong>Ohio, Maryland and </strong></em></p>\n<p><em><strong>Twinburgh</strong></em>?</p>\n<p><strong>A</strong>   Sense</p>\n<p><strong>B</strong>   Cancer</p>\n<p><strong>C</strong>   Be allergic to Vitamin D</p>\n<p><strong>D</strong>   Mole heredity</p>\n<p><strong>E</strong>   Sound</p>\n<p><strong>F</strong>   Boldness of men</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Twin Study: Two of a kind </strong></p>",
+          "group_instruction_html": "<p>Choose the correct letters in following options:</p>\n<p><em>Write your answers in boxes </em><em><strong>21-23</strong></em><em> on your answer sheet. </em></p>\n<p>Please choose <strong>THREE</strong> research fields that had been carried out in <em><strong>Ohio, Maryland and </strong></em></p>\n<p><em><strong>Twinburgh</strong></em>?</p>\n<p><strong>A</strong>   Sense</p>\n<p><strong>B</strong>   Cancer</p>\n<p><strong>C</strong>   Be allergic to Vitamin D</p>\n<p><strong>D</strong>   Mole heredity</p>\n<p><strong>E</strong>   Sound</p>\n<p><strong>F</strong>   Boldness of men</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
         {
           "group_id": "Questions 24-26",
-          "group_instruction_html": "<p>Choose the correct letters in following options</p>\n<p><em>Write your answers in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>\n<p>Please choose <strong>THREE</strong> results that had been <strong>verified</strong> in this passage.</p>\n<p><strong>A</strong>   Non identical twins come from different eggs.</p>\n<p><strong>B</strong>   Genetic relation between identical twins is closer than non-identical ones.</p>\n<p><strong>C</strong>   Vitamin C has evident effect on a cold.</p>\n<p><strong>D</strong>   Genetic influence to smoking is superior to environment’s</p>\n<p><strong>E</strong>   If a pregnant woman eats too much sweet would lead to skin disease.</p>\n<p><strong>F</strong>   Hair loss has been found to be connected with skin problem.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Twin Study: Two of a kind </strong></p>",
+          "group_instruction_html": "<p>Choose the correct letters in following options</p>\n<p><em>Write your answers in boxes </em><em><strong>24-26</strong></em><em> on your answer sheet. </em></p>\n<p>Please choose <strong>THREE</strong> results that had been <strong>verified</strong> in this passage.</p>\n<p><strong>A</strong>   Non identical twins come from different eggs.</p>\n<p><strong>B</strong>   Genetic relation between identical twins is closer than non-identical ones.</p>\n<p><strong>C</strong>   Vitamin C has evident effect on a cold.</p>\n<p><strong>D</strong>   Genetic influence to smoking is superior to environment’s</p>\n<p><strong>E</strong>   If a pregnant woman eats too much sweet would lead to skin disease.</p>\n<p><strong>F</strong>   Hair loss has been found to be connected with skin problem.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }
@@ -147,7 +147,7 @@
             },
             {
               "question_number": 30,
-              "question_content_html": "<p><strong>30</strong>   When children are growing up, they</p>\n<p><strong>A</strong>   always try to directly say no</p>\n<p><strong>B</strong>   are more skillful to negotiate</p>\n<p><strong>C</strong>   learn to cheat instead of noncompliance</p>\n<p><strong>D</strong>   tend to keep silent</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Compliance or Noncompliance for Children </strong></p>"
+              "question_content_html": "<p><strong>30</strong>   When children are growing up, they</p>\n<p><strong>A</strong>   always try to directly say no</p>\n<p><strong>B</strong>   are more skillful to negotiate</p>\n<p><strong>C</strong>   learn to cheat instead of noncompliance</p>\n<p><strong>D</strong>   tend to keep silent</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 31,
@@ -174,7 +174,7 @@
             },
             {
               "question_number": 35,
-              "question_content_html": "<p><strong>35</strong>   Paul Edith</p>\n<p><strong>List of statements </strong></p>\n<p><strong>A</strong>   children of all ages will indirectly show noncompliance</p>\n<p><strong>B</strong>   elder children tend to negotiate rather than show noncompliance</p>\n<p><strong>C</strong>   converse behavior means noncompliance</p>\n<p><strong>D</strong>   organizing fun activities to occur after frequently refused activities</p>\n<p><strong>E </strong>  organizing child’s daily activities in the same order as much as possible.</p>\n<p><strong>F</strong>   use praise in order to make children compliant</p>\n<p><strong>G</strong>   take the children to school at a early age</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Compliance or Noncompliance for Children </strong></p>"
+              "question_content_html": "<p><strong>35</strong>   Paul Edith</p>\n<p><strong>List of statements </strong></p>\n<p><strong>A</strong>   children of all ages will indirectly show noncompliance</p>\n<p><strong>B</strong>   elder children tend to negotiate rather than show noncompliance</p>\n<p><strong>C</strong>   converse behavior means noncompliance</p>\n<p><strong>D</strong>   organizing fun activities to occur after frequently refused activities</p>\n<p><strong>E </strong>  organizing child’s daily activities in the same order as much as possible.</p>\n<p><strong>F</strong>   use praise in order to make children compliant</p>\n<p><strong>G</strong>   take the children to school at a early age</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -201,7 +201,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Psychologist Paul Edith negated the importance that knowing how to praise children</p>\n<p>in a encouraged way.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Compliance or Noncompliance for Children </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Psychologist Paul Edith negated the importance that knowing how to praise children</p>\n<p>in a encouraged way.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

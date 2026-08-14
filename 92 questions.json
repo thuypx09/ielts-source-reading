@@ -41,7 +41,7 @@
             },
             {
               "question_number": 8,
-              "question_content_html": "<p><strong>8 </strong>   Only the weed killers can stop interrupted brome from becoming an invasive pest.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The “Extinct” Grass in Britain </strong></p>"
+              "question_content_html": "<p><strong>8 </strong>   Only the weed killers can stop interrupted brome from becoming an invasive pest.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>    collected the first sample of interrupted brome.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The “Extinct” Grass in Britain </strong></p>"
+              "question_content_html": "<p><strong>13</strong>    collected the first sample of interrupted brome.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -128,7 +128,7 @@
             },
             {
               "question_number": 23,
-              "question_content_html": "<p><strong>23</strong>    At least 300,000 people left from Netherlands in 1995.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Keep the Water Away </strong></p>"
+              "question_content_html": "<p><strong>23</strong>    At least 300,000 people left from Netherlands in 1995.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -139,7 +139,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>24   </strong>UK’s Environment Agency carried out one innovative approach: a wetland is</p>\n<p>generated not far from the city of <input type=\"text\" /> to protect it from flooding.</p>\n<p><strong>25</strong>   <input type=\"text\" /> suggested that cities should be porous, and Berlin set a good</p>\n<p>example.</p>\n<p><strong>26</strong>   Another city devastated by heavy storms casually is <input type=\"text\" />, though</p>\n<p>government pours billions of dollars each year in order to solve the problem.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Keep the Water Away </strong></p>"
+              "question_content_html": "<p><strong>24   </strong>UK’s Environment Agency carried out one innovative approach: a wetland is</p>\n<p>generated not far from the city of <input type=\"text\" /> to protect it from flooding.</p>\n<p><strong>25</strong>   <input type=\"text\" /> suggested that cities should be porous, and Berlin set a good</p>\n<p>example.</p>\n<p><strong>26</strong>   Another city devastated by heavy storms casually is <input type=\"text\" />, though</p>\n<p>government pours billions of dollars each year in order to solve the problem.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -176,7 +176,7 @@
             },
             {
               "question_number": 32,
-              "question_content_html": "<p><strong>32</strong>    Sylvain Sirois found serious flaws in the experimental designs by Baillargeon and</p>\n<p>Elizabeth Spelke.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Do Babies Know? </strong></p>"
+              "question_content_html": "<p><strong>32</strong>    Sylvain Sirois found serious flaws in the experimental designs by Baillargeon and</p>\n<p>Elizabeth Spelke.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -214,7 +214,7 @@
           "questions": [
             {
               "question_number": 38,
-              "question_content_html": "<p><strong>38</strong>   What can we know about Daniel in the third paragraph?</p>\n<p><strong>A </strong>  Daniel’s attention level rose when he saw a blue train.</p>\n<p><strong>B </strong>  Kid’s attention fell when he was accustomed to the changes.</p>\n<p><strong>C</strong>   Child’s brain activity was monitored by a special equipment.</p>\n<p><strong>D </strong>  Size of the train changed when it came out of the tunnel.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Do Babies Know? </strong></p>"
+              "question_content_html": "<p><strong>38</strong>   What can we know about Daniel in the third paragraph?</p>\n<p><strong>A </strong>  Daniel’s attention level rose when he saw a blue train.</p>\n<p><strong>B </strong>  Kid’s attention fell when he was accustomed to the changes.</p>\n<p><strong>C</strong>   Child’s brain activity was monitored by a special equipment.</p>\n<p><strong>D </strong>  Size of the train changed when it came out of the tunnel.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 39,
@@ -222,7 +222,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   What can we know from the argument of the experiment about the baby in the</p>\n<p>sixth paragraph?</p>\n<p><strong>A</strong>   Infants are attracted by various colours of the trains all the time.</p>\n<p><strong>B</strong>   Sylvain Sirois accuses misleading approaches of current experiments.</p>\n<p><strong>C </strong>  Sylvain Sirois indicates that only impossible events make children interested.</p>\n<p><strong>D </strong>  Sylvain Sirois suggests that novel things attract baby’s attention.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Do Babies Know? </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   What can we know from the argument of the experiment about the baby in the</p>\n<p>sixth paragraph?</p>\n<p><strong>A</strong>   Infants are attracted by various colours of the trains all the time.</p>\n<p><strong>B</strong>   Sylvain Sirois accuses misleading approaches of current experiments.</p>\n<p><strong>C </strong>  Sylvain Sirois indicates that only impossible events make children interested.</p>\n<p><strong>D </strong>  Sylvain Sirois suggests that novel things attract baby’s attention.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

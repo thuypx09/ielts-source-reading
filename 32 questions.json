@@ -17,7 +17,7 @@
             },
             {
               "question_number": 2,
-              "question_content_html": "<p><strong>2</strong>   What does the passage say about the evidence of boats?</p>\n<p><strong>A</strong>   We have a good knowledge of how boats were made and what boats were for</p>\n<p>prehistorically</p>\n<p><strong>B</strong>   Most of the boats discovered were found in harbors</p>\n<p><strong>C</strong>   The use of boats had not been recorded for a thousand years</p>\n<p><strong>D</strong>   The way to build boats has remained unchanged throughout human history</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> Coastal Archaeology of Britain </strong></p>"
+              "question_content_html": "<p><strong>2</strong>   What does the passage say about the evidence of boats?</p>\n<p><strong>A</strong>   We have a good knowledge of how boats were made and what boats were for</p>\n<p>prehistorically</p>\n<p><strong>B</strong>   Most of the boats discovered were found in harbors</p>\n<p><strong>C</strong>   The use of boats had not been recorded for a thousand years</p>\n<p><strong>D</strong>   The way to build boats has remained unchanged throughout human history</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 3,
@@ -56,13 +56,13 @@
             },
             {
               "question_number": 10,
-              "question_content_html": "<p><strong>10</strong>   Large passenger boats are causing increasing damage to the seashore.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> Coastal Archaeology of Britain </strong></p>"
+              "question_content_html": "<p><strong>10</strong>   Large passenger boats are causing increasing damage to the seashore.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
         {
           "group_id": "Questions 11-13",
-          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-G</strong></p>\n<p><em>Write your answer in boxes </em><em><strong>11-13</strong></em><em> on your answer sheet </em></p>\n<p>Which <strong>THREE</strong> of the following statements are mentioned in the passage?</p>\n<p><strong>A</strong>   Our prehistoric ancestors adjusted to the environmental change caused by the</p>\n<p>rising sea level by moving to higher lands.</p>\n<p><strong>B</strong>   It is difficult to understand how many people lived close to the sea.</p>\n<p><strong>C</strong>   Human settlements in coastal environment were different from those inland</p>\n<p><strong>D</strong>   Our knowledge of boat evidence is limited.</p>\n<p><strong>E</strong>   The prehistoric boats were built mainly for collecting sand from the river.</p>\n<p><strong>F </strong>  Human development threatens the archaeological remains.</p>\n<p><strong>G</strong>   The reason for the decline of salt industry was the shortage of laborers.</p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> Coastal Archaeology of Britain </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-G</strong></p>\n<p><em>Write your answer in boxes </em><em><strong>11-13</strong></em><em> on your answer sheet </em></p>\n<p>Which <strong>THREE</strong> of the following statements are mentioned in the passage?</p>\n<p><strong>A</strong>   Our prehistoric ancestors adjusted to the environmental change caused by the</p>\n<p>rising sea level by moving to higher lands.</p>\n<p><strong>B</strong>   It is difficult to understand how many people lived close to the sea.</p>\n<p><strong>C</strong>   Human settlements in coastal environment were different from those inland</p>\n<p><strong>D</strong>   Our knowledge of boat evidence is limited.</p>\n<p><strong>E</strong>   The prehistoric boats were built mainly for collecting sand from the river.</p>\n<p><strong>F </strong>  Human development threatens the archaeological remains.</p>\n<p><strong>G</strong>   The reason for the decline of salt industry was the shortage of laborers.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }
@@ -118,7 +118,7 @@
             },
             {
               "question_number": 22,
-              "question_content_html": "<p><strong>22</strong>   A place where Capuchins monkey comes for a better habitat</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Monkeys and Forests </strong></p>"
+              "question_content_html": "<p><strong>22</strong>   A place where Capuchins monkey comes for a better habitat</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -129,7 +129,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>23</strong><input type=\"text\" />. is not easily found</p>\n<p>-   Howlers has better ability to alleviate the <strong>24</strong><input type=\"text\" />., which old and young</p>\n<p>trees used to protect themselves)</p>\n<p>-   when compared to that of spider monkeys and capuchin monkeys, the</p>\n<p><strong>25</strong><input type=\"text\" />. rate of Howlers is relatively faster (round for just every 2 years).</p>\n<p>-   the monkeys can survive away from open streams and water holes as the leaves</p>\n<p>howlers eat hold high content of <strong>26</strong><input type=\"text\" />., which ensure them to resist to</p>\n<p>continuous <strong>27</strong><input type=\"text\" />. In Guanacaste</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Monkeys and Forests </strong></p>"
+              "question_content_html": "<p><strong>23</strong><input type=\"text\" />. is not easily found</p>\n<p>-   Howlers has better ability to alleviate the <strong>24</strong><input type=\"text\" />., which old and young</p>\n<p>trees used to protect themselves)</p>\n<p>-   when compared to that of spider monkeys and capuchin monkeys, the</p>\n<p><strong>25</strong><input type=\"text\" />. rate of Howlers is relatively faster (round for just every 2 years).</p>\n<p>-   the monkeys can survive away from open streams and water holes as the leaves</p>\n<p>howlers eat hold high content of <strong>26</strong><input type=\"text\" />., which ensure them to resist to</p>\n<p>continuous <strong>27</strong><input type=\"text\" />. In Guanacaste</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -160,7 +160,7 @@
             },
             {
               "question_number": 38,
-              "question_content_html": "<p><strong>38</strong>   Most of the people who went to holy sites during the early part of the postclassical</p>\n<p>era are</p>\n<p><strong>A</strong>   Europeans.</p>\n<p><strong>B</strong>   Muslim and East Asians.</p>\n<p><strong>C</strong>   Americans.</p>\n<p><strong>D</strong>   Greeks.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Travel Accounts </strong></p>"
+              "question_content_html": "<p><strong>38</strong>   Most of the people who went to holy sites during the early part of the postclassical</p>\n<p>era are</p>\n<p><strong>A</strong>   Europeans.</p>\n<p><strong>B</strong>   Muslim and East Asians.</p>\n<p><strong>C</strong>   Americans.</p>\n<p><strong>D</strong>   Greeks.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 39,
@@ -168,7 +168,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   What stimulated the market for traveling in the 20th century?</p>\n<p><strong>A</strong>   the wealthy</p>\n<p><strong>B</strong>   travel books</p>\n<p><strong>C</strong>   delicious food</p>\n<p><strong>D</strong>   mass transport</p>\n<p>7</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Travel Accounts </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   What stimulated the market for traveling in the 20th century?</p>\n<p><strong>A</strong>   the wealthy</p>\n<p><strong>B</strong>   travel books</p>\n<p><strong>C</strong>   delicious food</p>\n<p><strong>D</strong>   mass transport</p>\n<p><strong> </strong></p>"
             }
           ]
         }

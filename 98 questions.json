@@ -54,7 +54,7 @@
             },
             {
               "question_number": 20,
-              "question_content_html": "<p><strong>20</strong>   a description of the fatal effects of farming practice</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>How deserts are formed? </strong></p>"
+              "question_content_html": "<p><strong>20</strong>   a description of the fatal effects of farming practice</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -85,7 +85,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Technology studying the relationship of people, livestock and desertification has not</p>\n<p>yet been invented.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>How deserts are formed? </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Technology studying the relationship of people, livestock and desertification has not</p>\n<p>yet been invented.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -108,7 +108,7 @@
         },
         {
           "group_id": "Questions 30-35",
-          "group_instruction_html": "<p>Look at the following statements (Questions <strong>30-35</strong>) and the list of Olympic torches</p>\n<p>below.</p>\n<p>Match each statement with the correct Olympic torch, <strong>A-H</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>30-35</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Olympic Torches </strong></p>\n<p><strong>A</strong></p>\n<p>ancient Greek Olympic flames</p>\n<p><strong>B</strong></p>\n<p>Berlin Games torch (1936)</p>\n<p><strong>C</strong></p>\n<p>1952 Winter Games flame</p>\n<p><strong>D</strong></p>\n<p>1956 Games torch</p>\n<p><strong>E</strong></p>\n<p>Munich Games torch (1972)</p>\n<p><strong>F</strong></p>\n<p>1996 torch (Atlanta)</p>\n<p><strong>G</strong></p>\n<p>2000 torch (Sydney)</p>\n<p><strong>H</strong></p>\n<p>2002 torch (Salt Lake City)</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Olympic Torch </strong></p>",
+          "group_instruction_html": "<p>Look at the following statements (Questions <strong>30-35</strong>) and the list of Olympic torches</p>\n<p>below.</p>\n<p>Match each statement with the correct Olympic torch, <strong>A-H</strong>.</p>\n<p><em>Write the correct letter, </em><em><strong>A-H</strong></em><em>, in boxes </em><em><strong>30-35</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Olympic Torches </strong></p>\n<p><strong>A</strong></p>\n<p>ancient Greek Olympic flames</p>\n<p><strong>B</strong></p>\n<p>Berlin Games torch (1936)</p>\n<p><strong>C</strong></p>\n<p>1952 Winter Games flame</p>\n<p><strong>D</strong></p>\n<p>1956 Games torch</p>\n<p><strong>E</strong></p>\n<p>Munich Games torch (1972)</p>\n<p><strong>F</strong></p>\n<p>1996 torch (Atlanta)</p>\n<p><strong>G</strong></p>\n<p>2000 torch (Sydney)</p>\n<p><strong>H</strong></p>\n<p>2002 torch (Salt Lake City)</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {

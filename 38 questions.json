@@ -29,13 +29,13 @@
             },
             {
               "question_number": 5,
-              "question_content_html": "<p><strong>5</strong>   Communication between ants is not entirely teaching.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ants Could Teach Ants </strong></p>\n<p><strong>List of People </strong></p>\n<p><strong>A</strong></p>\n<p>Nigel Franks</p>\n<p><strong>B</strong></p>\n<p>Marc Hauser</p>\n<p><strong>C</strong></p>\n<p>Tim Caro</p>\n<p><strong>D</strong></p>\n<p>Bennett Galef Jr.</p>"
+              "question_content_html": "<p><strong>5</strong>   Communication between ants is not entirely teaching.</p>\n<p><strong> </strong></p>\n<p><strong>List of People </strong></p>\n<p><strong>A</strong></p>\n<p>Nigel Franks</p>\n<p><strong>B</strong></p>\n<p>Marc Hauser</p>\n<p><strong>C</strong></p>\n<p>Tim Caro</p>\n<p><strong>D</strong></p>\n<p>Bennett Galef Jr.</p>"
             }
           ]
         },
         {
           "group_id": "Questions 6-9",
-          "group_instruction_html": "<p>Choose <strong>FOUR</strong> letters, <strong>A-H</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>6-9</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>FOUR</strong> of the following behaviours of animals are mentioned in the passage?</p>\n<p><strong>A</strong>   touch each other with antenna</p>\n<p><strong>B</strong>   alert others when there is a danger</p>\n<p><strong>C</strong>   escape from predators</p>\n<p><strong>D</strong>   protect the young</p>\n<p><strong>E</strong>   hunt food for the young</p>\n<p><strong>F</strong>   fight with each other</p>\n<p><strong>G</strong>   use tools like twigs</p>\n<p><strong>H</strong>   feed on a variety of foods</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ants Could Teach Ants </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>FOUR</strong> letters, <strong>A-H</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>6-9</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>FOUR</strong> of the following behaviours of animals are mentioned in the passage?</p>\n<p><strong>A</strong>   touch each other with antenna</p>\n<p><strong>B</strong>   alert others when there is a danger</p>\n<p><strong>C</strong>   escape from predators</p>\n<p><strong>D</strong>   protect the young</p>\n<p><strong>E</strong>   hunt food for the young</p>\n<p><strong>F</strong>   fight with each other</p>\n<p><strong>G</strong>   use tools like twigs</p>\n<p><strong>H</strong>   feed on a variety of foods</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -58,7 +58,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   Cheetah share hunting gains to younger ones.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ants Could Teach Ants </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   Cheetah share hunting gains to younger ones.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -70,7 +70,7 @@
       "question_groups": [
         {
           "group_id": "Questions 14-19",
-          "group_instruction_html": "<p>Reading Passage 2 has six paragraphs, <strong>A-F</strong></p>\n<p>Choose the correct heading for each paragraph from the list below.</p>\n<p><em>Write the correct number, </em><em><strong>i-ix</strong></em><em>, in box </em><em><strong>14-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>The popularity and impact of Drucker’s work</p>\n<p><strong>ii</strong></p>\n<p>Finding fault with Drucker</p>\n<p><strong>iii</strong></p>\n<p>The impact of economic globalisation</p>\n<p><strong>iv</strong></p>\n<p>Government regulation of business</p>\n<p><strong>v</strong></p>\n<p>Early publications of Drucker’s</p>\n<p><strong>vi</strong></p>\n<p>Drucker’s view of balanced management</p>\n<p><strong>vii</strong></p>\n<p>Drucker’s rejection of big business</p>\n<p><strong>viii</strong></p>\n<p>An appreciations of the pros and cons of Drucker’s work</p>\n<p><strong>ix</strong></p>\n<p>The changing role of the employee</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Father of modern management 2 </strong></p>",
+          "group_instruction_html": "<p>Reading Passage 2 has six paragraphs, <strong>A-F</strong></p>\n<p>Choose the correct heading for each paragraph from the list below.</p>\n<p><em>Write the correct number, </em><em><strong>i-ix</strong></em><em>, in box </em><em><strong>14-19</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>The popularity and impact of Drucker’s work</p>\n<p><strong>ii</strong></p>\n<p>Finding fault with Drucker</p>\n<p><strong>iii</strong></p>\n<p>The impact of economic globalisation</p>\n<p><strong>iv</strong></p>\n<p>Government regulation of business</p>\n<p><strong>v</strong></p>\n<p>Early publications of Drucker’s</p>\n<p><strong>vi</strong></p>\n<p>Drucker’s view of balanced management</p>\n<p><strong>vii</strong></p>\n<p>Drucker’s rejection of big business</p>\n<p><strong>viii</strong></p>\n<p>An appreciations of the pros and cons of Drucker’s work</p>\n<p><strong>ix</strong></p>\n<p>The changing role of the employee</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -118,7 +118,7 @@
             },
             {
               "question_number": 23,
-              "question_content_html": "<p><strong>23</strong>   Drucker’s work on the management is out of date in moderns days</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Father of modern management 2 </strong></p>"
+              "question_content_html": "<p><strong>23</strong>   Drucker’s work on the management is out of date in moderns days</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -130,7 +130,7 @@
         },
         {
           "group_id": "Questions 26-27",
-          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters from <strong>A-E</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>26</strong></em><em> and </em><em><strong>27</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>TWO</strong> of the following are mentioned in the passage as criticisms to Drucker and</p>\n<p>his views?</p>\n<p><strong>A</strong>   His lectures focus too much on big organisations and ignore the small ones.</p>\n<p><strong>B</strong>   His lectures are too broad and lack of being precise and accurate about the</p>\n<p>facts.</p>\n<p><strong>C</strong>   He put a source of objectives more on corporate executives but not on</p>\n<p>average workers.</p>\n<p><strong>D</strong>   He acted much like a maverick and did not set up his own management</p>\n<p>groups</p>\n<p><strong>E</strong>   He was overstating the case for knowledge workers when warning business to</p>\n<p>get prepared.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Father of modern management 2 </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters from <strong>A-E</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>26</strong></em><em> and </em><em><strong>27</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>TWO</strong> of the following are mentioned in the passage as criticisms to Drucker and</p>\n<p>his views?</p>\n<p><strong>A</strong>   His lectures focus too much on big organisations and ignore the small ones.</p>\n<p><strong>B</strong>   His lectures are too broad and lack of being precise and accurate about the</p>\n<p>facts.</p>\n<p><strong>C</strong>   He put a source of objectives more on corporate executives but not on</p>\n<p>average workers.</p>\n<p><strong>D</strong>   He acted much like a maverick and did not set up his own management</p>\n<p>groups</p>\n<p><strong>E</strong>   He was overstating the case for knowledge workers when warning business to</p>\n<p>get prepared.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         }
@@ -174,7 +174,7 @@
             },
             {
               "question_number": 37,
-              "question_content_html": "<p><strong>37</strong>   Some superior areas in the brain may deal with the infectious feature of yawning.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The secret of the Yawn </strong></p>"
+              "question_content_html": "<p><strong>37</strong>   Some superior areas in the brain may deal with the infectious feature of yawning.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -193,7 +193,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Yawning can show an affirmative impact on the recovery from brain damage</p>\n<p>brought by s stroke.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The secret of the Yawn </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Yawning can show an affirmative impact on the recovery from brain damage</p>\n<p>brought by s stroke.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

@@ -24,7 +24,7 @@
           "questions": [
             {
               "question_number": 7,
-              "question_content_html": "<p><strong>7</strong>   What is expert’s attitude towards California’s performance after 2003 megafire?</p>\n<p><strong>A</strong>   They could have done better</p>\n<p><strong>B</strong>   Blamed them on casualties</p>\n<p><strong>C</strong>   Improvement made on preparation</p>\n<p><strong>D</strong>   Serious criticism</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>California’s age of Megafires </strong></p>"
+              "question_content_html": "<p><strong>7</strong>   What is expert’s attitude towards California’s performance after 2003 megafire?</p>\n<p><strong>A</strong>   They could have done better</p>\n<p><strong>B</strong>   Blamed them on casualties</p>\n<p><strong>C</strong>   Improvement made on preparation</p>\n<p><strong>D</strong>   Serious criticism</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 8,
@@ -55,7 +55,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   Before the year of 2004, well coordination and communication between California</p>\n<p>and other states already existed in fire siege.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>California’s age of Megafires </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   Before the year of 2004, well coordination and communication between California</p>\n<p>and other states already existed in fire siege.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -111,7 +111,7 @@
             },
             {
               "question_number": 22,
-              "question_content_html": "<p><strong>22</strong>   Greek</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient Storytelling </strong></p>"
+              "question_content_html": "<p><strong>22</strong>   Greek</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -134,7 +134,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Aristotle believed attractive heroes should have some</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient Storytelling </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Aristotle believed attractive heroes should have some</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -171,7 +171,7 @@
             },
             {
               "question_number": 32,
-              "question_content_html": "<p><strong>32</strong>   Paragraph <strong>F</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Paper of Computer? </strong></p>"
+              "question_content_html": "<p><strong>32</strong>   Paragraph <strong>F</strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -197,7 +197,7 @@
             },
             {
               "question_number": 38,
-              "question_content_html": "<p><strong>38</strong>   What is the implication of the <em><strong>“Piles” </strong></em>mentioned in the passage?</p>\n<p><strong>A</strong>   they have underlying orders</p>\n<p><strong>B</strong>   they are necessarily a mess</p>\n<p><strong>C</strong>   they are in time sequence order</p>\n<p><strong>D</strong>   they are in alphabetic order</p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Paper of Computer? </strong></p>"
+              "question_content_html": "<p><strong>38</strong>   What is the implication of the <em><strong>“Piles” </strong></em>mentioned in the passage?</p>\n<p><strong>A</strong>   they have underlying orders</p>\n<p><strong>B</strong>   they are necessarily a mess</p>\n<p><strong>C</strong>   they are in time sequence order</p>\n<p><strong>D</strong>   they are in alphabetic order</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 39,
@@ -205,7 +205,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   According to the end of this passage, what is the reason <em><strong>why paper is not replaced </strong></em></p>\n<p>by electronic vision?</p>\n<p><strong>A </strong>  paper is inexpensive to buy</p>\n<p><strong>B</strong>   it contributed to management theories in western countries</p>\n<p><strong>C</strong>   people need time for changing their old habit</p>\n<p><strong>D</strong>   it is collaborative and functional for tasks implement and management</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Paper of Computer? </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   According to the end of this passage, what is the reason <em><strong>why paper is not replaced </strong></em></p>\n<p>by electronic vision?</p>\n<p><strong>A </strong>  paper is inexpensive to buy</p>\n<p><strong>B</strong>   it contributed to management theories in western countries</p>\n<p><strong>C</strong>   people need time for changing their old habit</p>\n<p><strong>D</strong>   it is collaborative and functional for tasks implement and management</p>\n<p><strong> </strong></p>"
             }
           ]
         }

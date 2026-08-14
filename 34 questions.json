@@ -25,7 +25,7 @@
             },
             {
               "question_number": 4,
-              "question_content_html": "<p><strong>4</strong>   Substantial production loss would happen in case all farmers shifted from using</p>\n<p>synthetic fertiliser.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Organic farming and chemical fertilisers </strong></p>"
+              "question_content_html": "<p><strong>4</strong>   Substantial production loss would happen in case all farmers shifted from using</p>\n<p>synthetic fertiliser.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -63,7 +63,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>Several <strong>10</strong><input type=\"text\" />.. approaches need to be applied in order that global population</p>\n<p>wouldn’t go starved. A team called <strong>11</strong><input type=\"text\" /> repeated the viewpoint of a</p>\n<p>scholar by a survey in British farming. More and more European farmers believe in</p>\n<p><strong>12</strong><input type=\"text\" />.. farming these years. The argument of organic against</p>\n<p><strong>13</strong><input type=\"text\" />.. seems in an inaccurate direction.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Organic farming and chemical fertilisers </strong></p>"
+              "question_content_html": "<p>Several <strong>10</strong><input type=\"text\" />.. approaches need to be applied in order that global population</p>\n<p>wouldn’t go starved. A team called <strong>11</strong><input type=\"text\" /> repeated the viewpoint of a</p>\n<p>scholar by a survey in British farming. More and more European farmers believe in</p>\n<p><strong>12</strong><input type=\"text\" />.. farming these years. The argument of organic against</p>\n<p><strong>13</strong><input type=\"text\" />.. seems in an inaccurate direction.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -102,7 +102,7 @@
         },
         {
           "group_id": "Questions 19-23",
-          "group_instruction_html": "<p>Look at the following researchers and the list of findings below.</p>\n<p>Match each researcher with the correct finding.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>19-23</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List Of Researchers </strong></p>\n<p><strong>A</strong>     Robert Berkowitz</p>\n<p><strong>B</strong>     Rudolph Leibel</p>\n<p><strong>C</strong>     Nikhil Dhurandhar</p>\n<p><strong>D</strong>     Deirdre Barrett</p>\n<p><strong>E</strong>     Jeffery Friedman</p>\n<p><strong>F</strong>     Teresa Hillier</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Stealth Forces in Weight Loss </strong></p>",
+          "group_instruction_html": "<p>Look at the following researchers and the list of findings below.</p>\n<p>Match each researcher with the correct finding.</p>\n<p><em>Write the correct letter in boxes </em><em><strong>19-23</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List Of Researchers </strong></p>\n<p><strong>A</strong>     Robert Berkowitz</p>\n<p><strong>B</strong>     Rudolph Leibel</p>\n<p><strong>C</strong>     Nikhil Dhurandhar</p>\n<p><strong>D</strong>     Deirdre Barrett</p>\n<p><strong>E</strong>     Jeffery Friedman</p>\n<p><strong>F</strong>     Teresa Hillier</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -134,7 +134,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>conducted on <strong>24</strong><input type=\"text\" /></p>\n<p>Later he moved to America and tested on a new virus named <strong>25</strong><input type=\"text\" /> which</p>\n<p>proved to be a significant breakthrough. Although there seems no way to eliminate the</p>\n<p>virus, a kind of <strong>26</strong><input type=\"text\" />.. can be separated as to block the expressing power of</p>\n<p>the virus. The doctor future is aiming at developing a new <strong>27</strong><input type=\"text\" /> to</p>\n<p>effectively combating the virus.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Stealth Forces in Weight Loss </strong></p>"
+              "question_content_html": "<p>conducted on <strong>24</strong><input type=\"text\" /></p>\n<p>Later he moved to America and tested on a new virus named <strong>25</strong><input type=\"text\" /> which</p>\n<p>proved to be a significant breakthrough. Although there seems no way to eliminate the</p>\n<p>virus, a kind of <strong>26</strong><input type=\"text\" />.. can be separated as to block the expressing power of</p>\n<p>the virus. The doctor future is aiming at developing a new <strong>27</strong><input type=\"text\" /> to</p>\n<p>effectively combating the virus.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -162,7 +162,7 @@
           "questions": [
             {
               "question_number": 35,
-              "question_content_html": "<p><strong>35</strong>   The feature of medieval architecture was</p>\n<p><strong>A</strong>   immense</p>\n<p><strong>B</strong>   useful</p>\n<p><strong>C</strong>   decorative</p>\n<p><strong>D</strong>   bizarre</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>British Architecture 2 </strong></p>"
+              "question_content_html": "<p><strong>35</strong>   The feature of medieval architecture was</p>\n<p><strong>A</strong>   immense</p>\n<p><strong>B</strong>   useful</p>\n<p><strong>C</strong>   decorative</p>\n<p><strong>D</strong>   bizarre</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 36,
@@ -178,11 +178,11 @@
             },
             {
               "question_number": 39,
-              "question_content_html": "<p><strong>39</strong>   The individual craftsman was no more the key to creation for the appearance of</p>\n<p><strong>A</strong>   Crystal Palace</p>\n<p><strong>B</strong>   preindustrial manufacturing return</p>\n<p><strong>C</strong>   industrial process in scale</p>\n<p><strong>D</strong>   ornament</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>British Architecture 2 </strong></p>"
+              "question_content_html": "<p><strong>39</strong>   The individual craftsman was no more the key to creation for the appearance of</p>\n<p><strong>A</strong>   Crystal Palace</p>\n<p><strong>B</strong>   preindustrial manufacturing return</p>\n<p><strong>C</strong>   industrial process in scale</p>\n<p><strong>D</strong>   ornament</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   The building style changed after World War Two as a result of</p>\n<p><strong>A</strong>   abundant materials</p>\n<p><strong>B</strong>   local authority</p>\n<p><strong>C</strong>   shortage of cheap housing</p>\n<p><strong>D</strong>   conservative views</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>British Architecture 2 </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   The building style changed after World War Two as a result of</p>\n<p><strong>A</strong>   abundant materials</p>\n<p><strong>B</strong>   local authority</p>\n<p><strong>C</strong>   shortage of cheap housing</p>\n<p><strong>D</strong>   conservative views</p>\n<p><strong> </strong></p>"
             }
           ]
         }

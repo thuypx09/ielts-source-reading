@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-7",
-          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Choose the most suitable heading for paragraphs <strong>A-G</strong> from the list of headings below.</p>\n<p><em>Write the appropriate number, </em><em><strong>i-x</strong></em><em>, in boxes </em><em><strong>1-7</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>General points of agreements and disagreements of researchers</p>\n<p><strong>ii</strong></p>\n<p>How much children really know about food</p>\n<p><strong>iii</strong></p>\n<p>Need to take action</p>\n<p><strong>iv</strong></p>\n<p>Advertising effects of the “Big Four”</p>\n<p><strong>v</strong></p>\n<p>Connection of advertising and children’s weight problems</p>\n<p><strong>vi</strong></p>\n<p>Evidence that advertising affects what children buy to eat</p>\n<p><strong>vii</strong></p>\n<p>How parents influence children’s eating habits</p>\n<p><strong>viii</strong></p>\n<p>Advertising’s focus on unhealthy options</p>\n<p><strong>ix</strong></p>\n<p>Children often buy what they want</p>\n<p><strong>x</strong></p>\n<p>Underestimating the effects advertising has on children</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Food advertising on children </strong></p>",
+          "group_instruction_html": "<p>Reading Passage 1 has seven paragraphs, <strong>A-G</strong>.</p>\n<p>Choose the most suitable heading for paragraphs <strong>A-G</strong> from the list of headings below.</p>\n<p><em>Write the appropriate number, </em><em><strong>i-x</strong></em><em>, in boxes </em><em><strong>1-7</strong></em><em> on your answer sheet. </em></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>General points of agreements and disagreements of researchers</p>\n<p><strong>ii</strong></p>\n<p>How much children really know about food</p>\n<p><strong>iii</strong></p>\n<p>Need to take action</p>\n<p><strong>iv</strong></p>\n<p>Advertising effects of the “Big Four”</p>\n<p><strong>v</strong></p>\n<p>Connection of advertising and children’s weight problems</p>\n<p><strong>vi</strong></p>\n<p>Evidence that advertising affects what children buy to eat</p>\n<p><strong>vii</strong></p>\n<p>How parents influence children’s eating habits</p>\n<p><strong>viii</strong></p>\n<p>Advertising’s focus on unhealthy options</p>\n<p><strong>ix</strong></p>\n<p>Children often buy what they want</p>\n<p><strong>x</strong></p>\n<p>Underestimating the effects advertising has on children</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -68,7 +68,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   Wealthy parents tend to buy more “sensible food” for their children.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Food advertising on children </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   Wealthy parents tend to buy more “sensible food” for their children.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -112,7 +112,7 @@
           "questions": [
             {
               "question_number": 19,
-              "question_content_html": "<p><strong>19   </strong>What does the ant of <em><strong>Cataglyphis</strong></em> respond if it has been taken to another location</p>\n<p>according to the passage?</p>\n<p><strong>A   </strong>Changes the orientation sensors improvingly<strong> </strong></p>\n<p><strong>B   </strong>Releases biological scent for help from others<strong> </strong></p>\n<p><strong>C   </strong>Continues to move by the original orientation<strong> </strong></p>\n<p><strong>D</strong>   Totally gets lost once disturbed</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Finding Our Way </strong></p>"
+              "question_content_html": "<p><strong>19   </strong>What does the ant of <em><strong>Cataglyphis</strong></em> respond if it has been taken to another location</p>\n<p>according to the passage?</p>\n<p><strong>A   </strong>Changes the orientation sensors improvingly<strong> </strong></p>\n<p><strong>B   </strong>Releases biological scent for help from others<strong> </strong></p>\n<p><strong>C   </strong>Continues to move by the original orientation<strong> </strong></p>\n<p><strong>D</strong>   Totally gets lost once disturbed</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 20,
@@ -147,7 +147,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26 </strong>  In a familiar surrounding, an exact map of where you are will automatically emerge</p>\n<p>in your head.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Finding Our Way </strong></p>"
+              "question_content_html": "<p><strong>26 </strong>  In a familiar surrounding, an exact map of where you are will automatically emerge</p>\n<p>in your head.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -176,7 +176,7 @@
             },
             {
               "question_number": 30,
-              "question_content_html": "<p><strong>30</strong>   Dijksterhuis and his colleagues claim in their article that</p>\n<p><strong>A</strong>   our cognitive resources improve as tasks become more complex</p>\n<p><strong>B</strong>   conscious decision making is negative affected by task complexity</p>\n<p><strong>C</strong>   unconscious decision making is a popular approach</p>\n<p><strong>D</strong>   deliberation without attention defines the way we make decisions</p>\n<p>4</p>\n<p><strong>Passage  </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision, Decision! </strong></p>"
+              "question_content_html": "<p><strong>30</strong>   Dijksterhuis and his colleagues claim in their article that</p>\n<p><strong>A</strong>   our cognitive resources improve as tasks become more complex</p>\n<p><strong>B</strong>   conscious decision making is negative affected by task complexity</p>\n<p><strong>C</strong>   unconscious decision making is a popular approach</p>\n<p><strong>D</strong>   deliberation without attention defines the way we make decisions</p>\n<p><strong>Passage  </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 31,
@@ -191,7 +191,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>32</strong><input type=\"text\" />.. time buying simple clothing items were more satisfied than those</p>\n<p>who had not. However, when buying furniture, shoppers made <strong>33</strong><input type=\"text\" />..</p>\n<p>purchasing decisions if they didn’t think too hard. From this, the researchers concluded</p>\n<p>that in other choices, perhaps more important than shopping. <strong>34</strong><input type=\"text\" /></p>\n<p>decisions are best made by the unconscious. The writer comments that Dijksterhuis’s</p>\n<p>finding is apparently <strong>35</strong><input type=\"text\" /> but nonetheless true.</p>\n<p><strong>A</strong>   more</p>\n<p><strong>B</strong>   counterintuitive</p>\n<p><strong>C</strong>   simple</p>\n<p><strong>D</strong>   better</p>\n<p><strong>E</strong>   conscious</p>\n<p><strong>F</strong>   obvious</p>\n<p><strong>G</strong>   complex <strong>H</strong>   less</p>\n<p><strong>I</strong>   worse</p>\n<p>5</p>\n<p><strong>Passage  </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision, Decision! </strong></p>"
+              "question_content_html": "<p><strong>32</strong><input type=\"text\" />.. time buying simple clothing items were more satisfied than those</p>\n<p>who had not. However, when buying furniture, shoppers made <strong>33</strong><input type=\"text\" />..</p>\n<p>purchasing decisions if they didn’t think too hard. From this, the researchers concluded</p>\n<p>that in other choices, perhaps more important than shopping. <strong>34</strong><input type=\"text\" /></p>\n<p>decisions are best made by the unconscious. The writer comments that Dijksterhuis’s</p>\n<p>finding is apparently <strong>35</strong><input type=\"text\" /> but nonetheless true.</p>\n<p><strong>A</strong>   more</p>\n<p><strong>B</strong>   counterintuitive</p>\n<p><strong>C</strong>   simple</p>\n<p><strong>D</strong>   better</p>\n<p><strong>E</strong>   conscious</p>\n<p><strong>F</strong>   obvious</p>\n<p><strong>G</strong>   complex <strong>H</strong>   less</p>\n<p><strong>I</strong>   worse</p>\n<p><strong>Passage  </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -218,7 +218,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Social considerations must be taken into account for any examination of decision</p>\n<p>making to prove useful.</p>\n<p>6</p>\n<p><strong>Passage  </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision, Decision! </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Social considerations must be taken into account for any examination of decision</p>\n<p>making to prove useful.</p>\n<p><strong>Passage  </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         }

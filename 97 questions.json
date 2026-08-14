@@ -48,7 +48,7 @@
             },
             {
               "question_number": 8,
-              "question_content_html": "<p><strong>8</strong>   Greenwich Mean Time was set up by the English navigators.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Timekeeper: Invention of Marine Chronometer </strong></p>"
+              "question_content_html": "<p><strong>8</strong>   Greenwich Mean Time was set up by the English navigators.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -59,7 +59,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>9 </strong>  Sailors were able to use the position of the Sun to calculate <input type=\"text\" /></p>\n<p><strong>10</strong>   An invention that could win the competition would lose no more than</p>\n<p><input type=\"text\" />. every day.</p>\n<p><strong>11</strong>   John and James Harrison’s clock worked accurately without <input type=\"text\" />.</p>\n<p><strong>12</strong>   Harrison’s main competitor’s invention was known as <input type=\"text\" />.</p>\n<p><strong>13</strong>   Hadley’s instrument can use <input type=\"text\" />. to make a calculation of location of</p>\n<p>ships or planes.</p>\n<p><strong>14</strong>   The modem version of Harrison’s invention is called <input type=\"text\" /></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Timekeeper: Invention of Marine Chronometer </strong></p>"
+              "question_content_html": "<p><strong>9 </strong>  Sailors were able to use the position of the Sun to calculate <input type=\"text\" /></p>\n<p><strong>10</strong>   An invention that could win the competition would lose no more than</p>\n<p><input type=\"text\" />. every day.</p>\n<p><strong>11</strong>   John and James Harrison’s clock worked accurately without <input type=\"text\" />.</p>\n<p><strong>12</strong>   Harrison’s main competitor’s invention was known as <input type=\"text\" />.</p>\n<p><strong>13</strong>   Hadley’s instrument can use <input type=\"text\" />. to make a calculation of location of</p>\n<p>ships or planes.</p>\n<p><strong>14</strong>   The modem version of Harrison’s invention is called <input type=\"text\" /></p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -100,7 +100,7 @@
             },
             {
               "question_number": 21,
-              "question_content_html": "<p><strong>21</strong>   Paragraph <strong>G</strong></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Evolutionary Mystery: Crocodile Survives </strong></p>"
+              "question_content_html": "<p><strong>21</strong>   Paragraph <strong>G</strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -111,7 +111,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>successful scheme to survive in the drought brought by a <strong>22 </strong><input type=\"text\" />. According</p>\n<p>to Kennett and Christian’s six-year study of Australian freshwater crocodiles’ aestivation,</p>\n<p>they found estivating crocodiles spent around <strong>23</strong> <input type=\"text\" /> of the year and had</p>\n<p>no access to <strong>24</strong> <input type=\"text\" /> The amount of water in the body declined proportionately</p>\n<p>with <strong>25</strong><input type=\"text\" />; thus there is no sign of <strong>26</strong> <input type=\"text\" />... and other health-</p>\n<p>damaging impact on the crocodiles even after an aestivation period. This super capacity</p>\n<p>helps crocodiles endure the tough drought without slowing their speed of</p>\n<p><strong>27</strong><input type=\"text\" />.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Evolutionary Mystery: Crocodile Survives </strong></p>"
+              "question_content_html": "<p>successful scheme to survive in the drought brought by a <strong>22 </strong><input type=\"text\" />. According</p>\n<p>to Kennett and Christian’s six-year study of Australian freshwater crocodiles’ aestivation,</p>\n<p>they found estivating crocodiles spent around <strong>23</strong> <input type=\"text\" /> of the year and had</p>\n<p>no access to <strong>24</strong> <input type=\"text\" /> The amount of water in the body declined proportionately</p>\n<p>with <strong>25</strong><input type=\"text\" />; thus there is no sign of <strong>26</strong> <input type=\"text\" />... and other health-</p>\n<p>damaging impact on the crocodiles even after an aestivation period. This super capacity</p>\n<p>helps crocodiles endure the tough drought without slowing their speed of</p>\n<p><strong>27</strong><input type=\"text\" />.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -154,7 +154,7 @@
         },
         {
           "group_id": "Questions 34-37",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>34-37</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Company Innovation </strong></p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>34-37</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
           "group_type": "TFNG",
           "questions": [
             {
@@ -190,7 +190,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   What is the author’s opinion on innovation at the end of this passage?</p>\n<p><strong>A</strong>   Umagic success lies on the accidental ‘virtual expert’.</p>\n<p><strong>B</strong>   Innovation is easy and straightforward.</p>\n<p><strong>C  </strong> IBM sets a good example on innovation.</p>\n<p><strong>D</strong>   The author’s attitude is uncertain on innovation.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Company Innovation </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   What is the author’s opinion on innovation at the end of this passage?</p>\n<p><strong>A</strong>   Umagic success lies on the accidental ‘virtual expert’.</p>\n<p><strong>B</strong>   Innovation is easy and straightforward.</p>\n<p><strong>C  </strong> IBM sets a good example on innovation.</p>\n<p><strong>D</strong>   The author’s attitude is uncertain on innovation.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

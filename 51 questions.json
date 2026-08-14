@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-3",
-          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-H</strong>.</p>\n<p>Circle the correct letters, <strong>A-H</strong>, below</p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order.</em></p>\n<p>Which <strong>THREE</strong> of the following statements are true, according to the text?</p>\n<p><strong>A</strong>   Money can bring misery.</p>\n<p><strong>B</strong>   Wealthier nations place more emphasis on happiness than poorer ones.</p>\n<p><strong>C</strong>   Securing a place to live is a basic human need.</p>\n<p><strong>D</strong>   The desire for social status is a global phenomenon.</p>\n<p><strong>E</strong>   An unmarried couple living together are less likely to be happy than a married</p>\n<p>couple.</p>\n<p><strong>F</strong>   The less responsibility one has, the happier one is.</p>\n<p><strong>G</strong>   Involvement in policymaking can increase well-being.</p>\n<p><strong>H</strong>   Our prehistoric ancestors were happier than we are.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Hello Happiness! </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-H</strong>.</p>\n<p>Circle the correct letters, <strong>A-H</strong>, below</p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order.</em></p>\n<p>Which <strong>THREE</strong> of the following statements are true, according to the text?</p>\n<p><strong>A</strong>   Money can bring misery.</p>\n<p><strong>B</strong>   Wealthier nations place more emphasis on happiness than poorer ones.</p>\n<p><strong>C</strong>   Securing a place to live is a basic human need.</p>\n<p><strong>D</strong>   The desire for social status is a global phenomenon.</p>\n<p><strong>E</strong>   An unmarried couple living together are less likely to be happy than a married</p>\n<p>couple.</p>\n<p><strong>F</strong>   The less responsibility one has, the happier one is.</p>\n<p><strong>G</strong>   Involvement in policymaking can increase well-being.</p>\n<p><strong>H</strong>   Our prehistoric ancestors were happier than we are.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -50,7 +50,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   Family and friends rank equally as sources of happiness.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Hello Happiness! </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   Family and friends rank equally as sources of happiness.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -87,7 +87,7 @@
             },
             {
               "question_number": 19,
-              "question_content_html": "<p><strong>19</strong>   Paragraph <strong>G</strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>One Who Hopes </strong></p>\n<p><strong>Question 20-22 </strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answer in box </em><em><strong>20-22</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>"
+              "question_content_html": "<p><strong>19</strong>   Paragraph <strong>G</strong></p>\n<p><strong> </strong></p>\n<p><strong>Question 20-22 </strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p><em>Write your answer in box </em><em><strong>20-22</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 20,
@@ -99,7 +99,7 @@
             },
             {
               "question_number": 22,
-              "question_content_html": "<p><strong>22</strong>   How could Esperanto help on a global level?</p>\n<p><strong>A</strong>   It would eliminate the need for conferences.</p>\n<p><strong>B</strong>   More aid money would reach those who need it.</p>\n<p><strong>C</strong>   The world population would be speaking only one language.</p>\n<p><strong>D</strong>   More funds could be made available for learning foreign languages.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>One Who Hopes </strong></p>"
+              "question_content_html": "<p><strong>22</strong>   How could Esperanto help on a global level?</p>\n<p><strong>A</strong>   It would eliminate the need for conferences.</p>\n<p><strong>B</strong>   More aid money would reach those who need it.</p>\n<p><strong>C</strong>   The world population would be speaking only one language.</p>\n<p><strong>D</strong>   More funds could be made available for learning foreign languages.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -122,7 +122,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Esperanto can be used equally in formal and casual situations.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>One Who Hopes </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Esperanto can be used equally in formal and casual situations.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -168,7 +168,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>37</strong><input type=\"text\" />. Another consequence of global warming is <strong>38</strong><input type=\"text\" />..,</p>\n<p>which affects areas known as <strong>39</strong><input type=\"text\" />.. These areas are subject to irregular</p>\n<p>weather patterns but also suffer from human intervention or neglect, such as</p>\n<p>inadequate or inefficient <strong>40</strong><input type=\"text\" />.. systems.<strong> </strong></p>\n<p><strong>A</strong>   irrigation</p>\n<p><strong>B </strong>  cooling</p>\n<p><strong>C</strong>   drylands</p>\n<p><strong>D</strong>   cause</p>\n<p><strong>E</strong>    loss</p>\n<p><strong>F</strong>   abuse</p>\n<p><strong>G</strong>   desertification</p>\n<p><strong>H</strong>   deserts</p>\n<p><strong>I </strong>   emission</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>LONG-TERM FORECAST: HOT AND DRY </strong></p>"
+              "question_content_html": "<p><strong>37</strong><input type=\"text\" />. Another consequence of global warming is <strong>38</strong><input type=\"text\" />..,</p>\n<p>which affects areas known as <strong>39</strong><input type=\"text\" />.. These areas are subject to irregular</p>\n<p>weather patterns but also suffer from human intervention or neglect, such as</p>\n<p>inadequate or inefficient <strong>40</strong><input type=\"text\" />.. systems.<strong> </strong></p>\n<p><strong>A</strong>   irrigation</p>\n<p><strong>B </strong>  cooling</p>\n<p><strong>C</strong>   drylands</p>\n<p><strong>D</strong>   cause</p>\n<p><strong>E</strong>    loss</p>\n<p><strong>F</strong>   abuse</p>\n<p><strong>G</strong>   desertification</p>\n<p><strong>H</strong>   deserts</p>\n<p><strong>I </strong>   emission</p>\n<p><strong> </strong></p>"
             }
           ]
         }

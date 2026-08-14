@@ -60,7 +60,7 @@
             },
             {
               "question_number": 11,
-              "question_content_html": "<p><strong>11</strong>   Bamboo has loads of commercial potentials.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Bamboo, A Wonder Plant </strong></p>"
+              "question_content_html": "<p><strong>11</strong>   Bamboo has loads of commercial potentials.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -75,7 +75,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   Which bamboo product is experiencing market expansion?</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Bamboo, A Wonder Plant </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   Which bamboo product is experiencing market expansion?</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -104,7 +104,7 @@
             },
             {
               "question_number": 17,
-              "question_content_html": "<p><strong>17</strong>   Wrong approach for school activity</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Activities for Children </strong></p>"
+              "question_content_html": "<p><strong>17</strong>   Wrong approach for school activity</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -138,7 +138,7 @@
           "questions": [
             {
               "question_number": 22,
-              "question_content_html": "<p><strong>22</strong>   According to paragraph A, what does <strong>Professor Neil Armstrong </strong>concern about?</p>\n<p><strong>A</strong>   Spending more time on TV affect academic level</p>\n<p><strong>B</strong>   Parents have less time stay with their children</p>\n<p><strong>C</strong>   Future health of British children</p>\n<p><strong>D</strong>   Increasing speed of property’s development</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Activities for Children </strong></p>"
+              "question_content_html": "<p><strong>22</strong>   According to paragraph A, what does <strong>Professor Neil Armstrong </strong>concern about?</p>\n<p><strong>A</strong>   Spending more time on TV affect academic level</p>\n<p><strong>B</strong>   Parents have less time stay with their children</p>\n<p><strong>C</strong>   Future health of British children</p>\n<p><strong>D</strong>   Increasing speed of property’s development</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 23,
@@ -154,7 +154,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   What is main idea of this passage?</p>\n<p><strong>A</strong>   health of the children who are overweight is at risk in the future</p>\n<p><strong>B</strong>   Children in UK need proper exercises</p>\n<p><strong>C</strong>   Government mistaken approach for children</p>\n<p><strong>D</strong>   Parents play the most important role in children’s activity</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Activities for Children </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   What is main idea of this passage?</p>\n<p><strong>A</strong>   health of the children who are overweight is at risk in the future</p>\n<p><strong>B</strong>   Children in UK need proper exercises</p>\n<p><strong>C</strong>   Government mistaken approach for children</p>\n<p><strong>D</strong>   Parents play the most important role in children’s activity</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -166,7 +166,7 @@
       "question_groups": [
         {
           "group_id": "Questions 27-33",
-          "group_instruction_html": "<p>The reading passage has eight paragraphs, <strong>A-H</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-H</strong> from the list below.</p>\n<p>Write the correct number, <strong>i-xi</strong>, in boxes <strong>27-33</strong> on your answer sheet.</p>\n<p><strong>List of headings </strong></p>\n<p><strong>i </strong></p>\n<p>data consistency needed for language</p>\n<p><strong>ii</strong></p>\n<p>consensus on an initiative recommendation for saving dying out languages</p>\n<p><strong>iii</strong></p>\n<p>positive gains for protection</p>\n<p><strong>iv</strong></p>\n<p>minimum requirement for saving a language</p>\n<p><strong>v</strong></p>\n<p>Potential threat to minority language</p>\n<p><strong>vi</strong></p>\n<p>a period when there was absent of real effort made.</p>\n<p><strong>vii </strong></p>\n<p>native language programs launched</p>\n<p><strong>viii</strong></p>\n<p>Lack in confidence in young speakers as a negative factor</p>\n<p><strong>ix</strong></p>\n<p>Practise in several developing countries</p>\n<p><strong>x</strong></p>\n<p>Value of minority language to linguists.</p>\n<p><strong>xi</strong></p>\n<p>government participation in language field</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Save Endangered Language </strong></p>",
+          "group_instruction_html": "<p>The reading passage has eight paragraphs, <strong>A-H</strong></p>\n<p>Choose the correct heading for paragraphs <strong>A-H</strong> from the list below.</p>\n<p>Write the correct number, <strong>i-xi</strong>, in boxes <strong>27-33</strong> on your answer sheet.</p>\n<p><strong>List of headings </strong></p>\n<p><strong>i </strong></p>\n<p>data consistency needed for language</p>\n<p><strong>ii</strong></p>\n<p>consensus on an initiative recommendation for saving dying out languages</p>\n<p><strong>iii</strong></p>\n<p>positive gains for protection</p>\n<p><strong>iv</strong></p>\n<p>minimum requirement for saving a language</p>\n<p><strong>v</strong></p>\n<p>Potential threat to minority language</p>\n<p><strong>vi</strong></p>\n<p>a period when there was absent of real effort made.</p>\n<p><strong>vii </strong></p>\n<p>native language programs launched</p>\n<p><strong>viii</strong></p>\n<p>Lack in confidence in young speakers as a negative factor</p>\n<p><strong>ix</strong></p>\n<p>Practise in several developing countries</p>\n<p><strong>x</strong></p>\n<p>Value of minority language to linguists.</p>\n<p><strong>xi</strong></p>\n<p>government participation in language field</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -222,7 +222,7 @@
             },
             {
               "question_number": 38,
-              "question_content_html": "<p><strong>38</strong>   Not enough effort on saving until recent work</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Save Endangered Language </strong></p>"
+              "question_content_html": "<p><strong>38</strong>   Not enough effort on saving until recent work</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -237,7 +237,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   What should majority language speakers do according to the <strong>last paragraph</strong>?</p>\n<p><strong>A</strong>   They should teach their children endangered language in free lessons</p>\n<p><strong>B</strong>   They should learn at least four languages</p>\n<p><strong>C</strong>   They should now their loyalty to a dying language</p>\n<p><strong>D</strong>   They should be more tolerant to minority language speaker</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Save Endangered Language </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   What should majority language speakers do according to the <strong>last paragraph</strong>?</p>\n<p><strong>A</strong>   They should teach their children endangered language in free lessons</p>\n<p><strong>B</strong>   They should learn at least four languages</p>\n<p><strong>C</strong>   They should now their loyalty to a dying language</p>\n<p><strong>D</strong>   They should be more tolerant to minority language speaker</p>\n<p><strong> </strong></p>"
             }
           ]
         }

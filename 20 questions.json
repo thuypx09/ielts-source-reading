@@ -48,7 +48,7 @@
             },
             {
               "question_number": 8,
-              "question_content_html": "<p><strong>8</strong>   Sound transmission under water is similar to that of light in any condition.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SOSUS: Listening to the Ocean </strong></p>"
+              "question_content_html": "<p><strong>8</strong>   Sound transmission under water is similar to that of light in any condition.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -67,7 +67,7 @@
             },
             {
               "question_number": 11,
-              "question_content_html": "<p><strong>11</strong>   According to Fox and colleagues, in what pattern does the change of <em><strong>finback whale </strong></em></p>\n<p>calls happen</p>\n<p><strong>A</strong>   Change in various seasons</p>\n<p><strong>B</strong>   Change in various days</p>\n<p><strong>C</strong>   Change in different months</p>\n<p><strong>D</strong>   Change in different years</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SOSUS: Listening to the Ocean </strong></p>"
+              "question_content_html": "<p><strong>11</strong>   According to Fox and colleagues, in what pattern does the change of <em><strong>finback whale </strong></em></p>\n<p>calls happen</p>\n<p><strong>A</strong>   Change in various seasons</p>\n<p><strong>B</strong>   Change in various days</p>\n<p><strong>C</strong>   Change in different months</p>\n<p><strong>D</strong>   Change in different years</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 12,
@@ -75,7 +75,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   What could scientists inspect via monitoring along a repeated route?</p>\n<p><strong>A</strong>   Temperature of the surface passed</p>\n<p><strong>B</strong>   Temperature of the deepest ocean floor</p>\n<p><strong>C</strong>   Variation of temperature</p>\n<p><strong>D</strong>   Fixed data of temperature</p>\n<p>7</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SOSUS: Listening to the Ocean </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   What could scientists inspect via monitoring along a repeated route?</p>\n<p><strong>A</strong>   Temperature of the surface passed</p>\n<p><strong>B</strong>   Temperature of the deepest ocean floor</p>\n<p><strong>C</strong>   Variation of temperature</p>\n<p><strong>D</strong>   Fixed data of temperature</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -127,7 +127,7 @@
             },
             {
               "question_number": 21,
-              "question_content_html": "<p><strong>21</strong>   Language process is generally undergoing in the left-hemisphere of the brain.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Left-handed or Right-handed </strong></p>"
+              "question_content_html": "<p><strong>21</strong>   Language process is generally undergoing in the left-hemisphere of the brain.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 22,
@@ -154,7 +154,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26 </strong>  Juhn Wada based his findings on his research of people with language problems.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Left-handed or Right-handed </strong></p>"
+              "question_content_html": "<p><strong>26 </strong>  Juhn Wada based his findings on his research of people with language problems.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -191,7 +191,7 @@
             },
             {
               "question_number": 32,
-              "question_content_html": "<p><strong>32</strong>   Conventional medical doctors (who is aware of placebo)</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Power of Nothing </strong></p>"
+              "question_content_html": "<p><strong>32</strong>   Conventional medical doctors (who is aware of placebo)</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -210,7 +210,7 @@
             },
             {
               "question_number": 35,
-              "question_content_html": "<p><strong>35</strong>   <em>Fabrizio Benedetti</em>’s research on endorphins indicates that</p>\n<p><strong>A</strong>   They are widely used to regulate pain.</p>\n<p><strong>B</strong>   They can be produced by willful thoughts</p>\n<p><strong>C</strong>   They can be neutralized by introducing naloxone.</p>\n<p><strong>D</strong>   Their pain-relieving effects do not last long enough.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Power of Nothing </strong></p>"
+              "question_content_html": "<p><strong>35</strong>   <em>Fabrizio Benedetti</em>’s research on endorphins indicates that</p>\n<p><strong>A</strong>   They are widely used to regulate pain.</p>\n<p><strong>B</strong>   They can be produced by willful thoughts</p>\n<p><strong>C</strong>   They can be neutralized by introducing naloxone.</p>\n<p><strong>D</strong>   Their pain-relieving effects do not last long enough.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -237,7 +237,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Alternative practitioners are seldom known for applying placebo effect.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Power of Nothing </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Alternative practitioners are seldom known for applying placebo effect.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

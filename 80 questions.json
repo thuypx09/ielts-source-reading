@@ -37,7 +37,7 @@
             },
             {
               "question_number": 7,
-              "question_content_html": "<p><strong>7</strong>   Paragraph <strong>G</strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+              "question_content_html": "<p><strong>7</strong>   Paragraph <strong>G</strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "question_number": 12,
-              "question_content_html": "<p><strong>12</strong>   According to Claudia Gray, things like increased standardised testing and homework</p>\n<p>levels are a threat to what?</p>\n<p><strong>Question 13 </strong></p>\n<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p>Which is the best title for Reading Passage 1?</p>\n<p><strong>A</strong>   A history of YA dystopian literature</p>\n<p><strong>B</strong>   The wane of the dystopian phenomenon</p>\n<p><strong>C</strong>   How dystopian fiction has shaped the world</p>\n<p><strong>D</strong>   The draw of YA dystopian fiction</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
+              "question_content_html": "<p><strong>12</strong>   According to Claudia Gray, things like increased standardised testing and homework</p>\n<p>levels are a threat to what?</p>\n<p><strong>Question 13 </strong></p>\n<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p>Which is the best title for Reading Passage 1?</p>\n<p><strong>A</strong>   A history of YA dystopian literature</p>\n<p><strong>B</strong>   The wane of the dystopian phenomenon</p>\n<p><strong>C</strong>   How dystopian fiction has shaped the world</p>\n<p><strong>D</strong>   The draw of YA dystopian fiction</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -87,7 +87,7 @@
         },
         {
           "group_id": "Questions 21-25",
-          "group_instruction_html": "<p>Complete the diagram below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from Reading Passage 2 for each answer.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Plant Wars </strong></p>",
+          "group_instruction_html": "<p>Complete the diagram below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from Reading Passage 2 for each answer.</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -102,7 +102,7 @@
             },
             {
               "question_number": 27,
-              "question_content_html": "<p><strong>27</strong>   Plant biologists and medical researchers are currently cooperating to assess the</p>\n<p>efficacy of plant toxins in preventing the growth of cancer cells.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Plant Wars </strong></p>"
+              "question_content_html": "<p><strong>27</strong>   Plant biologists and medical researchers are currently cooperating to assess the</p>\n<p>efficacy of plant toxins in preventing the growth of cancer cells.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -143,7 +143,7 @@
             },
             {
               "question_number": 34,
-              "question_content_html": "<p><strong>34</strong>   Why deafhood is currently imperilled</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Deafhood </strong></p>"
+              "question_content_html": "<p><strong>34</strong>   Why deafhood is currently imperilled</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -173,7 +173,7 @@
           "questions": [
             {
               "question_number": 38,
-              "question_content_html": "<p><strong>38</strong>   What should deaf people use to communicate with each other, according to</p>\n<p>deafhood?</p>"
+              "question_content_html": "<p><strong>38</strong>   What should deaf people use to communicate with each other, according to</p>"
             },
             {
               "question_number": 39,
@@ -181,7 +181,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   What does the deaf community strive to achieve for sign language worldwide?</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Deafhood </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   What does the deaf community strive to achieve for sign language worldwide?</p>\n<p><strong> </strong></p>"
             }
           ]
         }

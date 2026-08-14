@@ -33,7 +33,7 @@
             },
             {
               "question_number": 6,
-              "question_content_html": "<p><strong>6</strong>   Paragraph <strong>F</strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> Magnetic Therapy </strong></p>"
+              "question_content_html": "<p><strong>6</strong>   Paragraph <strong>F</strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -45,7 +45,7 @@
         },
         {
           "group_id": "Questions 9-10",
-          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p><em>Write the correct letters in boxes </em><em><strong>9-10</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>TWO</strong> weakness of the Baylor research does the writer present?</p>\n<p><strong>A</strong>   The number of subjects involved was not enough.</p>\n<p><strong>B</strong>   There was so further evidence to support.</p>\n<p><strong>C</strong>   The patients were at the same age.</p>\n<p><strong>D</strong>   The device used in the experiment did not work properly.</p>\n<p><strong>E</strong>   The gender ratio was not in proportion</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> Magnetic Therapy </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p><em>Write the correct letters in boxes </em><em><strong>9-10</strong></em><em> on your answer sheet. </em></p>\n<p>Which <strong>TWO</strong> weakness of the Baylor research does the writer present?</p>\n<p><strong>A</strong>   The number of subjects involved was not enough.</p>\n<p><strong>B</strong>   There was so further evidence to support.</p>\n<p><strong>C</strong>   The patients were at the same age.</p>\n<p><strong>D</strong>   The device used in the experiment did not work properly.</p>\n<p><strong>E</strong>   The gender ratio was not in proportion</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -64,7 +64,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   The author holds that in order to fully understand the magnetic effects, we</p>\n<p><strong>A</strong></p>\n<p>has no negative side effect.</p>\n<p><strong>B</strong></p>\n<p>resulted from physical ailment.</p>\n<p><strong>C</strong></p>\n<p>should have more sophisticated studies</p>\n<p><strong>D</strong></p>\n<p>is exposed to the placebo device.</p>\n<p><strong>E</strong></p>\n<p>must select the subjects randomly.</p>\n<p><strong>F</strong></p>\n<p>came from the absence of a magnetic field.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong> Magnetic Therapy </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   The author holds that in order to fully understand the magnetic effects, we</p>\n<p><strong>A</strong></p>\n<p>has no negative side effect.</p>\n<p><strong>B</strong></p>\n<p>resulted from physical ailment.</p>\n<p><strong>C</strong></p>\n<p>should have more sophisticated studies</p>\n<p><strong>D</strong></p>\n<p>is exposed to the placebo device.</p>\n<p><strong>E</strong></p>\n<p>must select the subjects randomly.</p>\n<p><strong>F</strong></p>\n<p>came from the absence of a magnetic field.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -124,7 +124,7 @@
             },
             {
               "question_number": 23,
-              "question_content_html": "<p><strong>23</strong>   From 1630, Amsterdam Stock Exchange started to regulate Tulips exchange market.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>When the Tulip Bubble Burst </strong></p>"
+              "question_content_html": "<p><strong>23</strong>   From 1630, Amsterdam Stock Exchange started to regulate Tulips exchange market.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -135,7 +135,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>Dutch concentrated on gaining independence by <strong>24</strong><input type=\"text\" />. against Spain in</p>\n<p>the early 17th century; consequently, spare resources entered the area of</p>\n<p><strong>25</strong><input type=\"text\" /></p>\n<p>Prosperous traders demonstrated their status by building great <strong>26</strong><input type=\"text\" />. and</p>\n<p>with gardens in surroundings. Attracted by the success of profit on tulip, traders kept</p>\n<p>looking for <strong>27</strong><input type=\"text\" />.. and speculator for sale.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>When the Tulip Bubble Burst </strong></p>"
+              "question_content_html": "<p>Dutch concentrated on gaining independence by <strong>24</strong><input type=\"text\" />. against Spain in</p>\n<p>the early 17th century; consequently, spare resources entered the area of</p>\n<p><strong>25</strong><input type=\"text\" /></p>\n<p>Prosperous traders demonstrated their status by building great <strong>26</strong><input type=\"text\" />. and</p>\n<p>with gardens in surroundings. Attracted by the success of profit on tulip, traders kept</p>\n<p>looking for <strong>27</strong><input type=\"text\" />.. and speculator for sale.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -179,7 +179,7 @@
             },
             {
               "question_number": 33,
-              "question_content_html": "<p><strong>33</strong>   Where the more positive moods individuals achieve, there is higher creativity in</p>\n<p>organizations.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Does An IQ Test Prove Creativity? </strong></p>"
+              "question_content_html": "<p><strong>33</strong>   Where the more positive moods individuals achieve, there is higher creativity in</p>\n<p>organizations.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 34,
@@ -202,7 +202,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>many <strong>37</strong><input type=\"text\" />.. Two phrases of mind-state such as <strong>38</strong><input type=\"text\" />. are found.</p>\n<p>While people were still planning their stories, their brains show little active sign and the</p>\n<p>mental activity was showing a very relaxed state as the same sort of brain activity as in</p>\n<p>sleep, dreaming or relaxing. However, the experiment proved the signal of</p>\n<p><strong>39</strong><input type=\"text\" />.. went down and the brain became busier revealing increased cortical</p>\n<p>arousal when these people who are in a laidback state were required to produce their</p>\n<p>stories. Strikingly, it was found the people who were perceived to have the greatest</p>\n<p><strong>40</strong><input type=\"text\" />. in brain activity between two stages, produced storylines with the</p>\n<p>highest level of creativity.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Does An IQ Test Prove Creativity? </strong></p>"
+              "question_content_html": "<p>many <strong>37</strong><input type=\"text\" />.. Two phrases of mind-state such as <strong>38</strong><input type=\"text\" />. are found.</p>\n<p>While people were still planning their stories, their brains show little active sign and the</p>\n<p>mental activity was showing a very relaxed state as the same sort of brain activity as in</p>\n<p>sleep, dreaming or relaxing. However, the experiment proved the signal of</p>\n<p><strong>39</strong><input type=\"text\" />.. went down and the brain became busier revealing increased cortical</p>\n<p>arousal when these people who are in a laidback state were required to produce their</p>\n<p>stories. Strikingly, it was found the people who were perceived to have the greatest</p>\n<p><strong>40</strong><input type=\"text\" />. in brain activity between two stages, produced storylines with the</p>\n<p>highest level of creativity.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

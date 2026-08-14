@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-6",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-6</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Dinosaurs Footprints and Extinction </strong></p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-6</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>YES</strong></p>\n<p>if the statement is true</p>\n<p><strong>NO</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>\n<p><strong> </strong></p>",
           "group_type": "YNNG",
           "questions": [
             {
@@ -44,7 +44,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>Dr Olsen and his colleagues applied a phenomenon named <strong>7</strong><input type=\"text\" />. to explain</p>\n<p>the large size of the Eubrontes, which is a similar case to that nowadays reptiles invade</p>\n<p>a place where there are no <strong>8</strong><input type=\"text\" />..; for example, on an island called</p>\n<p>Komodo, indigenous huge lizards grow so big that people even regarding them as</p>\n<p><strong>9</strong><input type=\"text\" /></p>\n<p>However, there were no old impact trace being found? The answer may be that we have</p>\n<p><strong>10</strong><input type=\"text\" />.. the evidence. Old craters are difficult to spot or it probably</p>\n<p><strong>11</strong><input type=\"text\" />. Due to the effect of the earth moving. Even a crater formed in Ocean</p>\n<p>had been <strong>12</strong><input type=\"text\" /> under the impact of crust movement. Beside, the third</p>\n<p>hypothesis is that the potential evidences – some craters may be <strong>13</strong><input type=\"text\" />..</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Dinosaurs Footprints and Extinction </strong></p>"
+              "question_content_html": "<p>Dr Olsen and his colleagues applied a phenomenon named <strong>7</strong><input type=\"text\" />. to explain</p>\n<p>the large size of the Eubrontes, which is a similar case to that nowadays reptiles invade</p>\n<p>a place where there are no <strong>8</strong><input type=\"text\" />..; for example, on an island called</p>\n<p>Komodo, indigenous huge lizards grow so big that people even regarding them as</p>\n<p><strong>9</strong><input type=\"text\" /></p>\n<p>However, there were no old impact trace being found? The answer may be that we have</p>\n<p><strong>10</strong><input type=\"text\" />.. the evidence. Old craters are difficult to spot or it probably</p>\n<p><strong>11</strong><input type=\"text\" />. Due to the effect of the earth moving. Even a crater formed in Ocean</p>\n<p>had been <strong>12</strong><input type=\"text\" /> under the impact of crust movement. Beside, the third</p>\n<p>hypothesis is that the potential evidences – some craters may be <strong>13</strong><input type=\"text\" />..</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -56,7 +56,7 @@
       "question_groups": [
         {
           "group_id": "Questions 14-18",
-          "group_instruction_html": "<p>Use the information in the passage to match the people (listed A-D) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the correct letter </em><em><strong>A-D</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>\n<p><strong>A</strong></p>\n<p>Jan Elsnera</p>\n<p><strong>B</strong></p>\n<p>Vanessa Stoykov</p>\n<p><strong>C</strong></p>\n<p>Gal Zauberman</p>\n<p><strong>D</strong></p>\n<p>Neil Plumridge</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Stress of Workplace </strong></p>",
+          "group_instruction_html": "<p>Use the information in the passage to match the people (listed A-D) with opinions or</p>\n<p>deeds below.</p>\n<p><em>Write the correct letter </em><em><strong>A-D</strong></em><em>, in boxes </em><em><strong>14-18</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>\n<p><strong>A</strong></p>\n<p>Jan Elsnera</p>\n<p><strong>B</strong></p>\n<p>Vanessa Stoykov</p>\n<p><strong>C</strong></p>\n<p>Gal Zauberman</p>\n<p><strong>D</strong></p>\n<p>Neil Plumridge</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -92,7 +92,7 @@
             },
             {
               "question_number": 20,
-              "question_content_html": "<p><strong>20</strong>   Which of the following solution is <strong>NOT </strong>mentioned in helping reduce the work</p>\n<p>pressure according to <em><strong>Plumridge</strong></em>?</p>\n<p><strong>A </strong>  Allocate more personnel</p>\n<p><strong>B</strong>   Increase more time</p>\n<p><strong>C</strong>   Lower expectation</p>\n<p><strong>D</strong>   Do sports and massage</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Stress of Workplace </strong></p>"
+              "question_content_html": "<p><strong>20</strong>   Which of the following solution is <strong>NOT </strong>mentioned in helping reduce the work</p>\n<p>pressure according to <em><strong>Plumridge</strong></em>?</p>\n<p><strong>A </strong>  Allocate more personnel</p>\n<p><strong>B</strong>   Increase more time</p>\n<p><strong>C</strong>   Lower expectation</p>\n<p><strong>D</strong>   Do sports and massage</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 21,
@@ -107,7 +107,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>role in <strong>22</strong><input type=\"text\" /> which cause the time losses. Staffs take about</p>\n<p><strong>23</strong><input type=\"text\" /> for absence from work caused by stress. Not just time is our</p>\n<p>main concern but great expenses generated consequently. An official insurer wrote</p>\n<p>sometime that about <strong>24</strong><input type=\"text\" /> of all claims were mental issues whereas</p>\n<p>nearly 27% costs in all claims. Sports such as <strong>25</strong><input type=\"text\" />., as well as</p>\n<p><strong>26</strong><input type=\"text\" />.. could be a treatment to release stress; However, specialists</p>\n<p>recommended another practical way out, analyse <strong>27</strong><input type=\"text\" /> once again.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Stress of Workplace </strong></p>"
+              "question_content_html": "<p>role in <strong>22</strong><input type=\"text\" /> which cause the time losses. Staffs take about</p>\n<p><strong>23</strong><input type=\"text\" /> for absence from work caused by stress. Not just time is our</p>\n<p>main concern but great expenses generated consequently. An official insurer wrote</p>\n<p>sometime that about <strong>24</strong><input type=\"text\" /> of all claims were mental issues whereas</p>\n<p>nearly 27% costs in all claims. Sports such as <strong>25</strong><input type=\"text\" />., as well as</p>\n<p><strong>26</strong><input type=\"text\" />.. could be a treatment to release stress; However, specialists</p>\n<p>recommended another practical way out, analyse <strong>27</strong><input type=\"text\" /> once again.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -155,7 +155,7 @@
             },
             {
               "question_number": 34,
-              "question_content_html": "<p><strong>34</strong>   Which statement is correct about the <strong>first limitation</strong> of Marois’s experiment?</p>\n<p><strong>A</strong>   “attentional blink” takes about ten seconds</p>\n<p><strong>B</strong>   lag occurs if we concentrate on one object while second one appears</p>\n<p><strong>C</strong>   we always have trouble in reacting the second one</p>\n<p><strong>D</strong>   first limitation can be avoid by certain measures</p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Multitasking Debate </strong></p>"
+              "question_content_html": "<p><strong>34</strong>   Which statement is correct about the <strong>first limitation</strong> of Marois’s experiment?</p>\n<p><strong>A</strong>   “attentional blink” takes about ten seconds</p>\n<p><strong>B</strong>   lag occurs if we concentrate on one object while second one appears</p>\n<p><strong>C</strong>   we always have trouble in reacting the second one</p>\n<p><strong>D</strong>   first limitation can be avoid by certain measures</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 35,
@@ -186,7 +186,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   The author doesn’t believe that effect of practice could bring any variation.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Multitasking Debate </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   The author doesn’t believe that effect of practice could bring any variation.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

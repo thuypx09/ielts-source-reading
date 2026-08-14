@@ -21,7 +21,7 @@
             },
             {
               "question_number": 3,
-              "question_content_html": "<p><strong>3</strong>   Stainless steel has been used in some famous buildings for its</p>\n<p><strong>A</strong>   durability.</p>\n<p><strong>B</strong>   beauty.</p>\n<p><strong>C</strong>   modernity.</p>\n<p><strong>D</strong>   reflective quality.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>STAINLESS STEEL </strong></p>"
+              "question_content_html": "<p><strong>3</strong>   Stainless steel has been used in some famous buildings for its</p>\n<p><strong>A</strong>   durability.</p>\n<p><strong>B</strong>   beauty.</p>\n<p><strong>C</strong>   modernity.</p>\n<p><strong>D</strong>   reflective quality.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 4,
@@ -60,7 +60,7 @@
             },
             {
               "question_number": 11,
-              "question_content_html": "<p><strong>11</strong>   Close to two-thirds of a stainless steel object is made up of recycled metal.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>STAINLESS STEEL </strong></p>"
+              "question_content_html": "<p><strong>11</strong>   Close to two-thirds of a stainless steel object is made up of recycled metal.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -107,7 +107,7 @@
             },
             {
               "question_number": 31,
-              "question_content_html": "<p><strong>31</strong>   There was international support for a project here prior to the convention.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>WORLD HERITAGE DESIGNATION </strong></p>\n<p><strong>List of countries </strong></p>\n<p><strong>A</strong>     Pakistan</p>\n<p><strong>B</strong>     the US</p>\n<p><strong>C</strong>     Italy</p>\n<p><strong>D</strong>     China</p>\n<p><strong>E</strong>     Peru</p>\n<p><strong>F</strong>     France</p>\n<p><strong> </strong></p>"
+              "question_content_html": "<p><strong>31</strong>   There was international support for a project here prior to the convention.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong>List of countries </strong></p>\n<p><strong>A</strong>     Pakistan</p>\n<p><strong>B</strong>     the US</p>\n<p><strong>C</strong>     Italy</p>\n<p><strong>D</strong>     China</p>\n<p><strong>E</strong>     Peru</p>\n<p><strong>F</strong>     France</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -118,7 +118,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>32</strong><input type=\"text\" />List.</p>\n<p><strong>↓ </strong></p>\n<p><strong>Nomination File</strong> - Sites from the list above are included in a Nomination File, which is</p>\n<p>assessed by two independent international <strong>33</strong><input type=\"text\" /></p>\n<p><strong>↓ </strong></p>\n<p><strong>External File Evaluation</strong> - To be listed as a WHS, a site must meet at least</p>\n<p><strong>34</strong><input type=\"text\" />out of ten criteria. Most of these are <strong>35</strong><input type=\"text\" />, but there are</p>\n<p>&#x27;some natural and mixed ones too.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>WORLD HERITAGE DESIGNATION </strong></p>"
+              "question_content_html": "<p><strong>32</strong><input type=\"text\" />List.</p>\n<p><strong>↓ </strong></p>\n<p><strong>Nomination File</strong> - Sites from the list above are included in a Nomination File, which is</p>\n<p>assessed by two independent international <strong>33</strong><input type=\"text\" /></p>\n<p><strong>↓ </strong></p>\n<p><strong>External File Evaluation</strong> - To be listed as a WHS, a site must meet at least</p>\n<p><strong>34</strong><input type=\"text\" />out of ten criteria. Most of these are <strong>35</strong><input type=\"text\" />, but there are</p>\n<p>&#x27;some natural and mixed ones too.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -145,7 +145,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Critics of the 2003 convention are not disturbed by</p>\n<p><strong>A</strong>     changes to or disappearance of traditions.</p>\n<p><strong>B</strong>     price rises due to world-heritage listing.</p>\n<p><strong>C</strong>     over-regulation connected to the world-heritage listing.</p>\n<p><strong>D</strong>     protect traditions.</p>\n<p><strong>E</strong>     protect built environments.</p>\n<p><strong>F</strong>     intellectual property rights.</p>\n<p><strong>G</strong>     the commercial exploitation of listed traditions.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>WORLD HERITAGE DESIGNATION </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Critics of the 2003 convention are not disturbed by</p>\n<p><strong>A</strong>     changes to or disappearance of traditions.</p>\n<p><strong>B</strong>     price rises due to world-heritage listing.</p>\n<p><strong>C</strong>     over-regulation connected to the world-heritage listing.</p>\n<p><strong>D</strong>     protect traditions.</p>\n<p><strong>E</strong>     protect built environments.</p>\n<p><strong>F</strong>     intellectual property rights.</p>\n<p><strong>G</strong>     the commercial exploitation of listed traditions.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

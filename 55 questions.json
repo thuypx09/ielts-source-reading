@@ -32,7 +32,7 @@
             },
             {
               "question_number": 7,
-              "question_content_html": "<p><strong>7</strong>   Paste insecticides are less effective than any other kind.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>CONTROLLING DEATHWATCH BEETLES </strong></p>"
+              "question_content_html": "<p><strong>7</strong>   Paste insecticides are less effective than any other kind.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 8,
@@ -63,7 +63,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13 </strong>  Damage by the House Longhorn Beetle is sometimes found further afield than</p>\n<p>London because</p>\n<p><strong>A</strong>   temperatures have increased.</p>\n<p><strong>B</strong>   the timber was not local timber.</p>\n<p><strong>C</strong>   there was no effective treatment previously.</p>\n<p><strong>D</strong>   the type of timber has changed.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>CONTROLLING DEATHWATCH BEETLES </strong></p>"
+              "question_content_html": "<p><strong>13 </strong>  Damage by the House Longhorn Beetle is sometimes found further afield than</p>\n<p>London because</p>\n<p><strong>A</strong>   temperatures have increased.</p>\n<p><strong>B</strong>   the timber was not local timber.</p>\n<p><strong>C</strong>   there was no effective treatment previously.</p>\n<p><strong>D</strong>   the type of timber has changed.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -75,12 +75,12 @@
       "question_groups": [
         {
           "group_id": "Questions 14-20",
-          "group_instruction_html": "<p>Complete the notes below.</p>\n<p>Choose <strong>NO MORE THAN ONE WORD</strong> from the passage for each answer.</p>\n<p><strong>NOTES: Therapeutic Jurisprudence </strong></p>\n<p><strong>Therapeutic Jurisprudence: </strong></p>",
+          "group_instruction_html": "<p>Complete the notes below.</p>\n<p>Choose <strong>NO MORE THAN ONE WORD</strong> from the passage for each answer.</p>\n<p><strong>NOTES: Therapeutic Jurisprudence </strong></p>",
           "group_type": "fill_in_blank",
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>study of the law as a therapeutic <strong>14</strong><input type=\"text\" />.. and the therapeutic and</p>\n<p><strong>15</strong><input type=\"text\" /> consequences of the law.</p>\n<p><strong> </strong></p>\n<p><strong>Goal: </strong></p>\n<p>the <strong>16</strong> <input type=\"text\" />. of the law, but NOT at the expense of <strong>17</strong><input type=\"text\" /></p>\n<p>and due process.</p>\n<p><strong> </strong></p>\n<p><strong>Applicable to: </strong></p>\n<p>especially applicable to the role of legal <strong>18</strong> <input type=\"text\" /> such as judges and</p>\n<p>lawyers</p>\n<p><strong> </strong></p>\n<p><strong>Therapeutic jurisprudence = new attitude </strong></p>\n<p>1.   It asks people to seek out <strong>19</strong><input type=\"text\" />. developments, not problems.</p>\n<p>2.   It urges people to think <strong>20</strong> <input type=\"text\" /> and borrow from other fields.</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Therapeutic Jurisprudence </strong></p>"
+              "question_content_html": "<p>study of the law as a therapeutic <strong>14</strong><input type=\"text\" />.. and the therapeutic and</p>\n<p><strong>15</strong><input type=\"text\" /> consequences of the law.</p>\n<p><strong> </strong></p>\n<p><strong>Goal: </strong></p>\n<p>the <strong>16</strong> <input type=\"text\" />. of the law, but NOT at the expense of <strong>17</strong><input type=\"text\" /></p>\n<p>and due process.</p>\n<p><strong> </strong></p>\n<p><strong>Applicable to: </strong></p>\n<p>especially applicable to the role of legal <strong>18</strong> <input type=\"text\" /> such as judges and</p>\n<p>lawyers</p>\n<p><strong> </strong></p>\n<p><strong>Therapeutic jurisprudence = new attitude </strong></p>\n<p>1.   It asks people to seek out <strong>19</strong><input type=\"text\" />. developments, not problems.</p>\n<p>2.   It urges people to think <strong>20</strong> <input type=\"text\" /> and borrow from other fields.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -110,7 +110,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Offenders might be encouraged by judges to take part in deciding what their</p>\n<p>punishment should be.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Therapeutic Jurisprudence </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Offenders might be encouraged by judges to take part in deciding what their</p>\n<p>punishment should be.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -135,7 +135,7 @@
             },
             {
               "question_number": 29,
-              "question_content_html": "<p><strong>29</strong>   Unlike small mammals, humans</p>\n<p><strong>A</strong>   don’t sleep to conserve energy.</p>\n<p><strong>B</strong>   don’t sleep properly.</p>\n<p><strong>C</strong>   save only a small amount of energy by sleeping.</p>\n<p><strong>D</strong>   show no decrease in their metabolic rate when they sleep.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SLEEP - WHY WE SLEEP </strong></p>"
+              "question_content_html": "<p><strong>29</strong>   Unlike small mammals, humans</p>\n<p><strong>A</strong>   don’t sleep to conserve energy.</p>\n<p><strong>B</strong>   don’t sleep properly.</p>\n<p><strong>C</strong>   save only a small amount of energy by sleeping.</p>\n<p><strong>D</strong>   show no decrease in their metabolic rate when they sleep.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 30,
@@ -150,7 +150,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>only in a <strong>31</strong><input type=\"text\" />. Eye movement is slow and there is reduced muscle activity.</p>\n<p><strong>↓ </strong></p>\n<p>The speed of <strong>32</strong><input type=\"text\" />. activity slows and all movement of the eyes tends to</p>\n<p>stop.</p>\n<p><strong>↓ </strong></p>\n<p>Brain activity is dominated by delta waves, with a scattering of <strong>33</strong><input type=\"text\" />.. also</p>\n<p>in evidence.</p>\n<p><strong>↓ </strong></p>\n<p>In a state of <strong>34</strong> <input type=\"text\" />., the brain emits delta waves almost exclusively. It is</p>\n<p>hard to wake the individual.</p>\n<p><strong>↓ </strong></p>\n<p>A period of rapid eye movement follows, during which <strong>35</strong><input type=\"text\" /> patterns are</p>\n<p>not consistent and limb muscles enter a temporary state of paralysis.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SLEEP - WHY WE SLEEP </strong></p>"
+              "question_content_html": "<p>only in a <strong>31</strong><input type=\"text\" />. Eye movement is slow and there is reduced muscle activity.</p>\n<p><strong>↓ </strong></p>\n<p>The speed of <strong>32</strong><input type=\"text\" />. activity slows and all movement of the eyes tends to</p>\n<p>stop.</p>\n<p><strong>↓ </strong></p>\n<p>Brain activity is dominated by delta waves, with a scattering of <strong>33</strong><input type=\"text\" />.. also</p>\n<p>in evidence.</p>\n<p><strong>↓ </strong></p>\n<p>In a state of <strong>34</strong> <input type=\"text\" />., the brain emits delta waves almost exclusively. It is</p>\n<p>hard to wake the individual.</p>\n<p><strong>↓ </strong></p>\n<p>A period of rapid eye movement follows, during which <strong>35</strong><input type=\"text\" /> patterns are</p>\n<p>not consistent and limb muscles enter a temporary state of paralysis.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -161,7 +161,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>work on neuronal connections which could otherwise <strong>36</strong><input type=\"text\" />.. in a state of</p>\n<p>inactivity. Sleep also gives the brain the opportunity to organise data, especially newly-</p>\n<p>learned information.</p>\n<p>During this rest period, the <strong>37</strong><input type=\"text\" />. Drops and energy consumption goes</p>\n<p>down. At the same time, the cardiovascular system has a much-needed rest. While they</p>\n<p>go into a deep sleep, humans don’t fall into <strong>38</strong><input type=\"text\" />., unlike some small</p>\n<p>animals such as rodents. A <strong>39</strong><input type=\"text\" />. of 24 hours is described as a person’s</p>\n<p><strong>40</strong><input type=\"text\" />., and this greatly influences a person’s amount of sleep, and the</p>\n<p>type of sleep he gets.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>SLEEP - WHY WE SLEEP </strong></p>"
+              "question_content_html": "<p>work on neuronal connections which could otherwise <strong>36</strong><input type=\"text\" />.. in a state of</p>\n<p>inactivity. Sleep also gives the brain the opportunity to organise data, especially newly-</p>\n<p>learned information.</p>\n<p>During this rest period, the <strong>37</strong><input type=\"text\" />. Drops and energy consumption goes</p>\n<p>down. At the same time, the cardiovascular system has a much-needed rest. While they</p>\n<p>go into a deep sleep, humans don’t fall into <strong>38</strong><input type=\"text\" />., unlike some small</p>\n<p>animals such as rodents. A <strong>39</strong><input type=\"text\" />. of 24 hours is described as a person’s</p>\n<p><strong>40</strong><input type=\"text\" />., and this greatly influences a person’s amount of sleep, and the</p>\n<p>type of sleep he gets.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

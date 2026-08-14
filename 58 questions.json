@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-5",
-          "group_instruction_html": "<p>Reading Passage 1 has 5 paragraphs, <strong>A-E</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-E</strong></em><em> in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p>2</p>\n<p>Passage 1</p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>",
+          "group_instruction_html": "<p>Reading Passage 1 has 5 paragraphs, <strong>A-E</strong>.</p>\n<p>Which paragraph contains the following information?</p>\n<p><em>Write the correct letter </em><em><strong>A-E</strong></em><em> in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong>NB</strong>  <em>You may use any letter more than once.</em></p>",
           "group_type": "default",
           "questions": [
             {
@@ -52,7 +52,7 @@
             },
             {
               "question_number": 9,
-              "question_content_html": "<p><strong>9</strong>   Dr Ray Ellis</p>\n<p><strong>A</strong>     We have the ability to change the situation.</p>\n<p><strong>B</strong>     Climate change is inevitable.</p>\n<p><strong>C</strong>     Humans have made the situation much worse.</p>\n<p><strong>D</strong>     Climate change might not be all bad.</p>\n<p><strong>E </strong>    Human activity and natural weather phenomena have combined with equal</p>\n<p>influence to shape climate change.</p>\n<p><strong>F</strong>     While we may not be too late to save our planet, there are bound to be some</p>\n<p>extreme side-effects of past human activity, one way or the other.</p>\n<p>3</p>\n<p>Passage 1</p>"
+              "question_content_html": "<p><strong>9</strong>   Dr Ray Ellis</p>\n<p><strong>A</strong>     We have the ability to change the situation.</p>\n<p><strong>B</strong>     Climate change is inevitable.</p>\n<p><strong>C</strong>     Humans have made the situation much worse.</p>\n<p><strong>D</strong>     Climate change might not be all bad.</p>\n<p><strong>E </strong>    Human activity and natural weather phenomena have combined with equal</p>\n<p>influence to shape climate change.</p>\n<p><strong>F</strong>     While we may not be too late to save our planet, there are bound to be some</p>\n<p>extreme side-effects of past human activity, one way or the other.</p>"
             }
           ]
         },
@@ -75,7 +75,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   Most people aren’t willing to start using renewable energy.</p>\n<p>4</p>\n<p>Passage 1</p>"
+              "question_content_html": "<p><strong>13</strong>   Most people aren’t willing to start using renewable energy.</p>"
             }
           ]
         }
@@ -92,7 +92,7 @@
           "questions": [
             {
               "question_number": 14,
-              "question_content_html": "<p><strong>14</strong>   The English educational system differs from other ones because</p>\n<p><strong>A</strong>   it tries to make state and private education equal.</p>\n<p><strong>B</strong>   more students are educated at private schools than state schools.</p>\n<p><strong>C</strong>   it contributes to creating a class system within society.</p>\n<p><strong>D</strong>   it is more expensive to run.</p>\n<p>2</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>PRIVATE SCHOOLS </strong></p>"
+              "question_content_html": "<p><strong>14</strong>   The English educational system differs from other ones because</p>\n<p><strong>A</strong>   it tries to make state and private education equal.</p>\n<p><strong>B</strong>   more students are educated at private schools than state schools.</p>\n<p><strong>C</strong>   it contributes to creating a class system within society.</p>\n<p><strong>D</strong>   it is more expensive to run.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 15,
@@ -112,7 +112,7 @@
             },
             {
               "question_number": 19,
-              "question_content_html": "<p><strong>19</strong>   The writer thinks that private-school buildings</p>\n<p><strong>A</strong>   are very attractive and luxurious.</p>\n<p><strong>B</strong>   generally do not look very nice.</p>\n<p><strong>C</strong>   are too big for the amount of students who attend the school.</p>\n<p><strong>D</strong>   are not built to suit student’s needs.</p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>PRIVATE SCHOOLS </strong></p>"
+              "question_content_html": "<p><strong>19</strong>   The writer thinks that private-school buildings</p>\n<p><strong>A</strong>   are very attractive and luxurious.</p>\n<p><strong>B</strong>   generally do not look very nice.</p>\n<p><strong>C</strong>   are too big for the amount of students who attend the school.</p>\n<p><strong>D</strong>   are not built to suit student’s needs.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 20,
@@ -127,7 +127,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>countries, makes the English educational system <strong>21</strong><input type=\"text\" />..</p>\n<p>Most students in these schools are from <strong>22</strong><input type=\"text\" /> families. These students</p>\n<p>seem to do better at exams although statistics can be <strong>23</strong><input type=\"text\" /></p>\n<p>One of the advantages of private schools is that they seem to provide students with a</p>\n<p>better, more positive environment that encourages them to <strong>24</strong><input type=\"text\" />..</p>\n<p>themselves to their school work with more enthusiasm.</p>\n<p>A lot of not very well-off parents make huge sacrifices for their children’s</p>\n<p><strong>25</strong><input type=\"text\" />. to help them go to respectable universities. Unfortunately, many state</p>\n<p>school buildings some times have the appearance of an industrial <strong>26</strong><input type=\"text\" />..</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>PRIVATE SCHOOLS </strong></p>"
+              "question_content_html": "<p>countries, makes the English educational system <strong>21</strong><input type=\"text\" />..</p>\n<p>Most students in these schools are from <strong>22</strong><input type=\"text\" /> families. These students</p>\n<p>seem to do better at exams although statistics can be <strong>23</strong><input type=\"text\" /></p>\n<p>One of the advantages of private schools is that they seem to provide students with a</p>\n<p>better, more positive environment that encourages them to <strong>24</strong><input type=\"text\" />..</p>\n<p>themselves to their school work with more enthusiasm.</p>\n<p>A lot of not very well-off parents make huge sacrifices for their children’s</p>\n<p><strong>25</strong><input type=\"text\" />. to help them go to respectable universities. Unfortunately, many state</p>\n<p>school buildings some times have the appearance of an industrial <strong>26</strong><input type=\"text\" />..</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -156,7 +156,7 @@
             },
             {
               "question_number": 30,
-              "question_content_html": "<p><strong>30</strong>   What did Martin Luther King fight for in 1965?</p>\n<p><strong>A</strong>   the right of black people to vote</p>\n<p><strong>B</strong>   the actions of the US Congress</p>\n<p><strong>C</strong>   the right to win the Nobel Peace Prize</p>\n<p><strong>D</strong>   the right of black people to travel abroad</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Martin Luther King </strong></p>"
+              "question_content_html": "<p><strong>30</strong>   What did Martin Luther King fight for in 1965?</p>\n<p><strong>A</strong>   the right of black people to vote</p>\n<p><strong>B</strong>   the actions of the US Congress</p>\n<p><strong>C</strong>   the right to win the Nobel Peace Prize</p>\n<p><strong>D</strong>   the right of black people to travel abroad</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 31,
@@ -210,7 +210,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Paragraphs <strong>F </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Martin Luther King </strong></p>\n<p><strong>i </strong></p>\n<p>The memorable speech</p>\n<p><strong>ii</strong></p>\n<p>Unhappy about violence</p>\n<p><strong>iii</strong></p>\n<p>A tragic incident</p>\n<p><strong>iv</strong></p>\n<p>Protests and action</p>\n<p><strong>v</strong></p>\n<p>The background of an iconic man</p>\n<p><strong>vi</strong></p>\n<p>Making his mark internationally</p>\n<p><strong>vii</strong></p>\n<p>Difficult childhood</p>\n<p><strong>viii</strong></p>\n<p>Black street repairmen</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Martin Luther King </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Paragraphs <strong>F </strong></p>\n<p><strong> </strong></p>\n<p><strong>i </strong></p>\n<p>The memorable speech</p>\n<p><strong>ii</strong></p>\n<p>Unhappy about violence</p>\n<p><strong>iii</strong></p>\n<p>A tragic incident</p>\n<p><strong>iv</strong></p>\n<p>Protests and action</p>\n<p><strong>v</strong></p>\n<p>The background of an iconic man</p>\n<p><strong>vi</strong></p>\n<p>Making his mark internationally</p>\n<p><strong>vii</strong></p>\n<p>Difficult childhood</p>\n<p><strong>viii</strong></p>\n<p>Black street repairmen</p>\n<p><strong> </strong></p>"
             }
           ]
         }

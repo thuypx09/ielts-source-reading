@@ -37,7 +37,7 @@
             },
             {
               "question_number": 7,
-              "question_content_html": "<p><strong>7</strong>   The exhibition includes paintings of people by famous artists</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 1</strong></p>\n<p><strong> </strong></p>\n<p><strong>Andrea Palladio. Italian architect</strong></p>"
+              "question_content_html": "<p><strong>7</strong>   The exhibition includes paintings of people by famous artists</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   In the writer’s opinion, what feeling will visitors to the exhibition experience?</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 1</strong></p>\n<p><strong> </strong></p>\n<p><strong>Andrea Palladio. Italian architect</strong></p>"
+              "question_content_html": "<p><strong>13</strong>   In the writer’s opinion, what feeling will visitors to the exhibition experience?</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -111,12 +111,12 @@
         },
         {
           "group_id": "Questions 20-25",
-          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>20-25</strong></em><em> on your answer sheet. </em></p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future never dies? </strong></p>\n<p>The Earth could become uninhabitable, like other planets, through a major change in</p>",
+          "group_instruction_html": "<p>Complete the summary below.</p>\n<p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>\n<p><em>Write your answers in boxes </em><em><strong>20-25</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>\n<p>The Earth could become uninhabitable, like other planets, through a major change in</p>",
           "group_type": "fill_in_blank",
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>the <strong>20</strong> <input type=\"text\" />.. Volcanic eruptions of <strong>21</strong> <input type=\"text\" />. can lead to shortages of <strong>22</strong></p>\n<p><input type=\"text\" />.. in a wide area.</p>\n<p>An asteroid hitting the Earth could create a <strong>23</strong> <input type=\"text\" />.. that would result in a</p>\n<p>new <strong>24</strong> <input type=\"text\" />. Plans are being made to use <strong>25</strong> <input type=\"text\" />.. to deflect</p>\n<p>asteroids heading for the Earth.</p>\n<p>Question <strong>26</strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p>Write your answer in box 26 on your answer sheet.</p>\n<p>What is the writer’s purpose in Reading Passage 2?</p>\n<p><strong>A </strong>  to propose a new theory about the causes of natural disasters</p>\n<p><strong>B</strong>   to prove that generally held beliefs about the future are all mistaken</p>\n<p><strong>C</strong>   to present a range of opinions currently held by scientists</p>\n<p><strong>D</strong>   to argue the need for a general change in behavior</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The future never dies? </strong></p>"
+              "question_content_html": "<p>the <strong>20</strong> <input type=\"text\" />.. Volcanic eruptions of <strong>21</strong> <input type=\"text\" />. can lead to shortages of <strong>22</strong></p>\n<p><input type=\"text\" />.. in a wide area.</p>\n<p>An asteroid hitting the Earth could create a <strong>23</strong> <input type=\"text\" />.. that would result in a</p>\n<p>new <strong>24</strong> <input type=\"text\" />. Plans are being made to use <strong>25</strong> <input type=\"text\" />.. to deflect</p>\n<p>asteroids heading for the Earth.</p>\n<p>Question <strong>26</strong></p>\n<p>Choose the correct letter <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>\n<p>Write your answer in box 26 on your answer sheet.</p>\n<p>What is the writer’s purpose in Reading Passage 2?</p>\n<p><strong>A </strong>  to propose a new theory about the causes of natural disasters</p>\n<p><strong>B</strong>   to prove that generally held beliefs about the future are all mistaken</p>\n<p><strong>C</strong>   to present a range of opinions currently held by scientists</p>\n<p><strong>D</strong>   to argue the need for a general change in behavior</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -133,7 +133,7 @@
           "questions": [
             {
               "question_number": 27,
-              "question_content_html": "<p><strong>27</strong>   What does the writer say about of pottery excavated at Akrotiri?</p>\n<p><strong>A</strong>  There was very little duplication.</p>\n<p><strong>B</strong>  They would have met a big variety of needs.</p>\n<p><strong>C</strong>  Most of them had been imported from other places.</p>\n<p><strong>D</strong>  The intended purpose of each piece was unclear.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Pottery production in ancient Akrotiri </strong></p>"
+              "question_content_html": "<p><strong>27</strong>   What does the writer say about of pottery excavated at Akrotiri?</p>\n<p><strong>A</strong>  There was very little duplication.</p>\n<p><strong>B</strong>  They would have met a big variety of needs.</p>\n<p><strong>C</strong>  Most of them had been imported from other places.</p>\n<p><strong>D</strong>  The intended purpose of each piece was unclear.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 28,
@@ -166,7 +166,7 @@
         },
         {
           "group_id": "Questions 33-38",
-          "group_instruction_html": "<p>Do the following statements agree with the views of the writer in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>33-38</strong></em><em> on your answer sheet, write</em><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Pottery production in ancient Akrotiri </strong></p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the claims of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the claims of the writer</p>\n<p><strong>NOT GIVEN</strong>  if it is impossible to say what the writer thinks about this</p>",
+          "group_instruction_html": "<p>Do the following statements agree with the views of the writer in Reading Passage 3?</p>\n<p><em>In boxes </em><em><strong>33-38</strong></em><em> on your answer sheet, write</em><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong>YES</strong></p>\n<p>if the statement agrees with the claims of the writer</p>\n<p><strong>NO</strong></p>\n<p>if the statement contradicts the claims of the writer</p>\n<p><strong>NOT GIVEN</strong>  if it is impossible to say what the writer thinks about this</p>",
           "group_type": "YNNG",
           "questions": [
             {
@@ -206,7 +206,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   What is probably the main purpose of Reading Passage 3?</p>\n<p><strong>A</strong>   To evaluate the quality of pottery containers found in prehistoric Akrotiri.</p>\n<p><strong>B</strong>   To suggest how features of pottery production at Akrotiri reflected other</p>\n<p>developments in the region.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Pottery production in ancient Akrotiri </strong></p>\n<p><strong>C</strong>   To outline the development of pottery-making skills in ancient Greece.</p>\n<p><strong>D</strong>   To describe methods for storing and transporting household goods in</p>\n<p>prehistoric societies.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Pottery production in ancient Akrotiri </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   What is probably the main purpose of Reading Passage 3?</p>\n<p><strong>A</strong>   To evaluate the quality of pottery containers found in prehistoric Akrotiri.</p>\n<p><strong>B</strong>   To suggest how features of pottery production at Akrotiri reflected other</p>\n<p>developments in the region.</p>\n<p><strong> </strong></p>\n<p><strong>C</strong>   To outline the development of pottery-making skills in ancient Greece.</p>\n<p><strong>D</strong>   To describe methods for storing and transporting household goods in</p>\n<p>prehistoric societies.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

@@ -31,7 +31,7 @@
         },
         {
           "group_id": "Questions 5-6",
-          "group_instruction_html": "<p>Choose the correct letter, <strong>A,</strong> <strong>B</strong>, <strong>C</strong>, <strong>D</strong>, <strong>E</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>5-6</strong></em><em> on your answer sheet. </em></p>\n<p>According to the passage there are several advantages to hire elder people, please</p>\n<p>choose <strong>TWO</strong> from below:</p>\n<p><strong>A</strong>   their productivity are more superior than the young.</p>\n<p><strong>B</strong>   paid less compared with younger ones.</p>\n<p><strong>C</strong>   run fast when there is a meeting</p>\n<p><strong>D </strong> have better inter-person relationship</p>\n<p><strong>E</strong>   identify problems in an advanced time</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Grey Workers </strong></p>",
+          "group_instruction_html": "<p>Choose the correct letter, <strong>A,</strong> <strong>B</strong>, <strong>C</strong>, <strong>D</strong>, <strong>E</strong>.</p>\n<p><em>Write your answers in boxes </em><em><strong>5-6</strong></em><em> on your answer sheet. </em></p>\n<p>According to the passage there are several advantages to hire elder people, please</p>\n<p>choose <strong>TWO</strong> from below:</p>\n<p><strong>A</strong>   their productivity are more superior than the young.</p>\n<p><strong>B</strong>   paid less compared with younger ones.</p>\n<p><strong>C</strong>   run fast when there is a meeting</p>\n<p><strong>D </strong> have better inter-person relationship</p>\n<p><strong>E</strong>   identify problems in an advanced time</p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -48,7 +48,7 @@
           "questions": [
             {
               "question_number": 9,
-              "question_content_html": "<p><strong>9</strong>   According to <em><strong>paragraph F</strong></em>, the firms and workers still hold the opinion that:</p>\n<p><strong>A</strong>   Older workers are more likely to attract other staff</p>\n<p><strong>B</strong>   people are not happy if pay gets lower in retiring age.</p>\n<p><strong>C</strong>   Older people have more retaining motivation than young people</p>\n<p><strong>D</strong>   young people often earn less for their piece-rates salary.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Grey Workers </strong></p>"
+              "question_content_html": "<p><strong>9</strong>   According to <em><strong>paragraph F</strong></em>, the firms and workers still hold the opinion that:</p>\n<p><strong>A</strong>   Older workers are more likely to attract other staff</p>\n<p><strong>B</strong>   people are not happy if pay gets lower in retiring age.</p>\n<p><strong>C</strong>   Older people have more retaining motivation than young people</p>\n<p><strong>D</strong>   young people often earn less for their piece-rates salary.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 10,
@@ -64,7 +64,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   What is the main purpose of the author in writing this passage?</p>\n<p><strong>A</strong>   there must be a successful retiring program for the old</p>\n<p><strong>B</strong>   order people should be correctly valued in employment</p>\n<p><strong>C</strong>   old people should offer more helping young employees grow.</p>\n<p><strong>D</strong>   There are more jobs in the world that only employ older people</p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Grey Workers </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   What is the main purpose of the author in writing this passage?</p>\n<p><strong>A</strong>   there must be a successful retiring program for the old</p>\n<p><strong>B</strong>   order people should be correctly valued in employment</p>\n<p><strong>C</strong>   old people should offer more helping young employees grow.</p>\n<p><strong>D</strong>   There are more jobs in the world that only employ older people</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -108,7 +108,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>An ancient huge sunk <strong>19</strong><input type=\"text\" />.. was found accidentally by sponges searcher.</p>\n<p>The ship loaded with <strong>20</strong><input type=\"text\" />.. such as bronze and sculptures. However, an</p>\n<p>archaeologist found a junk similar to a <strong>21</strong><input type=\"text\" />.. which has Greek script on it.</p>\n<p>This inspiring and elaborated device was found to be the first <strong>22</strong><input type=\"text\" /> in the</p>\n<p>world</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> Computer Provides More Questions Than Answers </strong></p>"
+              "question_content_html": "<p>An ancient huge sunk <strong>19</strong><input type=\"text\" />.. was found accidentally by sponges searcher.</p>\n<p>The ship loaded with <strong>20</strong><input type=\"text\" />.. such as bronze and sculptures. However, an</p>\n<p>archaeologist found a junk similar to a <strong>21</strong><input type=\"text\" />.. which has Greek script on it.</p>\n<p>This inspiring and elaborated device was found to be the first <strong>22</strong><input type=\"text\" /> in the</p>\n<p>world</p>"
             }
           ]
         },
@@ -131,7 +131,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Mechanism assisted ancient people to calculate movement of stars.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> Computer Provides More Questions Than Answers </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Mechanism assisted ancient people to calculate movement of stars.</p>"
             }
           ]
         }
@@ -160,7 +160,7 @@
             },
             {
               "question_number": 30,
-              "question_content_html": "<p><strong>30</strong>   Paragraph <strong>G</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mystery in Easter Island! </strong></p>"
+              "question_content_html": "<p><strong>30</strong>   Paragraph <strong>G</strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -202,7 +202,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>contact. Some say the resources are depleted by a <strong>37</strong><input type=\"text\" />..; The erroneous</p>\n<p>theories began with a root of the <strong>38</strong><input type=\"text\" />.. advanced by some scholars. Early</p>\n<p>writers did not have adequate <strong>39</strong><input type=\"text\" /> understandings to comprehend the</p>\n<p>true nature of events on the island. The social devastation was in fact a direct result of</p>\n<p><strong>40</strong> <input type=\"text\" /> of the first European settlers.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mystery in Easter Island! </strong></p>"
+              "question_content_html": "<p>contact. Some say the resources are depleted by a <strong>37</strong><input type=\"text\" />..; The erroneous</p>\n<p>theories began with a root of the <strong>38</strong><input type=\"text\" />.. advanced by some scholars. Early</p>\n<p>writers did not have adequate <strong>39</strong><input type=\"text\" /> understandings to comprehend the</p>\n<p>true nature of events on the island. The social devastation was in fact a direct result of</p>\n<p><strong>40</strong> <input type=\"text\" /> of the first European settlers.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

@@ -52,7 +52,7 @@
             },
             {
               "question_number": 22,
-              "question_content_html": "<p><strong>22</strong>   The solar-powered house on Rokko Island is uninhabited.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Photovoltaics on the rooftop </strong></p>"
+              "question_content_html": "<p><strong>22</strong>   The solar-powered house on Rokko Island is uninhabited.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 23,
@@ -68,7 +68,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Energy-saving measures must now be included in the design of all new homes and</p>\n<p>improvements to buildings.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Photovoltaics on the rooftop </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Energy-saving measures must now be included in the design of all new homes and</p>\n<p>improvements to buildings.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -101,7 +101,7 @@
             },
             {
               "question_number": 31,
-              "question_content_html": "<p><strong>31</strong>   questioning concern raised about the usefulness of investigation on dreams</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Are Dreams? </strong></p>"
+              "question_content_html": "<p><strong>31</strong>   questioning concern raised about the usefulness of investigation on dreams</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -120,7 +120,7 @@
             },
             {
               "question_number": 34,
-              "question_content_html": "<p><strong>34</strong>   What can we conclude when the author cited a reference for dreams in animals?</p>\n<p><strong>A</strong>   Brain temperature rises when REM pattern happens.</p>\n<p><strong>B</strong>   The reason why mammals are warm-blooded</p>\n<p><strong>C</strong>   mammals are bound to appear with more frequent REM.</p>\n<p><strong>D</strong>   REM makes people want to drink beer with more foam.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Are Dreams? </strong></p>"
+              "question_content_html": "<p><strong>34</strong>   What can we conclude when the author cited a reference for dreams in animals?</p>\n<p><strong>A</strong>   Brain temperature rises when REM pattern happens.</p>\n<p><strong>B</strong>   The reason why mammals are warm-blooded</p>\n<p><strong>C</strong>   mammals are bound to appear with more frequent REM.</p>\n<p><strong>D</strong>   REM makes people want to drink beer with more foam.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -151,7 +151,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Dreams seem to be as randomly occurring and have limited research significance.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>What Are Dreams? </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Dreams seem to be as randomly occurring and have limited research significance.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

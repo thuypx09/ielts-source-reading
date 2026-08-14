@@ -48,7 +48,7 @@
             },
             {
               "question_number": 8,
-              "question_content_html": "<p><strong>8</strong>   Stripping the pine cones is an instinct of the black rats.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Learning By Examples </strong></p>"
+              "question_content_html": "<p><strong>8</strong>   Stripping the pine cones is an instinct of the black rats.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -59,7 +59,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>While the Nutcracker is more able to cache seed, the Jay relies <strong>9</strong><input type=\"text\" />.. on</p>\n<p>caching food and is thus less specialized in this ability, but more <strong>10</strong><input type=\"text\" />. To</p>\n<p>study their behavior of caching and finding their caches, an experiment was designed</p>\n<p>and carried out to test these two birds for their ability to remember where they hid the</p>\n<p>seeds.</p>\n<p>In the experiment, the cacher bird hid seeds in the ground while the other</p>\n<p><strong>11</strong><input type=\"text\" />.. As a result, the Nutcracker and the Mexican Jay showed different</p>\n<p>performance in the role of <strong>12</strong><input type=\"text\" />. At finding the seeds--- the observing</p>\n<p><strong>13</strong><input type=\"text\" />. didn&#x27;t do as well as its counterpart.</p>\n<p><strong>A </strong> less</p>\n<p><strong>B</strong>  more</p>\n<p><strong>C</strong>  solitary</p>\n<p><strong>D</strong>  social</p>\n<p>E  cacher</p>\n<p><strong>F </strong> observer</p>\n<p><strong>G </strong> remembered</p>\n<p><strong>H </strong> watched <strong>I </strong> Jay</p>\n<p><strong>J</strong>  Nutcracker</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Learning By Examples </strong></p>"
+              "question_content_html": "<p>While the Nutcracker is more able to cache seed, the Jay relies <strong>9</strong><input type=\"text\" />.. on</p>\n<p>caching food and is thus less specialized in this ability, but more <strong>10</strong><input type=\"text\" />. To</p>\n<p>study their behavior of caching and finding their caches, an experiment was designed</p>\n<p>and carried out to test these two birds for their ability to remember where they hid the</p>\n<p>seeds.</p>\n<p>In the experiment, the cacher bird hid seeds in the ground while the other</p>\n<p><strong>11</strong><input type=\"text\" />.. As a result, the Nutcracker and the Mexican Jay showed different</p>\n<p>performance in the role of <strong>12</strong><input type=\"text\" />. At finding the seeds--- the observing</p>\n<p><strong>13</strong><input type=\"text\" />. didn&#x27;t do as well as its counterpart.</p>\n<p><strong>A </strong> less</p>\n<p><strong>B</strong>  more</p>\n<p><strong>C</strong>  solitary</p>\n<p><strong>D</strong>  social</p>\n<p>E  cacher</p>\n<p><strong>F </strong> observer</p>\n<p><strong>G </strong> remembered</p>\n<p><strong>H </strong> watched <strong>I </strong> Jay</p>\n<p><strong>J</strong>  Nutcracker</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -76,7 +76,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>14</strong><input type=\"text\" /> on its fur coat. Many fossils have been found, showing that thylacines</p>\n<p>had existed as early as <strong>15</strong><input type=\"text\" />. years ago. They lived throughout</p>\n<p><strong>16</strong><input type=\"text\" />. before disappearing from the mainland. And soon after the</p>\n<p><strong>17</strong><input type=\"text\" /> settlers arrived the size of thylacine population in Tasmania shrunk at a</p>\n<p>higher speed.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Tasmanian Tiger </strong></p>"
+              "question_content_html": "<p><strong>14</strong><input type=\"text\" /> on its fur coat. Many fossils have been found, showing that thylacines</p>\n<p>had existed as early as <strong>15</strong><input type=\"text\" />. years ago. They lived throughout</p>\n<p><strong>16</strong><input type=\"text\" />. before disappearing from the mainland. And soon after the</p>\n<p><strong>17</strong><input type=\"text\" /> settlers arrived the size of thylacine population in Tasmania shrunk at a</p>\n<p>higher speed.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -107,7 +107,7 @@
             },
             {
               "question_number": 23,
-              "question_content_html": "<p><strong>23</strong>   The interpretation of evidence can be affected by people’s beliefs.</p>\n<p><strong>List of People </strong></p>\n<p><strong>A</strong>   Hans Naarding</p>\n<p><strong>B</strong>   Randolph Rose</p>\n<p><strong>C</strong>   David Pemberton</p>\n<p><strong>D</strong>   Nick Mooney</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Tasmanian Tiger </strong></p>"
+              "question_content_html": "<p><strong>23</strong>   The interpretation of evidence can be affected by people’s beliefs.</p>\n<p><strong>List of People </strong></p>\n<p><strong>A</strong>   Hans Naarding</p>\n<p><strong>B</strong>   Randolph Rose</p>\n<p><strong>C</strong>   David Pemberton</p>\n<p><strong>D</strong>   Nick Mooney</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -126,7 +126,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Mooney believes that all sighting reports should be</p>\n<p><strong>A</strong>   given some credit as they claim even if they are untrue.</p>\n<p><strong>B</strong>   acted upon immediately.</p>\n<p><strong>C</strong>   viewed as equally untrustworthy.</p>\n<p><strong>D</strong>   questioned and carefully investigated.</p>\n<p>6</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Tasmanian Tiger </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Mooney believes that all sighting reports should be</p>\n<p><strong>A</strong>   given some credit as they claim even if they are untrue.</p>\n<p><strong>B</strong>   acted upon immediately.</p>\n<p><strong>C</strong>   viewed as equally untrustworthy.</p>\n<p><strong>D</strong>   questioned and carefully investigated.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -159,7 +159,7 @@
             },
             {
               "question_number": 31,
-              "question_content_html": "<p><strong>31</strong>   Paragraph <strong>E</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Music: Language We All Speak </strong></p>"
+              "question_content_html": "<p><strong>31</strong>   Paragraph <strong>E</strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -194,7 +194,7 @@
             },
             {
               "question_number": 38,
-              "question_content_html": "<p><strong>38</strong>   Sandra Trehub</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Music: Language We All Speak </strong></p>"
+              "question_content_html": "<p><strong>38</strong>   Sandra Trehub</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -209,7 +209,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   what is the main subject of this passage?</p>\n<p><strong>A</strong>   Language and psychology.</p>\n<p><strong>B</strong>   Music formation.</p>\n<p><strong>C</strong>   Role of music in human society.</p>\n<p><strong>D</strong>   Music experiments for animals.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Music: Language We All Speak </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   what is the main subject of this passage?</p>\n<p><strong>A</strong>   Language and psychology.</p>\n<p><strong>B</strong>   Music formation.</p>\n<p><strong>C</strong>   Role of music in human society.</p>\n<p><strong>D</strong>   Music experiments for animals.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

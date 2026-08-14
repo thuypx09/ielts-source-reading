@@ -29,7 +29,7 @@
             },
             {
               "question_number": 5,
-              "question_content_html": "<p><strong>5</strong>   Paragraph <strong>E</strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Final Frontier for Tourism </strong></p>"
+              "question_content_html": "<p><strong>5</strong>   Paragraph <strong>E</strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -75,7 +75,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   At the moment, space tourism is too expensive for ordinary people, only the very</p>\n<p>rich can travel to space.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Final Frontier for Tourism </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   At the moment, space tourism is too expensive for ordinary people, only the very</p>\n<p>rich can travel to space.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -92,7 +92,7 @@
           "questions": [
             {
               "question_number": 14,
-              "question_content_html": "<p><strong>14</strong>   Animals that live in the Arctic</p>\n<p><strong>A</strong>   can withstand extremely difficult living conditions.</p>\n<p><strong>B</strong>   often freeze solid during winter.</p>\n<p><strong>C</strong>   are mainly reptilian.</p>\n<p><strong>D</strong>   are mostly frogs or toads.</p>\n<p><strong> </strong></p>\n<p>2</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Arctic Survivors </strong></p>"
+              "question_content_html": "<p><strong>14</strong>   Animals that live in the Arctic</p>\n<p><strong>A</strong>   can withstand extremely difficult living conditions.</p>\n<p><strong>B</strong>   often freeze solid during winter.</p>\n<p><strong>C</strong>   are mainly reptilian.</p>\n<p><strong>D</strong>   are mostly frogs or toads.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 15,
@@ -112,7 +112,7 @@
             },
             {
               "question_number": 19,
-              "question_content_html": "<p><strong>19</strong>   What is an endotherm?</p>\n<p><strong>A</strong>   an animal that can generate heat inside its body</p>\n<p><strong>B</strong>   an animal that cannot generate heat inside its body</p>\n<p><strong>C</strong>   an animal that never gets cold</p>\n<p><strong>D</strong>   an animal that has special insulation</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Arctic Survivors </strong></p>"
+              "question_content_html": "<p><strong>19</strong>   What is an endotherm?</p>\n<p><strong>A</strong>   an animal that can generate heat inside its body</p>\n<p><strong>B</strong>   an animal that cannot generate heat inside its body</p>\n<p><strong>C</strong>   an animal that never gets cold</p>\n<p><strong>D</strong>   an animal that has special insulation</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 20,
@@ -127,7 +127,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>show an amazing <strong>21</strong> <input type=\"text\" /> of the severe winter conditions. These animals have</p>\n<p>to use their food resources to keep their body temperature high so that the biochemical</p>\n<p><strong>22</strong> <input type=\"text\" />. inside them continue to run. One thing that helps them keep their</p>\n<p>bodies warm is their <strong>23</strong> <input type=\"text\" />. which consists of thick layers of hair that</p>\n<p>provide insulation for their bodies; it is their life <strong>24</strong> <input type=\"text\" />. The layer of</p>\n<p>trapped air that they also have provides very effective insulation from cold because it is</p>\n<p>not a good <strong>25</strong> <input type=\"text\" />.. of heat. In the case of an Arctic mammal getting cold, it</p>\n<p>deals with it by increasing its <strong>26</strong> <input type=\"text\" />. rate to generate more heat.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Arctic Survivors </strong></p>"
+              "question_content_html": "<p>show an amazing <strong>21</strong> <input type=\"text\" /> of the severe winter conditions. These animals have</p>\n<p>to use their food resources to keep their body temperature high so that the biochemical</p>\n<p><strong>22</strong> <input type=\"text\" />. inside them continue to run. One thing that helps them keep their</p>\n<p>bodies warm is their <strong>23</strong> <input type=\"text\" />. which consists of thick layers of hair that</p>\n<p>provide insulation for their bodies; it is their life <strong>24</strong> <input type=\"text\" />. The layer of</p>\n<p>trapped air that they also have provides very effective insulation from cold because it is</p>\n<p>not a good <strong>25</strong> <input type=\"text\" />.. of heat. In the case of an Arctic mammal getting cold, it</p>\n<p>deals with it by increasing its <strong>26</strong> <input type=\"text\" />. rate to generate more heat.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -152,7 +152,7 @@
             },
             {
               "question_number": 29,
-              "question_content_html": "<p><strong>29</strong>   What had happened to the Socialist party by 1890?</p>\n<p><strong>A</strong>   It had taken power from Bismarck.</p>\n<p><strong>B</strong>   It had lost its influence.</p>\n<p><strong>C</strong>   Its popularity had risen three-fold.</p>\n<p><strong>D</strong>   It became very powerful in parliament.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>3</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
+              "question_content_html": "<p><strong>29</strong>   What had happened to the Socialist party by 1890?</p>\n<p><strong>A</strong>   It had taken power from Bismarck.</p>\n<p><strong>B</strong>   It had lost its influence.</p>\n<p><strong>C</strong>   Its popularity had risen three-fold.</p>\n<p><strong>D</strong>   It became very powerful in parliament.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
             },
             {
               "question_number": 30,
@@ -179,7 +179,7 @@
             },
             {
               "question_number": 34,
-              "question_content_html": "<p><strong>34</strong>   Bismarck considered his reign as German chancellor a failure.</p>\n<p>4</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
+              "question_content_html": "<p><strong>34</strong>   Bismarck considered his reign as German chancellor a failure.</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
             }
           ]
         },
@@ -210,7 +210,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   Paragraph <strong>F </strong></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>A critical analysis</p>\n<p><strong>ii</strong></p>\n<p>Early career and rise to power</p>\n<p><strong>iii</strong></p>\n<p>Foreign policy</p>\n<p><strong>iv</strong></p>\n<p>Powerful friends</p>\n<p><strong>v</strong></p>\n<p>Separating church and state</p>\n<p><strong>vi</strong></p>\n<p>Socialist threat</p>\n<p><strong>vii</strong></p>\n<p>Political decline</p>\n<p><strong>viii</strong></p>\n<p>Creating a virtual dictatorship</p>\n<p><strong>ix</strong></p>\n<p>A change of mind</p>\n<p>5</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   Paragraph <strong>F </strong></p>\n<p><strong>List of Headings </strong></p>\n<p><strong>i</strong></p>\n<p>A critical analysis</p>\n<p><strong>ii</strong></p>\n<p>Early career and rise to power</p>\n<p><strong>iii</strong></p>\n<p>Foreign policy</p>\n<p><strong>iv</strong></p>\n<p>Powerful friends</p>\n<p><strong>v</strong></p>\n<p>Separating church and state</p>\n<p><strong>vi</strong></p>\n<p>Socialist threat</p>\n<p><strong>vii</strong></p>\n<p>Political decline</p>\n<p><strong>viii</strong></p>\n<p>Creating a virtual dictatorship</p>\n<p><strong>ix</strong></p>\n<p>A change of mind</p>\n<p><strong>Passage 3                                                                   Bismarck: A Master of Political and Diplomatic Juggling? </strong></p>"
             }
           ]
         }

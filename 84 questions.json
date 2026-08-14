@@ -41,7 +41,7 @@
             },
             {
               "question_number": 8,
-              "question_content_html": "<p><strong>8</strong>   Climate change rather than prehistoric human activities resulted in megafauna’s</p>\n<p>extinction.</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mungo Man </strong></p>"
+              "question_content_html": "<p><strong>8</strong>   Climate change rather than prehistoric human activities resulted in megafauna’s</p>\n<p>extinction.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "question_number": 14,
-              "question_content_html": "<p><strong>14</strong>   Out of Africa supporters have criticised Australian professors for using an outmoded</p>\n<p>research method</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Mungo Man </strong></p>"
+              "question_content_html": "<p><strong>14</strong>   Out of Africa supporters have criticised Australian professors for using an outmoded</p>\n<p>research method</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -169,7 +169,7 @@
             },
             {
               "question_number": 31,
-              "question_content_html": "<p><strong>31</strong>   participate in the questionnaire of the author</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision making and Happiness </strong></p>"
+              "question_content_html": "<p><strong>31</strong>   participate in the questionnaire of the author</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -207,7 +207,7 @@
           "questions": [
             {
               "question_number": 37,
-              "question_content_html": "<p><strong>37</strong>   What is the subject of this passage?</p>\n<p><strong>A</strong>   regret makes people less happy</p>\n<p><strong>B</strong>   choices and Well-being</p>\n<p><strong>C</strong>   an interesting phenomenon</p>\n<p><strong>D</strong>   advices on shopping</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision making and Happiness </strong></p>"
+              "question_content_html": "<p><strong>37</strong>   What is the subject of this passage?</p>\n<p><strong>A</strong>   regret makes people less happy</p>\n<p><strong>B</strong>   choices and Well-being</p>\n<p><strong>C</strong>   an interesting phenomenon</p>\n<p><strong>D</strong>   advices on shopping</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 38,
@@ -219,7 +219,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   What is the author’s suggestion on how to increase happiness:</p>\n<p><strong>A</strong>   focus on the final decision</p>\n<p><strong>B</strong>   be sensitive and smart</p>\n<p><strong>C</strong>   reduce the choice or option</p>\n<p><strong>D</strong>   read the label carefully</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Decision making and Happiness </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   What is the author’s suggestion on how to increase happiness:</p>\n<p><strong>A</strong>   focus on the final decision</p>\n<p><strong>B</strong>   be sensitive and smart</p>\n<p><strong>C</strong>   reduce the choice or option</p>\n<p><strong>D</strong>   read the label carefully</p>\n<p><strong> </strong></p>"
             }
           ]
         }

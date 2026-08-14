@@ -37,7 +37,7 @@
             },
             {
               "question_number": 7,
-              "question_content_html": "<p><strong>7</strong>   Paragraph <strong>G </strong></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>GRAFFITI </strong></p>"
+              "question_content_html": "<p><strong>7</strong>   Paragraph <strong>G </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -67,7 +67,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>11</strong>   Graffiti is flourishing in the 21st century as people from all backgrounds have begun</p>\n<p>to <input type=\"text\" />.</p>\n<p><strong>12</strong>   As graffiti has developed, it has come to <input type=\"text\" />.</p>\n<p><strong>13</strong>   Graffiti artists used many ingenious methods to <input type=\"text\" />..</p>\n<p><strong>A</strong>     use it as a means of expression of rebellion against law enforcement.</p>\n<p><strong>B</strong>     become increasingly more difficult to succeed in the art world.</p>\n<p><strong>C</strong>     transcend race, status and gender.</p>\n<p><strong>D</strong>     realise that inner-urban areas where poverty is the norm are decreasing.</p>\n<p><strong>E</strong>     conceal their intentions from law enforcement officers.</p>\n<p><strong>F</strong>     embrace it as a means of expression.</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>GRAFFITI </strong></p>"
+              "question_content_html": "<p><strong>11</strong>   Graffiti is flourishing in the 21st century as people from all backgrounds have begun</p>\n<p>to <input type=\"text\" />.</p>\n<p><strong>12</strong>   As graffiti has developed, it has come to <input type=\"text\" />.</p>\n<p><strong>13</strong>   Graffiti artists used many ingenious methods to <input type=\"text\" />..</p>\n<p><strong>A</strong>     use it as a means of expression of rebellion against law enforcement.</p>\n<p><strong>B</strong>     become increasingly more difficult to succeed in the art world.</p>\n<p><strong>C</strong>     transcend race, status and gender.</p>\n<p><strong>D</strong>     realise that inner-urban areas where poverty is the norm are decreasing.</p>\n<p><strong>E</strong>     conceal their intentions from law enforcement officers.</p>\n<p><strong>F</strong>     embrace it as a means of expression.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -115,7 +115,7 @@
             },
             {
               "question_number": 20,
-              "question_content_html": "<p><strong>20</strong>   Instructional designers advise faculty on the</p>\n<p><strong>A</strong>   course content.</p>\n<p><strong>B</strong>   support services for students.</p>\n<p><strong>C</strong>   suitability of library material.</p>\n<p><strong>D</strong>   visual display of coursework.</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>DISTANCE LEARNING </strong></p>"
+              "question_content_html": "<p><strong>20</strong>   Instructional designers advise faculty on the</p>\n<p><strong>A</strong>   course content.</p>\n<p><strong>B</strong>   support services for students.</p>\n<p><strong>C</strong>   suitability of library material.</p>\n<p><strong>D</strong>   visual display of coursework.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 21,
@@ -146,7 +146,7 @@
             },
             {
               "question_number": 26,
-              "question_content_html": "<p><strong>26</strong>   Instructional designers receive very high salaries.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>DISTANCE LEARNING </strong></p>"
+              "question_content_html": "<p><strong>26</strong>   Instructional designers receive very high salaries.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -158,7 +158,7 @@
       "question_groups": [
         {
           "group_id": "Questions 27-29",
-          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-H</strong></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order</em></p>\n<p>Which <strong>THREE</strong> of the following statements are mentioned in the text?</p>\n<p><strong>A</strong>   Youth crime is no longer attributable to the economic background.</p>\n<p><strong>B</strong>   The greatest cause for concern is the children whose parents work the night</p>\n<p>shift.</p>\n<p><strong>C</strong>   Latchkey children whose parents have alcohol-abuse problems are more likely</p>\n<p>to drink alcohol when unsupervised at home.</p>\n<p><strong>D</strong>   The safer the neighbourhood, the lower the crime rate amongst adolescents.</p>\n<p><strong>E </strong>  Because of financial considerations, children from middle-class or upper-class</p>\n<p>backgrounds have more access to community activities.</p>\n<p><strong>F</strong>   Latchkey children are not only drawn to crime; they are victims of crime, too.</p>\n<p><strong>G</strong>   Expense should not be a factor in allowing children to get involved in out-of-</p>\n<p>school activities.</p>\n<p><strong>H</strong>   Knowing how to say no to one’s peers is a sign of an adolescent’s maturity.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>LATCHKEY CHILDREN </strong></p>",
+          "group_instruction_html": "<p>Choose <strong>THREE</strong> letters <strong>A-H</strong></p>\n<p><strong>NB</strong>  <em>Your answers may be given in any order</em></p>\n<p>Which <strong>THREE</strong> of the following statements are mentioned in the text?</p>\n<p><strong>A</strong>   Youth crime is no longer attributable to the economic background.</p>\n<p><strong>B</strong>   The greatest cause for concern is the children whose parents work the night</p>\n<p>shift.</p>\n<p><strong>C</strong>   Latchkey children whose parents have alcohol-abuse problems are more likely</p>\n<p>to drink alcohol when unsupervised at home.</p>\n<p><strong>D</strong>   The safer the neighbourhood, the lower the crime rate amongst adolescents.</p>\n<p><strong>E </strong>  Because of financial considerations, children from middle-class or upper-class</p>\n<p>backgrounds have more access to community activities.</p>\n<p><strong>F</strong>   Latchkey children are not only drawn to crime; they are victims of crime, too.</p>\n<p><strong>G</strong>   Expense should not be a factor in allowing children to get involved in out-of-</p>\n<p>school activities.</p>\n<p><strong>H</strong>   Knowing how to say no to one’s peers is a sign of an adolescent’s maturity.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": []
         },
@@ -196,7 +196,7 @@
             },
             {
               "question_number": 35,
-              "question_content_html": "<p><strong>35</strong>   Good communication skills are a measure of a child’s ability to be left unsupervised.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>LATCHKEY CHILDREN </strong></p>"
+              "question_content_html": "<p><strong>35</strong>   Good communication skills are a measure of a child’s ability to be left unsupervised.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -207,7 +207,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>had to abandon their traditional duties and fill the places of men in <strong>36</strong> <input type=\"text\" />.</p>\n<p>Fortunately, there was a quick <strong>37</strong><input type=\"text\" />.. to this by the authorities to help</p>\n<p>mothers so that their children would not be left at home unsupervised. However, now,</p>\n<p>so many years after the war, this type of support has disappeared and the problem of</p>\n<p>having children alone at home without <strong>38</strong> <input type=\"text\" /> is very common. These</p>\n<p>children generally perform poorly at school, display <strong>39</strong> <input type=\"text\" /> behaviour and</p>\n<p>may take up smoking and drinking alcohol. While <strong>40</strong> <input type=\"text\" />.. and level of</p>\n<p>maturity plays a part in how a child copes with being a latchkey child, experts say that</p>\n<p>the remedy for this situation is more parental involvement and interest in their</p>\n<p>children’s lives.</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>LATCHKEY CHILDREN </strong></p>"
+              "question_content_html": "<p>had to abandon their traditional duties and fill the places of men in <strong>36</strong> <input type=\"text\" />.</p>\n<p>Fortunately, there was a quick <strong>37</strong><input type=\"text\" />.. to this by the authorities to help</p>\n<p>mothers so that their children would not be left at home unsupervised. However, now,</p>\n<p>so many years after the war, this type of support has disappeared and the problem of</p>\n<p>having children alone at home without <strong>38</strong> <input type=\"text\" /> is very common. These</p>\n<p>children generally perform poorly at school, display <strong>39</strong> <input type=\"text\" /> behaviour and</p>\n<p>may take up smoking and drinking alcohol. While <strong>40</strong> <input type=\"text\" />.. and level of</p>\n<p>maturity plays a part in how a child copes with being a latchkey child, experts say that</p>\n<p>the remedy for this situation is more parental involvement and interest in their</p>\n<p>children’s lives.</p>\n<p><strong> </strong></p>"
             }
           ]
         }

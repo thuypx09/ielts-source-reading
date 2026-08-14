@@ -33,7 +33,7 @@
             },
             {
               "question_number": 6,
-              "question_content_html": "<p><strong>6 </strong>   The convicts had a good knowledge of Australian geography.</p>\n<p>3</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Extraordinary Watkin Tench </strong></p>"
+              "question_content_html": "<p><strong>6 </strong>   The convicts had a good knowledge of Australian geography.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "question_number": 13,
-              "question_content_html": "<p><strong>13</strong>   In which place did Tench feel unaccustomed?</p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>The Extraordinary Watkin Tench </strong></p>"
+              "question_content_html": "<p><strong>13</strong>   In which place did Tench feel unaccustomed?</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -111,7 +111,7 @@
         },
         {
           "group_id": "Questions 20-21",
-          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p>Write the correct letters in boxes <strong>20-21</strong> on your answer sheet.</p>\n<p>Which <strong>TWO</strong> of the following statements about people suffering from confabulation are</p>\n<p>true?</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Are Artists Liars? </strong></p>\n<p><strong>A</strong>   They have lost cognitive abilities.</p>\n<p><strong>B</strong>   They do not deliberately tell a lie.</p>\n<p><strong>C </strong>  They are normally aware of their condition</p>\n<p><strong>D </strong>  They do not have the impetus to explain what they do not understand.</p>\n<p><strong>E </strong>  They try to make up stories.</p>",
+          "group_instruction_html": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p>\n<p>Write the correct letters in boxes <strong>20-21</strong> on your answer sheet.</p>\n<p>Which <strong>TWO</strong> of the following statements about people suffering from confabulation are</p>\n<p>true?</p>\n<p><strong> </strong></p>\n<p><strong>A</strong>   They have lost cognitive abilities.</p>\n<p><strong>B</strong>   They do not deliberately tell a lie.</p>\n<p><strong>C </strong>  They are normally aware of their condition</p>\n<p><strong>D </strong>  They do not have the impetus to explain what they do not understand.</p>\n<p><strong>E </strong>  They try to make up stories.</p>",
           "group_type": "default",
           "questions": []
         },
@@ -128,7 +128,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p>A <strong>24</strong><input type=\"text\" />. accused Jonathan Aitken, a former cabinet minister, who was selling</p>\n<p>and buying with <strong>25</strong><input type=\"text\" />... Aitken’s case collapsed in June 1997, when the</p>\n<p>defence finally found indisputable evidence about his Paris trip. He was deemed to have</p>\n<p>his <strong>26</strong><input type=\"text\" />. They revealed that not only was Aitken’s daughter not with him</p>\n<p>that day, but also that the minister had simply got into his car and drove off, with no</p>\n<p>vehicle in pursuit.</p>\n<p>5</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Are Artists Liars? </strong></p>"
+              "question_content_html": "<p>A <strong>24</strong><input type=\"text\" />. accused Jonathan Aitken, a former cabinet minister, who was selling</p>\n<p>and buying with <strong>25</strong><input type=\"text\" />... Aitken’s case collapsed in June 1997, when the</p>\n<p>defence finally found indisputable evidence about his Paris trip. He was deemed to have</p>\n<p>his <strong>26</strong><input type=\"text\" />. They revealed that not only was Aitken’s daughter not with him</p>\n<p>that day, but also that the minister had simply got into his car and drove off, with no</p>\n<p>vehicle in pursuit.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -149,7 +149,7 @@
             },
             {
               "question_number": 28,
-              "question_content_html": "<p><strong>28</strong>   Why does AACSB put forward the recommendation?</p>\n<p><strong>A </strong>  to give full play to the faculties’ advantage.</p>\n<p><strong>B</strong>   to reinforce the play to the pyramid structure of universities.</p>\n<p><strong>C</strong>   to push professors to publish competitive papers.</p>\n<p><strong>D</strong>   to reduce costs of research in universities.</p>\n<p>3</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Theory or Practice? </strong></p>"
+              "question_content_html": "<p><strong>28</strong>   Why does AACSB put forward the recommendation?</p>\n<p><strong>A </strong>  to give full play to the faculties’ advantage.</p>\n<p><strong>B</strong>   to reinforce the play to the pyramid structure of universities.</p>\n<p><strong>C</strong>   to push professors to publish competitive papers.</p>\n<p><strong>D</strong>   to reduce costs of research in universities.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 29,
@@ -178,7 +178,7 @@
             },
             {
               "question_number": 34,
-              "question_content_html": "<p><strong>34</strong>    Business schools in the US spend more than 320 million dollars yearly on research.</p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Theory or Practice? </strong></p>"
+              "question_content_html": "<p><strong>34</strong>    Business schools in the US spend more than 320 million dollars yearly on research.</p>\n<p><strong> </strong></p>"
             },
             {
               "question_number": 35,
@@ -209,7 +209,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>    Universities resisting the AACSB should change because</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Theory or Practice? </strong></p>"
+              "question_content_html": "<p><strong>40</strong>    Universities resisting the AACSB should change because</p>\n<p><strong> </strong></p>"
             }
           ]
         }

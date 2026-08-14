@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-5",
-          "group_instruction_html": "<p>Look at the following events (Questions <strong>1-5</strong>) and the list of dates below.</p>\n<p>Match each event with the correct date, <strong>A-F</strong>.</p>\n<p><strong>List of Dates </strong></p>\n<p><strong>A</strong></p>\n<p>1550</p>\n<p><strong>B</strong></p>\n<p>1799</p>\n<p><strong>C</strong></p>\n<p>1803</p>\n<p><strong>D</strong></p>\n<p>1840</p>\n<p><strong>E</strong></p>\n<p>1949</p>\n<p><strong>F</strong></p>\n<p>1973</p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em>, in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
+          "group_instruction_html": "<p>Look at the following events (Questions <strong>1-5</strong>) and the list of dates below.</p>\n<p>Match each event with the correct date, <strong>A-F</strong>.</p>\n<p><strong>List of Dates </strong></p>\n<p><strong>A</strong></p>\n<p><strong>B</strong></p>\n<p><strong>C</strong></p>\n<p><strong>D</strong></p>\n<p><strong>E</strong></p>\n<p><strong>F</strong></p>\n<p><em>Write the correct letter, </em><em><strong>A-F</strong></em><em>, in boxes </em><em><strong>1-5</strong></em><em> on your answer sheet. </em></p>\n<p><strong> </strong></p>",
           "group_type": "default",
           "questions": [
             {
@@ -29,7 +29,7 @@
             },
             {
               "question_number": 5,
-              "question_content_html": "<p><strong>5  </strong> Some chemicals were added to refrigerate wine.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>4</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>History of Refrigeration </strong></p>"
+              "question_content_html": "<p><strong>5  </strong> Some chemicals were added to refrigerate wine.</p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "question_number": 10,
-              "question_content_html": "<p><strong>10</strong>   created a new technique to liquefy the air</p>\n<p>5</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>History of Refrigeration </strong></p>"
+              "question_content_html": "<p><strong>10</strong>   created a new technique to liquefy the air</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -79,7 +79,7 @@
             },
             {
               "question_number": 14,
-              "question_content_html": "<p><strong>14</strong>   The risk of the environmental devastation from the refrigeration led to</p>\n<p><strong>A</strong></p>\n<p>new developments, such as the application of Hydrofluorocarbons.</p>\n<p><strong>B</strong></p>\n<p>consumers ’ demand for fresh food, especially for vegetables.</p>\n<p><strong>C</strong></p>\n<p>the discovery of chlorofluorocarbons (Freon).</p>\n<p><strong>D</strong></p>\n<p>regional transportation system for refrigeration for a long distance.</p>\n<p><strong>E</strong></p>\n<p>extensive spread of the refrigeration method.</p>\n<p>6</p>\n<p><strong>Passage 1 </strong></p>\n<p><strong> </strong></p>\n<p><strong>History of Refrigeration </strong></p>"
+              "question_content_html": "<p><strong>14</strong>   The risk of the environmental devastation from the refrigeration led to</p>\n<p><strong>A</strong></p>\n<p>new developments, such as the application of Hydrofluorocarbons.</p>\n<p><strong>B</strong></p>\n<p>consumers ’ demand for fresh food, especially for vegetables.</p>\n<p><strong>C</strong></p>\n<p>the discovery of chlorofluorocarbons (Freon).</p>\n<p><strong>D</strong></p>\n<p>regional transportation system for refrigeration for a long distance.</p>\n<p><strong>E</strong></p>\n<p>extensive spread of the refrigeration method.</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -127,7 +127,7 @@
             },
             {
               "question_number": 21,
-              "question_content_html": "<p><strong>21</strong>   How old were the bigger tightly bundled burials having been identified estimated to</p>\n<p>be?</p>\n<p>3</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient People in Sahara </strong></p>"
+              "question_content_html": "<p><strong>21</strong>   How old were the bigger tightly bundled burials having been identified estimated to</p>\n<p>be?</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -138,7 +138,7 @@
           "questions": [
             {
               "question_number": 0,
-              "question_content_html": "<p><strong>22</strong><input type=\"text\" /> on their heads and forearms.</p>\n<p>—Their lifestyle was <strong>23</strong><input type=\"text\" /></p>\n<p>—Through the observation on the huge leg muscles, it could be inferred that their diet</p>\n<p>had plenty of <strong>24</strong><input type=\"text\" /></p>\n<p><strong>the Tenerian </strong></p>\n<p>—Stojanowski presumed that the Tenerian preferred herding to <strong>25</strong><input type=\"text\" />..</p>\n<p>—But only the bones of individual animals such as <strong>26</strong><input type=\"text\" /> were found.</p>\n<p>—Sereno supposed the Tenerian in Gobero lived in a <strong>27</strong><input type=\"text\" />.. group at that</p>\n<p>time</p>\n<p>4</p>\n<p><strong>Passage 2 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Ancient People in Sahara </strong></p>"
+              "question_content_html": "<p><strong>22</strong><input type=\"text\" /> on their heads and forearms.</p>\n<p>—Their lifestyle was <strong>23</strong><input type=\"text\" /></p>\n<p>—Through the observation on the huge leg muscles, it could be inferred that their diet</p>\n<p>had plenty of <strong>24</strong><input type=\"text\" /></p>\n<p><strong>the Tenerian </strong></p>\n<p>—Stojanowski presumed that the Tenerian preferred herding to <strong>25</strong><input type=\"text\" />..</p>\n<p>—But only the bones of individual animals such as <strong>26</strong><input type=\"text\" /> were found.</p>\n<p>—Sereno supposed the Tenerian in Gobero lived in a <strong>27</strong><input type=\"text\" />.. group at that</p>\n<p>time</p>\n<p><strong> </strong></p>"
             }
           ]
         }
@@ -171,7 +171,7 @@
             },
             {
               "question_number": 32,
-              "question_content_html": "<p><strong>32</strong>   Section <strong>G</strong></p>\n<p>4</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Texting the Television </strong></p>"
+              "question_content_html": "<p><strong>32</strong>   Section <strong>G</strong></p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -190,7 +190,7 @@
             },
             {
               "question_number": 35,
-              "question_content_html": "<p><strong>35</strong>   Interactive TV will change from concentrating on set-top devices to</p>\n<p><strong>A</strong>   increasing their share in the market.</p>\n<p><strong>B </strong>  setting up a modified set-top box.</p>\n<p><strong>C</strong>   building an embedded message platform.</p>\n<p><strong>D </strong>  marching into the European market.</p>\n<p>5</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Texting the Television </strong></p>"
+              "question_content_html": "<p><strong>35</strong>   Interactive TV will change from concentrating on set-top devices to</p>\n<p><strong>A</strong>   increasing their share in the market.</p>\n<p><strong>B </strong>  setting up a modified set-top box.</p>\n<p><strong>C</strong>   building an embedded message platform.</p>\n<p><strong>D </strong>  marching into the European market.</p>\n<p><strong> </strong></p>"
             }
           ]
         },
@@ -217,7 +217,7 @@
             },
             {
               "question_number": 40,
-              "question_content_html": "<p><strong>40</strong>   indicated that it is easy for people to send message in an interactive TV</p>\n<p>6</p>\n<p><strong>Passage 3 </strong></p>\n<p><strong> </strong></p>\n<p><strong>Texting the Television </strong></p>"
+              "question_content_html": "<p><strong>40</strong>   indicated that it is easy for people to send message in an interactive TV</p>\n<p><strong> </strong></p>"
             }
           ]
         }
