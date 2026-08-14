@@ -62,6 +62,8 @@ h1 { max-width: 720px; margin: 10px 0 14px; font-size: clamp(38px, 6vw, 72px); l
 .progress-label { color: var(--muted); font-family: "DM Mono", monospace; font-size: 11px; white-space: nowrap; }
 .detail-layout { max-width: 900px; margin: 0 auto; }
 .back-link { margin-bottom: 35px; padding: 0; border: 0; background: transparent; color: var(--green-deep); font-weight: 700; }
+.result-actions { display: flex; align-items: center; gap: 14px; }
+.result-actions .back-link { margin-bottom: 35px; }
 .detail-panel { padding: 34px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); box-shadow: var(--shadow); }
 .detail-panel h1 { margin-top: 8px; font-size: clamp(38px, 6vw, 64px); }
 .detail-meta { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; margin: 30px 0; border: 1px solid var(--line); background: var(--line); }
