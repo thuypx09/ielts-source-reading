@@ -130,7 +130,7 @@
         },
         {
           "group_id": "Questions 23-27",
-          "group_instruction_html": "<p><em>Do the following statements agree with the claims of the writer in Reading Passage 2? </em></p>\n<p><em>In boxes 23-27 on your answer sheet, write:</em></p>\n<p><strong>YES</strong></p>\n<p><em>if the statement agrees with the claims of the writer</em></p>\n<p><strong>NO</strong></p>\n<p><em>if the statement contradicts the claims of the writer</em></p>\n<p><strong>NOT GIVEN</strong> <em>if it is impossible to say what the writer thinks about this</em></p>",
+          "group_instruction_html": "<p><em>Do the following statements agree with the claims of the writer in Reading Passage 2? </em></p>\n<p><em>In boxes 23-27 on your answer sheet, write:</em></p>\n<p><strong>YES</strong> <em>if the statement agrees with the claims of the writer</em></p>\n<p><strong>NO</strong> <em>if the statement contradicts the claims of the writer</em></p>\n<p><strong>NOT GIVEN</strong> <em>if it is impossible to say what the writer thinks about this</em></p>",
           "group_type": "YNNG",
           "questions": [
             {
@@ -163,7 +163,7 @@
       "question_groups": [
         {
           "group_id": "Questions 28-32",
-          "group_instruction_html": "<p>Do the following statements agree with the information in the text on the following</p>\n<p>page?</p>\n<p><em>In boxes </em><em><strong>28-32</strong></em><em> on your answer sheet, write: </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>\n<p><strong> </strong></p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information in the text on the following</p>\n<p>page?</p>\n<p><em>In boxes </em><em><strong>28-32</strong></em><em> on your answer sheet, write: </em></p>\n<p><strong>TRUE</strong> if the statement agrees with the information</p>\n<p><strong>FALSE</strong> if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>\n<p><strong> </strong></p>",
           "group_type": "TFNG",
           "questions": [
             {

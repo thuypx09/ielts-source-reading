@@ -8,7 +8,7 @@
       "question_groups": [
         {
           "group_id": "Questions 1-5",
-          "group_instruction_html": "<p>Do the following statements agree with the views of the writer in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-5</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>",
+          "group_instruction_html": "<p>Do the following statements agree with the views of the writer in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>1-5</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong> if the statement is true</p>\n<p><strong>FALSE</strong> if the statement is false</p>\n<p><strong>NOT</strong> <strong>GIVEN</strong> if the information is not given in the passage</p>",
           "group_type": "TFNG",
           "questions": [
             {

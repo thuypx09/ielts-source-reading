@@ -19,7 +19,7 @@
         },
         {
           "group_id": "Questions 6-9",
-          "group_instruction_html": "<p>What are the following statements according to information in the passage?</p>\n<p><em>In boxes </em><em><strong>6-9</strong></em><em> on your answer sheet, write: </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong>  if there is no information on this</p>",
+          "group_instruction_html": "<p>What are the following statements according to information in the passage?</p>\n<p><em>In boxes </em><em><strong>6-9</strong></em><em> on your answer sheet, write: </em></p>\n<p><strong>TRUE</strong> if the statement agrees with the information</p>\n<p><strong>FALSE</strong> if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong>  if there is no information on this</p>",
           "group_type": "TFNG",
           "questions": [
             {

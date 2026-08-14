@@ -39,7 +39,7 @@
         },
         {
           "group_id": "Questions 20-26",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>20-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>20-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong> if the statement is true</p>\n<p><strong>FALSE</strong> if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
           "group_type": "TFNG",
           "questions": [
             {

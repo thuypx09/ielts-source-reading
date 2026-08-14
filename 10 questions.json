@@ -35,7 +35,7 @@
         },
         {
           "group_id": "Questions 6-11",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p>In boxes <strong>6-11</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p>In boxes <strong>6-11</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong> if the statement is true</p>\n<p><strong>FALSE</strong> if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
           "group_type": "TFNG",
           "questions": [
             {
@@ -87,7 +87,7 @@
       "question_groups": [
         {
           "group_id": "Questions 14-19",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p>In boxes <strong>14-19</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong></p>\n<p>if the statement is true</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p>In boxes <strong>14-19</strong> on your answer sheet, write</p>\n<p><strong>TRUE</strong> if the statement is true</p>\n<p><strong>FALSE</strong> if the statement is false</p>\n<p><strong>NOT GIVEN</strong> if the information is not given in the passage</p>",
           "group_type": "TFNG",
           "questions": [
             {

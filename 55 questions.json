@@ -19,7 +19,7 @@
         },
         {
           "group_id": "Questions 5-9",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>5-9</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the writer’s claims</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the writer’s claims</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>\n<p><em>In boxes </em><em><strong>5-9</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong> if the statement agrees with the writer’s claims</p>\n<p><strong>FALSE</strong> if the statement contradicts the writer’s claims</p>\n<p><strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this</p>",
           "group_type": "TFNG",
           "questions": [
             {
@@ -97,7 +97,7 @@
         },
         {
           "group_id": "Questions 24-26",
-          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>24-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong></p>\n<p>if the statement agrees with the information</p>\n<p><strong>FALSE</strong></p>\n<p>if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong></p>\n<p>if there is no information on this</p>",
+          "group_instruction_html": "<p>Do the following statements agree with the information given in Reading Passage 2?</p>\n<p><em>In boxes </em><em><strong>24-26</strong></em><em> on your answer sheet, write </em></p>\n<p><strong>TRUE</strong> if the statement agrees with the information</p>\n<p><strong>FALSE</strong> if the statement contradicts the information</p>\n<p><strong>NOT GIVEN</strong> if there is no information on this</p>",
           "group_type": "TFNG",
           "questions": [
             {
