@@ -112,7 +112,7 @@ h1 { max-width: 720px; margin: 10px 0 14px; font-size: clamp(38px, 6vw, 72px); l
 .instruction p { margin: 7px 0; }
 .question { margin: 12px 0; padding: 16px; border: 1px solid var(--line); border-radius: 7px; background: rgba(244,241,233,.48); }
 .question-head { align-items: flex-start; }
-.question-copy { flex: 1; color: #202d28; font-size: 15px; line-height: 1.65; }
+.question-copy { flex: 1; color: #18201f; font-size: 15px; line-height: 1.65; }
 .question-copy p { margin: 0; }
 .question-copy input { display: none; }
 .question-copy .inline-answer { display: inline-block; }
@@ -149,7 +149,7 @@ h1 { max-width: 720px; margin: 10px 0 14px; font-size: clamp(38px, 6vw, 72px); l
 .comparison-head, .comparison-row { display: grid; grid-template-columns: 80px 1fr 1fr 100px; gap: 12px; align-items: center; }
 .comparison-head { margin-top: 16px; padding: 10px 12px; color: #34423c; background: var(--paper-deep); font-size: 12px; font-weight: 800; }
 .comparison-list { max-height: 520px; overflow-y: auto; }
-.comparison-row { padding: 10px 12px; border-bottom: 1px solid var(--line); color: #202d28; font-size: 14px; }
+.comparison-row { padding: 10px 12px; border-bottom: 1px solid var(--line); color: #18201f; font-size: 14px; }
 .comparison-row.correct strong { color: var(--green-deep); }
 .comparison-row.incorrect strong { color: #a44538; }
 .comparison-row.unanswered strong { color: #8a691c; }
